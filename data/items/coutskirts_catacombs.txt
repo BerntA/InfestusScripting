@@ -1,0 +1,78 @@
+"Items"
+{
+    "64"
+    {
+		"Name" "#INF_ITEM_64_TEXT"
+		"IconTexture" "icons/items/misc/bone"
+		"ItemInfo1" "17"
+		"Type" "2"
+		"SubType" "1"
+		"Rarity" "1"
+    }
+    "69"
+    {
+		"Name" "#INF_ITEM_69_TEXT"
+		"IconTexture" "icons/items/misc/necronomicon"
+		"ItemInfo1" "16"
+		"Type" "2"
+		"SubType" "0"
+		"Rarity" "1"
+		"ModelData"
+		{
+			"Model" "models/necronomicon/necronomicon_open.mdl"
+		}
+		"MiscData"
+		{
+			"ConsumeValue" "4"
+		}
+    }
+    "70"
+    {
+		"Name" "#INF_ITEM_70_TEXT"
+		"Description" "#INF_ITEM_70_DESC"
+		"IconTexture" "icons/items/misc/vial04"
+		"ItemInfo1" "17"
+		"Type" "2"
+		"SubType" "1"
+		"Rarity" "2"
+    }
+    "71"
+    {
+		"Name" "#INF_ITEM_71_TEXT"
+		"Description" "#INF_ITEM_71_DESC"
+		"IconTexture" "icons/items/misc/key01"
+		"ItemInfo1" "17"
+		"Type" "2"
+		"SubType" "2"
+		"Rarity" "2"
+		"IsUnique" "1"
+		"MiscData"
+		{
+			"CanTrade" "1"
+		}
+    }
+    "73"
+    {
+		"Name" "#INF_ITEM_73_TEXT"
+		"IconTexture" "icons/items/misc/skull"
+		"ItemInfo1" "20"
+		"Type" "2"
+		"SubType" "2"
+		"MiscData"
+		{
+			"SellValue" "5"
+			"CanTrade" "1"
+		}
+    }
+    "74"
+    {
+		"Name" "#INF_ITEM_74_TEXT"
+		"Description" "#INF_ITEM_74_DESC"
+		"IconTexture" "icons/items/misc/token01"
+		"ItemInfo1" "17"
+		"Type" "2"
+		"SubType" "2"
+		"Rarity" "4"
+		"IsUnique" "1"
+    }
+}

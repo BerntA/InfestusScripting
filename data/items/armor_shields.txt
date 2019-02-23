@@ -1,0 +1,250 @@
+"Items"
+{
+    "40"
+    {
+		"Name" "#INF_ITEM_40_TEXT"
+		"Description" "#INF_ITEM_40_DESC"
+		"IconTexture" "icons/items/weapon/shield01"
+		"ItemInfo1" "19"
+		"ItemInfo2" "11"
+		"ItemLevel" "75"
+		"Type" "0"
+		"SubType" "10"
+		"Rarity" "2"
+		"Level" "8"
+		"IsUnique" "1"
+		"StatData"
+		{
+			"Armor" "70"
+			"Stamina" "11"
+			"Strength" "4"
+			"Intellect" "-2"
+		}
+		"EquipData"
+		{
+			"RangeMax" "80"
+		}
+		"ModelData"
+		{
+			"Model" "models/items/shields/shield01.mdl"
+		}
+		"MiscData"
+		{
+			"SellValue" "110"
+			"ItemFlags" "2"
+		}
+    }
+    "57"
+    {
+		"Name" "#INF_ITEM_57_TEXT"
+		"IconTexture" "icons/items/weapon/shield04_01"
+		"ItemInfo1" "19"
+		"ItemInfo2" "11"
+		"ItemLevel" "15"
+		"Type" "0"
+		"SubType" "10"
+		"Rarity" "1"
+		"Level" "1"
+		"IsUnique" "1"
+		"StatData"
+		{
+			"Armor" "28"
+			"Stamina" "3"
+			"Strength" "1"
+		}
+		"EquipData"
+		{
+			"RangeMax" "80"
+		}
+		"ModelData"
+		{
+			"Model" "models/items/shields/shield04.mdl"
+		}
+		"MiscData"
+		{
+			"SellValue" "25"
+			"ItemFlags" "2"
+			"CanTrade" "1"
+		}
+    }
+    "58"
+    {
+		"Name" "#INF_ITEM_58_TEXT"
+		"IconTexture" "icons/items/weapon/shield04_02"
+		"ItemInfo1" "19"
+		"ItemInfo2" "11"
+		"ItemLevel" "45"
+		"Type" "0"
+		"SubType" "10"
+		"Rarity" "1"
+		"Level" "5"
+		"IsUnique" "1"
+		"StatData"
+		{
+			"Armor" "47"
+			"Stamina" "7"
+			"Strength" "3"
+		}
+		"EquipData"
+		{
+			"RangeMax" "80"
+		}
+		"ModelData"
+		{
+			"Model" "models/items/shields/shield04.mdl"
+			"Skin" "1"
+		}
+		"MiscData"
+		{
+			"SellValue" "65"
+			"ItemFlags" "2"
+			"CanTrade" "1"
+		}
+    }
+    "59"
+    {
+		"Name" "#INF_ITEM_59_TEXT"
+		"IconTexture" "icons/items/weapon/shield06_02"
+		"ItemInfo1" "19"
+		"ItemInfo2" "11"
+		"ItemLevel" "140"
+		"Type" "0"
+		"SubType" "10"
+		"Rarity" "2"
+		"Level" "12"
+		"IsUnique" "1"
+		"StatData"
+		{
+			"Armor" "85"
+			"Stamina" "16"
+			"Strength" "9"
+			"Intellect" "-5"
+		}
+		"EquipData"
+		{
+			"RangeMax" "80"
+		}
+		"ResistanceData"
+		{
+			"Fire" "10"
+			"Water" "10"
+			"Shadow" "10"
+			"Earth" "10"
+			"Wind" "10"
+		}
+		"ModelData"
+		{
+			"Model" "models/items/shields/shield06.mdl"
+			"Skin" "1"
+		}
+		"MiscData"
+		{
+			"SellValue" "215"
+			"ItemFlags" "2"
+			"CanTrade" "1"
+		}
+    }
+    "60"
+    {
+		"Name" "#INF_ITEM_60_TEXT"
+		"IconTexture" "icons/items/weapon/shield02"
+		"ItemInfo1" "19"
+		"ItemInfo2" "11"
+		"ItemLevel" "90"
+		"Type" "0"
+		"SubType" "10"
+		"Rarity" "2"
+		"Level" "10"
+		"IsUnique" "1"
+		"StatData"
+		{
+			"Armor" "78"
+			"Stamina" "11"
+			"Strength" "6"
+			"Agility" "3"
+		}
+		"EquipData"
+		{
+			"RangeMax" "80"
+		}
+		"ModelData"
+		{
+			"Model" "models/items/shields/shield02.mdl"
+		}
+		"MiscData"
+		{
+			"SellValue" "135"
+			"ItemFlags" "2"
+			"CanTrade" "1"
+		}
+    }
+    "61"
+    {
+		"Name" "#INF_ITEM_61_TEXT"
+		"IconTexture" "icons/items/weapon/shield03_02"
+		"ItemInfo1" "10"
+		"ItemInfo2" "11"
+		"ItemLevel" "150"
+		"Type" "0"
+		"SubType" "10"
+		"Rarity" "3"
+		"Level" "15"
+		"IsUnique" "1"
+		"StatData"
+		{
+			"Armor" "105"
+			"Stamina" "17"
+			"Strength" "13"
+			"Agility" "5"
+			"Intellect" "3"
+		}
+		"EquipData"
+		{
+			"RangeMax" "80"
+		}
+		"ModelData"
+		{
+			"Model" "models/items/shields/shield03.mdl"
+			"Skin" "1"
+		}
+		"MiscData"
+		{
+			"SellValue" "225"
+			"ItemFlags" "2"
+		}
+    }
+    "63"
+    {
+		"Name" "#INF_ITEM_63_TEXT"
+		"IconTexture" "icons/items/weapon/shield05_01"
+		"ItemInfo1" "19"
+		"ItemInfo2" "11"
+		"ItemLevel" "58"
+		"Type" "0"
+		"SubType" "10"
+		"Rarity" "2"
+		"Level" "6"
+		"IsUnique" "1"
+		"StatData"
+		{
+			"Armor" "53"
+			"Stamina" "7"
+			"Strength" "3"
+			"Intellect" "-3"
+		}
+		"EquipData"
+		{
+			"RangeMax" "80"
+		}
+		"ModelData"
+		{
+			"Model" "models/items/shields/shield05_01.mdl"
+		}
+		"MiscData"
+		{
+			"SellValue" "87"
+			"ItemFlags" "2"
+			"CanTrade" "1"
+		}
+    }
+}

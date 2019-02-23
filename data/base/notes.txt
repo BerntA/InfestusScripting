@@ -1,0 +1,23 @@
+"Notes"
+{
+    "1"
+    {
+		"Title" "#INF_NOTE_1_TEXT"
+		"Description" "#INF_NOTE_1_DESC"
+    }
+    "2"
+    {
+		"Title" "#INF_NOTE_2_TEXT"
+		"Description" "#INF_NOTE_2_DESC"
+    }
+    "3"
+    {
+		"Title" "#INF_NOTE_3_TEXT"
+		"Description" "#INF_NOTE_3_DESC"
+    }
+    "4"
+    {
+		"Title" "#INF_NOTE_4_TEXT"
+		"Description" "#INF_NOTE_4_DESC"
+    }
+}

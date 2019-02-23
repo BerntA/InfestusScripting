@@ -1,0 +1,81 @@
+"AttributeThresholds"
+{
+	"Player"
+	{
+		"Armor"
+		{
+			// Armor X = Level - 1
+			"armor_y" "11"
+			"armor_z" "65"
+		}
+		
+		"Stamina"
+		{
+			"health_increase" "4"
+		}
+		
+		"Strength"
+		{
+			"attack_increase" "2"
+			"block_efficiency" "4"
+		}
+		
+		"Agility"
+		{
+			"movspeed_increase" "0.098"
+			"attackspeed_increase" "0.165"
+		}
+		
+		"Intellect"
+		{
+			"spellpower_increase" "3"
+			"focus_regen" "1.5"
+			"cast_speed" "0.5"
+		}
+		
+		"AttackPower"
+		{
+			"damage_increase" "0.90"
+		}
+		
+		"SpellPower"
+		{
+			"damage_increase" "0.60"
+		}
+	}
+	
+	"Shared"
+	{
+		"MagicProjectileVelocity" "2000"
+		"ArrowProjectileVelocity" "1250"
+		
+		"CombatTimeDuration" "5"
+		"PlayerDefFocusRegenRate" "1.75"
+		"PlayerDefHPRegenRate" "2.0"
+		"SpellCastFocusRegenRatePenalty" "4"
+		
+		"PlayerWalkSpeed" "150"
+		"PlayerRunSpeed" "200"
+		"PlayerMountSpeed" "400"
+		"PlayerSpellCastMoveSpeed" "0.75"
+		
+		"MaxArmorDamageReduction" "65"
+		"MaxArmorSpeedReduction" "25"
+		"MaxArmorCastTimeIncrease" "35"
+		"MaxNPCArmor" "2000"
+		
+		"MaxAgilitySpeedIncrease" "50"
+		"MaxIntellectCastTimeDecrease" "70"
+		
+		"NPCDistTooFar" "500"
+		"NPCDistLook" "450"
+		
+		"LevelRangeSpecifier" "5"
+		"DeathPunishmentMoneyPercent" "10"
+		"MinLevelBankAccess" "10"
+		"BankAccessCost" "500"
+		"UnderwaterBreathMax" "10"
+		"DrownDamage" "15"
+		"LevelUpDecreaseCost" "3"
+	}
+}

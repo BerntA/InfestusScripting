@@ -1,0 +1,373 @@
+"Quests"
+{
+    "1"
+    {
+		"Title" "#INF_QUEST_1_TITLE"
+		"ShortDescription" "#INF_QUEST_1_DESC_SHORT"
+		"LongDescription" "#INF_QUEST_1_DESC_LONG"
+		"LevelMin" "1"
+		"LevelMax" "1"
+		"Experience" "100"
+		"ZoneID" "1"
+		"QuestHandInID" "3"
+		"RepID" "1"
+    }
+    "2"
+    {
+		"Title" "#INF_QUEST_2_TITLE"
+		"ShortDescription" "#INF_QUEST_2_DESC_SHORT"
+		"LongDescription" "#INF_QUEST_2_DESC_LONG"
+		"LevelMin" "1"
+		"LevelMax" "10"
+		"Experience" "350"
+		"ZoneID" "1"
+		"Money" "15"
+		"Repeatable" "1"
+		"Objectives"
+		{
+			"2"
+			{
+				"Target" "26"
+				"Count" "10"
+			}
+		}
+    }
+    "3"
+    {
+		"Title" "#INF_QUEST_3_TITLE"
+		"ShortDescription" "#INF_QUEST_3_DESC_SHORT"
+		"LongDescription" "#INF_QUEST_3_DESC_LONG"
+		"LevelMin" "1"
+		"LevelMax" "10"
+		"Experience" "150"
+		"QuestChain" "1"
+		"ZoneID" "1"
+		"QuestHandInID" "7"
+    }
+    "4"
+    {
+		"Title" "#INF_QUEST_4_TITLE"
+		"ShortDescription" "#INF_QUEST_4_DESC_SHORT"
+		"LongDescription" "#INF_QUEST_4_DESC_LONG"
+		"LevelMin" "1"
+		"LevelMax" "10"
+		"Experience" "400"
+		"QuestChain" "3"
+		"ZoneID" "1"
+		"Money" "20"
+		"RepID" "1"
+		"RepValue" "25"
+		"Objectives"
+		{
+			"3"
+			{
+				"Custom" "#INF_QUEST_4_OBJECTIVE_1"
+			}
+			"3"
+			{
+				"Custom" "#INF_QUEST_4_OBJECTIVE_2"
+			}
+		}
+    }
+    "5"
+    {
+		"Title" "#INF_QUEST_5_TITLE"
+		"ShortDescription" "#INF_QUEST_5_DESC_SHORT"
+		"LongDescription" "#INF_QUEST_5_DESC_LONG"
+		"LevelMin" "1"
+		"LevelMax" "10"
+		"Experience" "750"
+		"QuestChain" "4"
+		"ZoneID" "1"
+		"Money" "35"
+		"RepID" "1"
+		"RepValue" "50"
+		"Objectives"
+		{
+			"1"
+			{
+				"Target" "20"
+				"Count" "10"
+			}
+		}
+    }
+    "6"
+    {
+		"Title" "#INF_QUEST_6_TITLE"
+		"ShortDescription" "#INF_QUEST_6_DESC_SHORT"
+		"LongDescription" "#INF_QUEST_6_DESC_LONG"
+		"LevelMin" "1"
+		"LevelMax" "10"
+		"Experience" "500"
+		"QuestChain" "5"
+		"ZoneID" "1"
+		"Money" "30"
+		"RepID" "1"
+		"RepValue" "65"
+		"Objectives"
+		{
+			"4"
+			{
+				"Target" "19"
+				"Count" "5"
+			}
+		}
+    }
+    "7"
+    {
+		"Title" "#INF_QUEST_7_TITLE"
+		"ShortDescription" "#INF_QUEST_7_DESC_SHORT"
+		"LongDescription" "#INF_QUEST_7_DESC_LONG"
+		"LevelMin" "5"
+		"LevelMax" "10"
+		"Experience" "1000"
+		"QuestChain" "6"
+		"ZoneID" "1"
+		"Money" "75"
+		"RepID" "1"
+		"RepValue" "125"
+		"Objectives"
+		{
+			"1"
+			{
+				"Target" "21"
+			}
+			"1"
+			{
+				"Target" "26"
+			}
+			"1"
+			{
+				"Target" "27"
+			}
+		}
+    }
+    "8"
+    {
+		"Title" "#INF_QUEST_8_TITLE"
+		"ShortDescription" "#INF_QUEST_8_DESC_SHORT"
+		"LongDescription" "#INF_QUEST_8_DESC_LONG"
+		"LevelMin" "5"
+		"LevelMax" "10"
+		"Experience" "500"
+		"QuestChain" "7"
+		"ZoneID" "1"
+		"QuestHandInID" "3"
+		"Money" "50"
+		"RepID" "1"
+		"RepValue" "150"
+		"Rewards"
+		{
+			"12"
+			{
+				"MustChoose" "1"
+			}
+			"4"
+			{
+				"MustChoose" "1"
+			}
+		}
+    }
+    "9"
+    {
+		"Title" "#INF_QUEST_9_TITLE"
+		"ShortDescription" "#INF_QUEST_9_DESC_SHORT"
+		"LongDescription" "#INF_QUEST_9_DESC_LONG"
+		"LevelMin" "1"
+		"LevelMax" "10"
+		"Experience" "200"
+		"ZoneID" "1"
+		"Money" "10"
+		"Repeatable" "1"
+		"Objectives"
+		{
+			"2"
+			{
+				"Target" "28"
+				"Count" "6"
+			}
+		}
+		"Rewards"
+		{
+			"20"
+			{
+				"Quantity" "5"
+			}
+		}
+    }
+    "10"
+    {
+		"Title" "#INF_QUEST_10_TITLE"
+		"ShortDescription" "#INF_QUEST_10_DESC_SHORT"
+		"LongDescription" "#INF_QUEST_10_DESC_LONG"
+		"LevelMin" "1"
+		"LevelMax" "10"
+		"Experience" "300"
+		"ZoneID" "1"
+		"Money" "15"
+		"Objectives"
+		{
+			"2"
+			{
+				"Target" "27"
+				"Count" "10"
+			}
+		}
+    }
+    "11"
+    {
+		"Title" "#INF_QUEST_11_TITLE"
+		"ShortDescription" "#INF_QUEST_11_DESC_SHORT"
+		"LongDescription" "#INF_QUEST_11_DESC_LONG"
+		"LevelMin" "1"
+		"LevelMax" "10"
+		"Experience" "400"
+		"ZoneID" "1"
+		"Money" "30"
+		"RepID" "2"
+		"RepValue" "150"
+		"Objectives"
+		{
+			"2"
+			{
+				"Target" "29"
+				"Count" "5"
+			}
+			"2"
+			{
+				"Target" "30"
+				"Count" "3"
+			}
+		}
+    }
+    "12"
+    {
+		"Title" "#INF_QUEST_12_TITLE"
+		"ShortDescription" "#INF_QUEST_12_DESC_SHORT"
+		"LongDescription" "#INF_QUEST_12_DESC_LONG"
+		"LevelMin" "5"
+		"LevelMax" "10"
+		"Experience" "500"
+		"QuestChain" "8"
+		"ZoneID" "1"
+		"Money" "50"
+		"RepID" "1"
+		"RepValue" "100"
+		"Repeatable" "1"
+		"Objectives"
+		{
+			"2"
+			{
+				"Target" "34"
+			}
+			"1"
+			{
+				"Target" "20"
+				"Count" "5"
+			}
+		}
+		"Rewards"
+		{
+			"17"
+			{
+				"Quantity" "3"
+				"MustChoose" "1"
+			}
+			"18"
+			{
+				"Quantity" "3"
+				"MustChoose" "1"
+			}
+		}
+    }
+    "13"
+    {
+		"Title" "#INF_QUEST_13_TITLE"
+		"ShortDescription" "#INF_QUEST_13_DESC_SHORT"
+		"LongDescription" "#INF_QUEST_13_DESC_LONG"
+		"LevelMin" "1"
+		"LevelMax" "10"
+		"Experience" "250"
+		"ZoneID" "1"
+		"Money" "15"
+		"Objectives"
+		{
+			"2"
+			{
+				"Target" "35"
+			}
+		}
+    }
+    "14"
+    {
+		"Title" "#INF_QUEST_14_TITLE"
+		"ShortDescription" "#INF_QUEST_14_DESC_SHORT"
+		"LongDescription" "#INF_QUEST_14_DESC_LONG"
+		"LevelMin" "1"
+		"LevelMax" "10"
+		"Experience" "350"
+		"ZoneID" "1"
+		"Money" "30"
+		"Objectives"
+		{
+			"1"
+			{
+				"Target" "23"
+				"Count" "10"
+			}
+		}
+    }
+    "15"
+    {
+		"Title" "#INF_QUEST_15_TITLE"
+		"ShortDescription" "#INF_QUEST_15_DESC_SHORT"
+		"LongDescription" "#INF_QUEST_15_DESC_LONG"
+		"LevelMin" "1"
+		"LevelMax" "10"
+		"Experience" "250"
+		"ZoneID" "1"
+		"Money" "10"
+		"Objectives"
+		{
+			"2"
+			{
+				"Target" "33"
+			}
+		}
+    }
+    "16"
+    {
+		"Title" "#INF_QUEST_16_TITLE"
+		"ShortDescription" "#INF_QUEST_16_DESC_SHORT"
+		"LongDescription" "#INF_QUEST_16_DESC_LONG"
+		"LevelMin" "8"
+		"LevelMax" "14"
+		"Experience" "750"
+		"QuestChain" "8"
+		"ZoneID" "1"
+		"Money" "50"
+		"RepID" "1"
+		"RepValue" "150"
+		"Objectives"
+		{
+			"1"
+			{
+				"Target" "29"
+			}
+		}
+		"Rewards"
+		{
+			"63"
+			{
+			}
+			"49"
+			{
+				"Quantity" "5"
+			}
+			"50"
+			{
+				"Quantity" "5"
+			}
+		}
+    }
+}

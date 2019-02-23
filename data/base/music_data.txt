@@ -1,0 +1,54 @@
+"Music"
+{
+	"1"
+	{
+		"LoopData"
+		{
+			"music/sleepingfairy.mp3"
+			{
+				"volume" "0.25"
+				"loop" "1"
+            }
+		}
+	}
+	"2"
+	{
+		"LoopData"
+		{
+			"music/monks.mp3"
+			{
+				"volume" "0.35"
+            }
+		}
+	}
+	"3"
+	{
+		"LoopData"
+		{
+			"music/greenslaves.mp3"
+			{
+				"volume" "0.15"
+            }
+		}
+	}
+	"4"
+	{
+		"LoopData"
+		{
+			"music/cemetery.mp3"
+			{
+				"volume" "0.35"
+            }
+		}
+	}
+	"5"
+	{
+		"LoopData"
+		{
+			"music/battle02.mp3"
+			{
+				"volume" "0.6"
+            }
+		}
+	}
+}

@@ -1,0 +1,569 @@
+"NPCs"
+{
+    "31"
+    {
+		"Name" "#INF_NPC_31_NAME"
+		"Level" "12"
+		"Health" "350"
+		"Soundscript" "Guard"
+		"RelationshipID" "3"
+		"ZoneLink" "2"
+		"Attributes"
+		{
+			"Armor" "500"
+			"DrainerRegenRate" "0.04"
+			"FireResistance" "-25"
+			"WaterResistance" "-25"
+			"ShadowResistance" "-25"
+			"EarthResistance" "-25"
+			"WindResistance" "-25"
+		}
+		"Spells"
+		{
+			"0" "6"
+		}
+		"ModelData"
+		{
+			"models/characters/npc/guard02.mdl"
+			{
+			}
+		}
+    }
+    "32"
+    {
+		"Name" "#INF_NPC_32_NAME"
+		"Level" "10"
+		"Health" "350"
+		"CollisionHeight" "70"
+		"CollisionHeightCorpse" "35"
+		"Soundscript" "Rat"
+		"Experience" "250"
+		"RelationshipID" "2"
+		"ZoneLink" "2"
+		"Attributes"
+		{
+			"Armor" "900"
+			"DamageMin" "23"
+			"DamageMax" "37"
+			"AttackSpeed" "0.85"
+			"AttackRange" "80"
+			"DrainerRegenRate" "0.03"
+			"FireResistance" "-15"
+			"WaterResistance" "-15"
+			"ShadowResistance" "-15"
+			"EarthResistance" "-15"
+			"WindResistance" "-15"
+		}
+		"Loots"
+		{
+			"70"
+			{
+				"Percentage" "55"
+			}
+			"46"
+			{
+				"Percentage" "10"
+			}
+		}
+		"ModelData"
+		{
+			"models/characters/npc/rat01.mdl"
+			{
+			}
+		}
+		"CamData"
+		{
+			"xpos" "50"
+			"ypos" "-2"
+			"zpos" "-10"
+			"angx" "11"
+			"angy" "180"
+			"angz" "0"
+		}
+    }
+    "33"
+    {
+		"Name" "#INF_NPC_33_NAME"
+		"Level" "10"
+		"Health" "650"
+		"CollisionHeight" "86"
+		"CollisionHeightCorpse" "43"
+		"Soundscript" "Skeleton"
+		"Experience" "400"
+		"RelationshipID" "2"
+		"ZoneLink" "2"
+		"Attributes"
+		{
+			"Armor" "300"
+			"AttackRange" "100"
+			"DrainerRegenRate" "0.03"
+			"FireResistance" "-15"
+			"WaterResistance" "-15"
+			"ShadowResistance" "-15"
+			"EarthResistance" "-15"
+			"WindResistance" "-15"
+		}
+		"Loots"
+		{
+			"45"
+			{
+				"Percentage" "15"
+			}
+			"64"
+			{
+				"Percentage" "95"
+			}
+			"73"
+			{
+				"Percentage" "70"
+			}
+		}
+		"ModelData"
+		{
+			"models/characters/npc/skeleton01.mdl"
+			{
+			}
+		}
+		"CamData"
+		{
+			"xpos" "10"
+			"ypos" "0"
+			"zpos" "-67"
+			"angx" "0"
+			"angy" "175"
+			"angz" "0"
+		}
+    }
+    "34"
+    {
+		"Name" "#INF_NPC_34_NAME"
+		"Level" "14"
+		"Health" "3750"
+		"Drainer" "300"
+		"CollisionHeight" "90"
+		"IsBoss" "1"
+		"Soundscript" "Moroes"
+		"ReputationID" "1"
+		"RepExperience" "50"
+		"MoneyReward" "100"
+		"Experience" "1500"
+		"RelationshipID" "2"
+		"ZoneLink" "2"
+		"Attributes"
+		{
+			"Armor" "1200"
+			"AttackRange" "90"
+			"DrainerRegenRate" "0.011"
+			"FireResistance" "55"
+			"WaterResistance" "55"
+			"ShadowResistance" "100"
+			"EarthResistance" "55"
+			"WindResistance" "55"
+		}
+		"Spells"
+		{
+			"0" "10"
+			"1" "9"
+			"2" "6"
+		}
+		"Loots"
+		{
+			"65"
+			{
+				"Percentage" "55"
+			}
+			"44"
+			{
+				"Percentage" "75"
+			}
+			"74"
+			{
+				"Percentage" "100"
+			}
+		}
+		"ModelData"
+		{
+			"models/characters/npc/moroes.mdl"
+			{
+				"Scale" "1.1"
+			}
+		}
+		"CamData"
+		{
+			"xpos" "8"
+			"ypos" "0"
+			"zpos" "-65"
+			"angx" "0"
+			"angy" "180"
+			"angz" "0"
+		}
+    }
+    "35"
+    {
+		"Name" "#INF_NPC_35_NAME"
+		"Level" "12"
+		"Health" "3500"
+		"CollisionHeight" "100"
+		"CollisionHeightCorpse" "44"
+		"IsBoss" "1"
+		"Soundscript" "Guardian"
+		"ReputationID" "1"
+		"RepExperience" "25"
+		"MoneyReward" "50"
+		"Experience" "1000"
+		"RelationshipID" "2"
+		"ZoneLink" "2"
+		"Attributes"
+		{
+			"Armor" "2000"
+			"DamageMin" "31"
+			"DamageMax" "39"
+			"AttackRange" "95"
+			"MovementSpeed" "0.75"
+			"DrainerRegenRate" "0.03"
+			"FireResistance" "-250"
+			"WaterResistance" "-250"
+			"ShadowResistance" "-250"
+			"EarthResistance" "-250"
+			"WindResistance" "-250"
+		}
+		"Loots"
+		{
+			"59"
+			{
+				"Percentage" "45"
+			}
+			"41"
+			{
+				"Percentage" "80"
+			}
+		}
+		"ModelData"
+		{
+			"models/characters/npc/guardian01.mdl"
+			{
+				"SkinMin" "1"
+				"SkinMax" "1"
+			}
+		}
+		"CamData"
+		{
+			"xpos" "12"
+			"ypos" "0"
+			"zpos" "-77"
+			"angx" "0"
+			"angy" "170"
+			"angz" "0"
+		}
+    }
+    "36"
+    {
+		"Name" "#INF_NPC_36_NAME"
+		"Level" "13"
+		"Health" "2500"
+		"Drainer" "200"
+		"CollisionHeight" "120"
+		"CollisionHeightCorpse" "52"
+		"IsBoss" "1"
+		"Soundscript" "Skeleton"
+		"ReputationID" "1"
+		"RepExperience" "25"
+		"MoneyReward" "50"
+		"Experience" "1000"
+		"RelationshipID" "2"
+		"ZoneLink" "2"
+		"Attributes"
+		{
+			"Armor" "750"
+			"AttackRange" "90"
+			"DrainerRegenRate" "0.026"
+			"FireResistance" "15"
+			"WaterResistance" "15"
+			"ShadowResistance" "15"
+			"EarthResistance" "15"
+			"WindResistance" "15"
+		}
+		"Spells"
+		{
+			"0" "6"
+			"1" "12"
+		}
+		"Loots"
+		{
+			"37"
+			{
+				"Percentage" "70"
+			}
+			"42"
+			{
+				"Percentage" "40"
+			}
+			"71"
+			{
+				"Percentage" "100"
+			}
+			"53"
+			{
+			}
+			"64"
+			{
+				"Percentage" "100"
+			}
+			"73"
+			{
+				"Percentage" "85"
+			}
+		}
+		"ModelData"
+		{
+			"models/characters/npc/skeleton02.mdl"
+			{
+				"Scale" "1.3"
+			}
+		}
+		"CamData"
+		{
+			"xpos" "10"
+			"ypos" "0"
+			"zpos" "-69"
+			"angx" "0"
+			"angy" "175"
+			"angz" "0"
+		}
+    }
+    "37"
+    {
+		"Name" "#INF_NPC_37_NAME"
+		"Level" "10"
+		"Health" "800"
+		"Drainer" "150"
+		"CollisionHeight" "105"
+		"CollisionHeightCorpse" "45"
+		"Soundscript" "Skeleton"
+		"Experience" "650"
+		"RelationshipID" "2"
+		"ZoneLink" "2"
+		"Attributes"
+		{
+			"Armor" "1000"
+			"AttackRange" "100"
+			"DrainerRegenRate" "0.015"
+			"FireResistance" "-50"
+			"WaterResistance" "-50"
+			"ShadowResistance" "-50"
+			"EarthResistance" "-50"
+			"WindResistance" "-50"
+		}
+		"Spells"
+		{
+			"0" "1"
+			"1" "6"
+		}
+		"Loots"
+		{
+			"48"
+			{
+				"Percentage" "10"
+			}
+			"43"
+			{
+				"Percentage" "15"
+			}
+			"64"
+			{
+				"Percentage" "90"
+			}
+			"73"
+			{
+				"Percentage" "70"
+			}
+		}
+		"ModelData"
+		{
+			"models/characters/npc/skeleton03.mdl"
+			{
+				"Scale" "1.15"
+			}
+		}
+		"CamData"
+		{
+			"xpos" "10"
+			"ypos" "0"
+			"zpos" "-69"
+			"angx" "0"
+			"angy" "175"
+			"angz" "0"
+		}
+    }
+    "38"
+    {
+		"Name" "#INF_NPC_38_NAME"
+		"Level" "12"
+		"Health" "1000"
+		"CollisionHeight" "112"
+		"CollisionHeightCorpse" "48"
+		"Soundscript" "Skeleton"
+		"Experience" "700"
+		"RelationshipID" "2"
+		"ZoneLink" "2"
+		"Attributes"
+		{
+			"Armor" "1500"
+			"AttackRange" "100"
+			"DrainerRegenRate" "0.018"
+			"FireResistance" "15"
+			"WaterResistance" "15"
+			"ShadowResistance" "15"
+			"EarthResistance" "15"
+			"WindResistance" "15"
+		}
+		"Spells"
+		{
+			"0" "6"
+			"1" "1"
+		}
+		"Loots"
+		{
+			"60"
+			{
+				"Percentage" "20"
+			}
+			"64"
+			{
+				"Percentage" "90"
+			}
+			"73"
+			{
+				"Percentage" "70"
+			}
+		}
+		"ModelData"
+		{
+			"models/characters/npc/skeleton04.mdl"
+			{
+				"Scale" "1.25"
+			}
+		}
+		"CamData"
+		{
+			"xpos" "10"
+			"ypos" "0"
+			"zpos" "-68"
+			"angx" "0"
+			"angy" "175"
+			"angz" "0"
+		}
+    }
+    "39"
+    {
+		"Name" "#INF_NPC_39_NAME"
+		"Level" "12"
+		"Health" "1250"
+		"CollisionHeight" "113"
+		"CollisionHeightCorpse" "50"
+		"Soundscript" "Skeleton"
+		"MoneyReward" "10"
+		"Experience" "1000"
+		"RelationshipID" "2"
+		"ZoneLink" "2"
+		"Attributes"
+		{
+			"Armor" "2000"
+			"AttackRange" "100"
+			"DrainerRegenRate" "0.025"
+			"FireResistance" "65"
+			"WaterResistance" "65"
+			"ShadowResistance" "65"
+			"EarthResistance" "65"
+			"WindResistance" "65"
+		}
+		"Spells"
+		{
+			"0" "1"
+			"1" "6"
+		}
+		"Loots"
+		{
+			"53"
+			{
+			}
+			"64"
+			{
+				"Percentage" "90"
+			}
+			"11"
+			{
+				"Percentage" "20"
+			}
+			"73"
+			{
+				"Percentage" "70"
+			}
+		}
+		"ModelData"
+		{
+			"models/characters/npc/skeleton04.mdl"
+			{
+				"Scale" "1.3"
+			}
+		}
+		"CamData"
+		{
+			"xpos" "10"
+			"ypos" "0"
+			"zpos" "-67"
+			"angx" "0"
+			"angy" "175"
+			"angz" "0"
+		}
+    }
+    "40"
+    {
+		"Name" "#INF_NPC_40_NAME"
+		"Level" "8"
+		"Health" "500"
+		"CollisionHeight" "86"
+		"CollisionHeightCorpse" "43"
+		"Soundscript" "Skeleton"
+		"Experience" "200"
+		"RelationshipID" "2"
+		"ZoneLink" "2"
+		"Attributes"
+		{
+			"Armor" "150"
+			"AttackRange" "100"
+			"DrainerRegenRate" "0.035"
+			"FireResistance" "-100"
+			"WaterResistance" "-100"
+			"ShadowResistance" "-100"
+			"EarthResistance" "-100"
+			"WindResistance" "-100"
+		}
+		"Loots"
+		{
+			"64"
+			{
+				"Percentage" "25"
+			}
+			"73"
+			{
+				"Percentage" "100"
+			}
+		}
+		"ModelData"
+		{
+			"models/characters/npc/skeleton01.mdl"
+			{
+			}
+		}
+		"CamData"
+		{
+			"xpos" "10"
+			"ypos" "0"
+			"zpos" "-67"
+			"angx" "0"
+			"angy" "175"
+			"angz" "0"
+		}
+    }
+}

@@ -1,0 +1,211 @@
+"Items"
+{
+    "5"
+    {
+		"Name" "#INF_ITEM_5_TEXT"
+		"IconTexture" "icons/items/armor/ring01"
+		"ItemInfo1" "7"
+		"ItemLevel" "47"
+		"Type" "0"
+		"SubType" "6"
+		"Rarity" "2"
+		"Level" "5"
+		"IsUnique" "1"
+		"StatData"
+		{
+			"Stamina" "7"
+			"Strength" "4"
+		}
+		"EquipData"
+		{
+			"AttackPower" "10"
+		}
+		"MiscData"
+		{
+			"SellValue" "72"
+			"CanTrade" "1"
+		}
+    }
+    "6"
+    {
+		"Name" "#INF_ITEM_6_TEXT"
+		"Description" "#INF_ITEM_6_DESC"
+		"IconTexture" "icons/items/armor/ring02"
+		"ItemInfo1" "7"
+		"ItemLevel" "90"
+		"Type" "0"
+		"SubType" "6"
+		"Rarity" "2"
+		"Level" "10"
+		"IsUnique" "1"
+		"StatData"
+		{
+			"Armor" "10"
+			"Stamina" "5"
+			"Strength" "5"
+			"Agility" "5"
+			"Intellect" "5"
+		}
+		"ResistanceData"
+		{
+			"Fire" "5"
+			"Water" "5"
+			"Shadow" "5"
+			"Earth" "5"
+			"Wind" "5"
+		}
+		"MiscData"
+		{
+			"SellValue" "150"
+			"CanTrade" "1"
+		}
+    }
+    "7"
+    {
+		"Name" "#INF_ITEM_7_TEXT"
+		"IconTexture" "icons/items/armor/necklace01"
+		"ItemInfo1" "8"
+		"ItemLevel" "73"
+		"Type" "0"
+		"SubType" "7"
+		"Rarity" "2"
+		"Level" "8"
+		"IsUnique" "1"
+		"StatData"
+		{
+			"Stamina" "7"
+			"Intellect" "10"
+		}
+		"EquipData"
+		{
+			"SpellPower" "15"
+		}
+		"MiscData"
+		{
+			"SellValue" "105"
+			"CanTrade" "1"
+		}
+    }
+    "51"
+    {
+		"Name" "#INF_ITEM_51_TEXT"
+		"IconTexture" "icons/items/armor/ring01"
+		"ItemInfo1" "7"
+		"ItemLevel" "50"
+		"Type" "0"
+		"SubType" "6"
+		"Rarity" "2"
+		"Level" "5"
+		"IsUnique" "1"
+		"StatData"
+		{
+			"Stamina" "3"
+			"Agility" "9"
+		}
+		"EquipData"
+		{
+			"AttackPower" "15"
+		}
+		"MiscData"
+		{
+			"SellValue" "80"
+			"CanTrade" "1"
+		}
+    }
+    "52"
+    {
+		"Name" "#INF_ITEM_52_TEXT"
+		"IconTexture" "icons/items/armor/ring01"
+		"ItemInfo1" "7"
+		"ItemLevel" "62"
+		"Type" "0"
+		"SubType" "6"
+		"Rarity" "2"
+		"Level" "5"
+		"IsUnique" "1"
+		"StatData"
+		{
+			"Stamina" "4"
+			"Intellect" "12"
+		}
+		"EquipData"
+		{
+			"SpellPower" "15"
+			"Focus" "10"
+		}
+		"MiscData"
+		{
+			"SellValue" "100"
+			"CanTrade" "1"
+		}
+    }
+    "62"
+    {
+		"Name" "#INF_ITEM_62_TEXT"
+		"IconTexture" "icons/items/armor/necklace02"
+		"ItemInfo1" "8"
+		"ItemLevel" "180"
+		"Type" "0"
+		"SubType" "7"
+		"Rarity" "3"
+		"Level" "12"
+		"IsUnique" "1"
+		"StatData"
+		{
+			"Armor" "-15"
+			"Stamina" "-10"
+			"Strength" "-10"
+			"Agility" "-10"
+			"Intellect" "20"
+		}
+		"EquipData"
+		{
+			"SpellPower" "25"
+			"Focus" "15"
+		}
+		"ResistanceData"
+		{
+			"Fire" "5"
+			"Water" "5"
+			"Shadow" "5"
+			"Earth" "5"
+			"Wind" "5"
+		}
+		"MiscData"
+		{
+			"SellValue" "250"
+		}
+    }
+    "65"
+    {
+		"Name" "#INF_ITEM_65_TEXT"
+		"IconTexture" "icons/items/armor/ring01"
+		"ItemInfo1" "7"
+		"ItemLevel" "105"
+		"Type" "0"
+		"SubType" "6"
+		"Rarity" "2"
+		"Level" "10"
+		"IsUnique" "1"
+		"StatData"
+		{
+			"Stamina" "7"
+			"Strength" "-3"
+			"Agility" "-1"
+			"Intellect" "9"
+		}
+		"EquipData"
+		{
+			"SpellPower" "25"
+		}
+		"ResistanceData"
+		{
+			"Shadow" "15"
+		}
+		"MiscData"
+		{
+			"SellValue" "160"
+			"CanTrade" "1"
+		}
+    }
+}

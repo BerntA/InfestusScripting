@@ -1,0 +1,916 @@
+"NPCs"
+{
+    "1"
+    {
+		"Name" "#INF_NPC_1_NAME"
+		"Description" "#INF_NPC_1_DESC"
+		"GreetingsText" "#INF_NPC_1_GREETINGS"
+		"Type" "3"
+		"ZoneLink" "1"
+		"ModelData"
+		{
+			"models/characters/npc/merchant01.mdl"
+			{
+			}
+		}
+		"Quests"
+		{
+			"0" "1"
+		}
+    }
+    "2"
+    {
+		"Name" "#INF_NPC_2_NAME"
+		"Description" "#INF_NPC_2_DESC"
+		"GreetingsText" "#INF_NPC_2_GREETINGS"
+		"Type" "2"
+		"ZoneLink" "1"
+		"ModelData"
+		{
+			"models/characters/npc/merchant02.mdl"
+			{
+			}
+		}
+		"Dialogue"
+		{
+			"#INF_NPC_2_Q_1" "#INF_NPC_2_A_1"
+			"#INF_NPC_2_Q_2" "#INF_NPC_2_A_2"
+		}
+    }
+    "3"
+    {
+		"Name" "#INF_NPC_3_NAME"
+		"Description" "#INF_NPC_3_DESC"
+		"GreetingsText" "#INF_NPC_3_GREETINGS"
+		"DialogueFinishedQuest" "#INF_NPC_3_DIA_FIN"
+		"Type" "3"
+		"ZoneLink" "1"
+		"ModelData"
+		{
+			"models/characters/npc/crusader01.mdl"
+			{
+			}
+		}
+		"CamData"
+		{
+			"xpos" "12"
+			"ypos" "0"
+			"zpos" "-65"
+			"angx" "0"
+			"angy" "170"
+			"angz" "0"
+		}
+		"Quests"
+		{
+			"0" "1"
+			"1" "3"
+			"2" "8"
+			"3" "17"
+			"4" "18"
+			"5" "20"
+		}
+    }
+    "4"
+    {
+		"Name" "#INF_NPC_4_NAME"
+		"Description" "#INF_NPC_4_DESC"
+		"GreetingsText" "#INF_NPC_4_GREETINGS"
+		"DialogueStartedQuest" "#INF_NPC_4_DIA_STA"
+		"DialogueFinishedQuest" "#INF_NPC_4_DIA_FIN"
+		"Type" "3"
+		"ZoneLink" "1"
+		"ModelData"
+		{
+			"models/characters/npc/merchant02.mdl"
+			{
+				"SkinMin" "1"
+				"SkinMax" "1"
+			}
+		}
+		"Quests"
+		{
+			"0" "2"
+		}
+    }
+    "5"
+    {
+		"Name" "#INF_NPC_5_NAME"
+		"Description" "#INF_NPC_5_DESC"
+		"GreetingsText" "#INF_NPC_5_GREETINGS"
+		"Type" "4"
+		"ZoneLink" "1"
+		"ModelData"
+		{
+			"models/characters/npc/merchant01.mdl"
+			{
+			}
+		}
+		"ItemsForSale"
+		{
+			"1"
+			{
+				"Price" "125"
+			}
+			"66"
+			{
+				"Price" "275"
+			}
+			"2"
+			{
+				"Price" "30"
+			}
+			"57"
+			{
+				"Price" "50"
+			}
+			"58"
+			{
+				"Price" "115"
+			}
+			"9"
+			{
+				"Price" "65"
+			}
+			"14"
+			{
+				"Price" "55"
+			}
+			"39"
+			{
+				"Price" "100"
+			}
+		}
+    }
+    "6"
+    {
+		"Name" "#INF_NPC_6_NAME"
+		"Description" "#INF_NPC_6_DESC"
+		"GreetingsText" "#INF_NPC_6_GREETINGS"
+		"Type" "4"
+		"ZoneLink" "1"
+		"ModelData"
+		{
+			"models/characters/npc/merchant02.mdl"
+			{
+				"SkinMax" "1"
+			}
+		}
+		"ItemsForSale"
+		{
+			"5"
+			{
+				"Price" "135"
+			}
+			"51"
+			{
+				"Price" "150"
+			}
+			"52"
+			{
+				"Price" "175"
+			}
+			"6"
+			{
+				"Price" "200"
+			}
+		}
+    }
+    "7"
+    {
+		"Name" "#INF_NPC_7_NAME"
+		"Description" "#INF_NPC_7_DESC"
+		"GreetingsText" "#INF_NPC_7_GREETINGS"
+		"DialogueStartedQuest" "#INF_NPC_7_DIA_STA"
+		"DialogueFinishedQuest" "#INF_NPC_7_DIA_FIN"
+		"Type" "3"
+		"ZoneLink" "1"
+		"ModelData"
+		{
+			"models/characters/npc/guard02.mdl"
+			{
+			}
+		}
+		"Quests"
+		{
+			"0" "3"
+			"1" "4"
+			"2" "5"
+			"3" "6"
+			"4" "7"
+			"5" "8"
+			"6" "16"
+		}
+    }
+    "8"
+    {
+		"Name" "#INF_NPC_8_NAME"
+		"Description" "#INF_NPC_8_DESC"
+		"GreetingsText" "#INF_NPC_8_GREETINGS"
+		"DialogueStartedQuest" "#INF_NPC_8_DIA_STA"
+		"DialogueFinishedQuest" "#INF_NPC_8_DIA_FIN"
+		"Type" "3"
+		"ZoneLink" "1"
+		"ModelData"
+		{
+			"models/characters/npc/merchant01.mdl"
+			{
+			}
+		}
+		"Quests"
+		{
+			"0" "9"
+			"1" "10"
+		}
+    }
+    "9"
+    {
+		"Name" "#INF_NPC_9_NAME"
+		"Description" "#INF_NPC_9_DESC"
+		"GreetingsText" "#INF_NPC_9_GREETINGS"
+		"DialogueStartedQuest" "#INF_NPC_9_DIA_STA"
+		"DialogueFinishedQuest" "#INF_NPC_9_DIA_FIN"
+		"Type" "3"
+		"ZoneLink" "1"
+		"ModelData"
+		{
+			"models/characters/npc/merchant02.mdl"
+			{
+				"SkinMax" "1"
+			}
+		}
+		"Quests"
+		{
+			"0" "11"
+			"1" "19"
+			"2" "21"
+		}
+    }
+    "10"
+    {
+		"Name" "#INF_NPC_10_NAME"
+		"Description" "#INF_NPC_10_DESC"
+		"GreetingsText" "#INF_NPC_10_GREETINGS"
+		"DialogueStartedQuest" "#INF_NPC_10_DIA_STA"
+		"DialogueFinishedQuest" "#INF_NPC_10_DIA_FIN"
+		"Type" "3"
+		"ZoneLink" "1"
+		"ModelData"
+		{
+			"models/characters/npc/merchant01.mdl"
+			{
+			}
+		}
+		"Quests"
+		{
+			"0" "12"
+		}
+    }
+    "11"
+    {
+		"Name" "#INF_NPC_11_NAME"
+		"Description" "#INF_NPC_11_DESC"
+		"GreetingsText" "#INF_NPC_11_GREETINGS"
+		"Type" "4"
+		"ZoneLink" "1"
+		"ModelData"
+		{
+			"models/characters/npc/merchant02.mdl"
+			{
+				"SkinMax" "1"
+			}
+		}
+		"ItemsForSale"
+		{
+			"21"
+			{
+				"Price" "30"
+			}
+			"22"
+			{
+				"Price" "50"
+			}
+			"72"
+			{
+				"Price" "90"
+			}
+			"55"
+			{
+				"Price" "40"
+			}
+		}
+    }
+    "12"
+    {
+		"Name" "#INF_NPC_12_NAME"
+		"Description" "#INF_NPC_12_DESC"
+		"GreetingsText" "#INF_NPC_12_GREETINGS"
+		"Type" "4"
+		"ZoneLink" "1"
+		"ModelData"
+		{
+			"models/characters/npc/merchant01.mdl"
+			{
+			}
+		}
+		"ItemsForSale"
+		{
+			"23"
+			{
+				"Price" "60"
+			}
+			"24"
+			{
+				"Price" "100"
+			}
+			"68"
+			{
+				"Price" "120"
+			}
+			"36"
+			{
+				"Price" "145"
+			}
+		}
+    }
+    "13"
+    {
+		"Name" "#INF_NPC_13_NAME"
+		"Description" "#INF_NPC_13_DESC"
+		"GreetingsText" "#INF_NPC_13_GREETINGS"
+		"DialogueStartedQuest" "#INF_NPC_13_DIA_STA"
+		"DialogueFinishedQuest" "#INF_NPC_13_DIA_FIN"
+		"Type" "3"
+		"ZoneLink" "1"
+		"ModelData"
+		{
+			"models/characters/npc/merchant02.mdl"
+			{
+				"SkinMin" "1"
+				"SkinMax" "1"
+			}
+		}
+		"Quests"
+		{
+			"0" "13"
+		}
+    }
+    "14"
+    {
+		"Name" "#INF_NPC_14_NAME"
+		"Description" "#INF_NPC_14_DESC"
+		"GreetingsText" "#INF_NPC_14_GREETINGS"
+		"Type" "4"
+		"ZoneLink" "1"
+		"ModelData"
+		{
+			"models/characters/npc/merchant01.mdl"
+			{
+			}
+		}
+		"ItemsForSale"
+		{
+			"19"
+			{
+				"Quantity" "5"
+				"Price" "30"
+			}
+			"20"
+			{
+				"Quantity" "5"
+				"Price" "60"
+			}
+			"67"
+			{
+				"Quantity" "5"
+				"Price" "85"
+			}
+			"17"
+			{
+				"Price" "10"
+			}
+			"18"
+			{
+				"Price" "10"
+			}
+			"49"
+			{
+				"Price" "20"
+			}
+			"50"
+			{
+				"Price" "20"
+			}
+		}
+    }
+    "15"
+    {
+		"Name" "#INF_NPC_15_NAME"
+		"Description" "#INF_NPC_15_DESC"
+		"GreetingsText" "#INF_NPC_15_GREETINGS"
+		"DialogueStartedQuest" "#INF_NPC_15_DIA_STA"
+		"DialogueFinishedQuest" "#INF_NPC_15_DIA_FIN"
+		"Type" "3"
+		"ZoneLink" "1"
+		"ModelData"
+		{
+			"models/characters/npc/merchant02.mdl"
+			{
+				"SkinMax" "1"
+			}
+		}
+		"Quests"
+		{
+			"0" "14"
+		}
+    }
+    "16"
+    {
+		"Name" "#INF_NPC_16_NAME"
+		"Description" "#INF_NPC_16_DESC"
+		"GreetingsText" "#INF_NPC_16_GREETINGS"
+		"DialogueStartedQuest" "#INF_NPC_16_DIA_STA"
+		"DialogueFinishedQuest" "#INF_NPC_16_DIA_FIN"
+		"Type" "3"
+		"ZoneLink" "1"
+		"ModelData"
+		{
+			"models/characters/npc/merchant01.mdl"
+			{
+			}
+		}
+		"Quests"
+		{
+			"0" "15"
+		}
+    }
+    "17"
+    {
+		"Name" "#INF_NPC_17_NAME"
+		"Description" "#INF_NPC_17_DESC"
+		"GreetingsText" "#INF_NPC_17_GREETINGS"
+		"Type" "2"
+		"ZoneLink" "1"
+		"ModelData"
+		{
+			"models/characters/npc/merchant01.mdl"
+			{
+			}
+		}
+		"Dialogue"
+		{
+			"#INF_NPC_17_Q_1" "#INF_NPC_17_A_1"
+			"#INF_NPC_17_Q_2" "#INF_NPC_17_A_2"
+			"#INF_NPC_17_Q_3" "#INF_NPC_17_A_3"
+		}
+    }
+    "18"
+    {
+		"Name" "#INF_NPC_18_NAME"
+		"Description" "#INF_NPC_18_DESC"
+		"GreetingsText" "#INF_NPC_18_GREETINGS"
+		"Type" "2"
+		"ZoneLink" "1"
+		"ModelData"
+		{
+			"models/characters/npc/merchant01.mdl"
+			{
+			}
+		}
+		"Dialogue"
+		{
+			"#INF_NPC_18_Q_1" "#INF_NPC_18_A_1"
+			"#INF_NPC_18_Q_2" "#INF_NPC_18_A_2"
+		}
+    }
+    "19"
+    {
+		"Name" "#INF_NPC_19_NAME"
+		"Description" "#INF_NPC_19_DESC"
+		"GreetingsText" "#INF_NPC_19_GREETINGS"
+		"Type" "2"
+		"RequiredID" "6"
+		"RequiredType" "1"
+		"RequiredValue" "0"
+		"ZoneLink" "1"
+		"ModelData"
+		{
+			"models/characters/npc/merchant01.mdl"
+			{
+			}
+		}
+		"Dialogue"
+		{
+			"#INF_NPC_19_Q_1" "#INF_NPC_19_A_1"
+		}
+    }
+    "20"
+    {
+		"Name" "#INF_NPC_20_NAME"
+		"Level" "3"
+		"Health" "130"
+		"Soundscript" "Smuggler"
+		"Experience" "100"
+		"RelationshipID" "2"
+		"ZoneLink" "1"
+		"Attributes"
+		{
+			"Armor" "250"
+			"AttackSpeed" "0.75"
+			"AttackRange" "70"
+			"DrainerRegenRate" "0.025"
+		}
+		"Spells"
+		{
+			"0" "1"
+		}
+		"Loots"
+		{
+			"3"
+			{
+				"Percentage" "4"
+			}
+			"15"
+			{
+				"Percentage" "1.5"
+			}
+		}
+		"ModelData"
+		{
+			"models/characters/npc/smugler01.mdl"
+			{
+			}
+		}
+    }
+    "21"
+    {
+		"Name" "#INF_NPC_21_NAME"
+		"Level" "7"
+		"Health" "600"
+		"Soundscript" "Smuggler"
+		"MoneyReward" "5"
+		"Experience" "350"
+		"RelationshipID" "2"
+		"ZoneLink" "1"
+		"Attributes"
+		{
+			"Armor" "700"
+			"AttackRange" "90"
+			"DrainerRegenRate" "0.025"
+		}
+		"Spells"
+		{
+			"0" "2"
+		}
+		"Loots"
+		{
+			"11"
+			{
+				"Percentage" "2"
+			}
+			"10"
+			{
+				"Percentage" "4"
+			}
+		}
+		"ModelData"
+		{
+			"models/characters/npc/smugler02.mdl"
+			{
+			}
+		}
+    }
+    "22"
+    {
+		"Name" "#INF_NPC_22_NAME"
+		"Level" "2"
+		"Health" "80"
+		"Soundscript" "Wolf"
+		"Experience" "100"
+		"RelationshipID" "2"
+		"ZoneLink" "1"
+		"Attributes"
+		{
+			"DamageMin" "4"
+			"DamageMax" "8"
+			"AttackRange" "75"
+		}
+		"Loots"
+		{
+			"26"
+			{
+				"Percentage" "55"
+			}
+			"27"
+			{
+				"Percentage" "40"
+			}
+			"13"
+			{
+				"Percentage" "15"
+			}
+		}
+		"ModelData"
+		{
+			"models/characters/npc/wolf01.mdl"
+			{
+				"SkinMax" "2"
+			}
+		}
+		"CamData"
+		{
+			"xpos" "45"
+			"ypos" "-10"
+			"zpos" "-22"
+			"angx" "0"
+			"angy" "150"
+			"angz" "0"
+		}
+    }
+    "23"
+    {
+		"Name" "#INF_NPC_23_NAME"
+		"Level" "5"
+		"Health" "140"
+		"Soundscript" "Wolf"
+		"Experience" "150"
+		"RelationshipID" "2"
+		"ZoneLink" "1"
+		"Attributes"
+		{
+			"Armor" "300"
+			"DamageMin" "12"
+			"DamageMax" "20"
+			"AttackRange" "70"
+		}
+		"Loots"
+		{
+			"26"
+			{
+				"Percentage" "75"
+			}
+			"27"
+			{
+				"Percentage" "65"
+			}
+		}
+		"ModelData"
+		{
+			"models/characters/npc/wolf01.mdl"
+			{
+				"SkinMax" "2"
+			}
+		}
+		"CamData"
+		{
+			"xpos" "45"
+			"ypos" "-10"
+			"zpos" "-22"
+			"angx" "0"
+			"angy" "150"
+			"angz" "0"
+		}
+    }
+    "24"
+    {
+		"Name" "#INF_NPC_24_NAME"
+		"Level" "8"
+		"Health" "300"
+		"Soundscript" "Wolf"
+		"MoneyReward" "5"
+		"Experience" "250"
+		"RelationshipID" "2"
+		"ZoneLink" "1"
+		"Attributes"
+		{
+			"Armor" "1000"
+			"DamageMin" "28"
+			"DamageMax" "39"
+			"AttackSpeed" "0.75"
+			"AttackRange" "80"
+		}
+		"Loots"
+		{
+			"26"
+			{
+				"Percentage" "90"
+			}
+			"27"
+			{
+				"Percentage" "100"
+			}
+			"16"
+			{
+				"Percentage" "15"
+			}
+			"7"
+			{
+				"Percentage" "10"
+			}
+		}
+		"ModelData"
+		{
+			"models/characters/npc/wolf02.mdl"
+			{
+				"SkinMax" "2"
+			}
+		}
+		"CamData"
+		{
+			"xpos" "60"
+			"ypos" "-10"
+			"zpos" "-25"
+			"angx" "0"
+			"angy" "150"
+			"angz" "0"
+		}
+    }
+    "25"
+    {
+		"Name" "#INF_NPC_25_NAME"
+		"Level" "10"
+		"Health" "500"
+		"Soundscript" "Guard"
+		"RelationshipID" "3"
+		"ZoneLink" "1"
+		"Attributes"
+		{
+			"Armor" "500"
+			"AttackSpeed" "0.5"
+			"AttackRange" "95"
+			"DrainerRegenRate" "0.035"
+			"FireResistance" "-25"
+			"WaterResistance" "-25"
+			"ShadowResistance" "-25"
+			"EarthResistance" "-25"
+			"WindResistance" "-25"
+		}
+		"ModelData"
+		{
+			"models/characters/npc/guard01.mdl"
+			{
+				"SkinMax" "1"
+			}
+		}
+    }
+    "26"
+    {
+		"Name" "#INF_NPC_26_NAME"
+		"Level" "7"
+		"Health" "600"
+		"Soundscript" "Smuggler"
+		"MoneyReward" "5"
+		"Experience" "350"
+		"RelationshipID" "2"
+		"ZoneLink" "1"
+		"Attributes"
+		{
+			"Armor" "700"
+			"AttackRange" "90"
+			"DrainerRegenRate" "0.025"
+		}
+		"Spells"
+		{
+			"0" "1"
+		}
+		"Loots"
+		{
+			"11"
+			{
+				"Percentage" "2"
+			}
+			"10"
+			{
+				"Percentage" "4"
+			}
+		}
+		"ModelData"
+		{
+			"models/characters/npc/smugler02.mdl"
+			{
+			}
+		}
+    }
+    "27"
+    {
+		"Name" "#INF_NPC_27_NAME"
+		"Level" "7"
+		"Health" "600"
+		"Soundscript" "Smuggler"
+		"MoneyReward" "5"
+		"Experience" "350"
+		"RelationshipID" "2"
+		"ZoneLink" "1"
+		"Attributes"
+		{
+			"Armor" "700"
+			"AttackRange" "90"
+			"DrainerRegenRate" "0.025"
+		}
+		"Spells"
+		{
+			"0" "2"
+		}
+		"Loots"
+		{
+			"11"
+			{
+				"Percentage" "2"
+			}
+			"10"
+			{
+				"Percentage" "4"
+			}
+		}
+		"ModelData"
+		{
+			"models/characters/npc/smugler02.mdl"
+			{
+			}
+		}
+    }
+    "28"
+    {
+		"Name" "#INF_NPC_28_NAME"
+		"Description" "#INF_NPC_28_DESC"
+		"GreetingsText" "#INF_NPC_28_GREETINGS"
+		"Type" "2"
+		"ZoneLink" "1"
+		"ModelData"
+		{
+			"models/characters/npc/merchant02.mdl"
+			{
+				"SkinMax" "1"
+			}
+		}
+		"Dialogue"
+		{
+			"#INF_NPC_28_Q_1" "#INF_NPC_28_A_1"
+			"#INF_NPC_28_Q_2" "#INF_NPC_28_A_2"
+		}
+    }
+    "29"
+    {
+		"Name" "#INF_NPC_29_NAME"
+		"Level" "10"
+		"Health" "1000"
+		"Drainer" "150"
+		"CollisionHeight" "130"
+		"CollisionHeightCorpse" "45"
+		"Soundscript" "Smuggler"
+		"MoneyReward" "10"
+		"Experience" "500"
+		"RelationshipID" "2"
+		"ZoneLink" "1"
+		"Attributes"
+		{
+			"Armor" "1000"
+			"AttackSpeed" "0.9"
+			"AttackRange" "100"
+			"DrainerRegenRate" "0.012"
+			"FireResistance" "25"
+			"WaterResistance" "25"
+			"ShadowResistance" "25"
+			"EarthResistance" "25"
+			"WindResistance" "25"
+		}
+		"Spells"
+		{
+			"0" "1"
+			"1" "2"
+		}
+		"Loots"
+		{
+			"11"
+			{
+				"Percentage" "10"
+			}
+		}
+		"ModelData"
+		{
+			"models/characters/npc/smugler02.mdl"
+			{
+				"Scale" "1.5"
+			}
+		}
+    }
+    "30"
+    {
+		"Name" "#INF_NPC_30_NAME"
+		"Description" "#INF_NPC_30_DESC"
+		"GreetingsText" "#INF_NPC_30_GREETINGS"
+		"Type" "2"
+		"ZoneLink" "1"
+		"ModelData"
+		{
+			"models/characters/npc/guard02.mdl"
+			{
+			}
+		}
+		"Dialogue"
+		{
+			"#INF_NPC_30_Q_1" "#INF_NPC_30_A_1"
+			"#INF_NPC_30_Q_2" "#INF_NPC_30_A_2"
+			"#INF_NPC_30_Q_3" ""
+		}
+    }
+}

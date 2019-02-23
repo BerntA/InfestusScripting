@@ -1,0 +1,129 @@
+"Items"
+{
+    "17"
+    {
+		"Name" "#INF_ITEM_17_TEXT"
+		"Description" "#INF_ITEM_17_DESC"
+		"IconTexture" "icons/items/misc/potion01"
+		"ItemInfo1" "14"
+		"Type" "1"
+		"SubType" "1"
+		"Rarity" "1"
+		"Level" "1"
+		"MiscData"
+		{
+			"ConsumeValue" "50"
+			"SellValue" "5"
+			"Cooldown" "25"
+			"CanTrade" "1"
+		}
+    }
+    "18"
+    {
+		"Name" "#INF_ITEM_18_TEXT"
+		"Description" "#INF_ITEM_18_DESC"
+		"IconTexture" "icons/items/misc/potion02"
+		"ItemInfo1" "14"
+		"Type" "1"
+		"SubType" "2"
+		"Rarity" "1"
+		"Level" "1"
+		"MiscData"
+		{
+			"ConsumeValue" "25"
+			"SellValue" "5"
+			"Cooldown" "25"
+			"CanTrade" "1"
+		}
+    }
+    "19"
+    {
+		"Name" "#INF_ITEM_19_TEXT"
+		"Description" "#INF_ITEM_19_DESC"
+		"IconTexture" "icons/items/misc/bread01"
+		"ItemInfo1" "15"
+		"Type" "1"
+		"SubType" "3"
+		"Rarity" "1"
+		"Level" "1"
+		"MiscData"
+		{
+			"ConsumeValue" "15"
+			"SellValue" "5"
+			"Cooldown" "0.2"
+			"CanTrade" "1"
+		}
+    }
+    "20"
+    {
+		"Name" "#INF_ITEM_20_TEXT"
+		"Description" "#INF_ITEM_20_DESC"
+		"IconTexture" "icons/items/misc/berry01"
+		"ItemInfo1" "15"
+		"Type" "1"
+		"SubType" "3"
+		"Rarity" "1"
+		"Level" "5"
+		"MiscData"
+		{
+			"ConsumeValue" "30"
+			"SellValue" "10"
+			"Cooldown" "0.2"
+			"CanTrade" "1"
+		}
+    }
+    "49"
+    {
+		"Name" "#INF_ITEM_49_TEXT"
+		"Description" "#INF_ITEM_49_DESC"
+		"IconTexture" "icons/items/misc/potion01"
+		"ItemInfo1" "14"
+		"Type" "1"
+		"SubType" "1"
+		"Rarity" "1"
+		"Level" "5"
+		"MiscData"
+		{
+			"ConsumeValue" "100"
+			"SellValue" "10"
+			"Cooldown" "30"
+			"CanTrade" "1"
+		}
+    }
+    "50"
+    {
+		"Name" "#INF_ITEM_50_TEXT"
+		"Description" "#INF_ITEM_50_DESC"
+		"IconTexture" "icons/items/misc/potion02"
+		"ItemInfo1" "14"
+		"Type" "1"
+		"SubType" "2"
+		"Rarity" "1"
+		"Level" "5"
+		"MiscData"
+		{
+			"ConsumeValue" "50"
+			"SellValue" "10"
+			"Cooldown" "35"
+			"CanTrade" "1"
+		}
+    }
+    "67"
+    {
+		"Name" "#INF_ITEM_67_TEXT"
+		"Description" "#INF_ITEM_67_DESC"
+		"IconTexture" "icons/items/misc/meat01"
+		"ItemInfo1" "15"
+		"Type" "1"
+		"SubType" "3"
+		"Rarity" "1"
+		"Level" "10"
+		"MiscData"
+		{
+			"ConsumeValue" "50"
+			"SellValue" "15"
+			"Cooldown" "0.2"
+			"CanTrade" "1"
+		}
+    }
+}

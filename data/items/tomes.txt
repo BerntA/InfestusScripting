@@ -1,0 +1,168 @@
+"Items"
+{
+    "21"
+    {
+		"Name" "#INF_ITEM_21_TEXT"
+		"IconTexture" "icons/items/misc/scroll01"
+		"ItemInfo1" "13"
+		"Type" "1"
+		"SubType" "0"
+		"Rarity" "1"
+		"Level" "3"
+		"MiscData"
+		{
+			"ConsumeValue" "1"
+			"SellValue" "20"
+		}
+    }
+    "22"
+    {
+		"Name" "#INF_ITEM_22_TEXT"
+		"IconTexture" "icons/items/misc/scroll01"
+		"ItemInfo1" "13"
+		"Type" "1"
+		"SubType" "0"
+		"Rarity" "1"
+		"Level" "5"
+		"MiscData"
+		{
+			"ConsumeValue" "2"
+			"SellValue" "35"
+		}
+    }
+    "23"
+    {
+		"Name" "#INF_ITEM_23_TEXT"
+		"IconTexture" "icons/items/misc/scroll01"
+		"ItemInfo1" "13"
+		"Type" "1"
+		"SubType" "0"
+		"Rarity" "2"
+		"Level" "5"
+		"MiscData"
+		{
+			"ConsumeValue" "4"
+			"SellValue" "40"
+		}
+    }
+    "24"
+    {
+		"Name" "#INF_ITEM_24_TEXT"
+		"IconTexture" "icons/items/misc/scroll01"
+		"ItemInfo1" "13"
+		"Type" "1"
+		"SubType" "0"
+		"Rarity" "2"
+		"Level" "8"
+		"MiscData"
+		{
+			"ConsumeValue" "3"
+			"SellValue" "75"
+		}
+    }
+    "36"
+    {
+		"Name" "#INF_ITEM_36_TEXT"
+		"IconTexture" "icons/items/misc/scroll01"
+		"ItemInfo1" "13"
+		"Type" "1"
+		"SubType" "0"
+		"Rarity" "2"
+		"Level" "10"
+		"MiscData"
+		{
+			"ConsumeValue" "5"
+			"SellValue" "125"
+		}
+    }
+    "53"
+    {
+		"Name" "#INF_ITEM_53_TEXT"
+		"IconTexture" "icons/items/misc/scroll01"
+		"ItemInfo1" "13"
+		"Type" "1"
+		"SubType" "0"
+		"Rarity" "2"
+		"Level" "8"
+		"MiscData"
+		{
+			"ConsumeValue" "6"
+			"SellValue" "50"
+		}
+    }
+    "54"
+    {
+		"Name" "#INF_ITEM_54_TEXT"
+		"IconTexture" "icons/items/misc/scroll01"
+		"ItemInfo1" "13"
+		"Type" "1"
+		"SubType" "0"
+		"Rarity" "2"
+		"Level" "10"
+		"MiscData"
+		{
+			"ConsumeValue" "9"
+			"SellValue" "100"
+		}
+    }
+    "55"
+    {
+		"Name" "#INF_ITEM_55_TEXT"
+		"IconTexture" "icons/items/misc/scroll01"
+		"ItemInfo1" "13"
+		"Type" "1"
+		"SubType" "0"
+		"Rarity" "1"
+		"Level" "5"
+		"MiscData"
+		{
+			"ConsumeValue" "7"
+			"SellValue" "30"
+		}
+    }
+    "56"
+    {
+		"Name" "#INF_ITEM_56_TEXT"
+		"IconTexture" "icons/items/misc/scroll01"
+		"ItemInfo1" "13"
+		"Type" "1"
+		"SubType" "0"
+		"Rarity" "2"
+		"Level" "10"
+		"MiscData"
+		{
+			"ConsumeValue" "10"
+			"SellValue" "100"
+		}
+    }
+    "68"
+    {
+		"Name" "#INF_ITEM_68_TEXT"
+		"IconTexture" "icons/items/misc/scroll01"
+		"ItemInfo1" "13"
+		"Type" "1"
+		"SubType" "0"
+		"Rarity" "2"
+		"Level" "8"
+		"MiscData"
+		{
+			"ConsumeValue" "11"
+			"SellValue" "75"
+		}
+    }
+    "72"
+    {
+		"Name" "#INF_ITEM_72_TEXT"
+		"IconTexture" "icons/items/misc/scroll01"
+		"ItemInfo1" "13"
+		"Type" "1"
+		"SubType" "0"
+		"Rarity" "2"
+		"Level" "8"
+		"MiscData"
+		{
+			"ConsumeValue" "8"
+			"SellValue" "75"
+		}
+    }
+}

@@ -1,0 +1,61 @@
+"Items"
+{
+    "1"
+    {
+		"Name" "#INF_ITEM_1_TEXT"
+		"IconTexture" "icons/items/armor/chest01"
+		"ItemInfo1" "2"
+		"ItemInfo2" "4"
+		"ItemLevel" "39"
+		"Type" "0"
+		"SubType" "1"
+		"Rarity" "1"
+		"Level" "5"
+		"IsUnique" "1"
+		"StatData"
+		{
+			"Armor" "70"
+			"Stamina" "4"
+			"Strength" "2"
+			"Agility" "1"
+		}
+		"ModelData"
+		{
+			"Model" "models/items/chests/chest01.mdl"
+		}
+		"MiscData"
+		{
+			"SellValue" "60"
+			"CanTrade" "1"
+		}
+    }
+    "66"
+    {
+		"Name" "#INF_ITEM_66_TEXT"
+		"IconTexture" "icons/items/armor/chest01"
+		"ItemInfo1" "2"
+		"ItemInfo2" "4"
+		"ItemLevel" "82"
+		"Type" "0"
+		"SubType" "1"
+		"Rarity" "2"
+		"Level" "10"
+		"IsUnique" "1"
+		"StatData"
+		{
+			"Armor" "120"
+			"Stamina" "9"
+			"Strength" "4"
+			"Agility" "3"
+		}
+		"ModelData"
+		{
+			"Model" "models/items/chests/chest01.mdl"
+		}
+		"MiscData"
+		{
+			"SellValue" "125"
+			"CanTrade" "1"
+		}
+    }
+}

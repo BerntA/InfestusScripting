@@ -1,0 +1,244 @@
+"Items"
+{
+    "2"
+    {
+		"Name" "#INF_ITEM_2_TEXT"
+		"IconTexture" "icons/items/armor/helm01"
+		"ItemInfo1" "1"
+		"ItemInfo2" "3"
+		"ItemLevel" "10"
+		"Type" "0"
+		"SubType" "0"
+		"Rarity" "1"
+		"Level" "1"
+		"IsUnique" "1"
+		"StatData"
+		{
+			"Armor" "20"
+			"Stamina" "2"
+		}
+		"ModelData"
+		{
+			"Model" "models/items/helmets/helm01.mdl"
+		}
+		"MiscData"
+		{
+			"SellValue" "15"
+			"CanTrade" "1"
+		}
+    }
+    "3"
+    {
+		"Name" "#INF_ITEM_3_TEXT"
+		"IconTexture" "icons/items/armor/helm02"
+		"ItemInfo1" "1"
+		"ItemInfo2" "4"
+		"ItemLevel" "45"
+		"Type" "0"
+		"SubType" "0"
+		"Rarity" "2"
+		"Level" "5"
+		"IsUnique" "1"
+		"StatData"
+		{
+			"Armor" "54"
+			"Stamina" "6"
+			"Strength" "3"
+		}
+		"ModelData"
+		{
+			"Model" "models/items/helmets/helm02.mdl"
+		}
+		"MiscData"
+		{
+			"SellValue" "65"
+			"CanTrade" "1"
+		}
+    }
+    "4"
+    {
+		"Name" "#INF_ITEM_4_TEXT"
+		"IconTexture" "icons/items/armor/helm03"
+		"ItemInfo1" "1"
+		"ItemInfo2" "4"
+		"ItemLevel" "70"
+		"Type" "0"
+		"SubType" "0"
+		"Rarity" "2"
+		"Level" "8"
+		"IsUnique" "1"
+		"StatData"
+		{
+			"Armor" "75"
+			"Stamina" "7"
+			"Strength" "3"
+			"Agility" "2"
+			"Intellect" "3"
+		}
+		"ModelData"
+		{
+			"Model" "models/items/helmets/helm03.mdl"
+		}
+		"MiscData"
+		{
+			"SellValue" "105"
+		}
+    }
+    "41"
+    {
+		"Name" "#INF_ITEM_41_TEXT"
+		"Description" "#INF_ITEM_41_DESC"
+		"IconTexture" "icons/items/armor/crusader_helm"
+		"ItemInfo1" "1"
+		"ItemInfo2" "4"
+		"ItemLevel" "108"
+		"Type" "0"
+		"SubType" "0"
+		"Rarity" "2"
+		"Level" "12"
+		"IsUnique" "1"
+		"StatData"
+		{
+			"Armor" "92"
+			"Stamina" "12"
+			"Strength" "5"
+			"Agility" "-2"
+			"Intellect" "-4"
+		}
+		"EquipData"
+		{
+			"Focus" "25"
+		}
+		"ResistanceData"
+		{
+			"Fire" "5"
+			"Water" "5"
+			"Shadow" "5"
+			"Earth" "5"
+			"Wind" "5"
+		}
+		"ModelData"
+		{
+			"Model" "models/items/helmets/crusader_helm_1.mdl"
+		}
+		"MiscData"
+		{
+			"SellValue" "160"
+			"CanTrade" "1"
+		}
+    }
+    "42"
+    {
+		"Name" "#INF_ITEM_42_TEXT"
+		"Description" "#INF_ITEM_42_DESC"
+		"IconTexture" "icons/items/armor/helm08"
+		"ItemInfo1" "1"
+		"ItemInfo2" "4"
+		"ItemLevel" "115"
+		"Type" "0"
+		"SubType" "0"
+		"Rarity" "2"
+		"Level" "10"
+		"IsUnique" "1"
+		"StatData"
+		{
+			"Armor" "83"
+			"Stamina" "9"
+			"Strength" "13"
+			"Agility" "7"
+			"Intellect" "-5"
+		}
+		"ResistanceData"
+		{
+			"Fire" "-5"
+			"Water" "-5"
+			"Shadow" "10"
+			"Earth" "-5"
+			"Wind" "-5"
+		}
+		"ModelData"
+		{
+			"Model" "models/items/helmets/helm08.mdl"
+		}
+		"MiscData"
+		{
+			"SellValue" "175"
+			"CanTrade" "1"
+		}
+    }
+    "43"
+    {
+		"Name" "#INF_ITEM_43_TEXT"
+		"IconTexture" "icons/items/armor/helm06"
+		"ItemInfo1" "1"
+		"ItemInfo2" "3"
+		"ItemLevel" "60"
+		"Type" "0"
+		"SubType" "0"
+		"Rarity" "2"
+		"Level" "8"
+		"IsUnique" "1"
+		"StatData"
+		{
+			"Armor" "65"
+			"Stamina" "5"
+			"Strength" "8"
+			"Agility" "2"
+		}
+		"EquipData"
+		{
+			"AttackPower" "50"
+		}
+		"ModelData"
+		{
+			"Model" "models/items/helmets/helm06.mdl"
+		}
+		"MiscData"
+		{
+			"SellValue" "85"
+			"CanTrade" "1"
+		}
+    }
+    "44"
+    {
+		"Name" "#INF_ITEM_44_TEXT"
+		"Description" "#INF_ITEM_44_DESC"
+		"IconTexture" "icons/items/armor/helm07"
+		"ItemInfo1" "1"
+		"ItemInfo2" "1"
+		"ItemLevel" "95"
+		"Type" "0"
+		"SubType" "0"
+		"Rarity" "2"
+		"Level" "10"
+		"IsUnique" "1"
+		"StatData"
+		{
+			"Armor" "34"
+			"Stamina" "7"
+			"Intellect" "16"
+		}
+		"EquipData"
+		{
+			"SpellPower" "25"
+			"Focus" "50"
+		}
+		"ResistanceData"
+		{
+			"Fire" "5"
+			"Water" "5"
+			"Shadow" "5"
+			"Earth" "5"
+			"Wind" "5"
+		}
+		"ModelData"
+		{
+			"Model" "models/items/helmets/helm07.mdl"
+		}
+		"MiscData"
+		{
+			"SellValue" "140"
+			"CanTrade" "1"
+		}
+    }
+}

@@ -1,0 +1,75 @@
+"Items"
+{
+    "39"
+    {
+		"Name" "#INF_ITEM_39_TEXT"
+		"IconTexture" "icons/items/weapon/bow01"
+		"ItemInfo1" "18"
+		"ItemInfo2" "12"
+		"ItemLevel" "47"
+		"Type" "0"
+		"SubType" "11"
+		"Rarity" "1"
+		"Level" "5"
+		"IsUnique" "1"
+		"StatData"
+		{
+			"Stamina" "3"
+			"Agility" "8"
+		}
+		"EquipData"
+		{
+			"AttackPower" "10"
+			"DamageMin" "13"
+			"DamageMax" "19"
+			"AttackSpeed" "0.85"
+			"RangeMax" "350"
+		}
+		"ModelData"
+		{
+			"Model" "models/items/bows/bow01.mdl"
+		}
+		"MiscData"
+		{
+			"SellValue" "60"
+			"CanTrade" "1"
+		}
+    }
+    "45"
+    {
+		"Name" "#INF_ITEM_45_TEXT"
+		"IconTexture" "icons/items/weapon/bow01"
+		"ItemInfo1" "18"
+		"ItemInfo2" "12"
+		"ItemLevel" "94"
+		"Type" "0"
+		"SubType" "11"
+		"Rarity" "2"
+		"Level" "8"
+		"IsUnique" "1"
+		"StatData"
+		{
+			"Stamina" "7"
+			"Strength" "4"
+			"Agility" "13"
+			"Intellect" "2"
+		}
+		"EquipData"
+		{
+			"AttackPower" "15"
+			"DamageMin" "23"
+			"DamageMax" "29"
+			"AttackSpeed" "0.82"
+			"RangeMax" "350"
+		}
+		"ModelData"
+		{
+			"Model" "models/items/bows/bow01.mdl"
+		}
+		"MiscData"
+		{
+			"SellValue" "140"
+			"CanTrade" "1"
+		}
+    }
+}

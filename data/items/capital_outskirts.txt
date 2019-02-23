@@ -1,0 +1,148 @@
+"Items"
+{
+    "25"
+    {
+		"Name" "#INF_ITEM_25_TEXT"
+		"Description" "#INF_ITEM_25_DESC"
+		"IconTexture" "icons/items/misc/parchment01"
+		"ItemInfo1" "16"
+		"Type" "2"
+		"SubType" "0"
+		"Rarity" "1"
+		"MiscData"
+		{
+			"ConsumeValue" "1"
+		}
+    }
+    "26"
+    {
+		"Name" "#INF_ITEM_26_TEXT"
+		"IconTexture" "icons/items/misc/pelt01"
+		"ItemInfo1" "17"
+		"Type" "2"
+		"SubType" "1"
+    }
+    "27"
+    {
+		"Name" "#INF_ITEM_27_TEXT"
+		"IconTexture" "icons/items/misc/meat02"
+		"ItemInfo1" "17"
+		"Type" "2"
+		"SubType" "1"
+    }
+    "28"
+    {
+		"Name" "#INF_ITEM_28_TEXT"
+		"IconTexture" "icons/items/misc/flourbag"
+		"ItemInfo1" "17"
+		"Type" "2"
+		"SubType" "1"
+		"ModelData"
+		{
+			"Model" "models/flourbag.mdl"
+		}
+    }
+    "29"
+    {
+		"Name" "#INF_ITEM_29_TEXT"
+		"IconTexture" "icons/items/misc/pumpkin01"
+		"ItemInfo1" "17"
+		"Type" "2"
+		"SubType" "1"
+		"ModelData"
+		{
+			"Model" "models/plantlife/pumpkin/pumpkin.mdl"
+		}
+    }
+    "30"
+    {
+		"Name" "#INF_ITEM_30_TEXT"
+		"IconTexture" "icons/items/misc/mushroom01"
+		"ItemInfo1" "17"
+		"Type" "2"
+		"SubType" "1"
+		"Rarity" "1"
+		"ModelData"
+		{
+			"Model" "models/items/misc/mushroom01.mdl"
+		}
+    }
+    "31"
+    {
+		"Name" "#INF_ITEM_31_TEXT"
+		"IconTexture" "icons/items/misc/book01"
+		"ItemInfo1" "16"
+		"Type" "2"
+		"SubType" "0"
+		"Rarity" "1"
+		"ModelData"
+		{
+			"Model" "models/aoc_objects/book_medium_static.mdl"
+			"Skin" "1"
+		}
+		"MiscData"
+		{
+			"ConsumeValue" "2"
+		}
+    }
+    "32"
+    {
+		"Name" "#INF_ITEM_32_TEXT"
+		"IconTexture" "icons/items/misc/book01"
+		"ItemInfo1" "16"
+		"Type" "2"
+		"SubType" "0"
+		"Rarity" "1"
+		"ModelData"
+		{
+			"Model" "models/aoc_objects/book_medium_static.mdl"
+			"Skin" "2"
+		}
+		"MiscData"
+		{
+			"ConsumeValue" "3"
+		}
+    }
+    "33"
+    {
+		"Name" "#INF_ITEM_33_TEXT"
+		"IconTexture" "icons/items/misc/box01"
+		"ItemInfo1" "17"
+		"Type" "2"
+		"SubType" "1"
+		"Rarity" "1"
+		"ModelData"
+		{
+			"Model" "models/aoc_objects/smallbox.mdl"
+		}
+    }
+    "34"
+    {
+		"Name" "#INF_ITEM_34_TEXT"
+		"IconTexture" "icons/items/misc/parchment02"
+		"ItemInfo1" "17"
+		"Type" "2"
+		"SubType" "1"
+		"Rarity" "1"
+		"ModelData"
+		{
+			"Model" "models/aoc_objects/scroll02_static.mdl"
+			"Skin" "3"
+		}
+    }
+    "35"
+    {
+		"Name" "#INF_ITEM_35_TEXT"
+		"Description" "#INF_ITEM_35_DESC"
+		"IconTexture" "icons/items/misc/book02"
+		"ItemInfo1" "17"
+		"Type" "2"
+		"SubType" "1"
+		"Rarity" "3"
+		"ModelData"
+		{
+			"Model" "models/aoc_objects/book_medium_static.mdl"
+			"Skin" "7"
+		}
+    }
+}

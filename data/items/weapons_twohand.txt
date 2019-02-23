@@ -1,0 +1,163 @@
+"Items"
+{
+    "11"
+    {
+		"Name" "#INF_ITEM_11_TEXT"
+		"IconTexture" "icons/items/weapon/sword04"
+		"ItemInfo1" "11"
+		"ItemInfo2" "5"
+		"ItemLevel" "70"
+		"Type" "0"
+		"SubType" "9"
+		"Rarity" "2"
+		"Level" "7"
+		"IsUnique" "1"
+		"StatData"
+		{
+			"Stamina" "7"
+			"Strength" "5"
+			"Agility" "4"
+			"Intellect" "2"
+		}
+		"EquipData"
+		{
+			"AttackPower" "12"
+			"SpellPower" "10"
+			"DamageMin" "20"
+			"DamageMax" "35"
+			"AttackSpeed" "1.1"
+			"RangeMax" "95"
+		}
+		"ModelData"
+		{
+			"Model" "models/items/swords/sword04.mdl"
+		}
+		"MiscData"
+		{
+			"SellValue" "105"
+			"CanTrade" "1"
+		}
+    }
+    "12"
+    {
+		"Name" "#INF_ITEM_12_TEXT"
+		"Description" "#INF_ITEM_12_DESC"
+		"IconTexture" "icons/items/weapon/sword05"
+		"ItemInfo1" "11"
+		"ItemInfo2" "5"
+		"ItemLevel" "68"
+		"Type" "0"
+		"SubType" "9"
+		"Rarity" "2"
+		"Level" "6"
+		"IsUnique" "1"
+		"StatData"
+		{
+			"Stamina" "5"
+			"Strength" "7"
+			"Agility" "4"
+			"Intellect" "3"
+		}
+		"EquipData"
+		{
+			"AttackPower" "14"
+			"SpellPower" "5"
+			"DamageMin" "21"
+			"DamageMax" "36"
+			"AttackSpeed" "1.15"
+			"RangeMax" "95"
+		}
+		"ModelData"
+		{
+			"Model" "models/items/swords/sword05.mdl"
+		}
+		"MiscData"
+		{
+			"SellValue" "115"
+		}
+    }
+    "37"
+    {
+		"Name" "#INF_ITEM_37_TEXT"
+		"Description" "#INF_ITEM_37_DESC"
+		"IconTexture" "icons/items/weapon/mace04"
+		"ItemInfo1" "11"
+		"ItemInfo2" "7"
+		"ItemLevel" "125"
+		"Type" "0"
+		"SubType" "9"
+		"Rarity" "2"
+		"Level" "10"
+		"IsUnique" "1"
+		"StatData"
+		{
+			"Stamina" "12"
+			"Strength" "10"
+			"Agility" "7"
+			"Intellect" "-8"
+		}
+		"EquipData"
+		{
+			"AttackPower" "35"
+			"DamageMin" "24"
+			"DamageMax" "39"
+			"AttackSpeed" "1.15"
+			"RangeMax" "95"
+		}
+		"ResistanceData"
+		{
+			"Fire" "-5"
+			"Water" "-5"
+			"Shadow" "-5"
+			"Earth" "-5"
+			"Wind" "-5"
+		}
+		"ModelData"
+		{
+			"Model" "models/items/maces/mace04.mdl"
+		}
+		"MiscData"
+		{
+			"SellValue" "175"
+			"ItemFlags" "4"
+			"CanTrade" "1"
+		}
+    }
+    "38"
+    {
+		"Name" "#INF_ITEM_38_TEXT"
+		"IconTexture" "icons/items/weapon/axe02"
+		"ItemInfo1" "11"
+		"ItemInfo2" "6"
+		"ItemLevel" "86"
+		"Type" "0"
+		"SubType" "9"
+		"Rarity" "2"
+		"Level" "8"
+		"IsUnique" "1"
+		"StatData"
+		{
+			"Stamina" "7"
+			"Strength" "11"
+			"Agility" "5"
+		}
+		"EquipData"
+		{
+			"AttackPower" "45"
+			"DamageMin" "23"
+			"DamageMax" "38"
+			"AttackSpeed" "1.05"
+			"RangeMax" "95"
+		}
+		"ModelData"
+		{
+			"Model" "models/items/axes/axe02.mdl"
+		}
+		"MiscData"
+		{
+			"SellValue" "130"
+			"ItemFlags" "4"
+			"CanTrade" "1"
+		}
+    }
+}
