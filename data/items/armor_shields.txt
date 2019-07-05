@@ -11,7 +11,6 @@
 		"Type" "0"
 		"SubType" "10"
 		"Rarity" "2"
-		"Level" "8"
 		"IsUnique" "1"
 		"StatData"
 		{
@@ -182,7 +181,7 @@
     {
 		"Name" "#INF_ITEM_61_TEXT"
 		"IconTexture" "icons/items/weapon/shield03_02"
-		"ItemInfo1" "10"
+		"ItemInfo1" "19"
 		"ItemInfo2" "11"
 		"ItemLevel" "150"
 		"Type" "0"
@@ -223,7 +222,6 @@
 		"Type" "0"
 		"SubType" "10"
 		"Rarity" "2"
-		"Level" "6"
 		"IsUnique" "1"
 		"StatData"
 		{
@@ -244,7 +242,6 @@
 		{
 			"SellValue" "87"
 			"ItemFlags" "2"
-			"CanTrade" "1"
 		}
     }
 }

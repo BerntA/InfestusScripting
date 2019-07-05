@@ -10,7 +10,6 @@
 		"Type" "0"
 		"SubType" "3"
 		"Rarity" "2"
-		"Level" "10"
 		"IsUnique" "1"
 		"StatData"
 		{
@@ -41,7 +40,6 @@
 		"Type" "0"
 		"SubType" "3"
 		"Rarity" "2"
-		"Level" "10"
 		"IsUnique" "1"
 		"StatData"
 		{

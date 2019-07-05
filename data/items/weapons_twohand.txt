@@ -49,7 +49,6 @@
 		"Type" "0"
 		"SubType" "9"
 		"Rarity" "2"
-		"Level" "6"
 		"IsUnique" "1"
 		"StatData"
 		{
@@ -133,7 +132,6 @@
 		"Type" "0"
 		"SubType" "9"
 		"Rarity" "2"
-		"Level" "8"
 		"IsUnique" "1"
 		"StatData"
 		{
@@ -157,7 +155,6 @@
 		{
 			"SellValue" "130"
 			"ItemFlags" "4"
-			"CanTrade" "1"
 		}
     }
 }
