@@ -21,12 +21,12 @@
 		}
 		"EquipData"
 		{
-			"AttackPower" "12"
+			"MeleeAttackPower" "12"
 			"SpellPower" "10"
 			"DamageMin" "20"
 			"DamageMax" "35"
 			"AttackSpeed" "1.1"
-			"RangeMax" "95"
+			"RangeMax" "90"
 		}
 		"ModelData"
 		{
@@ -59,12 +59,12 @@
 		}
 		"EquipData"
 		{
-			"AttackPower" "14"
+			"MeleeAttackPower" "14"
 			"SpellPower" "5"
 			"DamageMin" "21"
 			"DamageMax" "36"
 			"AttackSpeed" "1.15"
-			"RangeMax" "95"
+			"RangeMax" "90"
 		}
 		"ModelData"
 		{
@@ -97,11 +97,11 @@
 		}
 		"EquipData"
 		{
-			"AttackPower" "35"
+			"MeleeAttackPower" "35"
 			"DamageMin" "24"
 			"DamageMax" "39"
 			"AttackSpeed" "1.15"
-			"RangeMax" "95"
+			"RangeMax" "90"
 		}
 		"ResistanceData"
 		{
@@ -141,11 +141,11 @@
 		}
 		"EquipData"
 		{
-			"AttackPower" "45"
+			"MeleeAttackPower" "45"
 			"DamageMin" "23"
 			"DamageMax" "38"
 			"AttackSpeed" "1.05"
-			"RangeMax" "95"
+			"RangeMax" "90"
 		}
 		"ModelData"
 		{

@@ -60,7 +60,7 @@
 		"SubType" "2"
 		"MiscData"
 		{
-			"SellValue" "5"
+			"SellValue" "2"
 			"CanTrade" "1"
 		}
     }

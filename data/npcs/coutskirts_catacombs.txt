@@ -34,10 +34,10 @@
 		"Name" "#INF_NPC_32_NAME"
 		"Level" "10"
 		"Health" "350"
-		"CollisionHeight" "70"
+		"CollisionHeight" "45"
 		"CollisionHeightCorpse" "35"
 		"Soundscript" "Rat"
-		"Experience" "250"
+		"Experience" "200"
 		"RelationshipID" "2"
 		"ZoneLink" "2"
 		"Attributes"
@@ -47,6 +47,7 @@
 			"DamageMax" "37"
 			"AttackSpeed" "0.85"
 			"AttackRange" "80"
+			"WalkSpeed" "55"
 			"DrainerRegenRate" "0.03"
 			"FireResistance" "-15"
 			"WaterResistance" "-15"
@@ -59,10 +60,6 @@
 			"70"
 			{
 				"Percentage" "55"
-			}
-			"46"
-			{
-				"Percentage" "10"
 			}
 		}
 		"ModelData"
@@ -89,7 +86,7 @@
 		"CollisionHeight" "86"
 		"CollisionHeightCorpse" "43"
 		"Soundscript" "Skeleton"
-		"Experience" "400"
+		"Experience" "300"
 		"RelationshipID" "2"
 		"ZoneLink" "2"
 		"Attributes"
@@ -107,7 +104,7 @@
 		{
 			"45"
 			{
-				"Percentage" "15"
+				"Percentage" "35"
 			}
 			"64"
 			{
@@ -138,22 +135,25 @@
     {
 		"Name" "#INF_NPC_34_NAME"
 		"Level" "14"
-		"Health" "3750"
+		"Health" "4000"
 		"Drainer" "300"
 		"CollisionHeight" "90"
 		"IsBoss" "1"
 		"Soundscript" "Moroes"
 		"ReputationID" "1"
 		"RepExperience" "50"
-		"MoneyReward" "100"
-		"Experience" "1500"
+		"MoneyRewardMin" "100"
+		"Experience" "1250"
 		"RelationshipID" "2"
 		"ZoneLink" "2"
 		"Attributes"
 		{
 			"Armor" "1200"
 			"AttackRange" "90"
-			"DrainerRegenRate" "0.011"
+			"DrainerRegenRate" "0.01"
+			"MeleeDMGFactor" "1.2"
+			"RangedDMGFactor" "0.5"
+			"MagicDMGFactor" "2"
 			"FireResistance" "55"
 			"WaterResistance" "55"
 			"ShadowResistance" "100"
@@ -209,8 +209,8 @@
 		"Soundscript" "Guardian"
 		"ReputationID" "1"
 		"RepExperience" "25"
-		"MoneyReward" "50"
-		"Experience" "1000"
+		"MoneyRewardMin" "50"
+		"Experience" "750"
 		"RelationshipID" "2"
 		"ZoneLink" "2"
 		"Attributes"
@@ -218,14 +218,16 @@
 			"Armor" "2000"
 			"DamageMin" "31"
 			"DamageMax" "39"
+			"AttackSpeed" "0.95"
 			"AttackRange" "95"
-			"MovementSpeed" "0.75"
+			"WalkSpeed" "35"
+			"RunSpeed" "60"
 			"DrainerRegenRate" "0.03"
-			"FireResistance" "-250"
-			"WaterResistance" "-250"
-			"ShadowResistance" "-250"
-			"EarthResistance" "-250"
-			"WindResistance" "-250"
+			"FireResistance" "-200"
+			"WaterResistance" "-200"
+			"ShadowResistance" "-200"
+			"EarthResistance" "-200"
+			"WindResistance" "-200"
 		}
 		"Loots"
 		{
@@ -236,6 +238,10 @@
 			"41"
 			{
 				"Percentage" "80"
+			}
+			"46"
+			{
+				"Percentage" "30"
 			}
 		}
 		"ModelData"
@@ -261,22 +267,23 @@
 		"Name" "#INF_NPC_36_NAME"
 		"Level" "13"
 		"Health" "2500"
-		"Drainer" "200"
+		"Drainer" "250"
 		"CollisionHeight" "120"
 		"CollisionHeightCorpse" "52"
 		"IsBoss" "1"
 		"Soundscript" "Skeleton"
 		"ReputationID" "1"
 		"RepExperience" "25"
-		"MoneyReward" "50"
-		"Experience" "1000"
+		"MoneyRewardMin" "50"
+		"Experience" "500"
 		"RelationshipID" "2"
 		"ZoneLink" "2"
 		"Attributes"
 		{
 			"Armor" "750"
 			"AttackRange" "90"
-			"DrainerRegenRate" "0.026"
+			"DrainerRegenRate" "0.025"
+			"MeleeDMGFactor" "1.25"
 			"FireResistance" "15"
 			"WaterResistance" "15"
 			"ShadowResistance" "15"
@@ -340,14 +347,17 @@
 		"CollisionHeight" "105"
 		"CollisionHeightCorpse" "45"
 		"Soundscript" "Skeleton"
-		"Experience" "650"
+		"Experience" "450"
 		"RelationshipID" "2"
 		"ZoneLink" "2"
 		"Attributes"
 		{
 			"Armor" "1000"
+			"AttackSpeed" "0.7"
 			"AttackRange" "100"
 			"DrainerRegenRate" "0.015"
+			"MeleeDMGFactor" "1.5"
+			"RangedDMGFactor" "1.35"
 			"FireResistance" "-50"
 			"WaterResistance" "-50"
 			"ShadowResistance" "-50"
@@ -363,11 +373,11 @@
 		{
 			"48"
 			{
-				"Percentage" "10"
+				"Percentage" "20"
 			}
 			"43"
 			{
-				"Percentage" "15"
+				"Percentage" "30"
 			}
 			"64"
 			{
@@ -403,7 +413,7 @@
 		"CollisionHeight" "112"
 		"CollisionHeightCorpse" "48"
 		"Soundscript" "Skeleton"
-		"Experience" "700"
+		"Experience" "400"
 		"RelationshipID" "2"
 		"ZoneLink" "2"
 		"Attributes"
@@ -426,7 +436,7 @@
 		{
 			"60"
 			{
-				"Percentage" "20"
+				"Percentage" "35"
 			}
 			"64"
 			{
@@ -462,8 +472,8 @@
 		"CollisionHeight" "113"
 		"CollisionHeightCorpse" "50"
 		"Soundscript" "Skeleton"
-		"MoneyReward" "10"
-		"Experience" "1000"
+		"MoneyRewardMin" "10"
+		"Experience" "500"
 		"RelationshipID" "2"
 		"ZoneLink" "2"
 		"Attributes"
@@ -521,11 +531,11 @@
     {
 		"Name" "#INF_NPC_40_NAME"
 		"Level" "8"
-		"Health" "500"
+		"Health" "350"
 		"CollisionHeight" "86"
 		"CollisionHeightCorpse" "43"
 		"Soundscript" "Skeleton"
-		"Experience" "200"
+		"Experience" "100"
 		"RelationshipID" "2"
 		"ZoneLink" "2"
 		"Attributes"
@@ -533,11 +543,14 @@
 			"Armor" "150"
 			"AttackRange" "100"
 			"DrainerRegenRate" "0.035"
-			"FireResistance" "-100"
-			"WaterResistance" "-100"
-			"ShadowResistance" "-100"
-			"EarthResistance" "-100"
-			"WindResistance" "-100"
+			"MeleeDMGFactor" "0.75"
+			"RangedDMGFactor" "0.5"
+			"MagicDMGFactor" "0.5"
+			"FireResistance" "-125"
+			"WaterResistance" "-125"
+			"ShadowResistance" "-125"
+			"EarthResistance" "-125"
+			"WindResistance" "-125"
 		}
 		"Loots"
 		{

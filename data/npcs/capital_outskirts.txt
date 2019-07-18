@@ -243,6 +243,7 @@
 			"0" "11"
 			"1" "19"
 			"2" "21"
+			"3" "22"
 		}
     }
     "10"
@@ -509,13 +510,13 @@
 		"Level" "3"
 		"Health" "130"
 		"Soundscript" "Smuggler"
-		"Experience" "100"
+		"Experience" "135"
 		"RelationshipID" "2"
 		"ZoneLink" "1"
 		"Attributes"
 		{
 			"Armor" "250"
-			"AttackSpeed" "0.75"
+			"AttackSpeed" "0.9"
 			"AttackRange" "70"
 			"DrainerRegenRate" "0.025"
 		}
@@ -527,11 +528,11 @@
 		{
 			"3"
 			{
-				"Percentage" "4"
+				"Percentage" "40"
 			}
 			"15"
 			{
-				"Percentage" "1.5"
+				"Percentage" "25"
 			}
 		}
 		"ModelData"
@@ -547,7 +548,7 @@
 		"Level" "7"
 		"Health" "600"
 		"Soundscript" "Smuggler"
-		"MoneyReward" "5"
+		"MoneyRewardMin" "5"
 		"Experience" "350"
 		"RelationshipID" "2"
 		"ZoneLink" "1"
@@ -556,6 +557,7 @@
 			"Armor" "700"
 			"AttackRange" "90"
 			"DrainerRegenRate" "0.025"
+			"MeleeDMGFactor" "1.15"
 		}
 		"Spells"
 		{
@@ -565,11 +567,11 @@
 		{
 			"11"
 			{
-				"Percentage" "2"
+				"Percentage" "10"
 			}
 			"10"
 			{
-				"Percentage" "4"
+				"Percentage" "25"
 			}
 		}
 		"ModelData"
@@ -584,8 +586,9 @@
 		"Name" "#INF_NPC_22_NAME"
 		"Level" "2"
 		"Health" "80"
+		"CollisionHeight" "52"
 		"Soundscript" "Wolf"
-		"Experience" "100"
+		"Experience" "115"
 		"RelationshipID" "2"
 		"ZoneLink" "1"
 		"Attributes"
@@ -593,6 +596,7 @@
 			"DamageMin" "4"
 			"DamageMax" "8"
 			"AttackRange" "75"
+			"WalkSpeed" "60"
 		}
 		"Loots"
 		{
@@ -631,8 +635,9 @@
 		"Name" "#INF_NPC_23_NAME"
 		"Level" "5"
 		"Health" "140"
+		"CollisionHeight" "52"
 		"Soundscript" "Wolf"
-		"Experience" "150"
+		"Experience" "175"
 		"RelationshipID" "2"
 		"ZoneLink" "1"
 		"Attributes"
@@ -641,6 +646,7 @@
 			"DamageMin" "12"
 			"DamageMax" "20"
 			"AttackRange" "70"
+			"WalkSpeed" "60"
 		}
 		"Loots"
 		{
@@ -651,6 +657,10 @@
 			"27"
 			{
 				"Percentage" "65"
+			}
+			"13"
+			{
+				"Percentage" "25"
 			}
 		}
 		"ModelData"
@@ -675,8 +685,9 @@
 		"Name" "#INF_NPC_24_NAME"
 		"Level" "8"
 		"Health" "300"
+		"CollisionHeight" "64"
 		"Soundscript" "Wolf"
-		"MoneyReward" "5"
+		"MoneyRewardMin" "5"
 		"Experience" "250"
 		"RelationshipID" "2"
 		"ZoneLink" "1"
@@ -685,8 +696,9 @@
 			"Armor" "1000"
 			"DamageMin" "28"
 			"DamageMax" "39"
-			"AttackSpeed" "0.75"
+			"AttackSpeed" "0.8"
 			"AttackRange" "80"
+			"WalkSpeed" "60"
 		}
 		"Loots"
 		{
@@ -735,9 +747,11 @@
 		"Attributes"
 		{
 			"Armor" "500"
-			"AttackSpeed" "0.5"
 			"AttackRange" "95"
 			"DrainerRegenRate" "0.035"
+			"MeleeDMGFactor" "2"
+			"RangedDMGFactor" "2"
+			"MagicDMGFactor" "2"
 			"FireResistance" "-25"
 			"WaterResistance" "-25"
 			"ShadowResistance" "-25"
@@ -758,7 +772,7 @@
 		"Level" "7"
 		"Health" "600"
 		"Soundscript" "Smuggler"
-		"MoneyReward" "5"
+		"MoneyRewardMin" "5"
 		"Experience" "350"
 		"RelationshipID" "2"
 		"ZoneLink" "1"
@@ -767,6 +781,7 @@
 			"Armor" "700"
 			"AttackRange" "90"
 			"DrainerRegenRate" "0.025"
+			"MeleeDMGFactor" "1.15"
 		}
 		"Spells"
 		{
@@ -776,11 +791,11 @@
 		{
 			"11"
 			{
-				"Percentage" "2"
+				"Percentage" "10"
 			}
 			"10"
 			{
-				"Percentage" "4"
+				"Percentage" "25"
 			}
 		}
 		"ModelData"
@@ -796,7 +811,7 @@
 		"Level" "7"
 		"Health" "600"
 		"Soundscript" "Smuggler"
-		"MoneyReward" "5"
+		"MoneyRewardMin" "5"
 		"Experience" "350"
 		"RelationshipID" "2"
 		"ZoneLink" "1"
@@ -805,6 +820,7 @@
 			"Armor" "700"
 			"AttackRange" "90"
 			"DrainerRegenRate" "0.025"
+			"MeleeDMGFactor" "1.15"
 		}
 		"Spells"
 		{
@@ -814,11 +830,11 @@
 		{
 			"11"
 			{
-				"Percentage" "2"
+				"Percentage" "10"
 			}
 			"10"
 			{
-				"Percentage" "4"
+				"Percentage" "25"
 			}
 		}
 		"ModelData"
@@ -857,7 +873,7 @@
 		"CollisionHeight" "130"
 		"CollisionHeightCorpse" "45"
 		"Soundscript" "Smuggler"
-		"MoneyReward" "10"
+		"MoneyRewardMin" "10"
 		"Experience" "500"
 		"RelationshipID" "2"
 		"ZoneLink" "1"
@@ -867,6 +883,7 @@
 			"AttackSpeed" "0.9"
 			"AttackRange" "100"
 			"DrainerRegenRate" "0.012"
+			"MeleeDMGFactor" "1.5"
 			"FireResistance" "25"
 			"WaterResistance" "25"
 			"ShadowResistance" "25"
@@ -882,7 +899,7 @@
 		{
 			"11"
 			{
-				"Percentage" "10"
+				"Percentage" "40"
 			}
 		}
 		"ModelData"

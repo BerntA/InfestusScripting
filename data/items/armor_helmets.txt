@@ -186,7 +186,7 @@
 		}
 		"EquipData"
 		{
-			"AttackPower" "50"
+			"MeleeAttackPower" "20"
 		}
 		"ModelData"
 		{

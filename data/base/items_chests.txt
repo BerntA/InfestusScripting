@@ -11,11 +11,11 @@
 			}
 			"62"
 			{
-				"Percentage" "5"
+				"Percentage" "10"
 			}
 			"47"
 			{
-				"Percentage" "75"
+				"Percentage" "55"
 			}
 			"54"
 			{

@@ -19,7 +19,7 @@
 		}
 		"EquipData"
 		{
-			"AttackPower" "10"
+			"RangedAttackPower" "10"
 			"DamageMin" "13"
 			"DamageMax" "19"
 			"AttackSpeed" "0.85"
@@ -56,7 +56,7 @@
 		}
 		"EquipData"
 		{
-			"AttackPower" "15"
+			"RangedAttackPower" "15"
 			"DamageMin" "23"
 			"DamageMax" "29"
 			"AttackSpeed" "0.82"

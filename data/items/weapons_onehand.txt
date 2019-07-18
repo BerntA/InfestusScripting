@@ -193,7 +193,7 @@
 		}
 		"EquipData"
 		{
-			"AttackPower" "5"
+			"MeleeAttackPower" "5"
 			"DamageMin" "11"
 			"DamageMax" "27"
 			"RangeMax" "80"
@@ -230,7 +230,7 @@
 		}
 		"EquipData"
 		{
-			"AttackPower" "10"
+			"MeleeAttackPower" "10"
 			"DamageMin" "13"
 			"DamageMax" "31"
 			"AttackSpeed" "1.05"
@@ -268,7 +268,7 @@
 		}
 		"EquipData"
 		{
-			"AttackPower" "15"
+			"MeleeAttackPower" "15"
 			"DamageMin" "13"
 			"DamageMax" "26"
 			"AttackSpeed" "0.77"
@@ -352,7 +352,7 @@
 		}
 		"EquipData"
 		{
-			"AttackPower" "12"
+			"MeleeAttackPower" "12"
 			"DamageMin" "12"
 			"DamageMax" "27"
 			"AttackSpeed" "0.75"

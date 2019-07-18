@@ -131,9 +131,9 @@
 		"LongDescription" "#INF_QUEST_21_DESC_LONG"
 		"LevelMin" "8"
 		"LevelMax" "16"
-		"Experience" "5000"
+		"Experience" "2500"
 		"ZoneID" "2"
-		"Money" "1000"
+		"Money" "500"
 		"RepID" "2"
 		"RepValue" "300"
 		"Objectives"
@@ -160,6 +160,34 @@
 			"38"
 			{
 				"MustChoose" "1"
+			}
+		}
+    }
+    "22"
+    {
+		"Title" "#INF_QUEST_22_TITLE"
+		"ShortDescription" "#INF_QUEST_22_DESC_SHORT"
+		"LongDescription" "#INF_QUEST_22_DESC_LONG"
+		"LevelMin" "8"
+		"LevelMax" "16"
+		"Experience" "250"
+		"QuestChain" "17"
+		"ZoneID" "2"
+		"Money" "100"
+		"RepID" "2"
+		"RepValue" "10"
+		"Repeatable" "1"
+		"Objectives"
+		{
+			"2"
+			{
+				"Target" "64"
+				"Count" "10"
+			}
+			"2"
+			{
+				"Target" "73"
+				"Count" "25"
 			}
 		}
     }

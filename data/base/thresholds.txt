@@ -11,36 +11,40 @@
 		
 		"Stamina"
 		{
-			"health_increase" "4"
+			"health" "4"
+			"regen" "0.165"
 		}
 		
 		"Strength"
 		{
-			"attack_increase" "2"
+			"attack" "2"
 			"block_efficiency" "4"
 		}
 		
 		"Agility"
 		{
-			"movspeed_increase" "0.098"
-			"attackspeed_increase" "0.165"
+			"movspeed" "0.098"
+			"attackspeed" "0.165"
+			"attack" "3"
 		}
 		
 		"Intellect"
 		{
-			"spellpower_increase" "3"
+			"spellpower" "1"
 			"focus_regen" "1.5"
 			"cast_speed" "0.5"
+			"focus_pool" "0.625"
 		}
 		
 		"AttackPower"
 		{
-			"damage_increase" "0.90"
+			"melee_damage_increase" "0.75"
+			"ranged_damage_increase" "0.335"
 		}
 		
 		"SpellPower"
 		{
-			"damage_increase" "0.60"
+			"damage_increase" "0.50"
 		}
 	}
 	

@@ -14,9 +14,10 @@
 		"IsUnique" "1"
 		"StatData"
 		{
-			"Armor" "70"
+			"Armor" "76"
 			"Stamina" "11"
 			"Strength" "4"
+			"Agility" "1"
 			"Intellect" "-2"
 		}
 		"EquipData"

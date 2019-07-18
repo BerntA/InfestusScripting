@@ -18,7 +18,7 @@
 		}
 		"EquipData"
 		{
-			"AttackPower" "10"
+			"MeleeAttackPower" "10"
 		}
 		"MiscData"
 		{
@@ -104,7 +104,7 @@
 		}
 		"EquipData"
 		{
-			"AttackPower" "15"
+			"RangedAttackPower" "15"
 		}
 		"MiscData"
 		{
