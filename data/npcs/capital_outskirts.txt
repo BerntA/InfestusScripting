@@ -528,11 +528,11 @@
 		{
 			"3"
 			{
-				"Percentage" "40"
+				"Percentage" "10"
 			}
 			"15"
 			{
-				"Percentage" "25"
+				"Percentage" "5"
 			}
 		}
 		"ModelData"
@@ -567,11 +567,11 @@
 		{
 			"11"
 			{
-				"Percentage" "10"
+				"Percentage" "1"
 			}
 			"10"
 			{
-				"Percentage" "25"
+				"Percentage" "3"
 			}
 		}
 		"ModelData"
@@ -610,7 +610,7 @@
 			}
 			"13"
 			{
-				"Percentage" "15"
+				"Percentage" "5"
 			}
 		}
 		"ModelData"
@@ -660,7 +660,7 @@
 			}
 			"13"
 			{
-				"Percentage" "25"
+				"Percentage" "10"
 			}
 		}
 		"ModelData"
@@ -712,7 +712,7 @@
 			}
 			"16"
 			{
-				"Percentage" "15"
+				"Percentage" "5"
 			}
 			"7"
 			{
@@ -791,11 +791,11 @@
 		{
 			"11"
 			{
-				"Percentage" "10"
+				"Percentage" "1"
 			}
 			"10"
 			{
-				"Percentage" "25"
+				"Percentage" "3"
 			}
 		}
 		"ModelData"
@@ -830,11 +830,11 @@
 		{
 			"11"
 			{
-				"Percentage" "10"
+				"Percentage" "1"
 			}
 			"10"
 			{
-				"Percentage" "25"
+				"Percentage" "3"
 			}
 		}
 		"ModelData"
@@ -899,7 +899,7 @@
 		{
 			"11"
 			{
-				"Percentage" "40"
+				"Percentage" "4"
 			}
 		}
 		"ModelData"

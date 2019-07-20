@@ -21,10 +21,10 @@
 		}
 		"EquipData"
 		{
-			"MeleeAttackPower" "12"
+			"MeleeAttackPower" "15"
 			"SpellPower" "10"
-			"DamageMin" "20"
-			"DamageMax" "35"
+			"DamageMin" "30"
+			"DamageMax" "45"
 			"AttackSpeed" "1.1"
 			"RangeMax" "90"
 		}
@@ -59,10 +59,10 @@
 		}
 		"EquipData"
 		{
-			"MeleeAttackPower" "14"
+			"MeleeAttackPower" "12"
 			"SpellPower" "5"
-			"DamageMin" "21"
-			"DamageMax" "36"
+			"DamageMin" "26"
+			"DamageMax" "38"
 			"AttackSpeed" "1.15"
 			"RangeMax" "90"
 		}
@@ -98,8 +98,8 @@
 		"EquipData"
 		{
 			"MeleeAttackPower" "35"
-			"DamageMin" "24"
-			"DamageMax" "39"
+			"DamageMin" "41"
+			"DamageMax" "63"
 			"AttackSpeed" "1.15"
 			"RangeMax" "90"
 		}
@@ -141,9 +141,9 @@
 		}
 		"EquipData"
 		{
-			"MeleeAttackPower" "45"
-			"DamageMin" "23"
-			"DamageMax" "38"
+			"MeleeAttackPower" "40"
+			"DamageMin" "41"
+			"DamageMax" "67"
 			"AttackSpeed" "1.05"
 			"RangeMax" "90"
 		}

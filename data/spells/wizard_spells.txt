@@ -30,7 +30,7 @@
 		"DamageMin" "30"
 		"DamageMax" "55"
 		"DrainValue" "35"
-		"CastTime" "3.5"
+		"CastTime" "2"
 		"CooldownTime" "3"
 		"Range" "350"
     }
@@ -97,11 +97,11 @@
 		"Title" "#INF_SPELL_11_TEXT"
 		"Description" "#INF_SPELL_11_DESC"
 		"IconTexture" "icons/items/spell/magic_healingtouch"
-		"DamageMin" "15"
-		"DamageMax" "25"
-		"DrainValue" "30"
-		"CastTime" "3"
-		"CooldownTime" "7.5"
-		"Range" "300"
+		"DamageMin" "25"
+		"DamageMax" "35"
+		"DrainValue" "25"
+		"CastTime" "2.25"
+		"CooldownTime" "0.5"
+		"Range" "350"
     }
 }

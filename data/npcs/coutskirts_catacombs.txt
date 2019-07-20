@@ -59,7 +59,7 @@
 		{
 			"70"
 			{
-				"Percentage" "55"
+				"Percentage" "35"
 			}
 		}
 		"ModelData"
@@ -94,6 +94,7 @@
 			"Armor" "300"
 			"AttackRange" "100"
 			"DrainerRegenRate" "0.03"
+			"RangedDMGFactor" "1.5"
 			"FireResistance" "-15"
 			"WaterResistance" "-15"
 			"ShadowResistance" "-15"
@@ -104,7 +105,7 @@
 		{
 			"45"
 			{
-				"Percentage" "35"
+				"Percentage" "15"
 			}
 			"64"
 			{
@@ -170,11 +171,11 @@
 		{
 			"65"
 			{
-				"Percentage" "55"
+				"Percentage" "15"
 			}
 			"44"
 			{
-				"Percentage" "75"
+				"Percentage" "40"
 			}
 			"74"
 			{
@@ -233,15 +234,15 @@
 		{
 			"59"
 			{
-				"Percentage" "45"
+				"Percentage" "15"
 			}
 			"41"
 			{
-				"Percentage" "80"
+				"Percentage" "20"
 			}
 			"46"
 			{
-				"Percentage" "30"
+				"Percentage" "10"
 			}
 		}
 		"ModelData"
@@ -299,11 +300,11 @@
 		{
 			"37"
 			{
-				"Percentage" "70"
+				"Percentage" "30"
 			}
 			"42"
 			{
-				"Percentage" "40"
+				"Percentage" "5"
 			}
 			"71"
 			{
@@ -373,11 +374,11 @@
 		{
 			"48"
 			{
-				"Percentage" "20"
+				"Percentage" "5"
 			}
 			"43"
 			{
-				"Percentage" "30"
+				"Percentage" "10"
 			}
 			"64"
 			{
@@ -436,7 +437,7 @@
 		{
 			"60"
 			{
-				"Percentage" "35"
+				"Percentage" "15"
 			}
 			"64"
 			{
@@ -503,7 +504,7 @@
 			}
 			"11"
 			{
-				"Percentage" "20"
+				"Percentage" "5"
 			}
 			"73"
 			{
@@ -542,6 +543,8 @@
 		{
 			"Armor" "150"
 			"AttackRange" "100"
+			"WalkSpeed" "50"
+			"RunSpeed" "100"
 			"DrainerRegenRate" "0.035"
 			"MeleeDMGFactor" "0.75"
 			"RangedDMGFactor" "0.5"

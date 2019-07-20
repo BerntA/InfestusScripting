@@ -78,7 +78,7 @@
 		"DeathPunishmentMoneyPercent" "10"
 		"MinLevelBankAccess" "10"
 		"BankAccessCost" "500"
-		"UnderwaterBreathMax" "10"
+		"UnderwaterBreathMax" "15"
 		"DrownDamage" "15"
 		"LevelUpDecreaseCost" "3"
 	}
