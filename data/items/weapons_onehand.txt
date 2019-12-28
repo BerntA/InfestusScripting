@@ -198,6 +198,16 @@
 			"DamageMax" "27"
 			"RangeMax" "80"
 		}
+		"ChanceOnHit"
+		{
+			"Type" "4"
+			"Token" "#INF_ITEM_15_PROC"
+			"ValueMin" "20"
+			"ValueMax" "40"
+			"ID" "1"
+			"Duration" "10"
+			"Probability" "0.1"
+		}
 		"ModelData"
 		{
 			"Model" "models/items/maces/mace02.mdl"
@@ -219,7 +229,6 @@
 		"Type" "0"
 		"SubType" "9"
 		"Rarity" "2"
-		"Level" "8"
 		"IsUnique" "1"
 		"StatData"
 		{
@@ -236,6 +245,16 @@
 			"AttackSpeed" "1.05"
 			"RangeMax" "80"
 		}
+		"ChanceOnHit"
+		{
+			"Type" "4"
+			"Token" "#INF_ITEM_16_PROC"
+			"ValueMin" "30"
+			"ValueMax" "50"
+			"ID" "1"
+			"Duration" "15"
+			"Probability" "0.1"
+		}
 		"ModelData"
 		{
 			"Model" "models/items/maces/mace03.mdl"
@@ -244,7 +263,6 @@
 		{
 			"SellValue" "90"
 			"ItemFlags" "16"
-			"CanTrade" "1"
 		}
     }
     "46"
@@ -321,6 +339,14 @@
 			"Shadow" "-5"
 			"Earth" "-5"
 			"Wind" "-5"
+		}
+		"ChanceOnHit"
+		{
+			"Type" "2"
+			"Token" "#INF_ITEM_47_PROC"
+			"ValueMin" "10"
+			"ValueMax" "20"
+			"Probability" "0.1"
 		}
 		"ModelData"
 		{

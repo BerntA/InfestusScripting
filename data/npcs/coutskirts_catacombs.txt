@@ -105,7 +105,7 @@
 		{
 			"45"
 			{
-				"Percentage" "15"
+				"Percentage" "20"
 			}
 			"64"
 			{
@@ -171,7 +171,7 @@
 		{
 			"65"
 			{
-				"Percentage" "15"
+				"Percentage" "20"
 			}
 			"44"
 			{
@@ -230,19 +230,27 @@
 			"EarthResistance" "-200"
 			"WindResistance" "-200"
 		}
+		"Spells"
+		{
+			"0" "17"
+		}
 		"Loots"
 		{
 			"59"
 			{
-				"Percentage" "15"
+				"Percentage" "25"
 			}
 			"41"
 			{
-				"Percentage" "20"
+				"Percentage" "40"
 			}
 			"46"
 			{
-				"Percentage" "10"
+				"Percentage" "15"
+			}
+			"77"
+			{
+				"Percentage" "75"
 			}
 		}
 		"ModelData"
@@ -304,7 +312,7 @@
 			}
 			"42"
 			{
-				"Percentage" "5"
+				"Percentage" "10"
 			}
 			"71"
 			{
@@ -312,6 +320,7 @@
 			}
 			"53"
 			{
+				"Percentage" "75"
 			}
 			"64"
 			{
@@ -495,9 +504,6 @@
 		}
 		"Loots"
 		{
-			"53"
-			{
-			}
 			"64"
 			{
 				"Percentage" "90"

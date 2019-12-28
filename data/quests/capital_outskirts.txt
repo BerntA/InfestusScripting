@@ -312,8 +312,14 @@
 		{
 			"1"
 			{
-				"Target" "23"
+				"Target" "22"
 				"Count" "10"
+			}
+		}
+		"Rewards"
+		{
+			"13"
+			{
 			}
 		}
     }
@@ -367,6 +373,66 @@
 			"50"
 			{
 				"Quantity" "5"
+			}
+		}
+    }
+    "23"
+    {
+		"Title" "#INF_QUEST_23_TITLE"
+		"ShortDescription" "#INF_QUEST_23_DESC_SHORT"
+		"LongDescription" "#INF_QUEST_23_DESC_LONG"
+		"LevelMin" "5"
+		"LevelMax" "10"
+		"Experience" "500"
+		"QuestChain" "14"
+		"ZoneID" "1"
+		"Money" "50"
+		"Objectives"
+		{
+			"1"
+			{
+				"Target" "23"
+				"Count" "10"
+			}
+		}
+		"Rewards"
+		{
+			"85"
+			{
+			}
+		}
+    }
+    "24"
+    {
+		"Title" "#INF_QUEST_24_TITLE"
+		"ShortDescription" "#INF_QUEST_24_DESC_SHORT"
+		"LongDescription" "#INF_QUEST_24_DESC_LONG"
+		"LevelMin" "5"
+		"LevelMax" "10"
+		"Experience" "650"
+		"QuestChain" "23"
+		"ZoneID" "1"
+		"Money" "50"
+		"Objectives"
+		{
+			"1"
+			{
+				"Target" "24"
+			}
+			"2"
+			{
+				"Target" "78"
+			}
+		}
+		"Rewards"
+		{
+			"16"
+			{
+				"MustChoose" "1"
+			}
+			"7"
+			{
+				"MustChoose" "1"
 			}
 		}
     }

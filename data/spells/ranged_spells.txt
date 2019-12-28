@@ -1,0 +1,22 @@
+"Spells"
+{
+    "14"
+    {
+		"Type" "1"
+		"SubType" "0"
+		"Category" "5"
+		"Title" "#INF_SPELL_14_TEXT"
+		"Description" "#INF_SPELL_14_DESC"
+		"IconTexture" "icons/items/spell/ranged_fire01"
+		"MagicSchool" "1"
+		"DamageMin" "15"
+		"DamageMax" "25"
+		"DrainValue" "20"
+		"CastTime" "1"
+		"CooldownTime" "10"
+		"Range" "1000"
+		"BuffDebuffID" "2"
+		"BuffDebuffDuration" "8"
+		"BuffDebuffPercentage" "0.25"
+    }
+}

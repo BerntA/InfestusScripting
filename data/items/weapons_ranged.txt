@@ -4,7 +4,7 @@
     {
 		"Name" "#INF_ITEM_39_TEXT"
 		"IconTexture" "icons/items/weapon/bow01"
-		"ItemInfo1" "18"
+		"ItemInfo1" "12"
 		"ItemInfo2" "12"
 		"ItemLevel" "47"
 		"Type" "0"
@@ -39,7 +39,7 @@
     {
 		"Name" "#INF_ITEM_45_TEXT"
 		"IconTexture" "icons/items/weapon/bow01"
-		"ItemInfo1" "18"
+		"ItemInfo1" "12"
 		"ItemInfo2" "12"
 		"ItemLevel" "94"
 		"Type" "0"
@@ -69,6 +69,98 @@
 		"MiscData"
 		{
 			"SellValue" "140"
+			"CanTrade" "1"
+		}
+    }
+    "84"
+    {
+		"Name" "#INF_ITEM_84_TEXT"
+		"IconTexture" "icons/items/weapon/crossbow01"
+		"ItemInfo1" "12"
+		"ItemInfo2" "13"
+		"ItemLevel" "115"
+		"Type" "0"
+		"SubType" "11"
+		"Rarity" "2"
+		"Level" "10"
+		"IsUnique" "1"
+		"StatData"
+		{
+			"Stamina" "4"
+			"Strength" "3"
+			"Agility" "15"
+		}
+		"EquipData"
+		{
+			"RangedAttackPower" "20"
+			"DamageMin" "37"
+			"DamageMax" "49"
+			"RangeMax" "500"
+		}
+		"ChanceOnHit"
+		{
+			"Type" "4"
+			"Token" "#INF_ITEM_84_PROC"
+			"ValueMin" "50"
+			"ValueMax" "75"
+			"ID" "1"
+			"Duration" "10"
+			"Probability" "0.15"
+		}
+		"ModelData"
+		{
+			"Model" "models/items/crossbows/crossbow01.mdl"
+		}
+		"MiscData"
+		{
+			"SellValue" "200"
+			"ItemFlags" "64"
+			"CanTrade" "1"
+		}
+    }
+    "86"
+    {
+		"Name" "#INF_ITEM_86_TEXT"
+		"Description" "#INF_ITEM_86_DESC"
+		"IconTexture" "icons/items/weapon/crossbow02"
+		"ItemInfo1" "12"
+		"ItemInfo2" "13"
+		"ItemLevel" "175"
+		"Type" "0"
+		"SubType" "11"
+		"Rarity" "3"
+		"Level" "15"
+		"IsUnique" "1"
+		"StatData"
+		{
+			"Stamina" "13"
+			"Strength" "7"
+			"Agility" "21"
+		}
+		"EquipData"
+		{
+			"RangedAttackPower" "35"
+			"DamageMin" "57"
+			"DamageMax" "71"
+			"AttackSpeed" "0.8"
+			"RangeMax" "650"
+		}
+		"ChanceOnHit"
+		{
+			"Type" "4"
+			"Token" "#INF_ITEM_86_PROC"
+			"ID" "8"
+			"Duration" "5"
+			"Probability" "0.15"
+		}
+		"ModelData"
+		{
+			"Model" "models/items/crossbows/crossbow02.mdl"
+		}
+		"MiscData"
+		{
+			"SellValue" "345"
+			"ItemFlags" "64"
 			"CanTrade" "1"
 		}
     }

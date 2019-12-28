@@ -69,7 +69,6 @@
 		"Type" "0"
 		"SubType" "7"
 		"Rarity" "2"
-		"Level" "8"
 		"IsUnique" "1"
 		"StatData"
 		{
@@ -83,7 +82,6 @@
 		"MiscData"
 		{
 			"SellValue" "105"
-			"CanTrade" "1"
 		}
     }
     "51"

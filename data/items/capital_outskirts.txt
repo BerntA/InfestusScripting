@@ -145,4 +145,12 @@
 			"Skin" "7"
 		}
     }
+    "78"
+    {
+		"Name" "#INF_ITEM_78_TEXT"
+		"IconTexture" "icons/items/misc/pelt01"
+		"ItemInfo1" "17"
+		"Type" "2"
+		"SubType" "1"
+    }
 }

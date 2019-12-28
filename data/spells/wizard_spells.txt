@@ -33,6 +33,9 @@
 		"CastTime" "2"
 		"CooldownTime" "3"
 		"Range" "350"
+		"BuffDebuffID" "2"
+		"BuffDebuffDuration" "8"
+		"BuffDebuffPercentage" "0.35"
     }
     "5"
     {

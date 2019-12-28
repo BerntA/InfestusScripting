@@ -28,6 +28,15 @@
 			"AttackSpeed" "1.1"
 			"RangeMax" "90"
 		}
+		"ChanceOnHit"
+		{
+			"Type" "1"
+			"Token" "#INF_ITEM_11_PROC"
+			"ValueMin" "15"
+			"ValueMax" "20"
+			"School" "3"
+			"Probability" "0.1"
+		}
 		"ModelData"
 		{
 			"Model" "models/items/swords/sword04.mdl"
@@ -98,8 +107,8 @@
 		"EquipData"
 		{
 			"MeleeAttackPower" "35"
-			"DamageMin" "41"
-			"DamageMax" "63"
+			"DamageMin" "45"
+			"DamageMax" "65"
 			"AttackSpeed" "1.15"
 			"RangeMax" "90"
 		}
@@ -110,6 +119,15 @@
 			"Shadow" "-5"
 			"Earth" "-5"
 			"Wind" "-5"
+		}
+		"ChanceOnHit"
+		{
+			"Type" "1"
+			"Token" "#INF_ITEM_37_PROC"
+			"ValueMin" "50"
+			"ValueMax" "75"
+			"School" "3"
+			"Probability" "0.1"
 		}
 		"ModelData"
 		{
@@ -142,8 +160,8 @@
 		"EquipData"
 		{
 			"MeleeAttackPower" "40"
-			"DamageMin" "41"
-			"DamageMax" "67"
+			"DamageMin" "47"
+			"DamageMax" "74"
 			"AttackSpeed" "1.05"
 			"RangeMax" "90"
 		}
@@ -155,6 +173,51 @@
 		{
 			"SellValue" "130"
 			"ItemFlags" "4"
+		}
+    }
+    "85"
+    {
+		"Name" "#INF_ITEM_85_TEXT"
+		"IconTexture" "icons/items/weapon/staff01"
+		"ItemInfo1" "11"
+		"ItemInfo2" "9"
+		"ItemLevel" "90"
+		"Type" "0"
+		"SubType" "9"
+		"Rarity" "2"
+		"IsUnique" "1"
+		"StatData"
+		{
+			"Armor" "15"
+			"Stamina" "6"
+			"Intellect" "13"
+		}
+		"EquipData"
+		{
+			"SpellPower" "20"
+			"Focus" "25"
+			"DamageMin" "15"
+			"DamageMax" "30"
+			"AttackSpeed" "1.05"
+			"RangeMax" "90"
+		}
+		"ChanceOnHit"
+		{
+			"Type" "1"
+			"Token" "#INF_ITEM_85_PROC"
+			"ValueMin" "45"
+			"ValueMax" "65"
+			"School" "1"
+			"Probability" "0.35"
+		}
+		"ModelData"
+		{
+			"Model" "models/items/staves/staff01.mdl"
+		}
+		"MiscData"
+		{
+			"SellValue" "175"
+			"ItemFlags" "32"
 		}
     }
 }

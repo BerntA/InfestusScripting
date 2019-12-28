@@ -165,4 +165,34 @@
 			"SellValue" "75"
 		}
     }
+    "77"
+    {
+		"Name" "#INF_ITEM_77_TEXT"
+		"IconTexture" "icons/items/misc/scroll01"
+		"ItemInfo1" "13"
+		"Type" "1"
+		"SubType" "0"
+		"Rarity" "2"
+		"Level" "10"
+		"MiscData"
+		{
+			"ConsumeValue" "13"
+			"SellValue" "100"
+		}
+    }
+    "83"
+    {
+		"Name" "#INF_ITEM_83_TEXT"
+		"IconTexture" "icons/items/misc/scroll01"
+		"ItemInfo1" "13"
+		"Type" "1"
+		"SubType" "0"
+		"Rarity" "2"
+		"Level" "5"
+		"MiscData"
+		{
+			"ConsumeValue" "14"
+			"SellValue" "80"
+		}
+    }
 }

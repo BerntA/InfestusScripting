@@ -10,16 +10,17 @@
 		"INF_MENU_RESUME" "Resume"
 		"INF_MENU_WORLDDATA" "Playing on %s1, World %s2, Ping %s3, Active Players %s4"
 		
-		"INF_CHAT_GLOBAL" "Global Chat"
-		"INF_CHAT_LOCAL" "Local Chat"
-		"INF_CHAT_GROUP" "Group Chat"
+		"INF_CHAT_MESSAGE" "Open Chat"
 		"INF_CHAT_REPLYMSG" "Reply to last sent/received message"
 		
 		"INF_CMD_GROUP_LEAVE" "Leave Group"
 		"INF_CMD_GROUP_INVITE" "You've been invited to join %s1's group!"
 		
-        "INF_PANEL_FRIEND_LIST" "User List"
-        "INF_PANEL_SPELL_BOOK" "Spell Book"
+		"INF_CMD_GUILD_INVITE" "You've been invited to join the guild, '%s1'!"
+		"INF_CMD_GUILD_CREATE" "Create a Guild"
+		
+        "INF_PANEL_FRIEND_LIST" "Social Panel"
+        "INF_PANEL_SPELL_BOOK" "Spells"
 		"INF_PANEL_QUEST_LIST" "Quests"
 		"INF_PANEL_BANK" "Bank"
 		"INF_PANEL_LEVEL_UP" "Level Up"
@@ -32,9 +33,30 @@
 		"INF_PANEL_CHARACTERINFO_TAB_STATS" "Stats"
 		"INF_PANEL_CHARACTERINFO_TAB_REPUTATION" "Reputation"
 		"INF_GUI_ACTION_KEY" "Special GUI Action"
+		"INF_GUI_MINIMAP_ZOOM_IN" "Minimap Zoom In"
+		"INF_GUI_MINIMAP_ZOOM_OUT" "Minimap Zoom Out"
 		
 		"INF_GUI_CHARSELECTION_STATUS" "Level %s1"
+		
+		"INF_GUI_GUILD_INVITE" "Add member"		
+		"INF_GUI_GUILD_DISBAND" "Really disband guild?"
+		"INF_GUI_GUILD_LEAVE_SELF" "Leave Guild?"
+		"INF_GUI_GUILD_SHOWOFFLINE" "Show Offline Members"
+		"INF_GUI_GUILD_PROMOTE" "Promote"
+		"INF_GUI_GUILD_DEMOTE" "Demote"
+		"INF_GUI_GUILD_REMOVE" "Kick"
+		"INF_GUI_GUILD_CHANGE_LEADER" "Make Leader"
+		"INF_GUI_GUILD_PROMPT" "Are you sure?"
+		"INF_GUI_GUILD_COUNT" "%s1/%s2 Online"
 
+		"INF_GUI_RANK" "Rank"
+		"INF_GUI_LEAVE" "Leave"
+		"INF_GUI_DISBAND" "Disband"
+		"INF_GUI_GROUPLEAVE" "Leave Group?"
+		"INF_GUI_FRIEND_LIST" "Friends"
+		"INF_GUI_IGNORE_LIST" "Ignored"
+		"INF_GUI_SEARCH_LIST" "Search"
+		"INF_GUI_GUILD_LIST" "Guild"
         "INF_GUI_ADDFRIEND" "Add Friend"
 		"INF_GUI_REMOVEFRIEND" "Remove Friend"
 		"INF_GUI_INVITETOGROUP" "Invite to Group"
@@ -52,6 +74,7 @@
 		"INF_GUI_USER_COUNT" "Found %s1 | %s2 active players!"
 		"INF_GUI_DISCONNECT" "Disconnect"
 		"INF_GUI_CREATE_CHARACTER" "Create"
+		"INF_GUI_CREATE" "Create"
 		"INF_GUI_ENTER_GAME" "Enter Game"
 		"INF_GUI_DELETE" "Delete"
 		"INF_GUI_MODEL" "Model"
@@ -79,6 +102,7 @@
 		"INF_WARN_NAME_INVALID_CHARS" "Your name may only consist of letters from the alphabet!"
 		"INF_WARN_NAME_TOO_LONG" "Your name can only consist of 16 characters!"
 		"INF_WARN_NAME_TAKEN" "This name has been taken!"
+		"INF_WARN_NAME_PROFANITY" "Name contains profanity!"
 		
 		"INF_WARN_DUNGEON_DELAY" "Please wait a few seconds before entering a dungeon!"
 		"INF_WARN_DUNGEON_LOWLVL1" "Your level is too low for this area!"
@@ -104,6 +128,8 @@
 		"INF_WARN_BUY1" "You don't have enough money!"
 		"INF_WARN_INCOMBAT" "You can't do this while in combat!"
 		"INF_WARN_SELLITEM" "You can't sell this item!"
+		"INF_WARN_CANTMOUNT" "Unable to mount in this area or zone."
+		"INF_WARN_ALREADYMOUNTED" "You're already mounted!"
 		
 		"INF_WARN_GRP_NOT_LEADER" "You're not the leader of this group!"
 		"INF_WARN_GRP_ALREADY_INCURRGROUP" "This user is already in your group!"
@@ -113,6 +139,14 @@
 		"INF_WARN_GRP_FULL" "The group is full!"
 		"INF_WARN_GRP_DISBANDED" "The group no longer exist!"
 		"INF_WARN_GRP_KICK_INVALID" "This user is not in your group!"
+		
+		"INF_WARN_GUILD_CREATE_LVL" "You must be at least level %s1 to create a guild."
+		"INF_WARN_GUILD_CREATE_COST" "You need at least %s1 coins to create a guild."
+		"INF_WARN_GUILD_HASGUILD" "Player %s1 is already in a guild!"
+		"INF_WARN_GUILD_RANK" "A higher rank is required to perform that action!"
+		"INF_WARN_GUILD_RANK_KICK" "You can only kick members with lower rank than yourself!"
+		"INF_WARN_GUILD_RANK_CHANGE" "You cannot promote someone to your own rank or higher, nor can you demote someone with higher rank than yourself."
+		"INF_WARN_GUILD_NAME_INVALID" "A guild name may only consist of letters from the alphabet, plus single whitespaces!"
 		
 		"INF_WARN_NOREWARD_SELECTED" "You have to select a reward!"
 		"INF_WARN_NOINVENTORYSPACE" "You don't have enough room in your inventory!"
@@ -127,6 +161,8 @@
 		"INF_WARN_SPELL_NOTREADY" "This spell is not ready yet!"
 		"INF_WARN_SPELL_TARGETNOSIGHT" "Target is not in line of sight!"
 		"INF_WARN_SPELL_TARGETDEAD" "Target is dead!"
+		"INF_WARN_SPELL_STACK" "You cannot stack spell objects!"
+		"INF_WARN_SPELL_RANGE" "Too far away, unable to spawn spell object!"
 		
 		"INF_WARN_TRADE1" "Unable to trade with %s1 at this time!"
 		"INF_WARN_TRADE2" "You can't give more money than you have!"
@@ -146,6 +182,10 @@
 		"INF_NPC_INTERACT_FAIL_QUEST_2" "I only speak with those who need assistance with '%s1'."		
 		"INF_NPC_INTERACT_FAIL_REP" "I only speak with people who have a standing of '%s1' with '%s2'!"
 		
+		"INF_NOTIFY_ADD_FRIEND" "You've added %s1 to your friend list."
+		"INF_NOTIFY_ADD_IGNORE" "You've added %s1 to your ignore list."
+		"INF_NOTIFY_REM_FRIENDIGNORE" "You've removed %s1 from your ignore or friend list."
+		
 		"INF_NOTIFY_GROUP_LEAVE1" "%s1 has left the group."
 		"INF_NOTIFY_GROUP_LEAVE2" "You have left the group."
 		"INF_NOTIFY_GROUP_KICK" "%s1 has been kicked from the group."
@@ -157,14 +197,28 @@
 		"INF_NOTIFY_GROUP_NEWLEADER1" "Group leader %s1 has made %s2 the new leader of the group!"
 		"INF_NOTIFY_GROUP_NEWLEADER2" "%s2 is now the new leader of the group!"
 		
+		"INF_NOTIFY_GUILD_CREATE" "Successfully created the guild, '%s1'!"
+		"INF_NOTIFY_GUILD_INVITE" "You've invited %s1 to join the guild."
+		"INF_NOTIFY_GUILD_ADD_MEMBER" "%s1 has joined the guild."
+		"INF_NOTIFY_GUILD_REMOVE_MEMBER" "%s1 has left the guild."
+		"INF_NOTIFY_GUILD_RANK_PROMOTE" "%s1 has been promoted to %s2."
+		"INF_NOTIFY_GUILD_RANK_DEMOTE" "%s1 has been demoted to %s2."
+		"INF_NOTIFY_GUILD_CHANGE_LEADER" "%s1 is the new leader of the guild."
+		"INF_NOTIFY_GUILD_DISBAND" "The guild has been disbanded."
+		
 		"INF_NOTIFY_DUNGEON_KICK" "You will be ported out of the dungeon within 10 seconds!"
 		"INF_NOTIFY_DUNGEON_LAUNCHFAIL" "Unable to start a new dungeon, dungeon limit has been reached on the server!"
 		"INF_NOTIFY_USER_CONNECTED" "Player %s1 has come online!"
 		"INF_NOTIFY_USER_DISCONNECT" "Player %s1 has gone offline!"
 		
-		"INF_NOTIFY_LOOT1" "[LOOT]: %s1 rolled %s3 for %s2."
-		"INF_NOTIFY_LOOT2" "[LOOT]: %s1 won the roll for %s2!"
-		"INF_NOTIFY_LOOT3" "[LOOT]: %s1 passed on %s2."
+		"INF_NOTIFY_LOOT1" "[LOOT] ffbf00%s1 rolled 80ff00%s2 on "
+		"INF_NOTIFY_LOOT2" "[LOOT] ffbf00%s1 won the roll for "
+		"INF_NOTIFY_LOOT3" "[LOOT] ffbf00%s1 passed on "
+		
+		"INF_NOTIFY_LOOT1_LOCAL" "[LOOT] ffbf00You rolled 80ff00%s2 on "
+		"INF_NOTIFY_LOOT2_LOCAL" "[LOOT] ffbf00You won the roll for "
+		"INF_NOTIFY_LOOT3_LOCAL" "[LOOT] ffbf00You passed on "
+		
 		"INF_NOTIFY_LOOT4" "You've auto-looted item, '%s1'!"
 		"INF_NOTIFY_LOOT5" "Unable to auto-loot!"
 		
@@ -220,6 +274,8 @@
 		
 		"INF_COMBAT_BLOCK" "Block Attack"
 		
+		"INF_MOUNT_DISMOUNT" "Dismount"
+		
 		"INF_ITEM_INFO_WEAPON_ONEHAND" "One Hand"
 		"INF_ITEM_INFO_WEAPON_TWOHAND" "Two Hand"
 		"INF_ITEM_INFO_WEAPON_MAINHAND" "Main-Hand"
@@ -230,6 +286,7 @@
 		"INF_ITEM_INFO_MISC_JOURNAL" "Journal"
 		"INF_ITEM_INFO_MISC_QUEST" "Quest Item"
 		"INF_ITEM_INFO_MISC_JUNK" "Junk"
+		"INF_ITEM_INFO_MISC_MOUNT" "Mount"
 		
 		"INF_ITEM_INFO_ARMOR_CLOTH" "Cloth"
 		"INF_ITEM_INFO_ARMOR_LEATHER" "Leather"
@@ -289,7 +346,7 @@
 		"INF_CHAR_STATS_TIP_ITEMLVL" "Total item level. This number represents how 'geared' you are"
 		"INF_CHAR_STATS_TIP_STAMINA" "Increases health by 4 per point\nIncreases health regen rate by 0.165 per point"
 		"INF_CHAR_STATS_TIP_STRENGTH" "Increases melee attack power by 2 per point\nIncreases blocking efficiency by 4 per point"
-		"INF_CHAR_STATS_TIP_AGILITY" "Increases movement speed by 0.098% per point\nIncreases attack speed by 0.165% per point\nIncreases ranged attack power by 3 per point"
+		"INF_CHAR_STATS_TIP_AGILITY" "Increases movement speed by 0.098% per point\nIncreases attack speed by 0.165% per point\nIncreases ranged attack power by 3 per point\nIncreases melee attack power by 0.25 per point"
 		"INF_CHAR_STATS_TIP_INTELLECT" "Increases spell power by 1 per point\nIncreases focus regen rate by 1.5 per point\nDecreases casting time with magic spells by 0.5% per point\nIncreases total focus pool by 0.625% per point"
 		"INF_CHAR_STATS_TIP_MELEEATTACKPOWER" "Increases damage dealt with melee weapons"
 		"INF_CHAR_STATS_TIP_RANGEDATTACKPOWER" "Increases damage dealt with ranged weapons"
@@ -360,6 +417,7 @@
 		"INF_DENY_ITEM_EQUIP" "You're not high enough level to equip this item!"
 		"INF_DENY_ITEM_USE" "You're not high enough level to use this item!"
 		"INF_DENY_ITEM_USE_CD" "Unable to use item, wait for cooldown!"
+		"INF_DENY_ITEM_STUNNED" "Unable to use item(s) while stunned!"
 		"INF_DENY_QUEST_PICKUP" "You're not high enough level for this quest!"
 		"INF_DENY_QUEST_PICKUP_ITEM" "Unable to pickup quest, your inventory is full!"
 		"INF_DENY_TOME" "You already know this spell!"
@@ -375,6 +433,7 @@
 		"INF_ADV_OPT_DECALLIM" "Decal limit"
 		"INF_ADV_OPT_MDLDECALS" "Model decal limit"
 		"INF_ADV_OPT_MINIMAPLOCK" "Lock minimap"
+		"INF_ADV_OPT_MINIMAPALPHA" "Minimap Alpha"
 		"INF_ADV_OPT_MINIMAPNAMES" "Draw names on minimap"
 		"INF_ADV_OPT_MINIMAPITEMICONS" "Draw minimap hint icons"
 		"INF_ADV_OPT_MINIMAPTRANSPARENT" "Draw minimap transparently"
@@ -389,11 +448,33 @@
 		"INF_ADV_OPT_QUESTSHOWFINISHED" "Display finished quests in the quest list"
 		"INF_ADV_OPT_QUESTSAUTOTRACK" "Always Auto-Track new quests when possible"
 		"INF_ADV_OPT_QUESTSTRACKMAX" "Max amount of quests to track simultaneously"
+		"INF_ADV_OPT_GUILDNOTIFICATIONS" "Enable guild notifications for when guildies go online or offline."
+		"INF_ADV_OPT_ENABLE_HINTS" "Enable Gameplay Hints"
 		
 		// Trading
 		"INF_TRADE_ACCEPT" "Accept"
 		"INF_TRADE_CANCEL" "Cancel"
 		"INF_TRADE_PICKITEM" "Pick an item"
+		
+		// IN-GAME HINTS
+		"INF_HINT_CHAT_OPEN" "Press %s1 to open the chat."
+		"INF_HINT_CHAT_CHANNELS" "You may switch between chat channels by using the UP and DOWN arrow keys."
+		"INF_HINT_CHAT_PREFIXES" "Useful Chat Commands: /inv <Name>, /tell <Name> /kick <Name> and /promote <Name>. The last two commands are related to the group system."
+		"INF_HINT_CHAT_QUICKREPLY" "You can press %s1 to initiate a quick reply to someone you have recently messaged, or to someone who has recently messaged you."
+		"INF_HINT_CHAR_ITEM_QUICKSELECTION" "You can press %s1 to open a quick item selection window, which can be used while in and out of combat."
+		"INF_HINT_CHAR_ITEM_DELETE" "You can delete an item by clicking it and then drop it outside of the panel bounds."
+		"INF_HINT_CHAR_ITEM_SPLITMERGE" "By holding down %s1 when clicking on an item you can split it or merge parts of that item into a similar item with less or greater quantity."
+		"INF_HINT_CHAR_ITEM_COMPARE" "By holding down %s1 when hovering over items that are equippable you can compare them with your equipped counterparts."
+		"INF_HINT_INPUT_SPECIAL_ACTION" "Press and hold down %s1 to enable input for this panel."
+		"INF_HINT_AUTO_LOOT" "You can auto-loot any corpse by holding down %s1 before pressing %s2 on the corpse."
+		"INF_HINT_GROUP_LEAVE" "You have joined a group, to leave simply press %s1."
+		"INF_HINT_COMBAT_WEAPON" "You've been engaged, to draw your melee weapon press %s1, to draw a ranged weapon press %s2 and to holster your weapons press %s3."
+		"INF_HINT_SPELLS_DRAGDROP" "You can drag and drop any spells here into the action bar at the very bottom, to remove existing items in the action bar simply press and hold RMB on the spell you wish to remove."
+		"INF_HINT_MERCHANT_SELLALL" "You can sell an entire item by holding down %s1 prior to selling the item."
+		"INF_HINT_RANGED_CHARGE" "The more you charge a ranged weapon, the more damage it will do and it will traverse further."
+		"INF_HINT_ITEM_QUICKSELECT" "Use the mouse wheel to navigate the items in the quick selection menu. RMB and ESC will close the menu, while LMB will select an item."
+		"INF_HINT_MOUNT" "Congrats on obtaining a mount! You can dismount by pressing %s1, you cannot attack, use spells or loot objects while mounted."
+		"INF_HINT_QUEST_SELECT_REWARD" "You must select a quest reward, some quests may give you multiple items as rewards. In this case you can only receive one out of X rewards. Choose wisely!"
 		
 		// Loading Tips
 		"INF_LOADING_TIP_1" "You cannot use your items while in combat, except for potions." 
@@ -439,6 +520,28 @@
 		"INF_COMBATLOG_CONSUME_HEAL" "%s1 has restored %s2 health!"
 		"INF_COMBATLOG_CONSUME_FOCUS" "%s1 has restored %s2 focus!"
 		"INF_COMBATLOG_CONSUME_OTHER" "You have consumed a %s1."
+		"INF_COMBATLOG_CONSUME_CHANCEHIT" "%s1 has healed you for %s2!"
+		
+		"INF_COMBATLOG_DAMAGE1_FIRE" "You attack %s2 for %s3 fire damage!"
+		"INF_COMBATLOG_DAMAGE2_FIRE" "You took %s3 fire damage from %s2!"
+		"INF_COMBATLOG_DAMAGE1_WATER" "You attack %s2 for %s3 water damage!"
+		"INF_COMBATLOG_DAMAGE2_WATER" "You took %s3 water damage from %s2!"
+		"INF_COMBATLOG_DAMAGE1_SHADOW" "You attack %s2 for %s3 shadow damage!"
+		"INF_COMBATLOG_DAMAGE2_SHADOW" "You took %s3 shadow damage from %s2!"
+		"INF_COMBATLOG_DAMAGE1_EARTH" "You attack %s2 for %s3 nature damage!"
+		"INF_COMBATLOG_DAMAGE2_EARTH" "You took %s3 nature damage from %s2!"
+		"INF_COMBATLOG_DAMAGE1_WIND" "You attack %s2 for %s3 air damage!"
+		"INF_COMBATLOG_DAMAGE2_WIND" "You took %s3 air damage from %s2!"
+		
+		// Special cases when attacker is NULL...
+		"INF_COMBATLOG_DAMAGE_SELF_FIRE" "You took %s3 fire damage!"
+		"INF_COMBATLOG_DAMAGE_SELF_WATER" "You took %s3 water damage!"
+		"INF_COMBATLOG_DAMAGE_SELF_SHADOW" "You took %s3 shadow damage!"
+		"INF_COMBATLOG_DAMAGE_SELF_EARTH" "You took %s3 nature damage!"
+		"INF_COMBATLOG_DAMAGE_SELF_WIND" "You took %s3 air damage!"
+		"INF_COMBATLOG_DAMAGE_SELF" "You took %s3 damage!"		
+		
+		"INF_WEAPON_CHARGE" "CHARGING"
 		
 		// Misc
 		"INF_SERVER_RESTART" "Server: Restarting server shortly! You will be automatically disconnected in a few seconds. You will be redirected back to the server once it is back up!"
@@ -450,6 +553,7 @@
 		"chat_say_global" "Global :"
 		"chat_say_local" "Local :"
 		"chat_say_group" "Party :"
+		"chat_say_guild" "Guild :"
 		
 		// Radio and chat strings can have control characters embedded to set colors.  For the control characters to be used, one must be at the start of the string.
 		// The control characters can be copied and pasted in notepad.
@@ -457,6 +561,10 @@
 		//  = 0x03 (ETX) - Use team color from this point forward
 		//  = 0x04 (EOT) - Use location color from this point forward
 		//  = 0x01 (SOH) - Use normal color from this point forward
+		//  = 0x05 (ENQ) - Use achievement color from this point forward
+		//  = 0x06 (ACK) - Use custom color from this point forward
+		//  = 0x11 (VT) - Use roll notify color from this point forward
+		//  = 0x12 (FF) - Use roll notify local from this point forward
 		"INF_CHAT_DEFAULT"			"(%s3) %s1: %s2"
 		"INF_CHAT_DEFAULT_ADMIN" "(%s3) [ADMIN] %s1: %s2"
 		

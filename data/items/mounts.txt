@@ -1,0 +1,69 @@
+"Items"
+{
+    "79"
+    {
+		"Name" "#INF_ITEM_79_TEXT"
+		"Description" "#INF_ITEM_79_DESC"
+		"IconTexture" "icons/items/misc/wolf01"
+		"ItemInfo1" "21"
+		"Type" "2"
+		"SubType" "3"
+		"Rarity" "4"
+		"Level" "20"
+		"IsUnique" "1"
+		"ModelData"
+		{
+			"Model" "models/mounts/wolf01.mdl"
+			"Skin" "1"
+		}
+    }
+    "80"
+    {
+		"Name" "#INF_ITEM_80_TEXT"
+		"Description" "#INF_ITEM_80_DESC"
+		"IconTexture" "icons/items/misc/wolf01"
+		"ItemInfo1" "21"
+		"Type" "2"
+		"SubType" "3"
+		"Rarity" "4"
+		"Level" "20"
+		"IsUnique" "1"
+		"ModelData"
+		{
+			"Model" "models/mounts/wolf01.mdl"
+			"Skin" "2"
+		}
+    }
+    "81"
+    {
+		"Name" "#INF_ITEM_81_TEXT"
+		"Description" "#INF_ITEM_81_DESC"
+		"IconTexture" "icons/items/misc/horse01"
+		"ItemInfo1" "21"
+		"Type" "2"
+		"SubType" "3"
+		"Rarity" "3"
+		"Level" "20"
+		"IsUnique" "1"
+		"ModelData"
+		{
+			"Model" "models/mounts/horse01.mdl"
+		}
+    }
+    "82"
+    {
+		"Name" "#INF_ITEM_82_TEXT"
+		"Description" "#INF_ITEM_82_DESC"
+		"IconTexture" "icons/items/misc/wolf01"
+		"ItemInfo1" "21"
+		"Type" "2"
+		"SubType" "3"
+		"Rarity" "4"
+		"Level" "20"
+		"IsUnique" "1"
+		"ModelData"
+		{
+			"Model" "models/mounts/wolf01.mdl"
+		}
+    }
+}

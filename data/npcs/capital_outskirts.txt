@@ -139,6 +139,10 @@
 			{
 				"Price" "100"
 			}
+			"84"
+			{
+				"Price" "250"
+			}
 		}
     }
     "6"
@@ -298,6 +302,10 @@
 			{
 				"Price" "40"
 			}
+			"83"
+			{
+				"Price" "100"
+			}
 		}
     }
     "12"
@@ -422,6 +430,8 @@
 		"Quests"
 		{
 			"0" "14"
+			"1" "23"
+			"2" "24"
 		}
     }
     "16"
@@ -598,6 +608,10 @@
 			"AttackRange" "75"
 			"WalkSpeed" "60"
 		}
+		"Spells"
+		{
+			"0" "15"
+		}
 		"Loots"
 		{
 			"26"
@@ -607,10 +621,6 @@
 			"27"
 			{
 				"Percentage" "40"
-			}
-			"13"
-			{
-				"Percentage" "5"
 			}
 		}
 		"ModelData"
@@ -648,6 +658,10 @@
 			"AttackRange" "70"
 			"WalkSpeed" "60"
 		}
+		"Spells"
+		{
+			"0" "15"
+		}
 		"Loots"
 		{
 			"26"
@@ -657,10 +671,6 @@
 			"27"
 			{
 				"Percentage" "65"
-			}
-			"13"
-			{
-				"Percentage" "10"
 			}
 		}
 		"ModelData"
@@ -700,6 +710,10 @@
 			"AttackRange" "80"
 			"WalkSpeed" "60"
 		}
+		"Spells"
+		{
+			"0" "16"
+		}
 		"Loots"
 		{
 			"26"
@@ -710,13 +724,9 @@
 			{
 				"Percentage" "100"
 			}
-			"16"
+			"78"
 			{
-				"Percentage" "5"
-			}
-			"7"
-			{
-				"Percentage" "10"
+				"Percentage" "100"
 			}
 		}
 		"ModelData"
@@ -928,6 +938,26 @@
 			"#INF_NPC_30_Q_1" "#INF_NPC_30_A_1"
 			"#INF_NPC_30_Q_2" "#INF_NPC_30_A_2"
 			"#INF_NPC_30_Q_3" ""
+		}
+    }
+    "41"
+    {
+		"Name" "#INF_NPC_41_NAME"
+		"Description" "#INF_NPC_41_DESC"
+		"GreetingsText" "#INF_NPC_41_GREETINGS"
+		"Type" "2"
+		"ZoneLink" "1"
+		"ModelData"
+		{
+			"models/characters/npc/merchant01.mdl"
+			{
+			}
+		}
+		"Dialogue"
+		{
+			"#INF_NPC_41_Q_1" "#INF_NPC_41_A_1"
+			"#INF_NPC_41_Q_2" "#INF_NPC_41_A_2"
+			"#INF_NPC_41_Q_3" ""
 		}
     }
 }

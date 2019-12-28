@@ -26,6 +26,7 @@
 			"movspeed" "0.098"
 			"attackspeed" "0.165"
 			"attack" "3"
+			"melee" "0.25"
 		}
 		
 		"Intellect"
@@ -46,6 +47,13 @@
 		{
 			"damage_increase" "0.50"
 		}
+		
+		"Weapon"
+		{
+			"charge_time" "0.75"
+			"charge_idle" "0.5"
+			"deplete_time" "2.0"
+		}
 	}
 	
 	"Shared"
@@ -56,10 +64,9 @@
 		"CombatTimeDuration" "5"
 		"PlayerDefFocusRegenRate" "1.75"
 		"PlayerDefHPRegenRate" "2.0"
-		"SpellCastFocusRegenRatePenalty" "4"
+		"SpellCastFocusRegenRatePenalty" "0.4"
 		
-		"PlayerWalkSpeed" "150"
-		"PlayerRunSpeed" "200"
+		"PlayerMovementSpeed" "200"
 		"PlayerMountSpeed" "400"
 		"PlayerSpellCastMoveSpeed" "0.75"
 		
@@ -81,5 +88,7 @@
 		"UnderwaterBreathMax" "15"
 		"DrownDamage" "15"
 		"LevelUpDecreaseCost" "3"
+		"MinLevelGuildCreate" "5"
+		"GuildCreationCost" "2000"
 	}
 }
