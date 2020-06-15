@@ -147,6 +147,8 @@
 		"INF_WARN_GUILD_RANK_KICK" "You can only kick members with lower rank than yourself!"
 		"INF_WARN_GUILD_RANK_CHANGE" "You cannot promote someone to your own rank or higher, nor can you demote someone with higher rank than yourself."
 		"INF_WARN_GUILD_NAME_INVALID" "A guild name may only consist of letters from the alphabet, plus single whitespaces!"
+		"INF_WARN_GUILD_NAME_SHORT" "The guild name is too short!"
+		"INF_WARN_GUILD_NAME_TAKEN" "This guild name has already been taken!"
 		
 		"INF_WARN_NOREWARD_SELECTED" "You have to select a reward!"
 		"INF_WARN_NOINVENTORYSPACE" "You don't have enough room in your inventory!"
@@ -274,7 +276,7 @@
 		
 		"INF_COMBAT_BLOCK" "Block Attack"
 		
-		"INF_MOUNT_DISMOUNT" "Dismount"
+		"INF_MOUNT_DISMOUNT" "Dismount or Show Mount Selection Menu"
 		
 		"INF_ITEM_INFO_WEAPON_ONEHAND" "One Hand"
 		"INF_ITEM_INFO_WEAPON_TWOHAND" "Two Hand"
@@ -316,7 +318,6 @@
 		
 		"INF_CHAR_STATS_HEALTH" "Health: "
 		"INF_CHAR_STATS_FOCUS" "Focus: "
-		"INF_CHAR_STATS_ITEMLVL" "Item Level: "
 		"INF_CHAR_STATS_SPEED" "Speed: "
 		"INF_CHAR_STATS_STAMINA" "Stamina: "
 		"INF_CHAR_STATS_STRENGTH" "Strength: "
@@ -343,11 +344,10 @@
 		"INF_CHAR_STATS_TIP_HEALTH" "Total Health"
 		"INF_CHAR_STATS_TIP_FOCUS" "Total Focus"
 		"INF_CHAR_STATS_TIP_ARMOR" "Decreases physical damage taken by %s1% against enemies equal to LvL %s2\nReduces movement speed by %s3%\nIncreases spell casting time by %s4%"
-		"INF_CHAR_STATS_TIP_ITEMLVL" "Total item level. This number represents how 'geared' you are"
 		"INF_CHAR_STATS_TIP_STAMINA" "Increases health by 4 per point\nIncreases health regen rate by 0.165 per point"
 		"INF_CHAR_STATS_TIP_STRENGTH" "Increases melee attack power by 2 per point\nIncreases blocking efficiency by 4 per point"
-		"INF_CHAR_STATS_TIP_AGILITY" "Increases movement speed by 0.098% per point\nIncreases attack speed by 0.165% per point\nIncreases ranged attack power by 3 per point\nIncreases melee attack power by 0.25 per point"
-		"INF_CHAR_STATS_TIP_INTELLECT" "Increases spell power by 1 per point\nIncreases focus regen rate by 1.5 per point\nDecreases casting time with magic spells by 0.5% per point\nIncreases total focus pool by 0.625% per point"
+		"INF_CHAR_STATS_TIP_AGILITY" "Increases movement speed by 0.125% per point\nIncreases attack speed by 0.165% per point\nIncreases ranged attack power by 3 per point\nIncreases melee attack power by 0.25 per point"
+		"INF_CHAR_STATS_TIP_INTELLECT" "Increases spell power by 1 per point\nIncreases focus regen rate by 0.105 per point\nDecreases casting time with magic spells by 0.5% per point\nIncreases total focus pool by 0.625% per point"
 		"INF_CHAR_STATS_TIP_MELEEATTACKPOWER" "Increases damage dealt with melee weapons"
 		"INF_CHAR_STATS_TIP_RANGEDATTACKPOWER" "Increases damage dealt with ranged weapons"
 		"INF_CHAR_STATS_TIP_SPELLPOWER" "Increases damage dealt & healing done with magic spells"
@@ -370,12 +370,39 @@
 		"INF_ITEM_STAT_RESISTANCE_EARTH" "Earth"
 		"INF_ITEM_STAT_RESISTANCE_WIND" "Wind"
 		"INF_ITEM_STAT_MISC_LEVEL" "Requires Level"
-		"INF_ITEM_STAT_MISC_ITEMLEVEL" "Item Level"
 		"INF_ITEM_STAT_MISC_SELLPRICE" "Sell Price:"
 		"INF_ITEM_STAT_MISC_BUYPRICE" "Price:"
 		"INF_ITEM_STAT_TOOLTIP_ITEM_DAMAGE" "%s1 - %s2 Damage"
+		"INF_ITEM_STAT_TOOLTIP_ITEM_DAMAGE_FIRE" "%s1 - %s2 Fire Damage"
+		"INF_ITEM_STAT_TOOLTIP_ITEM_DAMAGE_WATER" "%s1 - %s2 Water Damage"
+		"INF_ITEM_STAT_TOOLTIP_ITEM_DAMAGE_SHADOW" "%s1 - %s2 Shadow Damage"
+		"INF_ITEM_STAT_TOOLTIP_ITEM_DAMAGE_EARTH" "%s1 - %s2 Earth Damage"
+		"INF_ITEM_STAT_TOOLTIP_ITEM_DAMAGE_WIND" "%s1 - %s2 Wind Damage"
 		"INF_ITEM_STAT_TOOLTIP_ITEM_HEALING" "%s1 - %s2 Healing"
 		"INF_ITEM_STAT_TOOLTIP_ITEM_SPEED" "Speed %s1"
+		
+		"INF_ITEM_TOOLTIP_CHANCE" "Chance on hit:"
+		"INF_ITEM_TOOLTIP_BUFF" "Buff:"
+		"INF_ITEM_TOOLTIP_DEBUFF" "Debuff:"
+		
+		"INF_ITEM_TOOLTIP_CHANCE_DAMAGE" "%s2 Deals %s1 - %s3 Damage"
+		"INF_ITEM_TOOLTIP_CHANCE_DAMAGE_FIRE" "%s2 Deals %s1 - %s3 Fire Damage"
+		"INF_ITEM_TOOLTIP_CHANCE_DAMAGE_WATER" "%s2 Deals %s1 - %s3 Water Damage"
+		"INF_ITEM_TOOLTIP_CHANCE_DAMAGE_SHADOW" "%s2 Deals %s1 - %s3 Shadow Damage"
+		"INF_ITEM_TOOLTIP_CHANCE_DAMAGE_EARTH" "%s2 Deals %s1 - %s3 Earth Damage"
+		"INF_ITEM_TOOLTIP_CHANCE_DAMAGE_WIND" "%s2 Deals %s1 - %s3 Wind Damage"
+		
+		"INF_ITEM_TOOLTIP_CHANCE_HEAL" "%s2 Heals the wielder for %s1 - %s3 HP"
+		
+		"INF_ITEM_TOOLTIP_CHANCE_DEBUFF_DAMAGE" "%s2 %s1 - %s3 Damage over %s4 sec"
+		"INF_ITEM_TOOLTIP_CHANCE_DEBUFF_DAMAGE_FIRE" "%s2 %s1 - %s3 Fire Damage over %s4 sec"
+		"INF_ITEM_TOOLTIP_CHANCE_DEBUFF_DAMAGE_WATER" "%s2 %s1 - %s3 Water Damage over %s4 sec"
+		"INF_ITEM_TOOLTIP_CHANCE_DEBUFF_DAMAGE_SHADOW" "%s2 %s1 - %s3 Shadow Damage over %s4 sec"
+		"INF_ITEM_TOOLTIP_CHANCE_DEBUFF_DAMAGE_EARTH" "%s2 %s1 - %s3 Earth Damage over %s4 sec"
+		"INF_ITEM_TOOLTIP_CHANCE_DEBUFF_DAMAGE_WIND" "%s2 %s1 - %s3 Wind Damage over %s4 sec"
+		
+		"INF_ITEM_TOOLTIP_CHANCE_DEBUFF_STUN" "%s2 Stun target for %s4 sec"
+		"INF_ITEM_TOOLTIP_CHANCE_DEBUFF_SLOW" "%s2 Slow target for %s4 sec"
 		
 		"INF_ITEM_STAT_TOOLTIP_ARMOR" "%s1 Armor"
 		"INF_ITEM_STAT_TOOLTIP_SHARED1" "+%s1 %s2"
@@ -444,6 +471,8 @@
 		"INF_ADV_OPT_ENABLE_3DINFO" "Enable 3D Info HUD for Players, NPCs and Corpses"
 		"INF_ADV_OPT_3DINFO_MAXITEMS" "Max 3D Info Items to render at once"
 		"INF_ADV_OPT_3DINFO_HPBAR" "Enable 3D Health Bars for Players and NPCs"
+		"INF_ADV_OPT_3DINFO_LOCAL" "Enable 3D Info for yourself"
+		"INF_ADV_OPT_3DINFO_DIST" "3D Info Item Render Distance"
 		"INF_ADV_OPT_FLEX_PERFORMANCE" "Disable flex animations, eye blinking, head movement, etc..."
 		"INF_ADV_OPT_QUESTSHOWFINISHED" "Display finished quests in the quest list"
 		"INF_ADV_OPT_QUESTSAUTOTRACK" "Always Auto-Track new quests when possible"
@@ -473,7 +502,7 @@
 		"INF_HINT_MERCHANT_SELLALL" "You can sell an entire item by holding down %s1 prior to selling the item."
 		"INF_HINT_RANGED_CHARGE" "The more you charge a ranged weapon, the more damage it will do and it will traverse further."
 		"INF_HINT_ITEM_QUICKSELECT" "Use the mouse wheel to navigate the items in the quick selection menu. RMB and ESC will close the menu, while LMB will select an item."
-		"INF_HINT_MOUNT" "Congrats on obtaining a mount! You can dismount by pressing %s1, you cannot attack, use spells or loot objects while mounted."
+		"INF_HINT_MOUNT" "Congrats on obtaining a mount! You can dismount by pressing %s1, you cannot attack, use spells or loot objects while mounted. You may also press %s1 to open a menu of available mounts when you are not mounted!"
 		"INF_HINT_QUEST_SELECT_REWARD" "You must select a quest reward, some quests may give you multiple items as rewards. In this case you can only receive one out of X rewards. Choose wisely!"
 		
 		// Loading Tips

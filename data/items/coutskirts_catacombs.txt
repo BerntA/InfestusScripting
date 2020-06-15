@@ -34,7 +34,7 @@
 		"ItemInfo1" "17"
 		"Type" "2"
 		"SubType" "1"
-		"Rarity" "2"
+		"Rarity" "1"
     }
     "71"
     {

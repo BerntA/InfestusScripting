@@ -105,7 +105,7 @@
 		{
 			"45"
 			{
-				"Percentage" "20"
+				"Percentage" "15"
 			}
 			"64"
 			{
@@ -358,6 +358,7 @@
 		"CollisionHeightCorpse" "45"
 		"Soundscript" "Skeleton"
 		"Experience" "450"
+		"MaxRareRewards" "1"
 		"RelationshipID" "2"
 		"ZoneLink" "2"
 		"Attributes"
@@ -387,7 +388,7 @@
 			}
 			"43"
 			{
-				"Percentage" "10"
+				"Percentage" "5"
 			}
 			"64"
 			{
@@ -446,7 +447,7 @@
 		{
 			"60"
 			{
-				"Percentage" "15"
+				"Percentage" "10"
 			}
 			"64"
 			{

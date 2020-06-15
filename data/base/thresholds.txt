@@ -23,7 +23,7 @@
 		
 		"Agility"
 		{
-			"movspeed" "0.098"
+			"movspeed" "0.125"
 			"attackspeed" "0.165"
 			"attack" "3"
 			"melee" "0.25"
@@ -32,7 +32,7 @@
 		"Intellect"
 		{
 			"spellpower" "1"
-			"focus_regen" "1.5"
+			"focus_regen" "0.105"
 			"cast_speed" "0.5"
 			"focus_pool" "0.625"
 		}
@@ -50,9 +50,7 @@
 		
 		"Weapon"
 		{
-			"charge_time" "0.75"
-			"charge_idle" "0.5"
-			"deplete_time" "2.0"
+			"charge_time" "0.7"
 		}
 	}
 	
@@ -62,13 +60,14 @@
 		"ArrowProjectileVelocity" "1250"
 		
 		"CombatTimeDuration" "5"
-		"PlayerDefFocusRegenRate" "1.75"
+		"PlayerDefFocusRegenRate" "2.0"
 		"PlayerDefHPRegenRate" "2.0"
 		"SpellCastFocusRegenRatePenalty" "0.4"
 		
 		"PlayerMovementSpeed" "200"
 		"PlayerMountSpeed" "400"
 		"PlayerSpellCastMoveSpeed" "0.75"
+		"PlayerRangedChargeMoveSpeed" "0.865"
 		
 		"MaxArmorDamageReduction" "65"
 		"MaxArmorSpeedReduction" "25"

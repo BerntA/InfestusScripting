@@ -66,4 +66,19 @@
 			"Model" "models/mounts/wolf01.mdl"
 		}
     }
+    "87"
+    {
+		"Name" "#INF_ITEM_87_TEXT"
+		"Description" "#INF_ITEM_87_DESC"
+		"IconTexture" "icons/items/misc/dog01"
+		"ItemInfo1" "21"
+		"Type" "2"
+		"SubType" "3"
+		"Rarity" "4"
+		"IsUnique" "1"
+		"ModelData"
+		{
+			"Model" "models/mounts/dog01.mdl"
+		}
+    }
 }
