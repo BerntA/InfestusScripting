@@ -547,7 +547,7 @@
 		}
 		"ModelData"
 		{
-			"models/characters/npc/smugler01.mdl"
+			"models/characters/npc/smuggler01.mdl"
 			{
 			}
 		}
@@ -586,7 +586,7 @@
 		}
 		"ModelData"
 		{
-			"models/characters/npc/smugler02.mdl"
+			"models/characters/npc/smuggler02.mdl"
 			{
 			}
 		}
@@ -810,7 +810,7 @@
 		}
 		"ModelData"
 		{
-			"models/characters/npc/smugler02.mdl"
+			"models/characters/npc/smuggler02.mdl"
 			{
 			}
 		}
@@ -849,7 +849,7 @@
 		}
 		"ModelData"
 		{
-			"models/characters/npc/smugler02.mdl"
+			"models/characters/npc/smuggler02.mdl"
 			{
 			}
 		}
@@ -914,7 +914,7 @@
 		}
 		"ModelData"
 		{
-			"models/characters/npc/smugler02.mdl"
+			"models/characters/npc/smuggler02.mdl"
 			{
 				"Scale" "1.5"
 			}

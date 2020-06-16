@@ -89,5 +89,11 @@
 		"LevelUpDecreaseCost" "3"
 		"MinLevelGuildCreate" "5"
 		"GuildCreationCost" "2000"
+		
+		"RangedMinRange" "60"
+		"RangedBowMaxRange" "350"
+		"RangedCrossbowMaxRange" "500"
+		"MeleeOneHandMaxRange" "81"
+		"MeleeTwoHandMaxRange" "90"
 	}
 }
