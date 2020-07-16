@@ -6,7 +6,6 @@
 		"IconTexture" "icons/items/weapon/sword04"
 		"ItemInfo1" "11"
 		"ItemInfo2" "5"
-		"ItemLevel" "70"
 		"Type" "0"
 		"SubType" "9"
 		"Rarity" "2"
@@ -26,12 +25,10 @@
 			"DamageMin" "30"
 			"DamageMax" "45"
 			"AttackSpeed" "1.1"
-			"RangeMax" "90"
 		}
 		"ChanceOnHit"
 		{
 			"Type" "1"
-			"Token" "#INF_ITEM_11_PROC"
 			"ValueMin" "15"
 			"ValueMax" "20"
 			"School" "3"
@@ -54,7 +51,6 @@
 		"IconTexture" "icons/items/weapon/sword05"
 		"ItemInfo1" "11"
 		"ItemInfo2" "5"
-		"ItemLevel" "68"
 		"Type" "0"
 		"SubType" "9"
 		"Rarity" "2"
@@ -73,7 +69,6 @@
 			"DamageMin" "26"
 			"DamageMax" "38"
 			"AttackSpeed" "1.15"
-			"RangeMax" "90"
 		}
 		"ModelData"
 		{
@@ -91,7 +86,6 @@
 		"IconTexture" "icons/items/weapon/mace04"
 		"ItemInfo1" "11"
 		"ItemInfo2" "7"
-		"ItemLevel" "125"
 		"Type" "0"
 		"SubType" "9"
 		"Rarity" "2"
@@ -110,7 +104,6 @@
 			"DamageMin" "45"
 			"DamageMax" "65"
 			"AttackSpeed" "1.15"
-			"RangeMax" "90"
 		}
 		"ResistanceData"
 		{
@@ -123,7 +116,6 @@
 		"ChanceOnHit"
 		{
 			"Type" "1"
-			"Token" "#INF_ITEM_37_PROC"
 			"ValueMin" "50"
 			"ValueMax" "75"
 			"School" "3"
@@ -146,7 +138,6 @@
 		"IconTexture" "icons/items/weapon/axe02"
 		"ItemInfo1" "11"
 		"ItemInfo2" "6"
-		"ItemLevel" "86"
 		"Type" "0"
 		"SubType" "9"
 		"Rarity" "2"
@@ -163,7 +154,6 @@
 			"DamageMin" "47"
 			"DamageMax" "74"
 			"AttackSpeed" "1.05"
-			"RangeMax" "90"
 		}
 		"ModelData"
 		{
@@ -181,7 +171,6 @@
 		"IconTexture" "icons/items/weapon/staff01"
 		"ItemInfo1" "11"
 		"ItemInfo2" "9"
-		"ItemLevel" "90"
 		"Type" "0"
 		"SubType" "9"
 		"Rarity" "2"
@@ -199,12 +188,10 @@
 			"DamageMin" "15"
 			"DamageMax" "30"
 			"AttackSpeed" "1.05"
-			"RangeMax" "90"
 		}
 		"ChanceOnHit"
 		{
 			"Type" "1"
-			"Token" "#INF_ITEM_85_PROC"
 			"ValueMin" "45"
 			"ValueMax" "65"
 			"School" "1"

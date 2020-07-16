@@ -14,7 +14,6 @@
 		{
 			"ConsumeValue" "50"
 			"SellValue" "5"
-			"Cooldown" "25"
 			"CanTrade" "1"
 		}
     }
@@ -32,7 +31,6 @@
 		{
 			"ConsumeValue" "25"
 			"SellValue" "5"
-			"Cooldown" "25"
 			"CanTrade" "1"
 		}
     }
@@ -50,7 +48,6 @@
 		{
 			"ConsumeValue" "15"
 			"SellValue" "5"
-			"Cooldown" "0.2"
 			"CanTrade" "1"
 		}
     }
@@ -68,7 +65,6 @@
 		{
 			"ConsumeValue" "30"
 			"SellValue" "10"
-			"Cooldown" "0.2"
 			"CanTrade" "1"
 		}
     }
@@ -86,7 +82,6 @@
 		{
 			"ConsumeValue" "100"
 			"SellValue" "10"
-			"Cooldown" "30"
 			"CanTrade" "1"
 		}
     }
@@ -104,7 +99,6 @@
 		{
 			"ConsumeValue" "50"
 			"SellValue" "10"
-			"Cooldown" "35"
 			"CanTrade" "1"
 		}
     }
@@ -122,7 +116,6 @@
 		{
 			"ConsumeValue" "50"
 			"SellValue" "15"
-			"Cooldown" "0.2"
 			"CanTrade" "1"
 		}
     }

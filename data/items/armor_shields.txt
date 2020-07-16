@@ -7,7 +7,6 @@
 		"IconTexture" "icons/items/weapon/shield01"
 		"ItemInfo1" "19"
 		"ItemInfo2" "11"
-		"ItemLevel" "75"
 		"Type" "0"
 		"SubType" "10"
 		"Rarity" "2"
@@ -19,10 +18,6 @@
 			"Strength" "4"
 			"Agility" "1"
 			"Intellect" "-2"
-		}
-		"EquipData"
-		{
-			"RangeMax" "80"
 		}
 		"ModelData"
 		{
@@ -40,7 +35,6 @@
 		"IconTexture" "icons/items/weapon/shield04_01"
 		"ItemInfo1" "19"
 		"ItemInfo2" "11"
-		"ItemLevel" "15"
 		"Type" "0"
 		"SubType" "10"
 		"Rarity" "1"
@@ -51,10 +45,6 @@
 			"Armor" "28"
 			"Stamina" "3"
 			"Strength" "1"
-		}
-		"EquipData"
-		{
-			"RangeMax" "80"
 		}
 		"ModelData"
 		{
@@ -73,7 +63,6 @@
 		"IconTexture" "icons/items/weapon/shield04_02"
 		"ItemInfo1" "19"
 		"ItemInfo2" "11"
-		"ItemLevel" "45"
 		"Type" "0"
 		"SubType" "10"
 		"Rarity" "1"
@@ -84,10 +73,6 @@
 			"Armor" "47"
 			"Stamina" "7"
 			"Strength" "3"
-		}
-		"EquipData"
-		{
-			"RangeMax" "80"
 		}
 		"ModelData"
 		{
@@ -107,7 +92,6 @@
 		"IconTexture" "icons/items/weapon/shield06_02"
 		"ItemInfo1" "19"
 		"ItemInfo2" "11"
-		"ItemLevel" "140"
 		"Type" "0"
 		"SubType" "10"
 		"Rarity" "2"
@@ -119,10 +103,6 @@
 			"Stamina" "16"
 			"Strength" "9"
 			"Intellect" "-5"
-		}
-		"EquipData"
-		{
-			"RangeMax" "80"
 		}
 		"ResistanceData"
 		{
@@ -150,7 +130,6 @@
 		"IconTexture" "icons/items/weapon/shield02"
 		"ItemInfo1" "19"
 		"ItemInfo2" "11"
-		"ItemLevel" "90"
 		"Type" "0"
 		"SubType" "10"
 		"Rarity" "2"
@@ -162,10 +141,6 @@
 			"Stamina" "11"
 			"Strength" "6"
 			"Agility" "3"
-		}
-		"EquipData"
-		{
-			"RangeMax" "80"
 		}
 		"ModelData"
 		{
@@ -184,7 +159,6 @@
 		"IconTexture" "icons/items/weapon/shield03_02"
 		"ItemInfo1" "19"
 		"ItemInfo2" "11"
-		"ItemLevel" "150"
 		"Type" "0"
 		"SubType" "10"
 		"Rarity" "3"
@@ -198,10 +172,6 @@
 			"Agility" "5"
 			"Intellect" "3"
 		}
-		"EquipData"
-		{
-			"RangeMax" "80"
-		}
 		"ModelData"
 		{
 			"Model" "models/items/shields/shield03.mdl"
@@ -211,6 +181,7 @@
 		{
 			"SellValue" "225"
 			"ItemFlags" "2"
+			"CanTrade" "1"
 		}
     }
     "63"
@@ -219,7 +190,6 @@
 		"IconTexture" "icons/items/weapon/shield05_01"
 		"ItemInfo1" "19"
 		"ItemInfo2" "11"
-		"ItemLevel" "58"
 		"Type" "0"
 		"SubType" "10"
 		"Rarity" "2"
@@ -230,10 +200,6 @@
 			"Stamina" "7"
 			"Strength" "3"
 			"Intellect" "-3"
-		}
-		"EquipData"
-		{
-			"RangeMax" "80"
 		}
 		"ModelData"
 		{

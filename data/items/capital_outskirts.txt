@@ -39,7 +39,7 @@
 		"SubType" "1"
 		"ModelData"
 		{
-			"Model" "models/flourbag.mdl"
+			"Model" "models/aoc_objects/flourbag.mdl"
 		}
     }
     "29"

@@ -62,12 +62,17 @@
 		"CombatTimeDuration" "5"
 		"PlayerDefFocusRegenRate" "2.0"
 		"PlayerDefHPRegenRate" "2.0"
-		"SpellCastFocusRegenRatePenalty" "0.4"
+		"SpellCastFocusRegenRatePenalty" "1.50"
+		"SpellCastFocusPenaltyRate" "0.30"
 		
 		"PlayerMovementSpeed" "200"
 		"PlayerMountSpeed" "400"
 		"PlayerSpellCastMoveSpeed" "0.75"
 		"PlayerRangedChargeMoveSpeed" "0.865"
+		
+		"HealthPotionCooldown" "120"
+		"FocusPotionCooldown" "60"
+		"FoodConsumptionCooldown" "2.50"
 		
 		"MaxArmorDamageReduction" "65"
 		"MaxArmorSpeedReduction" "25"

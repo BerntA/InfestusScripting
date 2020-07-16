@@ -6,7 +6,6 @@
 		"IconTexture" "icons/items/weapon/sword01"
 		"ItemInfo1" "18"
 		"ItemInfo2" "5"
-		"ItemLevel" "5"
 		"Type" "0"
 		"SubType" "9"
 		"Rarity" "1"
@@ -20,7 +19,6 @@
 		{
 			"DamageMin" "6"
 			"DamageMax" "15"
-			"RangeMax" "80"
 		}
 		"ModelData"
 		{
@@ -38,7 +36,6 @@
 		"IconTexture" "icons/items/weapon/sword02"
 		"ItemInfo1" "18"
 		"ItemInfo2" "5"
-		"ItemLevel" "25"
 		"Type" "0"
 		"SubType" "9"
 		"Rarity" "1"
@@ -54,7 +51,6 @@
 			"DamageMin" "8"
 			"DamageMax" "22"
 			"AttackSpeed" "0.9"
-			"RangeMax" "80"
 		}
 		"ModelData"
 		{
@@ -73,7 +69,6 @@
 		"IconTexture" "icons/items/weapon/sword03"
 		"ItemInfo1" "18"
 		"ItemInfo2" "5"
-		"ItemLevel" "43"
 		"Type" "0"
 		"SubType" "9"
 		"Rarity" "2"
@@ -90,7 +85,6 @@
 			"DamageMin" "11"
 			"DamageMax" "27"
 			"AttackSpeed" "0.95"
-			"RangeMax" "80"
 		}
 		"ModelData"
 		{
@@ -109,7 +103,6 @@
 		"IconTexture" "icons/items/weapon/axe01"
 		"ItemInfo1" "18"
 		"ItemInfo2" "6"
-		"ItemLevel" "11"
 		"Type" "0"
 		"SubType" "9"
 		"Rarity" "1"
@@ -125,7 +118,6 @@
 			"DamageMin" "7"
 			"DamageMax" "17"
 			"AttackSpeed" "0.8"
-			"RangeMax" "80"
 		}
 		"ModelData"
 		{
@@ -144,7 +136,6 @@
 		"IconTexture" "icons/items/weapon/mace01"
 		"ItemInfo1" "18"
 		"ItemInfo2" "7"
-		"ItemLevel" "25"
 		"Type" "0"
 		"SubType" "9"
 		"Rarity" "1"
@@ -159,7 +150,6 @@
 		{
 			"DamageMin" "8"
 			"DamageMax" "26"
-			"RangeMax" "80"
 		}
 		"ModelData"
 		{
@@ -179,7 +169,6 @@
 		"IconTexture" "icons/items/weapon/mace02"
 		"ItemInfo1" "18"
 		"ItemInfo2" "7"
-		"ItemLevel" "58"
 		"Type" "0"
 		"SubType" "9"
 		"Rarity" "2"
@@ -196,12 +185,10 @@
 			"MeleeAttackPower" "5"
 			"DamageMin" "11"
 			"DamageMax" "27"
-			"RangeMax" "80"
 		}
 		"ChanceOnHit"
 		{
 			"Type" "4"
-			"Token" "#INF_ITEM_15_PROC"
 			"ValueMin" "20"
 			"ValueMax" "40"
 			"ID" "1"
@@ -225,7 +212,6 @@
 		"IconTexture" "icons/items/weapon/mace03"
 		"ItemInfo1" "18"
 		"ItemInfo2" "7"
-		"ItemLevel" "65"
 		"Type" "0"
 		"SubType" "9"
 		"Rarity" "2"
@@ -243,12 +229,10 @@
 			"DamageMin" "13"
 			"DamageMax" "31"
 			"AttackSpeed" "1.05"
-			"RangeMax" "80"
 		}
 		"ChanceOnHit"
 		{
 			"Type" "4"
-			"Token" "#INF_ITEM_16_PROC"
 			"ValueMin" "30"
 			"ValueMax" "50"
 			"ID" "1"
@@ -271,7 +255,6 @@
 		"IconTexture" "icons/items/weapon/mace05"
 		"ItemInfo1" "18"
 		"ItemInfo2" "7"
-		"ItemLevel" "100"
 		"Type" "0"
 		"SubType" "9"
 		"Rarity" "2"
@@ -290,7 +273,6 @@
 			"DamageMin" "13"
 			"DamageMax" "26"
 			"AttackSpeed" "0.77"
-			"RangeMax" "80"
 		}
 		"ModelData"
 		{
@@ -309,7 +291,6 @@
 		"IconTexture" "icons/items/weapon/mace06"
 		"ItemInfo1" "18"
 		"ItemInfo2" "7"
-		"ItemLevel" "150"
 		"Type" "0"
 		"SubType" "9"
 		"Rarity" "3"
@@ -330,7 +311,6 @@
 			"DamageMin" "21"
 			"DamageMax" "33"
 			"AttackSpeed" "0.9"
-			"RangeMax" "85"
 		}
 		"ResistanceData"
 		{
@@ -343,7 +323,6 @@
 		"ChanceOnHit"
 		{
 			"Type" "2"
-			"Token" "#INF_ITEM_47_PROC"
 			"ValueMin" "10"
 			"ValueMax" "20"
 			"Probability" "0.1"
@@ -356,6 +335,7 @@
 		{
 			"SellValue" "230"
 			"ItemFlags" "16"
+			"CanTrade" "1"
 		}
     }
     "48"
@@ -364,7 +344,6 @@
 		"IconTexture" "icons/items/weapon/axe03"
 		"ItemInfo1" "18"
 		"ItemInfo2" "6"
-		"ItemLevel" "90"
 		"Type" "0"
 		"SubType" "9"
 		"Rarity" "2"
@@ -382,7 +361,6 @@
 			"DamageMin" "12"
 			"DamageMax" "27"
 			"AttackSpeed" "0.75"
-			"RangeMax" "80"
 		}
 		"ModelData"
 		{

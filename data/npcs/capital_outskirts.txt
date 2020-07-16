@@ -529,6 +529,9 @@
 			"AttackSpeed" "0.9"
 			"AttackRange" "70"
 			"DrainerRegenRate" "0.025"
+			"MeleeDMGFactor" "0.9"
+			"RangedDMGFactor" "0.75"
+			"MagicDMGFactor" "0.8"
 		}
 		"Spells"
 		{
