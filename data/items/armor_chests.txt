@@ -56,4 +56,147 @@
 			"CanTrade" "1"
 		}
     }
+    "103"
+    {
+		"Name" "#INF_ITEM_103_TEXT"
+		"IconTexture" "icons/items/armor/chest02"
+		"ItemInfo1" "2"
+		"ItemInfo2" "4"
+		"Type" "0"
+		"SubType" "1"
+		"Rarity" "2"
+		"Level" "15"
+		"IsUnique" "1"
+		"StatData"
+		{
+			"Armor" "150"
+			"Stamina" "17"
+			"Strength" "15"
+			"Agility" "5"
+		}
+		"EquipData"
+		{
+			"MeleeAttackPower" "25"
+			"RangedAttackPower" "10"
+		}
+		"ModelData"
+		{
+			"Model" "models/items/chests/chest02.mdl"
+		}
+		"MiscData"
+		{
+			"SellValue" "200"
+		}
+    }
+    "108"
+    {
+		"Name" "#INF_ITEM_108_TEXT"
+		"IconTexture" "icons/items/armor/chest04"
+		"ItemInfo1" "2"
+		"ItemInfo2" "3"
+		"Type" "0"
+		"SubType" "1"
+		"Rarity" "3"
+		"Level" "20"
+		"IsUnique" "1"
+		"StatData"
+		{
+			"Armor" "215"
+			"Stamina" "21"
+			"Strength" "16"
+			"Agility" "12"
+			"Intellect" "5"
+		}
+		"EquipData"
+		{
+			"MeleeAttackPower" "50"
+			"RangedAttackPower" "25"
+			"SpellPower" "10"
+			"Focus" "25"
+		}
+		"ResistanceData"
+		{
+			"Fire" "5"
+			"Water" "5"
+			"Shadow" "5"
+			"Earth" "5"
+			"Wind" "5"
+		}
+		"ModelData"
+		{
+			"Model" "models/items/chests/chest04.mdl"
+		}
+		"MiscData"
+		{
+			"SellValue" "500"
+		}
+    }
+    "115"
+    {
+		"Name" "#INF_ITEM_115_TEXT"
+		"IconTexture" "icons/items/armor/chest03"
+		"ItemInfo1" "2"
+		"ItemInfo2" "3"
+		"Type" "0"
+		"SubType" "1"
+		"Rarity" "2"
+		"Level" "14"
+		"IsUnique" "1"
+		"StatData"
+		{
+			"Armor" "139"
+			"Stamina" "14"
+			"Strength" "11"
+			"Agility" "2"
+			"Intellect" "3"
+		}
+		"EquipData"
+		{
+			"MeleeAttackPower" "10"
+			"RangedAttackPower" "10"
+			"SpellPower" "10"
+			"Focus" "10"
+		}
+		"ModelData"
+		{
+			"Model" "models/items/chests/chest03.mdl"
+		}
+		"MiscData"
+		{
+			"SellValue" "185"
+			"CanTrade" "1"
+		}
+    }
+    "124"
+    {
+		"Name" "#INF_ITEM_124_TEXT"
+		"IconTexture" "icons/items/armor/chest05"
+		"ItemInfo1" "2"
+		"ItemInfo2" "1"
+		"Type" "0"
+		"SubType" "1"
+		"Rarity" "2"
+		"Level" "15"
+		"IsUnique" "1"
+		"StatData"
+		{
+			"Stamina" "25"
+			"Strength" "-10"
+			"Agility" "-10"
+			"Intellect" "31"
+		}
+		"EquipData"
+		{
+			"SpellPower" "50"
+			"Focus" "25"
+		}
+		"ModelData"
+		{
+			"Model" "models/items/chests/chest05.mdl"
+		}
+		"MiscData"
+		{
+			"SellValue" "435"
+		}
+    }
 }

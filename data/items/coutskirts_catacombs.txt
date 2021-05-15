@@ -12,7 +12,7 @@
     "69"
     {
 		"Name" "#INF_ITEM_69_TEXT"
-		"IconTexture" "icons/items/misc/necronomicon"
+		"IconTexture" ""
 		"ItemInfo1" "16"
 		"Type" "2"
 		"SubType" "0"
@@ -69,10 +69,19 @@
 		"Name" "#INF_ITEM_74_TEXT"
 		"Description" "#INF_ITEM_74_DESC"
 		"IconTexture" "icons/items/misc/token01"
-		"ItemInfo1" "17"
-		"Type" "2"
-		"SubType" "2"
+		"ItemInfo1" "9"
+		"Type" "0"
+		"SubType" "8"
 		"Rarity" "4"
+		"Level" "15"
 		"IsUnique" "1"
+		"StatData"
+		{
+			"Intellect" "10"
+		}
+		"MiscData"
+		{
+			"SellValue" "100"
+		}
     }
 }

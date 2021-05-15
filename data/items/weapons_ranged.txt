@@ -125,15 +125,15 @@
 		"IsUnique" "1"
 		"StatData"
 		{
-			"Stamina" "13"
-			"Strength" "7"
+			"Stamina" "15"
+			"Strength" "10"
 			"Agility" "21"
 		}
 		"EquipData"
 		{
-			"RangedAttackPower" "35"
+			"RangedAttackPower" "40"
 			"DamageMin" "57"
-			"DamageMax" "71"
+			"DamageMax" "77"
 			"AttackSpeed" "0.8"
 		}
 		"ChanceOnHit"
@@ -151,6 +151,40 @@
 		{
 			"SellValue" "345"
 			"ItemFlags" "64"
+		}
+    }
+    "118"
+    {
+		"Name" "#INF_ITEM_118_TEXT"
+		"IconTexture" "icons/items/weapon/bow02"
+		"ItemInfo1" "12"
+		"ItemInfo2" "12"
+		"Type" "0"
+		"SubType" "11"
+		"Rarity" "2"
+		"Level" "15"
+		"IsUnique" "1"
+		"StatData"
+		{
+			"Stamina" "14"
+			"Strength" "7"
+			"Agility" "18"
+			"Intellect" "8"
+		}
+		"EquipData"
+		{
+			"RangedAttackPower" "25"
+			"DamageMin" "33"
+			"DamageMax" "47"
+			"AttackSpeed" "0.9"
+		}
+		"ModelData"
+		{
+			"Model" "models/items/bows/bow02.mdl"
+		}
+		"MiscData"
+		{
+			"SellValue" "275"
 			"CanTrade" "1"
 		}
     }

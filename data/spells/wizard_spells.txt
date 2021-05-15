@@ -7,15 +7,18 @@
 		"Category" "11"
 		"Title" "#INF_SPELL_3_TEXT"
 		"Description" "#INF_SPELL_3_DESC"
-		"IconTexture" "icons/items/spell/magic_blast01"
+		"IconTexture" "icons/items/spell/magic_arcaneblast"
 		"MagicSchool" "5"
-		"Knockback" "475"
-		"DamageMin" "14"
-		"DamageMax" "28"
-		"DrainValue" "40"
-		"CastTime" "0.5"
-		"CooldownTime" "1.5"
-		"Range" "150"
+		"Knockback" "500"
+		"DrainValue" "25"
+		"CastTime" "1"
+		"CooldownTime" "3"
+		"Range" "170"
+		"Ranks"
+		{
+			"14" "28"
+			"28" "44"
+		}
     }
     "4"
     {
@@ -24,18 +27,21 @@
 		"Category" "6"
 		"Title" "#INF_SPELL_4_TEXT"
 		"Description" "#INF_SPELL_4_DESC"
-		"IconTexture" "icons/items/spell/magic_fireball01"
+		"IconTexture" "icons/items/spell/magic_fireball"
 		"MagicSchool" "1"
 		"Knockback" "75"
-		"DamageMin" "30"
-		"DamageMax" "55"
 		"DrainValue" "35"
 		"CastTime" "2"
-		"CooldownTime" "3"
+		"CooldownTime" "1"
 		"Range" "350"
 		"BuffDebuffID" "2"
 		"BuffDebuffDuration" "8"
 		"BuffDebuffPercentage" "0.35"
+		"Ranks"
+		{
+			"30" "55"
+			"55" "75"
+		}
     }
     "5"
     {
@@ -48,12 +54,14 @@
 		"IconTexture" "icons/items/spell/magic_healingcircle"
 		"EffectTexture" "effects/healingcircle"
 		"Interval" "4.5"
-		"DamageMin" "10"
-		"DamageMax" "20"
 		"DrainValue" "50"
 		"CastTime" "5"
 		"CooldownTime" "40"
 		"Range" "100"
+		"Ranks"
+		{
+			"10" "20"
+		}
     }
     "9"
     {
@@ -67,29 +75,14 @@
 		"MagicSchool" "3"
 		"Duration" "35"
 		"Knockback" "175"
-		"DamageMin" "21"
-		"DamageMax" "33"
 		"DrainValue" "65"
 		"CastTime" "5"
 		"CooldownTime" "60"
 		"Range" "100"
-    }
-    "10"
-    {
-		"Type" "2"
-		"SubType" "2"
-		"Category" "11"
-		"Title" "#INF_SPELL_10_TEXT"
-		"Description" "#INF_SPELL_10_DESC"
-		"IconTexture" "icons/items/spell/magic_blast01"
-		"MagicSchool" "5"
-		"Knockback" "650"
-		"DamageMin" "27"
-		"DamageMax" "44"
-		"DrainValue" "55"
-		"CastTime" "1"
-		"CooldownTime" "3"
-		"Range" "175"
+		"Ranks"
+		{
+			"21" "33"
+		}
     }
     "11"
     {
@@ -100,11 +93,71 @@
 		"Title" "#INF_SPELL_11_TEXT"
 		"Description" "#INF_SPELL_11_DESC"
 		"IconTexture" "icons/items/spell/magic_healingtouch"
-		"DamageMin" "25"
-		"DamageMax" "35"
 		"DrainValue" "25"
 		"CastTime" "2.25"
 		"CooldownTime" "0.5"
 		"Range" "350"
+		"Ranks"
+		{
+			"25" "35"
+		}
+    }
+    "16"
+    {
+		"Type" "2"
+		"SubType" "1"
+		"Category" "7"
+		"Title" "#INF_SPELL_16_TEXT"
+		"Description" "#INF_SPELL_16_DESC"
+		"IconTexture" "icons/items/spell/magic_frostbolt"
+		"MagicSchool" "2"
+		"Knockback" "100"
+		"DrainValue" "40"
+		"CastTime" "2.5"
+		"CooldownTime" "1"
+		"Range" "350"
+		"BuffDebuffID" "8"
+		"BuffDebuffDuration" "3"
+		"BuffDebuffPercentage" "1"
+		"Ranks"
+		{
+			"50" "75"
+		}
+    }
+    "17"
+    {
+		"Type" "2"
+		"SubType" "2"
+		"ExtraEffectType" "1"
+		"Category" "11"
+		"Title" "#INF_SPELL_17_TEXT"
+		"Description" "#INF_SPELL_17_DESC"
+		"IconTexture" "icons/items/spell/magic_healingblast"
+		"DrainValue" "50"
+		"CastTime" "4"
+		"CooldownTime" "12.5"
+		"Range" "250"
+		"Ranks"
+		{
+			"50" "85"
+		}
+    }
+    "19"
+    {
+		"Type" "2"
+		"SubType" "1"
+		"Category" "8"
+		"Title" "#INF_SPELL_19_TEXT"
+		"Description" "#INF_SPELL_19_DESC"
+		"IconTexture" "icons/items/spell/magic_arcanebolt"
+		"Knockback" "125"
+		"DrainValue" "30"
+		"CastTime" "2.5"
+		"CooldownTime" "1"
+		"Range" "400"
+		"Ranks"
+		{
+			"64" "81"
+		}
     }
 }

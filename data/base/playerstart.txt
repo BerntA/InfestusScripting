@@ -1,0 +1,63 @@
+// Item slots range from 1-50, equipped items range from slots 101-112
+"StartupData"
+{
+	"Map" "capital_outskirts"
+	"Point" "point_start"
+	"Level" "1"
+	"Health" "100"
+	"Drainer" "100"
+	"Money" "0"
+	"XPStart" "500" // LvL 1 XP needed
+	"XPFactor1" "725" // LvL 2 - 10 XP Calculation factor.
+	"XPFactor2" "20" // LvL 11 - 20 XP Calculation factor.
+	"XPFactor3" "350" // LvL 21 - 30 XP Calculation factor.
+	"XPFactor4" "2" // LvL 31 - 40 XP Calculation factor.
+	"PointsPerLevel" "4"
+	
+	"Items"
+	{
+		"8"
+		{
+			"Quantity" "1"
+			"Slot" "110"
+		}
+		"25"
+		{
+			"Quantity" "1"
+			"Slot" "1"
+		}
+		"19"
+		{
+			"Quantity" "5"
+			"Slot" "2"
+		}
+	}
+	
+	"Spells"
+	{
+	}
+	
+	"EquipInfo"
+	{
+		"head" "0"
+		"chest" "0"
+		"cloak" "0"
+		"gloves" "0"
+		"legs" "0"
+		"boots" "0"
+		"ring" "0"
+		"necklace" "0"
+		"trinket" "0"
+		"primary_weapon" "8"
+		"secondary_weapon" "0"
+		"misc_weapon" "0"			
+		"spell1" "0"
+		"spell2" "0"
+		"spell3" "0"
+		"spell4" "0"
+		"spell5" "0"
+		"spell6" "0"
+		"spell7" "0"
+		"spell8" "0"
+	} 
+}

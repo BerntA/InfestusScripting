@@ -1,0 +1,68 @@
+"Items"
+{
+    "107"
+    {
+		"Name" "#INF_ITEM_107_TEXT"
+		"IconTexture" "icons/items/armor/boots01"
+		"ItemInfo1" "6"
+		"ItemInfo2" "3"
+		"Type" "0"
+		"SubType" "5"
+		"Rarity" "2"
+		"Level" "15"
+		"IsUnique" "1"
+		"StatData"
+		{
+			"Armor" "65"
+			"Stamina" "12"
+			"Strength" "10"
+			"Agility" "4"
+		}
+		"EquipData"
+		{
+			"MeleeAttackPower" "10"
+			"RangedAttackPower" "5"
+		}
+		"ModelData"
+		{
+			"Model" "models/items/boots/boot01.mdl"
+		}
+		"MiscData"
+		{
+			"SellValue" "150"
+		}
+    }
+    "112"
+    {
+		"Name" "#INF_ITEM_112_TEXT"
+		"IconTexture" "icons/items/armor/boots02"
+		"ItemInfo1" "6"
+		"ItemInfo2" "3"
+		"Type" "0"
+		"SubType" "5"
+		"Rarity" "3"
+		"Level" "20"
+		"IsUnique" "1"
+		"StatData"
+		{
+			"Armor" "115"
+			"Stamina" "15"
+			"Strength" "9"
+			"Agility" "19"
+			"Intellect" "3"
+		}
+		"EquipData"
+		{
+			"MeleeAttackPower" "15"
+			"RangedAttackPower" "10"
+		}
+		"ModelData"
+		{
+			"Model" "models/items/boots/boot02.mdl"
+		}
+		"MiscData"
+		{
+			"SellValue" "300"
+		}
+    }
+}

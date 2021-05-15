@@ -22,6 +22,7 @@
         "INF_PANEL_FRIEND_LIST" "Social Panel"
         "INF_PANEL_SPELL_BOOK" "Spells"
 		"INF_PANEL_QUEST_LIST" "Quests"
+		"INF_PANEL_WORLD_MAP" "World Map"
 		"INF_PANEL_BANK" "Bank"
 		"INF_PANEL_LEVEL_UP" "Level Up"
 		"INF_PANEL_SPELL_BOOK_TAB1" "Melee"
@@ -37,6 +38,9 @@
 		"INF_GUI_MINIMAP_ZOOM_OUT" "Minimap Zoom Out"
 		
 		"INF_GUI_CHARSELECTION_STATUS" "Level %s1"
+		"INF_GUI_VAULT" "Bank Vault"
+		"INF_GUI_DEPOSIT" "Deposit"
+		"INF_GUI_WITHDRAW" "Withdraw"
 		
 		"INF_GUI_GUILD_INVITE" "Add member"		
 		"INF_GUI_GUILD_DISBAND" "Really disband guild?"
@@ -130,6 +134,7 @@
 		"INF_WARN_SELLITEM" "You can't sell this item!"
 		"INF_WARN_CANTMOUNT" "Unable to mount in this area or zone."
 		"INF_WARN_ALREADYMOUNTED" "You're already mounted!"
+		"INF_WARN_BANK_MONEY" "You cannot deposit more money to the bank!"
 		
 		"INF_WARN_GRP_NOT_LEADER" "You're not the leader of this group!"
 		"INF_WARN_GRP_ALREADY_INCURRGROUP" "This user is already in your group!"
@@ -166,6 +171,8 @@
 		"INF_WARN_SPELL_STACK" "You cannot stack spell objects!"
 		"INF_WARN_SPELL_RANGE" "Too far away, unable to spawn spell object!"
 		
+		"INF_WARN_BLOCK_NODRAIN" "You don't have enough focus to block!"
+		
 		"INF_WARN_TRADE1" "Unable to trade with %s1 at this time!"
 		"INF_WARN_TRADE2" "You can't give more money than you have!"
 		"INF_WARN_TRADE3" "Failed to trade with %s1!"
@@ -182,6 +189,7 @@
 		"INF_NPC_INTERACT_FAIL_ITEM" "You need an item '%s1' in order to talk with me!"
 		"INF_NPC_INTERACT_FAIL_QUEST_1" "You have not started or finished the quest '%s1', speak to me again once you have started or finished this journey."
 		"INF_NPC_INTERACT_FAIL_QUEST_2" "I only speak with those who need assistance with '%s1'."		
+		"INF_NPC_INTERACT_FAIL_QUEST_3" "You have not yet finished the quest '%s1', speak to me again when you have finished it."
 		"INF_NPC_INTERACT_FAIL_REP" "I only speak with people who have a standing of '%s1' with '%s2'!"
 		
 		"INF_NOTIFY_ADD_FRIEND" "You've added %s1 to your friend list."
@@ -224,13 +232,16 @@
 		"INF_NOTIFY_LOOT4" "You've auto-looted item, '%s1'!"
 		"INF_NOTIFY_LOOT5" "Unable to auto-loot!"
 		
-		"INF_NOTIFY_REP" "You're now affiliated with %s1"
+		"INF_NOTIFY_BANK_DEPOSIT" "You've deposited %s1 coins to your bank."
+		"INF_NOTIFY_BANK_WITHDRAW" "You've withdrawn %s1 coins from your bank."
+		
+		"INF_NOTIFY_REP" "You're now affiliated with %s2"
 		"INF_REWARD_EXPERIENCE" "You've gained %s1 experience!"
 		"INF_REWARD_MONEY" "You've received %s1 coins."
 		"INF_REWARD_ADD_REP" "You've gained %s1 rep with %s2."
 		"INF_REWARD_REM_REP" "You've lost %s1 rep with %s2."
 		
-		"INF_NOTIFY_NEW_SPELL" "You've learnt a new spell!"
+		"INF_NOTIFY_NEW_SPELL" "You've learnt %s2, rank %s1!"
 		"INF_NOTIFY_LEVELUP1" "Congratulations on level %s1! You've been awarded %s2 points, spend them in your level up panel!"
 		"INF_NOTIFY_LEVELUP2" "You've successfully updated your level-up stats!"
 		"INF_NOTIFY_LEVELUP3" "You have available points, spend them in your level-up panel!"
@@ -269,7 +280,12 @@
 		"INF_CAMERA_FREEVIEW" "Camera Free Rotate Mode"
 		
 		"INF_ITEM_SELECTION" "Item Quick Selection Menu"
-		
+
+		"INF_ACTION_PRESET1" "Action Preset 1"
+		"INF_ACTION_PRESET2" "Action Preset 2"
+		"INF_ACTION_PRESET3" "Action Preset 3"
+		"INF_ACTION_PRESET4" "Action Preset 4"
+
 		"INF_SELECT_WEAPON_MELEE" "Draw Melee Weapon(s)"
 		"INF_SELECT_WEAPON_RANGED" "Draw Ranged Weapon"
 		"INF_SELECT_WEAPON_NONE" "Holster Weapon(s)"
@@ -290,10 +306,10 @@
 		"INF_ITEM_INFO_MISC_JUNK" "Junk"
 		"INF_ITEM_INFO_MISC_MOUNT" "Mount"
 		
-		"INF_ITEM_INFO_ARMOR_CLOTH" "Cloth"
-		"INF_ITEM_INFO_ARMOR_LEATHER" "Leather"
-		"INF_ITEM_INFO_ARMOR_MAIL" "Mail"
-		"INF_ITEM_INFO_ARMOR_PLATE" "Plate"
+		"INF_ITEM_INFO_ARMOR_CLOTH" "Light Armor"
+		"INF_ITEM_INFO_ARMOR_LEATHER" "Light Armor"
+		"INF_ITEM_INFO_ARMOR_MAIL" "Heavy Armor"
+		"INF_ITEM_INFO_ARMOR_PLATE" "Heavy Armor"
 		
 		"INF_ITEM_INFO_WEAPON_SWORD" "Sword"
 		"INF_ITEM_INFO_WEAPON_AXE" "Axe"
@@ -345,7 +361,7 @@
 		"INF_CHAR_STATS_TIP_FOCUS" "Total Focus"
 		"INF_CHAR_STATS_TIP_ARMOR" "Decreases physical damage taken by %s1% against enemies equal to LvL %s2\nReduces movement speed by %s3%\nIncreases spell casting time by %s4%"
 		"INF_CHAR_STATS_TIP_STAMINA" "Increases health by 4 per point\nIncreases health regen rate by 0.165 per point"
-		"INF_CHAR_STATS_TIP_STRENGTH" "Increases melee attack power by 2 per point\nIncreases blocking efficiency by 4 per point"
+		"INF_CHAR_STATS_TIP_STRENGTH" "Increases melee attack power by 2 per point\nIncreases blocking efficiency by 0.75 per point"
 		"INF_CHAR_STATS_TIP_AGILITY" "Increases movement speed by 0.125% per point\nIncreases attack speed by 0.165% per point\nIncreases ranged attack power by 3 per point\nIncreases melee attack power by 0.25 per point"
 		"INF_CHAR_STATS_TIP_INTELLECT" "Increases spell power by 1 per point\nIncreases focus regen rate by 0.105 per point\nDecreases casting time with magic spells by 0.5% per point\nIncreases total focus pool by 0.625% per point"
 		"INF_CHAR_STATS_TIP_MELEEATTACKPOWER" "Increases damage dealt with melee weapons"
@@ -384,6 +400,7 @@
 		"INF_ITEM_TOOLTIP_CHANCE" "Chance on hit:"
 		"INF_ITEM_TOOLTIP_BUFF" "Buff:"
 		"INF_ITEM_TOOLTIP_DEBUFF" "Debuff:"
+		"INF_ITEM_TOOLTIP_SPELL_RANK" "Rank %s1"
 		
 		"INF_ITEM_TOOLTIP_CHANCE_DAMAGE" "%s2 Deals %s1 - %s3 Damage"
 		"INF_ITEM_TOOLTIP_CHANCE_DAMAGE_FIRE" "%s2 Deals %s1 - %s3 Fire Damage"
@@ -393,6 +410,7 @@
 		"INF_ITEM_TOOLTIP_CHANCE_DAMAGE_WIND" "%s2 Deals %s1 - %s3 Wind Damage"
 		
 		"INF_ITEM_TOOLTIP_CHANCE_HEAL" "%s2 Heals the wielder for %s1 - %s3 HP"
+		"INF_ITEM_TOOLTIP_CHANCE_FOCUS" "%s2 Restores %s1 - %s3 Focus"
 		
 		"INF_ITEM_TOOLTIP_CHANCE_DEBUFF_DAMAGE" "%s2 %s1 - %s3 Damage over %s4 sec"
 		"INF_ITEM_TOOLTIP_CHANCE_DEBUFF_DAMAGE_FIRE" "%s2 %s1 - %s3 Fire Damage over %s4 sec"
@@ -403,6 +421,7 @@
 		
 		"INF_ITEM_TOOLTIP_CHANCE_DEBUFF_STUN" "%s2 Stun target for %s4 sec"
 		"INF_ITEM_TOOLTIP_CHANCE_DEBUFF_SLOW" "%s2 Slow target for %s4 sec"
+		"INF_ITEM_TOOLTIP_CHANCE_DEBUFF_KNOCKDOWN" "%s2 Knockdown target"
 		
 		"INF_ITEM_STAT_TOOLTIP_ARMOR" "%s1 Armor"
 		"INF_ITEM_STAT_TOOLTIP_SHARED1" "+%s1 %s2"
@@ -413,6 +432,9 @@
 		"INF_ITEM_STAT_TOOLTIP_RESISTANCE2" "%s1 %s2 Resistance"
 		"INF_ITEM_STAT_TOOLTIP_MISC1" "%s2 %s1"
 		"INF_ITEM_STAT_TOOLTIP_MISC2" "%s2 %s1\n"
+		
+		"INF_ITEM_STAT_TOOLTIP_RESTORE_HEALTH" "Restores %s1 Health"
+		"INF_ITEM_STAT_TOOLTIP_RESTORE_FOCUS" "Restores %s1 Focus"
 		
 		"INF_ITEM_STAT_TOME_LEARNED" "Already learned!"
 		"INF_ITEM_STAT_CANNOT_TRADE" "Cannot be traded!"
@@ -448,13 +470,14 @@
 		"INF_DENY_QUEST_PICKUP" "You're not high enough level for this quest!"
 		"INF_DENY_QUEST_PICKUP_ITEM" "Unable to pickup quest, your inventory is full!"
 		"INF_DENY_TOME" "You already know this spell!"
+		"INF_DENY_TOME_RANK" "You do not possess the knowledge to learn this spell yet!"
 		
 		// Bank System
 		"INF_DENY_BANK_NOACCESS" "You don't have any bank access yet!"
 		"INF_DENY_BANK_HASACCESS" "You already have bank access!"
 		"INF_DENY_BANK_LEVEL" "You must be at least level %s1 to buy bank access!"
 		"INF_DENY_BANK_MONEY" "You don't have enough money. You need at least %s1 coins!"
-		"INF_NOTIFY_BANK_ACCESS" "Congratulations on bank access! You can now store up to 100 items in your bank!"
+		"INF_NOTIFY_BANK_ACCESS" "Congratulations on bank access! You can now store up to 100 items in your bank, and up to 100000 coins!"
 		
 		"INF_ADV_OPT_MPDECALS" "Multiplayer decal limit"
 		"INF_ADV_OPT_DECALLIM" "Decal limit"
@@ -475,10 +498,13 @@
 		"INF_ADV_OPT_3DINFO_DIST" "3D Info Item Render Distance"
 		"INF_ADV_OPT_FLEX_PERFORMANCE" "Disable flex animations, eye blinking, head movement, etc..."
 		"INF_ADV_OPT_QUESTSHOWFINISHED" "Display finished quests in the quest list"
+		"INF_ADV_OPT_QUESTINTCLOSE" "Close interaction panel when accepting a new quest"
 		"INF_ADV_OPT_QUESTSAUTOTRACK" "Always Auto-Track new quests when possible"
 		"INF_ADV_OPT_QUESTSTRACKMAX" "Max amount of quests to track simultaneously"
+		"INF_ADV_OPT_QUEST_MARKERS" "Show Quest Objective Markers"
 		"INF_ADV_OPT_GUILDNOTIFICATIONS" "Enable guild notifications for when guildies go online or offline."
 		"INF_ADV_OPT_ENABLE_HINTS" "Enable Gameplay Hints"
+		"INF_ADV_OPT_PLRCACHE" "Enable Local Player Cache"
 		
 		// Trading
 		"INF_TRADE_ACCEPT" "Accept"
@@ -498,12 +524,14 @@
 		"INF_HINT_AUTO_LOOT" "You can auto-loot any corpse by holding down %s1 before pressing %s2 on the corpse."
 		"INF_HINT_GROUP_LEAVE" "You have joined a group, to leave simply press %s1."
 		"INF_HINT_COMBAT_WEAPON" "You've been engaged, to draw your melee weapon press %s1, to draw a ranged weapon press %s2 and to holster your weapons press %s3."
-		"INF_HINT_SPELLS_DRAGDROP" "You can drag and drop any spells here into the action bar at the very bottom, to remove existing items in the action bar simply press and hold RMB on the spell you wish to remove."
+		"INF_HINT_SPELLS_DRAGDROP" "You can drag and drop any spells here into the action bar at the very bottom, to remove existing items in the action bar simply press and hold RMB on the spell you wish to remove. You can also save up to four action presets (double press), this will allow easy switching between presets."
 		"INF_HINT_MERCHANT_SELLALL" "You can sell an entire item by holding down %s1 prior to selling the item."
 		"INF_HINT_RANGED_CHARGE" "The more you charge a ranged weapon, the more damage it will do and it will traverse further."
 		"INF_HINT_ITEM_QUICKSELECT" "Use the mouse wheel to navigate the items in the quick selection menu. RMB and ESC will close the menu, while LMB will select an item."
 		"INF_HINT_MOUNT" "Congrats on obtaining a mount! You can dismount by pressing %s1, you cannot attack, use spells or loot objects while mounted. You may also press %s1 to open a menu of available mounts when you are not mounted!"
 		"INF_HINT_QUEST_SELECT_REWARD" "You must select a quest reward, some quests may give you multiple items as rewards. In this case you can only receive one out of X rewards. Choose wisely!"
+		"INF_HINT_COMBAT_BLOCK" "You may block an enemy attack with any melee weapon, or with a shield. Blocking an attack with a shield is twice as efficient. The block efficiency value given by your strength stat decides how much base damage can be blocked. Keep in mind that some attacks may only be blocked by a shield, for example projectiles."
+		"INF_HINT_WORLDMAP" "In the worldmap you can zoom in and out by scrolling, and you may move around by pressing and holding down the left mouse button. Moving the cursor over any markers will print detailed information about that marker, in the options you can set whether or not markers should only show for tracked quests, any active quest or none at all."
 		
 		// Loading Tips
 		"INF_LOADING_TIP_1" "You cannot use your items while in combat, except for potions." 
@@ -514,7 +542,7 @@
 		"INF_LOADING_TIP_6" "Press [select_none] to holster any drawn weapon(s)."
 		"INF_LOADING_TIP_7" "Your character will regen health and focus, when in and out of combat."
 		"INF_LOADING_TIP_8" "Be sure to familiarize yourself with the available in-game menus."
-		"INF_LOADING_TIP_9" "You can track up to 5 quests at a time."
+		"INF_LOADING_TIP_9" "You can track up to 8 quests at a time."
 		"INF_LOADING_TIP_10" "A party can consist of maximum 10 players."
 		"INF_LOADING_TIP_11" "The social menu allows you to search for online users."
 		"INF_LOADING_TIP_12" "You can only see players in the same world, however you can communicate with either."
@@ -531,7 +559,25 @@
 		"INF_LOADING_TIP_23" "You can write /inv, /tell, /kick and /promote <NAME> in any chat channel but whisper, for convenience."
 		"INF_LOADING_TIP_24" "When the Spell Panel is active, you can remove spells from your action bar by right clicking them."
 		"INF_LOADING_TIP_25" "When you are trading with someone you can remove the items you want to trade by right clicking them."
-		"INF_LOADING_TIP_26" "Press [+use] to interact with other players!"		
+		"INF_LOADING_TIP_26" "Press [+use] to interact with other players!"
+		"INF_LOADING_TIP_27" "Press [+attack3] to block an attack."
+		"INF_LOADING_TIP_28" "Press [worldmap] to open the world map."
+		
+		// Active Effects, Buff Debuff, etc...
+		"INF_ACTIVE_EFFECTS" "Active Effects"
+		"INF_ITEM_EFFECT_ARMOR" "%s1 Armor"
+		"INF_ITEM_EFFECT_STAMINA" "%s1 Stamina"
+		"INF_ITEM_EFFECT_STRENGTH" "%s1 Strength"
+		"INF_ITEM_EFFECT_AGILITY" "%s1 Agility"
+		"INF_ITEM_EFFECT_INTELLECT" "%s1 Intellect"
+		"INF_ITEM_EFFECT_RESISTANCE_FIRE" "%s1 Fire Resist"
+		"INF_ITEM_EFFECT_RESISTANCE_WATER" "%s1 Water Resist"
+		"INF_ITEM_EFFECT_RESISTANCE_SHADOW" "%s1 Shadow Resist"
+		"INF_ITEM_EFFECT_RESISTANCE_EARTH" "%s1 Earth Resist"
+		"INF_ITEM_EFFECT_RESISTANCE_WIND" "%s1 Wind Resist"
+		"INF_ITEM_EFFECT_MELEEATTACKPOWER" "%s1 Melee AP"
+		"INF_ITEM_EFFECT_RANGEDATTACKPOWER" "%s1 Ranged AP"
+		"INF_ITEM_EFFECT_SPELLPOWER" "%s1 Spell Power"
 		
 		// Combat
 		"INF_WATER_BREATH" "Breath"
@@ -550,6 +596,7 @@
 		"INF_COMBATLOG_CONSUME_FOCUS" "%s1 has restored %s2 focus!"
 		"INF_COMBATLOG_CONSUME_OTHER" "You have consumed a %s1."
 		"INF_COMBATLOG_CONSUME_CHANCEHIT" "%s1 has healed you for %s2!"
+		"INF_COMBATLOG_CONSUME_EXPIRED" "%s1 has expired."
 		
 		"INF_COMBATLOG_DAMAGE1_FIRE" "You attack %s2 for %s3 fire damage!"
 		"INF_COMBATLOG_DAMAGE2_FIRE" "You took %s3 fire damage from %s2!"

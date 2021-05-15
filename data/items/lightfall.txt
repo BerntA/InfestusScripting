@@ -1,0 +1,196 @@
+"Items"
+{
+    "88"
+    {
+		"Name" "#INF_ITEM_88_TEXT"
+		"IconTexture" "icons/items/misc/torch"
+		"ItemInfo1" "17"
+		"Type" "2"
+		"SubType" "2"
+		"IsUnique" "1"
+    }
+    "89"
+    {
+		"Name" "#INF_ITEM_89_TEXT"
+		"IconTexture" "icons/items/misc/head01"
+		"ItemInfo1" "17"
+		"Type" "2"
+		"SubType" "1"
+    }
+    "90"
+    {
+		"Name" "#INF_ITEM_90_TEXT"
+		"IconTexture" "icons/items/misc/parchment02"
+		"ItemInfo1" "17"
+		"Type" "2"
+		"SubType" "1"
+		"Rarity" "1"
+		"IsUnique" "1"
+		"ModelData"
+		{
+			"Model" "models/aoc_objects/scroll02_static.mdl"
+			"Skin" "5"
+		}
+    }
+    "91"
+    {
+		"Name" "#INF_ITEM_91_TEXT"
+		"IconTexture" "icons/items/misc/parchment02"
+		"ItemInfo1" "17"
+		"Type" "2"
+		"SubType" "1"
+		"Rarity" "1"
+		"IsUnique" "1"
+		"ModelData"
+		{
+			"Model" "models/aoc_objects/scroll02_static.mdl"
+		}
+    }
+    "92"
+    {
+		"Name" "#INF_ITEM_92_TEXT"
+		"IconTexture" "icons/items/misc/fang"
+		"ItemInfo1" "17"
+		"Type" "2"
+		"SubType" "1"
+		"Rarity" "1"
+    }
+    "93"
+    {
+		"Name" "#INF_ITEM_93_TEXT"
+		"IconTexture" "icons/items/misc/fang"
+		"ItemInfo1" "17"
+		"Type" "2"
+		"SubType" "1"
+		"Rarity" "1"
+    }
+    "94"
+    {
+		"Name" "#INF_ITEM_94_TEXT"
+		"IconTexture" "icons/items/misc/vial01"
+		"ItemInfo1" "17"
+		"Type" "2"
+		"SubType" "1"
+		"Rarity" "1"
+    }
+    "95"
+    {
+		"Name" "#INF_ITEM_95_TEXT"
+		"IconTexture" "icons/items/misc/equipment"
+		"ItemInfo1" "17"
+		"Type" "2"
+		"SubType" "1"
+		"Rarity" "1"
+    }
+    "96"
+    {
+		"Name" "#INF_ITEM_96_TEXT"
+		"Description" "#INF_ITEM_96_DESC"
+		"IconTexture" "icons/items/misc/key02"
+		"ItemInfo1" "17"
+		"Type" "2"
+		"SubType" "1"
+		"IsUnique" "1"
+    }
+    "97"
+    {
+		"Name" "#INF_ITEM_97_TEXT"
+		"IconTexture" "icons/items/misc/letter"
+		"ItemInfo1" "17"
+		"Type" "2"
+		"SubType" "0"
+		"Rarity" "1"
+		"IsUnique" "1"
+		"MiscData"
+		{
+			"ConsumeValue" "5"
+		}
+    }
+    "98"
+    {
+		"Name" "#INF_ITEM_98_TEXT"
+		"Description" "#INF_ITEM_98_DESC"
+		"IconTexture" "icons/items/misc/letter"
+		"ItemInfo1" "17"
+		"Type" "2"
+		"SubType" "0"
+		"Rarity" "1"
+		"IsUnique" "1"
+		"MiscData"
+		{
+			"ConsumeValue" "6"
+		}
+    }
+    "99"
+    {
+		"Name" "#INF_ITEM_99_TEXT"
+		"IconTexture" ""
+		"ItemInfo1" "16"
+		"Type" "2"
+		"SubType" "0"
+		"Rarity" "1"
+		"ModelData"
+		{
+			"Model" "models/aoc_objects/book_medium_static.mdl"
+			"Skin" "9"
+		}
+		"MiscData"
+		{
+			"ConsumeValue" "8"
+		}
+    }
+    "100"
+    {
+		"Name" "#INF_ITEM_100_TEXT"
+		"IconTexture" ""
+		"ItemInfo1" "16"
+		"Type" "2"
+		"SubType" "0"
+		"Rarity" "1"
+		"ModelData"
+		{
+			"Model" "models/aoc_objects/book_medium_static.mdl"
+			"Skin" "8"
+		}
+		"MiscData"
+		{
+			"ConsumeValue" "9"
+		}
+    }
+    "101"
+    {
+		"Name" "#INF_ITEM_101_TEXT"
+		"IconTexture" "icons/items/misc/pouch02"
+		"ItemInfo1" "17"
+		"Type" "2"
+		"SubType" "2"
+		"IsUnique" "1"
+    }
+    "102"
+    {
+		"Name" "#INF_ITEM_102_TEXT"
+		"IconTexture" "icons/items/misc/supplies"
+		"ItemInfo1" "17"
+		"Type" "2"
+		"SubType" "2"
+		"IsUnique" "1"
+    }
+    "117"
+    {
+		"Name" "#INF_ITEM_117_TEXT"
+		"IconTexture" ""
+		"ItemInfo1" "16"
+		"Type" "2"
+		"SubType" "0"
+		"Rarity" "1"
+		"ModelData"
+		{
+			"Model" "models/aoc_objects/book_medium_static.mdl"
+			"Skin" "4"
+		}
+		"MiscData"
+		{
+			"ConsumeValue" "7"
+		}
+    }
+}

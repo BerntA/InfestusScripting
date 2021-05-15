@@ -13,11 +13,11 @@
 		"IsUnique" "1"
 		"StatData"
 		{
-			"Armor" "76"
+			"Armor" "78"
 			"Stamina" "11"
 			"Strength" "4"
 			"Agility" "1"
-			"Intellect" "-2"
+			"Intellect" "4"
 		}
 		"ModelData"
 		{
@@ -102,7 +102,6 @@
 			"Armor" "85"
 			"Stamina" "16"
 			"Strength" "9"
-			"Intellect" "-5"
 		}
 		"ResistanceData"
 		{
@@ -199,7 +198,6 @@
 			"Armor" "53"
 			"Stamina" "7"
 			"Strength" "3"
-			"Intellect" "-3"
 		}
 		"ModelData"
 		{
@@ -208,6 +206,33 @@
 		"MiscData"
 		{
 			"SellValue" "87"
+			"ItemFlags" "2"
+		}
+    }
+    "160"
+    {
+		"Name" "#INF_ITEM_160_TEXT"
+		"IconTexture" "icons/items/weapon/shield05_02"
+		"ItemInfo1" "19"
+		"ItemInfo2" "11"
+		"Type" "0"
+		"SubType" "10"
+		"Rarity" "2"
+		"IsUnique" "1"
+		"StatData"
+		{
+			"Armor" "81"
+			"Stamina" "13"
+			"Strength" "7"
+			"Agility" "5"
+		}
+		"ModelData"
+		{
+			"Model" "models/items/shields/shield05_02.mdl"
+		}
+		"MiscData"
+		{
+			"SellValue" "150"
 			"ItemFlags" "2"
 		}
     }

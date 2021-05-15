@@ -58,4 +58,68 @@
 			"SellValue" "120"
 		}
     }
+    "104"
+    {
+		"Name" "#INF_ITEM_104_TEXT"
+		"IconTexture" "icons/items/armor/gloves01"
+		"ItemInfo1" "4"
+		"ItemInfo2" "3"
+		"Type" "0"
+		"SubType" "3"
+		"Rarity" "2"
+		"Level" "15"
+		"IsUnique" "1"
+		"StatData"
+		{
+			"Armor" "73"
+			"Stamina" "14"
+			"Strength" "11"
+			"Agility" "7"
+		}
+		"EquipData"
+		{
+			"MeleeAttackPower" "10"
+			"RangedAttackPower" "5"
+		}
+		"ModelData"
+		{
+			"Model" "models/items/gloves/glove01.mdl"
+		}
+		"MiscData"
+		{
+			"SellValue" "150"
+		}
+    }
+    "109"
+    {
+		"Name" "#INF_ITEM_109_TEXT"
+		"IconTexture" "icons/items/armor/gloves02"
+		"ItemInfo1" "4"
+		"ItemInfo2" "3"
+		"Type" "0"
+		"SubType" "3"
+		"Rarity" "3"
+		"Level" "20"
+		"IsUnique" "1"
+		"StatData"
+		{
+			"Armor" "105"
+			"Stamina" "17"
+			"Strength" "12"
+			"Agility" "7"
+		}
+		"EquipData"
+		{
+			"MeleeAttackPower" "15"
+			"RangedAttackPower" "10"
+		}
+		"ModelData"
+		{
+			"Model" "models/items/gloves/glove02.mdl"
+		}
+		"MiscData"
+		{
+			"SellValue" "350"
+		}
+    }
 }

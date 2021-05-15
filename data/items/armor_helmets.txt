@@ -84,7 +84,7 @@
     {
 		"Name" "#INF_ITEM_41_TEXT"
 		"Description" "#INF_ITEM_41_DESC"
-		"IconTexture" "icons/items/armor/crusader_helm"
+		"IconTexture" "icons/items/armor/crusader_helm_01"
 		"ItemInfo1" "1"
 		"ItemInfo2" "4"
 		"Type" "0"
@@ -97,8 +97,7 @@
 			"Armor" "92"
 			"Stamina" "12"
 			"Strength" "5"
-			"Agility" "-2"
-			"Intellect" "-4"
+			"Agility" "2"
 		}
 		"EquipData"
 		{
@@ -140,7 +139,6 @@
 			"Stamina" "9"
 			"Strength" "13"
 			"Agility" "7"
-			"Intellect" "-5"
 		}
 		"ResistanceData"
 		{
@@ -230,6 +228,267 @@
 		{
 			"SellValue" "140"
 			"CanTrade" "1"
+		}
+    }
+    "105"
+    {
+		"Name" "#INF_ITEM_105_TEXT"
+		"IconTexture" "icons/items/armor/helm03"
+		"ItemInfo1" "1"
+		"ItemInfo2" "3"
+		"Type" "0"
+		"SubType" "0"
+		"Rarity" "2"
+		"Level" "15"
+		"IsUnique" "1"
+		"StatData"
+		{
+			"Armor" "105"
+			"Stamina" "13"
+			"Strength" "7"
+			"Agility" "8"
+		}
+		"EquipData"
+		{
+			"MeleeAttackPower" "15"
+			"RangedAttackPower" "5"
+		}
+		"ModelData"
+		{
+			"Model" "models/items/helmets/helm03.mdl"
+		}
+		"MiscData"
+		{
+			"SellValue" "175"
+		}
+    }
+    "110"
+    {
+		"Name" "#INF_ITEM_110_TEXT"
+		"IconTexture" "icons/items/armor/helm08"
+		"ItemInfo1" "1"
+		"ItemInfo2" "4"
+		"Type" "0"
+		"SubType" "0"
+		"Rarity" "3"
+		"Level" "20"
+		"IsUnique" "1"
+		"StatData"
+		{
+			"Armor" "175"
+			"Stamina" "23"
+			"Strength" "11"
+			"Agility" "9"
+			"Intellect" "5"
+		}
+		"EquipData"
+		{
+			"MeleeAttackPower" "25"
+			"RangedAttackPower" "10"
+			"SpellPower" "10"
+		}
+		"ModelData"
+		{
+			"Model" "models/items/helmets/helm08.mdl"
+		}
+		"MiscData"
+		{
+			"SellValue" "400"
+		}
+    }
+    "114"
+    {
+		"Name" "#INF_ITEM_114_TEXT"
+		"IconTexture" "icons/items/armor/helm09"
+		"ItemInfo1" "1"
+		"ItemInfo2" "4"
+		"Type" "0"
+		"SubType" "0"
+		"Rarity" "2"
+		"Level" "12"
+		"IsUnique" "1"
+		"StatData"
+		{
+			"Armor" "95"
+			"Stamina" "7"
+			"Strength" "5"
+			"Agility" "3"
+			"Intellect" "2"
+		}
+		"EquipData"
+		{
+			"MeleeAttackPower" "10"
+			"RangedAttackPower" "5"
+		}
+		"ModelData"
+		{
+			"Model" "models/items/helmets/helm09.mdl"
+		}
+		"MiscData"
+		{
+			"SellValue" "150"
+			"CanTrade" "1"
+		}
+    }
+    "120"
+    {
+		"Name" "#INF_ITEM_120_TEXT"
+		"IconTexture" "icons/items/armor/magic03"
+		"ItemInfo1" "1"
+		"Type" "0"
+		"SubType" "0"
+		"Rarity" "3"
+		"Level" "20"
+		"IsUnique" "1"
+		"StatData"
+		{
+			"Stamina" "25"
+			"Intellect" "41"
+		}
+		"EquipData"
+		{
+			"SpellPower" "50"
+			"Focus" "25"
+		}
+		"ResistanceData"
+		{
+			"Fire" "10"
+			"Water" "10"
+			"Shadow" "10"
+			"Earth" "10"
+			"Wind" "10"
+		}
+		"ModelData"
+		{
+			"Model" "models/items/helmets/magic03.mdl"
+		}
+		"MiscData"
+		{
+			"SellValue" "500"
+		}
+    }
+    "123"
+    {
+		"Name" "#INF_ITEM_123_TEXT"
+		"IconTexture" "icons/items/armor/helm14"
+		"ItemInfo1" "1"
+		"ItemInfo2" "1"
+		"Type" "0"
+		"SubType" "0"
+		"Rarity" "2"
+		"Level" "15"
+		"IsUnique" "1"
+		"StatData"
+		{
+			"Stamina" "17"
+			"Strength" "-10"
+			"Agility" "-10"
+			"Intellect" "23"
+		}
+		"EquipData"
+		{
+			"SpellPower" "25"
+			"Focus" "25"
+		}
+		"ModelData"
+		{
+			"Model" "models/items/helmets/helm14.mdl"
+		}
+		"MiscData"
+		{
+			"SellValue" "275"
+		}
+    }
+    "143"
+    {
+		"Name" "#INF_ITEM_143_TEXT"
+		"IconTexture" "icons/items/armor/helm12"
+		"ItemInfo1" "1"
+		"ItemInfo2" "1"
+		"Type" "0"
+		"SubType" "0"
+		"Rarity" "1"
+		"Level" "10"
+		"IsUnique" "1"
+		"StatData"
+		{
+			"Armor" "27"
+			"Stamina" "11"
+			"Agility" "17"
+		}
+		"EquipData"
+		{
+			"RangedAttackPower" "15"
+		}
+		"ModelData"
+		{
+			"Model" "models/items/helmets/helm12.mdl"
+		}
+		"MiscData"
+		{
+			"SellValue" "150"
+			"CanTrade" "1"
+		}
+    }
+    "144"
+    {
+		"Name" "#INF_ITEM_144_TEXT"
+		"IconTexture" "icons/items/armor/helm13"
+		"ItemInfo1" "1"
+		"ItemInfo2" "1"
+		"Type" "0"
+		"SubType" "0"
+		"Rarity" "1"
+		"Level" "14"
+		"IsUnique" "1"
+		"StatData"
+		{
+			"Armor" "31"
+			"Stamina" "14"
+			"Agility" "25"
+		}
+		"EquipData"
+		{
+			"RangedAttackPower" "20"
+		}
+		"ModelData"
+		{
+			"Model" "models/items/helmets/helm13.mdl"
+		}
+		"MiscData"
+		{
+			"SellValue" "215"
+			"CanTrade" "1"
+		}
+    }
+    "152"
+    {
+		"Name" "#INF_ITEM_152_TEXT"
+		"IconTexture" "icons/items/armor/helm10_01"
+		"ItemInfo1" "1"
+		"ItemInfo2" "3"
+		"Type" "0"
+		"SubType" "0"
+		"Rarity" "2"
+		"IsUnique" "1"
+		"StatData"
+		{
+			"Armor" "115"
+			"Stamina" "11"
+			"Strength" "13"
+			"Agility" "7"
+		}
+		"EquipData"
+		{
+			"MeleeAttackPower" "15"
+		}
+		"ModelData"
+		{
+			"Model" "models/items/helmets/helm10.mdl"
+		}
+		"MiscData"
+		{
+			"SellValue" "225"
 		}
     }
 }

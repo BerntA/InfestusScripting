@@ -10,7 +10,10 @@
 		"Experience" "100"
 		"ZoneID" "1"
 		"QuestHandInID" "3"
-		"RepID" "1"
+		"Reputation"
+		{
+			"1" "0"
+		}
     }
     "2"
     {
@@ -55,8 +58,10 @@
 		"QuestChain" "3"
 		"ZoneID" "1"
 		"Money" "20"
-		"RepID" "1"
-		"RepValue" "25"
+		"Reputation"
+		{
+			"1" "25"
+		}
 		"Objectives"
 		{
 			"3"
@@ -80,8 +85,10 @@
 		"QuestChain" "4"
 		"ZoneID" "1"
 		"Money" "35"
-		"RepID" "1"
-		"RepValue" "50"
+		"Reputation"
+		{
+			"1" "50"
+		}
 		"Objectives"
 		{
 			"1"
@@ -102,8 +109,10 @@
 		"QuestChain" "5"
 		"ZoneID" "1"
 		"Money" "30"
-		"RepID" "1"
-		"RepValue" "65"
+		"Reputation"
+		{
+			"1" "65"
+		}
 		"Objectives"
 		{
 			"4"
@@ -124,8 +133,10 @@
 		"QuestChain" "6"
 		"ZoneID" "1"
 		"Money" "75"
-		"RepID" "1"
-		"RepValue" "125"
+		"Reputation"
+		{
+			"1" "125"
+		}
 		"Objectives"
 		{
 			"1"
@@ -154,8 +165,10 @@
 		"ZoneID" "1"
 		"QuestHandInID" "3"
 		"Money" "50"
-		"RepID" "1"
-		"RepValue" "150"
+		"Reputation"
+		{
+			"1" "150"
+		}
 		"Rewards"
 		{
 			"12"
@@ -224,8 +237,10 @@
 		"Experience" "400"
 		"ZoneID" "1"
 		"Money" "30"
-		"RepID" "2"
-		"RepValue" "150"
+		"Reputation"
+		{
+			"2" "150"
+		}
 		"Objectives"
 		{
 			"2"
@@ -251,8 +266,10 @@
 		"QuestChain" "8"
 		"ZoneID" "1"
 		"Money" "50"
-		"RepID" "1"
-		"RepValue" "100"
+		"Reputation"
+		{
+			"1" "100"
+		}
 		"Repeatable" "1"
 		"Objectives"
 		{
@@ -352,8 +369,10 @@
 		"QuestChain" "8"
 		"ZoneID" "1"
 		"Money" "50"
-		"RepID" "1"
-		"RepValue" "150"
+		"Reputation"
+		{
+			"1" "150"
+		}
 		"Objectives"
 		{
 			"1"

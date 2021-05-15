@@ -10,8 +10,10 @@
 		"Experience" "3500"
 		"ZoneID" "2"
 		"Money" "350"
-		"RepID" "1"
-		"RepValue" "150"
+		"Reputation"
+		{
+			"1" "150"
+		}
 		"Objectives"
 		{
 			"2"
@@ -31,8 +33,10 @@
 		"Experience" "2000"
 		"ZoneID" "2"
 		"Money" "200"
-		"RepID" "1"
-		"RepValue" "100"
+		"Reputation"
+		{
+			"1" "100"
+		}
 		"Objectives"
 		{
 			"3"
@@ -51,8 +55,10 @@
 		"Experience" "1250"
 		"ZoneID" "2"
 		"Money" "100"
-		"RepID" "2"
-		"RepValue" "150"
+		"Reputation"
+		{
+			"2" "150"
+		}
 		"Objectives"
 		{
 			"1"
@@ -87,8 +93,10 @@
 		"Experience" "2000"
 		"ZoneID" "2"
 		"Money" "500"
-		"RepID" "1"
-		"RepValue" "100"
+		"Reputation"
+		{
+			"1" "100"
+		}
 		"Objectives"
 		{
 			"1"
@@ -134,8 +142,10 @@
 		"Experience" "2500"
 		"ZoneID" "2"
 		"Money" "500"
-		"RepID" "2"
-		"RepValue" "300"
+		"Reputation"
+		{
+			"2" "300"
+		}
 		"Objectives"
 		{
 			"1"
@@ -174,9 +184,11 @@
 		"QuestChain" "17"
 		"ZoneID" "2"
 		"Money" "100"
-		"RepID" "2"
-		"RepValue" "10"
 		"Repeatable" "1"
+		"Reputation"
+		{
+			"2" "10"
+		}
 		"Objectives"
 		{
 			"2"

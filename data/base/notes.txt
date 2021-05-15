@@ -20,4 +20,29 @@
 		"Title" "#INF_NOTE_4_TEXT"
 		"Description" "#INF_NOTE_4_DESC"
     }
+    "5"
+    {
+		"Title" "#INF_NOTE_5_TEXT"
+		"Description" "#INF_NOTE_5_DESC"
+    }
+    "6"
+    {
+		"Title" "#INF_NOTE_6_TEXT"
+		"Description" "#INF_NOTE_6_DESC"
+    }
+    "7"
+    {
+		"Title" "#INF_NOTE_7_TEXT"
+		"Description" "#INF_NOTE_7_DESC"
+    }
+    "8"
+    {
+		"Title" "#INF_NOTE_8_TEXT"
+		"Description" "#INF_NOTE_8_DESC"
+    }
+    "9"
+    {
+		"Title" "#INF_NOTE_9_TEXT"
+		"Description" "#INF_NOTE_9_DESC"
+    }
 }

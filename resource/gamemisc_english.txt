@@ -25,5 +25,14 @@
 		"INF_MAP_COCATACOMBS_KELDROTH1" "I will make quick work of you!"
 		"INF_MAP_COCATACOMBS_KELDROTH2" "Shadow of Keldroth be upon you, wretches!"
 		"INF_MAP_COCATACOMBS_GUARDIAN1" "You shall not pass!"
+		
+		// Lightfall
+		"INF_MAP_LIGHTFALL_KING1" "An attack on our city is imminent, prepare yourselves!"
+		"INF_MAP_LIGHTFALL_KING2" "Our city is under attack, rebels are rushing towards the gates! Defend our beloved city!"
+		"INF_MAP_LIGHTFALL_HAROLD" "The rebels are closing in, charge!!!"
+		"INF_MAP_LIGHTFALL_HAROLD_TY" "Thank you for saving me from the Catacombs, traveler!"
+		"INF_MAP_LIGHTFALL_CHICKEN1" "*Cluck* Let's *Cluck* Out of *Cluck* HERE!"
+		"INF_MAP_LIGHTFALL_CHICKEN2" "*Cluck* Thank You! *Cluck*"
+		"INF_MAP_LIGHTFALL_TENTFIRE" "The tent is on fire! Do something, slackers!"
 	}
 }

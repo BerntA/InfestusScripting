@@ -7,12 +7,10 @@
 		"Category" "5"
 		"Title" "#INF_SPELL_14_TEXT"
 		"Description" "#INF_SPELL_14_DESC"
-		"IconTexture" "icons/items/spell/ranged_fire01"
+		"IconTexture" "icons/items/spell/ranged_fire"
 		"NoSpellCastBar" "1"
 		"MagicSchool" "1"
 		"Knockback" "75"
-		"DamageMin" "15"
-		"DamageMax" "25"
 		"DrainValue" "25"
 		"CastTime" "0"
 		"CooldownTime" "12.5"
@@ -20,5 +18,30 @@
 		"BuffDebuffID" "2"
 		"BuffDebuffDuration" "10"
 		"BuffDebuffPercentage" "0.25"
+		"Ranks"
+		{
+			"15" "25"
+		}
+    }
+    "18"
+    {
+		"Type" "1"
+		"SubType" "0"
+		"Category" "5"
+		"Title" "#INF_SPELL_18_TEXT"
+		"Description" "#INF_SPELL_18_DESC"
+		"IconTexture" "icons/items/spell/ranged_impale"
+		"Knockback" "100"
+		"DrainValue" "30"
+		"CastTime" "1"
+		"CooldownTime" "15"
+		"Range" "1000"
+		"BuffDebuffID" "16"
+		"BuffDebuffDuration" "0"
+		"BuffDebuffPercentage" "1"
+		"Ranks"
+		{
+			"61" "81"
+		}
     }
 }

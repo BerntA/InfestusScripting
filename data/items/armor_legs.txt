@@ -1,0 +1,67 @@
+"Items"
+{
+    "106"
+    {
+		"Name" "#INF_ITEM_106_TEXT"
+		"IconTexture" "icons/items/armor/legs01"
+		"ItemInfo1" "5"
+		"ItemInfo2" "3"
+		"Type" "0"
+		"SubType" "4"
+		"Rarity" "2"
+		"Level" "15"
+		"IsUnique" "1"
+		"StatData"
+		{
+			"Armor" "115"
+			"Stamina" "11"
+			"Strength" "7"
+			"Agility" "3"
+		}
+		"EquipData"
+		{
+			"MeleeAttackPower" "15"
+			"RangedAttackPower" "5"
+		}
+		"ModelData"
+		{
+			"Model" "models/items/legs/leg01.mdl"
+		}
+		"MiscData"
+		{
+			"SellValue" "180"
+		}
+    }
+    "111"
+    {
+		"Name" "#INF_ITEM_111_TEXT"
+		"IconTexture" "icons/items/armor/legs02"
+		"ItemInfo1" "5"
+		"ItemInfo2" "3"
+		"Type" "0"
+		"SubType" "4"
+		"Rarity" "3"
+		"Level" "20"
+		"IsUnique" "1"
+		"StatData"
+		{
+			"Armor" "162"
+			"Stamina" "14"
+			"Strength" "24"
+			"Agility" "11"
+		}
+		"EquipData"
+		{
+			"MeleeAttackPower" "15"
+			"RangedAttackPower" "10"
+		}
+		"ModelData"
+		{
+			"Model" "models/items/legs/leg02.mdl"
+		}
+		"MiscData"
+		{
+			"SellValue" "350"
+		}
+    }
+}

@@ -70,7 +70,7 @@
     "31"
     {
 		"Name" "#INF_ITEM_31_TEXT"
-		"IconTexture" "icons/items/misc/book01"
+		"IconTexture" ""
 		"ItemInfo1" "16"
 		"Type" "2"
 		"SubType" "0"
@@ -88,7 +88,7 @@
     "32"
     {
 		"Name" "#INF_ITEM_32_TEXT"
-		"IconTexture" "icons/items/misc/book01"
+		"IconTexture" ""
 		"ItemInfo1" "16"
 		"Type" "2"
 		"SubType" "0"

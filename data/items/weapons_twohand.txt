@@ -22,8 +22,8 @@
 		{
 			"MeleeAttackPower" "15"
 			"SpellPower" "10"
-			"DamageMin" "30"
-			"DamageMax" "45"
+			"DamageMin" "33"
+			"DamageMax" "47"
 			"AttackSpeed" "1.1"
 		}
 		"ChanceOnHit"
@@ -66,7 +66,7 @@
 		{
 			"MeleeAttackPower" "12"
 			"SpellPower" "5"
-			"DamageMin" "26"
+			"DamageMin" "29"
 			"DamageMax" "38"
 			"AttackSpeed" "1.15"
 		}
@@ -96,13 +96,13 @@
 			"Stamina" "12"
 			"Strength" "10"
 			"Agility" "7"
-			"Intellect" "-8"
+			"Intellect" "-5"
 		}
 		"EquipData"
 		{
 			"MeleeAttackPower" "35"
-			"DamageMin" "45"
-			"DamageMax" "65"
+			"DamageMin" "51"
+			"DamageMax" "67"
 			"AttackSpeed" "1.15"
 		}
 		"ResistanceData"
@@ -151,7 +151,7 @@
 		"EquipData"
 		{
 			"MeleeAttackPower" "40"
-			"DamageMin" "47"
+			"DamageMin" "51"
 			"DamageMax" "74"
 			"AttackSpeed" "1.05"
 		}
@@ -204,6 +204,122 @@
 		"MiscData"
 		{
 			"SellValue" "175"
+			"ItemFlags" "32"
+		}
+    }
+    "119"
+    {
+		"Name" "#INF_ITEM_119_TEXT"
+		"IconTexture" "icons/items/weapon/sword08_01"
+		"ItemInfo1" "11"
+		"ItemInfo2" "5"
+		"Type" "0"
+		"SubType" "9"
+		"Rarity" "2"
+		"Level" "14"
+		"IsUnique" "1"
+		"StatData"
+		{
+			"Stamina" "13"
+			"Strength" "15"
+			"Agility" "9"
+		}
+		"EquipData"
+		{
+			"MeleeAttackPower" "15"
+			"DamageMin" "65"
+			"DamageMax" "95"
+			"AttackSpeed" "1.15"
+		}
+		"ModelData"
+		{
+			"Model" "models/items/swords/sword08.mdl"
+		}
+		"MiscData"
+		{
+			"SellValue" "275"
+			"CanTrade" "1"
+		}
+    }
+    "125"
+    {
+		"Name" "#INF_ITEM_125_TEXT"
+		"IconTexture" "icons/items/weapon/staff02"
+		"ItemInfo1" "11"
+		"ItemInfo2" "9"
+		"Type" "0"
+		"SubType" "9"
+		"Rarity" "3"
+		"Level" "20"
+		"IsUnique" "1"
+		"StatData"
+		{
+			"Stamina" "31"
+			"Intellect" "57"
+		}
+		"EquipData"
+		{
+			"SpellPower" "100"
+			"Focus" "25"
+			"DamageMin" "27"
+			"DamageMax" "41"
+			"AttackSpeed" "1.15"
+		}
+		"ResistanceData"
+		{
+			"Fire" "10"
+			"Water" "10"
+			"Shadow" "10"
+			"Earth" "10"
+			"Wind" "10"
+		}
+		"ChanceOnHit"
+		{
+			"Type" "5"
+			"ValueMin" "10"
+			"ValueMax" "20"
+			"Probability" "0.15"
+		}
+		"ModelData"
+		{
+			"Model" "models/items/staves/staff02.mdl"
+		}
+		"MiscData"
+		{
+			"SellValue" "750"
+			"ItemFlags" "32"
+		}
+    }
+    "126"
+    {
+		"Name" "#INF_ITEM_126_TEXT"
+		"IconTexture" "icons/items/weapon/staff03"
+		"ItemInfo1" "11"
+		"ItemInfo2" "9"
+		"Type" "0"
+		"SubType" "9"
+		"Rarity" "2"
+		"Level" "15"
+		"IsUnique" "1"
+		"StatData"
+		{
+			"Stamina" "15"
+			"Intellect" "47"
+		}
+		"EquipData"
+		{
+			"SpellPower" "50"
+			"DamageMin" "19"
+			"DamageMax" "29"
+			"AttackSpeed" "1.25"
+		}
+		"ModelData"
+		{
+			"Model" "models/items/staves/staff03.mdl"
+		}
+		"MiscData"
+		{
+			"SellValue" "300"
 			"ItemFlags" "32"
 		}
     }

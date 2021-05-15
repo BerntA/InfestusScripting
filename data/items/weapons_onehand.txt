@@ -4,7 +4,7 @@
     {
 		"Name" "#INF_ITEM_8_TEXT"
 		"IconTexture" "icons/items/weapon/sword01"
-		"ItemInfo1" "18"
+		"ItemInfo1" "10"
 		"ItemInfo2" "5"
 		"Type" "0"
 		"SubType" "9"
@@ -27,14 +27,14 @@
 		"MiscData"
 		{
 			"SellValue" "10"
-			"ItemFlags" "16"
+			"ItemFlags" "1"
 		}
     }
     "9"
     {
 		"Name" "#INF_ITEM_9_TEXT"
 		"IconTexture" "icons/items/weapon/sword02"
-		"ItemInfo1" "18"
+		"ItemInfo1" "10"
 		"ItemInfo2" "5"
 		"Type" "0"
 		"SubType" "9"
@@ -59,7 +59,7 @@
 		"MiscData"
 		{
 			"SellValue" "32"
-			"ItemFlags" "16"
+			"ItemFlags" "1"
 			"CanTrade" "1"
 		}
     }
@@ -67,7 +67,7 @@
     {
 		"Name" "#INF_ITEM_10_TEXT"
 		"IconTexture" "icons/items/weapon/sword03"
-		"ItemInfo1" "18"
+		"ItemInfo1" "10"
 		"ItemInfo2" "5"
 		"Type" "0"
 		"SubType" "9"
@@ -93,7 +93,7 @@
 		"MiscData"
 		{
 			"SellValue" "64"
-			"ItemFlags" "16"
+			"ItemFlags" "1"
 			"CanTrade" "1"
 		}
     }
@@ -101,7 +101,7 @@
     {
 		"Name" "#INF_ITEM_13_TEXT"
 		"IconTexture" "icons/items/weapon/axe01"
-		"ItemInfo1" "18"
+		"ItemInfo1" "10"
 		"ItemInfo2" "6"
 		"Type" "0"
 		"SubType" "9"
@@ -126,7 +126,7 @@
 		"MiscData"
 		{
 			"SellValue" "16"
-			"ItemFlags" "16"
+			"ItemFlags" "1"
 			"CanTrade" "1"
 		}
     }
@@ -134,7 +134,7 @@
     {
 		"Name" "#INF_ITEM_14_TEXT"
 		"IconTexture" "icons/items/weapon/mace01"
-		"ItemInfo1" "18"
+		"ItemInfo1" "10"
 		"ItemInfo2" "7"
 		"Type" "0"
 		"SubType" "9"
@@ -158,7 +158,7 @@
 		"MiscData"
 		{
 			"SellValue" "30"
-			"ItemFlags" "16"
+			"ItemFlags" "1"
 			"CanTrade" "1"
 		}
     }
@@ -167,7 +167,7 @@
 		"Name" "#INF_ITEM_15_TEXT"
 		"Description" "#INF_ITEM_15_DESC"
 		"IconTexture" "icons/items/weapon/mace02"
-		"ItemInfo1" "18"
+		"ItemInfo1" "10"
 		"ItemInfo2" "7"
 		"Type" "0"
 		"SubType" "9"
@@ -202,7 +202,7 @@
 		"MiscData"
 		{
 			"SellValue" "70"
-			"ItemFlags" "16"
+			"ItemFlags" "1"
 			"CanTrade" "1"
 		}
     }
@@ -210,7 +210,7 @@
     {
 		"Name" "#INF_ITEM_16_TEXT"
 		"IconTexture" "icons/items/weapon/mace03"
-		"ItemInfo1" "18"
+		"ItemInfo1" "10"
 		"ItemInfo2" "7"
 		"Type" "0"
 		"SubType" "9"
@@ -246,7 +246,7 @@
 		"MiscData"
 		{
 			"SellValue" "90"
-			"ItemFlags" "16"
+			"ItemFlags" "1"
 		}
     }
     "46"
@@ -265,7 +265,6 @@
 			"Stamina" "8"
 			"Strength" "11"
 			"Agility" "7"
-			"Intellect" "-3"
 		}
 		"EquipData"
 		{
@@ -342,7 +341,7 @@
     {
 		"Name" "#INF_ITEM_48_TEXT"
 		"IconTexture" "icons/items/weapon/axe03"
-		"ItemInfo1" "18"
+		"ItemInfo1" "10"
 		"ItemInfo2" "6"
 		"Type" "0"
 		"SubType" "9"
@@ -369,8 +368,153 @@
 		"MiscData"
 		{
 			"SellValue" "135"
-			"ItemFlags" "16"
+			"ItemFlags" "1"
 			"CanTrade" "1"
+		}
+    }
+    "113"
+    {
+		"Name" "#INF_ITEM_113_TEXT"
+		"IconTexture" "icons/items/weapon/sword06"
+		"ItemInfo1" "10"
+		"ItemInfo2" "5"
+		"Type" "0"
+		"SubType" "10"
+		"Rarity" "2"
+		"Level" "14"
+		"IsUnique" "1"
+		"StatData"
+		{
+			"Stamina" "13"
+			"Strength" "17"
+			"Agility" "11"
+		}
+		"EquipData"
+		{
+			"MeleeAttackPower" "10"
+			"RangedAttackPower" "5"
+			"DamageMin" "21"
+			"DamageMax" "35"
+		}
+		"ChanceOnHit"
+		{
+			"Type" "4"
+			"ValueMin" "15"
+			"ValueMax" "30"
+			"ID" "1"
+			"Duration" "5"
+			"Probability" "0.2"
+		}
+		"ModelData"
+		{
+			"Model" "models/items/swords/sword06.mdl"
+		}
+		"MiscData"
+		{
+			"SellValue" "240"
+			"ItemFlags" "1"
+			"CanTrade" "1"
+		}
+    }
+    "116"
+    {
+		"Name" "#INF_ITEM_116_TEXT"
+		"IconTexture" "icons/items/weapon/pickaxe"
+		"ItemInfo1" "10"
+		"ItemInfo2" "6"
+		"Type" "0"
+		"SubType" "10"
+		"Rarity" "1"
+		"Level" "5"
+		"IsUnique" "1"
+		"StatData"
+		{
+			"Stamina" "3"
+			"Strength" "2"
+			"Agility" "1"
+		}
+		"EquipData"
+		{
+			"DamageMin" "11"
+			"DamageMax" "17"
+			"AttackSpeed" "0.9"
+		}
+		"ModelData"
+		{
+			"Model" "models/items/misc/pick.mdl"
+		}
+		"MiscData"
+		{
+			"SellValue" "75"
+			"ItemFlags" "1"
+			"CanTrade" "1"
+		}
+    }
+    "151"
+    {
+		"Name" "#INF_ITEM_151_TEXT"
+		"IconTexture" "icons/items/weapon/sword07"
+		"ItemInfo1" "10"
+		"ItemInfo2" "5"
+		"Type" "0"
+		"SubType" "10"
+		"Rarity" "1"
+		"Level" "10"
+		"IsUnique" "1"
+		"StatData"
+		{
+			"Stamina" "9"
+			"Strength" "11"
+			"Agility" "5"
+		}
+		"EquipData"
+		{
+			"MeleeAttackPower" "10"
+			"DamageMin" "18"
+			"DamageMax" "25"
+		}
+		"ModelData"
+		{
+			"Model" "models/items/swords/sword07.mdl"
+		}
+		"MiscData"
+		{
+			"SellValue" "175"
+			"ItemFlags" "1"
+			"CanTrade" "1"
+		}
+    }
+    "159"
+    {
+		"Name" "#INF_ITEM_159_TEXT"
+		"IconTexture" "icons/items/weapon/mace07"
+		"ItemInfo1" "18"
+		"ItemInfo2" "7"
+		"Type" "0"
+		"SubType" "9"
+		"Rarity" "2"
+		"IsUnique" "1"
+		"StatData"
+		{
+			"Stamina" "10"
+			"Strength" "15"
+			"Agility" "13"
+		}
+		"EquipData"
+		{
+			"MeleeAttackPower" "15"
+			"RangedAttackPower" "15"
+			"DamageMin" "23"
+			"DamageMax" "37"
+		}
+		"ModelData"
+		{
+			"Model" "models/items/maces/mace07.mdl"
+		}
+		"MiscData"
+		{
+			"SellValue" "215"
+			"ItemFlags" "16"
 		}
     }
 }

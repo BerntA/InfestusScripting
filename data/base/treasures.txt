@@ -1,0 +1,26 @@
+"Treasure Chests"
+{
+    "1"
+    {
+		"Title" "#INF_CHEST_1_TITLE"
+		"Loots"
+		{
+			"61"
+			{
+				"Percentage" "5"
+			}
+			"62"
+			{
+				"Percentage" "3"
+			}
+			"47"
+			{
+				"Percentage" "10"
+			}
+			"54"
+			{
+				"Percentage" "100"
+			}
+		}
+    }
+}

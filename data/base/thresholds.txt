@@ -18,7 +18,7 @@
 		"Strength"
 		{
 			"attack" "2"
-			"block_efficiency" "4"
+			"block_efficiency" "0.75"
 		}
 		
 		"Agility"
@@ -70,9 +70,10 @@
 		"PlayerSpellCastMoveSpeed" "0.75"
 		"PlayerRangedChargeMoveSpeed" "0.865"
 		
-		"HealthPotionCooldown" "120"
-		"FocusPotionCooldown" "60"
+		"HealthPotionCooldown" "65"
+		"FocusPotionCooldown" "35"
 		"FoodConsumptionCooldown" "2.50"
+		"PotionDuration" "150"
 		
 		"MaxArmorDamageReduction" "65"
 		"MaxArmorSpeedReduction" "25"
@@ -94,11 +95,16 @@
 		"LevelUpDecreaseCost" "3"
 		"MinLevelGuildCreate" "5"
 		"GuildCreationCost" "2000"
+		"MaxBankMoney" "100000"
 		
 		"RangedMinRange" "60"
 		"RangedBowMaxRange" "350"
 		"RangedCrossbowMaxRange" "500"
 		"MeleeOneHandMaxRange" "81"
 		"MeleeTwoHandMaxRange" "90"
+		
+		"BlockGenericDrain" "10"
+		"BlockShieldDrain" "20"
+		"MinNPCBlockEfficiency" "75"
 	}
 }

@@ -1,0 +1,37 @@
+"Zones"
+{
+    "1"
+    {
+        "allow_pvp" "0"
+        "allow_mounts" "1"
+        "map" "capital_outskirts"
+        "name" "Capital Outskirts"
+        "xpos" "-13463"
+        "ypos" "12307"
+        "scale" "26.34"
+        "zoom" "5"
+    }
+    "2"
+    {
+        "level" "8"
+        "allow_pvp" "0"
+        "allow_mounts" "0"
+        "map" "coutskirts_catacombs"
+        "name" "Outskirts Catacombs"
+        "xpos" "3969"
+        "ypos" "15090"
+        "scale" "7.7"
+        "zoom" "5"
+    }
+    "3"
+    {
+        "allow_pvp" "1"
+        "allow_mounts" "1"
+        "map" "lightfall"
+        "name" "Lightfall"
+        "xpos" "-7563"
+        "ypos" "5437"
+        "scale" "22.00"
+        "zoom" "5"
+    }
+}

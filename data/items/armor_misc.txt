@@ -200,4 +200,104 @@
 			"CanTrade" "1"
 		}
     }
+    "145"
+    {
+		"Name" "#INF_ITEM_145_TEXT"
+		"IconTexture" "icons/items/armor/ring05"
+		"ItemInfo1" "7"
+		"Type" "0"
+		"SubType" "6"
+		"Rarity" "2"
+		"Level" "14"
+		"IsUnique" "1"
+		"StatData"
+		{
+			"Stamina" "7"
+			"Intellect" "13"
+		}
+		"EquipData"
+		{
+			"SpellPower" "20"
+			"Focus" "10"
+		}
+		"MiscData"
+		{
+			"SellValue" "215"
+			"CanTrade" "1"
+		}
+    }
+    "146"
+    {
+		"Name" "#INF_ITEM_146_TEXT"
+		"IconTexture" "icons/items/armor/ring03"
+		"ItemInfo1" "7"
+		"Type" "0"
+		"SubType" "6"
+		"Rarity" "2"
+		"Level" "14"
+		"IsUnique" "1"
+		"StatData"
+		{
+			"Stamina" "17"
+			"Strength" "11"
+		}
+		"MiscData"
+		{
+			"SellValue" "175"
+			"CanTrade" "1"
+		}
+    }
+    "147"
+    {
+		"Name" "#INF_ITEM_147_TEXT"
+		"IconTexture" "icons/items/armor/necklace03"
+		"ItemInfo1" "8"
+		"Type" "0"
+		"SubType" "7"
+		"Rarity" "2"
+		"Level" "14"
+		"IsUnique" "1"
+		"StatData"
+		{
+			"Stamina" "15"
+			"Strength" "21"
+			"Agility" "10"
+		}
+		"EquipData"
+		{
+			"MeleeAttackPower" "15"
+			"RangedAttackPower" "10"
+		}
+		"MiscData"
+		{
+			"SellValue" "325"
+			"CanTrade" "1"
+		}
+    }
+    "148"
+    {
+		"Name" "#INF_ITEM_148_TEXT"
+		"IconTexture" "icons/items/armor/necklace05"
+		"ItemInfo1" "8"
+		"Type" "0"
+		"SubType" "7"
+		"Rarity" "2"
+		"Level" "14"
+		"IsUnique" "1"
+		"StatData"
+		{
+			"Stamina" "21"
+			"Intellect" "32"
+		}
+		"EquipData"
+		{
+			"SpellPower" "25"
+			"Focus" "10"
+		}
+		"MiscData"
+		{
+			"SellValue" "300"
+			"CanTrade" "1"
+		}
+    }
 }

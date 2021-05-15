@@ -27,8 +27,10 @@
 		"ZoneLink" "1"
 		"ModelData"
 		{
-			"models/characters/npc/merchant02.mdl"
+			"models/characters/npc/merchant01.mdl"
 			{
+				"SkinMin" "4"
+				"SkinMax" "4"
 			}
 		}
 		"Dialogue"
@@ -68,6 +70,7 @@
 			"3" "17"
 			"4" "18"
 			"5" "20"
+			"6" "33"
 		}
     }
     "4"
@@ -81,15 +84,17 @@
 		"ZoneLink" "1"
 		"ModelData"
 		{
-			"models/characters/npc/merchant02.mdl"
+			"models/characters/npc/merchant01.mdl"
 			{
-				"SkinMin" "1"
-				"SkinMax" "1"
+				"SkinMin" "8"
+				"SkinMax" "8"
 			}
 		}
 		"Quests"
 		{
 			"0" "2"
+			"1" "35"
+			"2" "34"
 		}
     }
     "5"
@@ -103,6 +108,8 @@
 		{
 			"models/characters/npc/merchant01.mdl"
 			{
+				"SkinMin" "2"
+				"SkinMax" "2"
 			}
 		}
 		"ItemsForSale"
@@ -149,14 +156,14 @@
     {
 		"Name" "#INF_NPC_6_NAME"
 		"Description" "#INF_NPC_6_DESC"
-		"GreetingsText" "#INF_NPC_6_GREETINGS"
 		"Type" "4"
 		"ZoneLink" "1"
 		"ModelData"
 		{
-			"models/characters/npc/merchant02.mdl"
+			"models/characters/npc/merchant01.mdl"
 			{
-				"SkinMax" "1"
+				"SkinMin" "6"
+				"SkinMax" "6"
 			}
 		}
 		"ItemsForSale"
@@ -218,6 +225,8 @@
 		{
 			"models/characters/npc/merchant01.mdl"
 			{
+				"SkinMin" "3"
+				"SkinMax" "3"
 			}
 		}
 		"Quests"
@@ -237,9 +246,10 @@
 		"ZoneLink" "1"
 		"ModelData"
 		{
-			"models/characters/npc/merchant02.mdl"
+			"models/characters/npc/merchant01.mdl"
 			{
-				"SkinMax" "1"
+				"SkinMin" "4"
+				"SkinMax" "4"
 			}
 		}
 		"Quests"
@@ -263,6 +273,8 @@
 		{
 			"models/characters/npc/merchant01.mdl"
 			{
+				"SkinMin" "5"
+				"SkinMax" "5"
 			}
 		}
 		"Quests"
@@ -274,14 +286,14 @@
     {
 		"Name" "#INF_NPC_11_NAME"
 		"Description" "#INF_NPC_11_DESC"
-		"GreetingsText" "#INF_NPC_11_GREETINGS"
 		"Type" "4"
 		"ZoneLink" "1"
 		"ModelData"
 		{
-			"models/characters/npc/merchant02.mdl"
+			"models/characters/npc/merchant01.mdl"
 			{
-				"SkinMax" "1"
+				"SkinMin" "7"
+				"SkinMax" "7"
 			}
 		}
 		"ItemsForSale"
@@ -302,10 +314,6 @@
 			{
 				"Price" "40"
 			}
-			"83"
-			{
-				"Price" "100"
-			}
 		}
     }
     "12"
@@ -319,6 +327,8 @@
 		{
 			"models/characters/npc/merchant01.mdl"
 			{
+				"SkinMin" "6"
+				"SkinMax" "6"
 			}
 		}
 		"ItemsForSale"
@@ -352,10 +362,10 @@
 		"ZoneLink" "1"
 		"ModelData"
 		{
-			"models/characters/npc/merchant02.mdl"
+			"models/characters/npc/merchant01.mdl"
 			{
-				"SkinMin" "1"
-				"SkinMax" "1"
+				"SkinMin" "8"
+				"SkinMax" "8"
 			}
 		}
 		"Quests"
@@ -367,7 +377,6 @@
     {
 		"Name" "#INF_NPC_14_NAME"
 		"Description" "#INF_NPC_14_DESC"
-		"GreetingsText" "#INF_NPC_14_GREETINGS"
 		"Type" "4"
 		"ZoneLink" "1"
 		"ModelData"
@@ -393,22 +402,6 @@
 				"Quantity" "5"
 				"Price" "85"
 			}
-			"17"
-			{
-				"Price" "10"
-			}
-			"18"
-			{
-				"Price" "10"
-			}
-			"49"
-			{
-				"Price" "20"
-			}
-			"50"
-			{
-				"Price" "20"
-			}
 		}
     }
     "15"
@@ -422,9 +415,10 @@
 		"ZoneLink" "1"
 		"ModelData"
 		{
-			"models/characters/npc/merchant02.mdl"
+			"models/characters/npc/merchant01.mdl"
 			{
-				"SkinMax" "1"
+				"SkinMin" "6"
+				"SkinMax" "8"
 			}
 		}
 		"Quests"
@@ -465,6 +459,8 @@
 		{
 			"models/characters/npc/merchant01.mdl"
 			{
+				"SkinMin" "3"
+				"SkinMax" "3"
 			}
 		}
 		"Dialogue"
@@ -485,6 +481,8 @@
 		{
 			"models/characters/npc/merchant01.mdl"
 			{
+				"SkinMin" "2"
+				"SkinMax" "2"
 			}
 		}
 		"Dialogue"
@@ -505,8 +503,9 @@
 		"ZoneLink" "1"
 		"ModelData"
 		{
-			"models/characters/npc/merchant01.mdl"
+			"models/characters/npc/slave01.mdl"
 			{
+				"SkinMax" "8"
 			}
 		}
 		"Dialogue"
@@ -529,7 +528,7 @@
 			"AttackSpeed" "0.9"
 			"AttackRange" "70"
 			"DrainerRegenRate" "0.025"
-			"MeleeDMGFactor" "0.9"
+			"MeleeDMGFactor" "0.85"
 			"RangedDMGFactor" "0.75"
 			"MagicDMGFactor" "0.8"
 		}
@@ -660,6 +659,7 @@
 			"DamageMax" "20"
 			"AttackRange" "70"
 			"WalkSpeed" "60"
+			"MeleeDMGFactor" "0.975"
 		}
 		"Spells"
 		{
@@ -715,7 +715,7 @@
 		}
 		"Spells"
 		{
-			"0" "16"
+			"1" "15"
 		}
 		"Loots"
 		{
@@ -770,6 +770,11 @@
 			"ShadowResistance" "-25"
 			"EarthResistance" "-25"
 			"WindResistance" "-25"
+		}
+		"Spells"
+		{
+			"1" "1"
+			"1" "2"
 		}
 		"ModelData"
 		{
@@ -866,9 +871,10 @@
 		"ZoneLink" "1"
 		"ModelData"
 		{
-			"models/characters/npc/merchant02.mdl"
+			"models/characters/npc/merchant01.mdl"
 			{
-				"SkinMax" "1"
+				"SkinMin" "4"
+				"SkinMax" "7"
 			}
 		}
 		"Dialogue"
@@ -882,7 +888,6 @@
 		"Name" "#INF_NPC_29_NAME"
 		"Level" "10"
 		"Health" "1000"
-		"Drainer" "150"
 		"CollisionHeight" "130"
 		"CollisionHeightCorpse" "45"
 		"Soundscript" "Smuggler"
@@ -905,7 +910,7 @@
 		}
 		"Spells"
 		{
-			"0" "1"
+			"1" "1"
 			"1" "2"
 		}
 		"Loots"
@@ -949,7 +954,7 @@
 		"Description" "#INF_NPC_41_DESC"
 		"GreetingsText" "#INF_NPC_41_GREETINGS"
 		"Type" "2"
-		"ZoneLink" "1"
+		"ZoneLink" "3"
 		"ModelData"
 		{
 			"models/characters/npc/merchant01.mdl"
@@ -961,6 +966,83 @@
 			"#INF_NPC_41_Q_1" "#INF_NPC_41_A_1"
 			"#INF_NPC_41_Q_2" "#INF_NPC_41_A_2"
 			"#INF_NPC_41_Q_3" ""
+		}
+    }
+    "59"
+    {
+		"Name" "#INF_NPC_59_NAME"
+		"Description" "#INF_NPC_59_DESC"
+		"Type" "4"
+		"ZoneLink" "1"
+		"ModelData"
+		{
+			"models/characters/npc/merchant01.mdl"
+			{
+				"SkinMin" "6"
+				"SkinMax" "6"
+			}
+		}
+		"ItemsForSale"
+		{
+			"127"
+			{
+				"Price" "25"
+			}
+			"128"
+			{
+				"Price" "25"
+			}
+			"129"
+			{
+				"Price" "25"
+			}
+			"130"
+			{
+				"Price" "25"
+			}
+			"131"
+			{
+				"Price" "50"
+			}
+			"17"
+			{
+				"Price" "10"
+			}
+			"49"
+			{
+				"Price" "20"
+			}
+			"18"
+			{
+				"Price" "10"
+			}
+			"50"
+			{
+				"Price" "20"
+			}
+		}
+    }
+    "60"
+    {
+		"Name" "#INF_NPC_60_NAME"
+		"Description" "#INF_NPC_60_DESC"
+		"GreetingsText" "#INF_NPC_60_GREETINGS"
+		"Type" "2"
+		"RequiredID" "8"
+		"RequiredType" "1"
+		"RequiredValue" "1"
+		"ZoneLink" "1"
+		"ModelData"
+		{
+			"models/characters/npc/merchant01.mdl"
+			{
+				"SkinMin" "5"
+				"SkinMax" "5"
+			}
+		}
+		"Dialogue"
+		{
+			"#INF_NPC_60_Q_1" ""
 		}
     }
 }

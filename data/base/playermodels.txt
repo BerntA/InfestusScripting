@@ -3,7 +3,7 @@
     "0"
 	{
 	    "model" "models/characters/player/player01.mdl"
-		"sequence" "aoc_spikedmace_idle"
+		"sequence" "preview"
 		"skin" "0"
 		"body" "0"
 		
@@ -20,5 +20,47 @@
 			"y" "170"
 			"z" "0"
 		}
-	}	
+	}
+    "1"
+	{
+	    "model" "models/characters/player/player01.mdl"
+		"sequence" "preview"
+		"skin" "1"
+		"body" "0"
+		
+		"CamPos"
+		{
+		    "x" "110"
+			"y" "0"
+			"z" "-35"
+		}
+		
+		"CamAng"
+		{
+		    "x" "0"
+			"y" "170"
+			"z" "0"
+		}
+	}
+    "2"
+	{
+	    "model" "models/characters/player/player01.mdl"
+		"sequence" "preview"
+		"skin" "2"
+		"body" "0"
+		
+		"CamPos"
+		{
+		    "x" "110"
+			"y" "0"
+			"z" "-35"
+		}
+		
+		"CamAng"
+		{
+		    "x" "0"
+			"y" "170"
+			"z" "0"
+		}
+	}
 }
