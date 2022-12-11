@@ -23,11 +23,13 @@
     {
 		"Type" "0"
 		"SubType" "0"
+		"ExtraEffectType" "5"
 		"Category" "3"
 		"Title" "#INF_SPELL_2_TEXT"
 		"Description" "#INF_SPELL_2_DESC"
 		"IconTexture" "icons/items/spell/melee_smash"
 		"NoSpellCastBar" "1"
+		"Misc" "25"
 		"Knockback" "250"
 		"DrainValue" "40"
 		"CastTime" "0"
@@ -37,30 +39,6 @@
 		{
 			"23" "34"
 			"44" "65"
-		}
-    }
-    "6"
-    {
-		"Type" "0"
-		"SubType" "2"
-		"ExtraEffectType" "2"
-		"Category" "0"
-		"Title" "#INF_SPELL_6_TEXT"
-		"Description" "#INF_SPELL_6_DESC"
-		"IconTexture" ""
-		"NoSpellCastBar" "1"
-		"Misc" "500"
-		"Knockback" "100"
-		"DrainValue" "50"
-		"CastTime" "0"
-		"CooldownTime" "20"
-		"Range" "160"
-		"BuffDebuffID" "16"
-		"BuffDebuffDuration" "0"
-		"BuffDebuffPercentage" "0"
-		"Ranks"
-		{
-			"0" "0"
 		}
     }
     "7"
@@ -108,51 +86,6 @@
 			"45" "60"
 		}
     }
-    "10"
-    {
-		"Type" "0"
-		"SubType" "0"
-		"Category" "2"
-		"Title" "#INF_SPELL_10_TEXT"
-		"Description" "#INF_SPELL_10_DESC"
-		"IconTexture" ""
-		"NoSpellCastBar" "1"
-		"Knockback" "300"
-		"DrainValue" "50"
-		"CastTime" "0"
-		"CooldownTime" "15"
-		"Range" "100"
-		"BuffDebuffID" "4"
-		"BuffDebuffDuration" "5"
-		"BuffDebuffPercentage" "1"
-		"Ranks"
-		{
-			"50" "100"
-		}
-    }
-    "12"
-    {
-		"Type" "0"
-		"SubType" "0"
-		"ExtraEffectType" "4"
-		"Category" "4"
-		"Title" "#INF_SPELL_12_TEXT"
-		"Description" "#INF_SPELL_12_DESC"
-		"IconTexture" ""
-		"NoSpellCastBar" "1"
-		"Knockback" "800"
-		"DrainValue" "50"
-		"CastTime" "0"
-		"CooldownTime" "20"
-		"Range" "100"
-		"BuffDebuffID" "8"
-		"BuffDebuffDuration" "5"
-		"BuffDebuffPercentage" "1"
-		"Ranks"
-		{
-			"50" "70"
-		}
-    }
     "13"
     {
 		"Type" "0"
@@ -171,31 +104,7 @@
 		"BuffDebuffPercentage" "0"
 		"Ranks"
 		{
-			"53" "67"
-		}
-    }
-    "15"
-    {
-		"Type" "0"
-		"SubType" "0"
-		"Category" "0"
-		"Title" "#INF_SPELL_15_TEXT"
-		"Description" "#INF_SPELL_15_DESC"
-		"IconTexture" ""
-		"NoSpellCastBar" "1"
-		"Knockback" "50"
-		"DrainValue" "25"
-		"CastTime" "0"
-		"CooldownTime" "10"
-		"Range" "100"
-		"BuffDebuffID" "1"
-		"BuffDebuffDuration" "10"
-		"BuffDebuffPercentage" "0.8"
-		"Ranks"
-		{
-			"5" "10"
-			"15" "25"
-			"31" "44"
+			"1" "1"
 		}
     }
 }

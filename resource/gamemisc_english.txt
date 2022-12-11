@@ -34,5 +34,9 @@
 		"INF_MAP_LIGHTFALL_CHICKEN1" "*Cluck* Let's *Cluck* Out of *Cluck* HERE!"
 		"INF_MAP_LIGHTFALL_CHICKEN2" "*Cluck* Thank You! *Cluck*"
 		"INF_MAP_LIGHTFALL_TENTFIRE" "The tent is on fire! Do something, slackers!"
+		
+		// Cavern of Torment
+		"INF_MAP_CAVERNTORMENT_SHADE_SIGHTED" "You should not have come here! Mol'Baragh will consume your soul!"
+		"INF_MAP_CAVERNTORMENT_SHADE_KILLED" "The barrier is down! What is the meaning of this?! Prepare yourselves!!"
 	}
 }

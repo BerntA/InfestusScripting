@@ -1,0 +1,48 @@
+"Items"
+{
+    "74"
+    {
+		"Name" "#INF_ITEM_74_TEXT"
+		"Description" "#INF_ITEM_74_DESC"
+		"IconTexture" "icons/items/misc/token01"
+		"ItemInfo1" "9"
+		"Type" "0"
+		"SubType" "8"
+		"Rarity" "4"
+		"Level" "15"
+		"IsUnique" "1"
+		"StatData"
+		{
+			"Intellect" "10"
+		}
+		"MiscData"
+		{
+			"SellValue" "100"
+		}
+    }
+    "185"
+    {
+		"Name" "#INF_ITEM_185_TEXT"
+		"IconTexture" "icons/items/misc/ornament01"
+		"ItemInfo1" "9"
+		"Type" "0"
+		"SubType" "8"
+		"Rarity" "3"
+		"IsUnique" "1"
+		"StatData"
+		{
+			"Stamina" "17"
+			"Strength" "21"
+			"Agility" "13"
+			"Intellect" "19"
+		}
+		"EquipData"
+		{
+			"Focus" "15"
+		}
+		"MiscData"
+		{
+			"SellValue" "200"
+		}
+    }
+}

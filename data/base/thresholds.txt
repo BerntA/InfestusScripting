@@ -87,7 +87,9 @@
 		"NPCDistLook" "450"
 		
 		"LevelRangeSpecifier" "5"
-		"DeathPunishmentMoneyPercent" "10"
+		"DeathPunishmentMoneyPercentWorld" "2.5"
+		"DeathPunishmentMoneyPercentDungeon" "5.0"
+		"MaxMoneyOnDeath" "500"
 		"MinLevelBankAccess" "10"
 		"BankAccessCost" "500"
 		"UnderwaterBreathMax" "15"

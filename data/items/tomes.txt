@@ -324,4 +324,68 @@
 			"CanTrade" "1"
 		}
     }
+    "167"
+    {
+		"Name" "#INF_ITEM_167_TEXT"
+		"IconTexture" "icons/items/misc/scroll01"
+		"ItemInfo1" "13"
+		"Type" "1"
+		"SubType" "0"
+		"Rarity" "1"
+		"Level" "1"
+		"MiscData"
+		{
+			"ConsumeValue" "26"
+			"SellValue" "25"
+			"CanTrade" "1"
+		}
+    }
+    "168"
+    {
+		"Name" "#INF_ITEM_168_TEXT"
+		"IconTexture" "icons/items/misc/scroll01"
+		"ItemInfo1" "13"
+		"Type" "1"
+		"SubType" "0"
+		"Rarity" "2"
+		"Level" "15"
+		"MiscData"
+		{
+			"ConsumeValue" "27"
+			"SellValue" "225"
+			"CanTrade" "1"
+		}
+    }
+    "169"
+    {
+		"Name" "#INF_ITEM_169_TEXT"
+		"IconTexture" "icons/items/misc/scroll01"
+		"ItemInfo1" "13"
+		"Type" "1"
+		"SubType" "0"
+		"Rarity" "1"
+		"Level" "8"
+		"MiscData"
+		{
+			"ConsumeValue" "28"
+			"SellValue" "85"
+			"CanTrade" "1"
+		}
+    }
+    "170"
+    {
+		"Name" "#INF_ITEM_170_TEXT"
+		"IconTexture" "icons/items/misc/scroll01"
+		"ItemInfo1" "13"
+		"Type" "1"
+		"SubType" "0"
+		"Rarity" "2"
+		"Level" "15"
+		"MiscData"
+		{
+			"ConsumeValue" "29"
+			"SellValue" "175"
+			"CanTrade" "1"
+		}
+    }
 }

@@ -134,14 +134,7 @@
 			"RangedAttackPower" "40"
 			"DamageMin" "57"
 			"DamageMax" "77"
-			"AttackSpeed" "0.8"
-		}
-		"ChanceOnHit"
-		{
-			"Type" "4"
-			"ID" "8"
-			"Duration" "5"
-			"Probability" "0.15"
+			"AttackSpeed" "2"
 		}
 		"ModelData"
 		{
@@ -149,6 +142,7 @@
 		}
 		"MiscData"
 		{
+			"MiscValue" "5"
 			"SellValue" "345"
 			"ItemFlags" "64"
 		}

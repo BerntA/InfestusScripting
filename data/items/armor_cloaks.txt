@@ -1,0 +1,123 @@
+"Items"
+{
+    "180"
+    {
+		"Name" "#INF_ITEM_180_TEXT"
+		"IconTexture" "icons/items/armor/cloak02"
+		"ItemInfo1" "3"
+		"Type" "0"
+		"SubType" "2"
+		"Rarity" "2"
+		"IsUnique" "1"
+		"StatData"
+		{
+			"Armor" "25"
+			"Stamina" "21"
+			"Strength" "25"
+		}
+		"EquipData"
+		{
+			"Focus" "25"
+		}
+		"ResistanceData"
+		{
+			"Fire" "5"
+			"Water" "5"
+			"Shadow" "5"
+			"Earth" "5"
+			"Wind" "5"
+		}
+		"ModelData"
+		{
+			"Model" "models/items/cloaks/cloak01.mdl"
+		}
+		"MiscData"
+		{
+			"SellValue" "350"
+		}
+    }
+    "181"
+    {
+		"Name" "#INF_ITEM_181_TEXT"
+		"IconTexture" "icons/items/armor/cloak02"
+		"ItemInfo1" "3"
+		"Type" "0"
+		"SubType" "2"
+		"Rarity" "2"
+		"IsUnique" "1"
+		"StatData"
+		{
+			"Stamina" "15"
+			"Intellect" "31"
+		}
+		"EquipData"
+		{
+			"SpellPower" "30"
+			"Focus" "25"
+		}
+		"ModelData"
+		{
+			"Model" "models/items/cloaks/cloak01.mdl"
+			"Skin" "2"
+		}
+		"MiscData"
+		{
+			"SellValue" "350"
+		}
+    }
+    "182"
+    {
+		"Name" "#INF_ITEM_182_TEXT"
+		"IconTexture" "icons/items/armor/cloak02"
+		"ItemInfo1" "3"
+		"Type" "0"
+		"SubType" "2"
+		"Rarity" "2"
+		"IsUnique" "1"
+		"StatData"
+		{
+			"Stamina" "13"
+			"Agility" "29"
+		}
+		"EquipData"
+		{
+			"RangedAttackPower" "35"
+			"Focus" "25"
+		}
+		"ModelData"
+		{
+			"Model" "models/items/cloaks/cloak01.mdl"
+		}
+		"MiscData"
+		{
+			"SellValue" "350"
+		}
+    }
+    "183"
+    {
+		"Name" "#INF_ITEM_183_TEXT"
+		"IconTexture" "icons/items/armor/cloak02"
+		"ItemInfo1" "3"
+		"Type" "0"
+		"SubType" "2"
+		"Rarity" "2"
+		"IsUnique" "1"
+		"StatData"
+		{
+			"Strength" "30"
+		}
+		"EquipData"
+		{
+			"MeleeAttackPower" "50"
+			"Focus" "25"
+		}
+		"ModelData"
+		{
+			"Model" "models/items/cloaks/cloak01.mdl"
+		}
+		"MiscData"
+		{
+			"SellValue" "350"
+		}
+    }
+}

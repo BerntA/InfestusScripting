@@ -51,37 +51,4 @@
 			"CanTrade" "1"
 		}
     }
-    "73"
-    {
-		"Name" "#INF_ITEM_73_TEXT"
-		"IconTexture" "icons/items/misc/skull"
-		"ItemInfo1" "20"
-		"Type" "2"
-		"SubType" "2"
-		"MiscData"
-		{
-			"SellValue" "2"
-			"CanTrade" "1"
-		}
-    }
-    "74"
-    {
-		"Name" "#INF_ITEM_74_TEXT"
-		"Description" "#INF_ITEM_74_DESC"
-		"IconTexture" "icons/items/misc/token01"
-		"ItemInfo1" "9"
-		"Type" "0"
-		"SubType" "8"
-		"Rarity" "4"
-		"Level" "15"
-		"IsUnique" "1"
-		"StatData"
-		{
-			"Intellect" "10"
-		}
-		"MiscData"
-		{
-			"SellValue" "100"
-		}
-    }
 }

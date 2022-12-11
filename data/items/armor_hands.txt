@@ -122,4 +122,36 @@
 			"SellValue" "350"
 		}
     }
+    "175"
+    {
+		"Name" "#INF_ITEM_175_TEXT"
+		"IconTexture" "icons/items/armor/sovereign_gloves"
+		"ItemInfo1" "4"
+		"ItemInfo2" "1"
+		"Type" "0"
+		"SubType" "3"
+		"Rarity" "3"
+		"Level" "25"
+		"IsUnique" "1"
+		"StatData"
+		{
+			"Armor" "25"
+			"Stamina" "31"
+			"Intellect" "47"
+		}
+		"EquipData"
+		{
+			"SpellPower" "35"
+			"Focus" "25"
+		}
+		"ModelData"
+		{
+			"Model" "models/items/sovereign/gloves.mdl"
+		}
+		"MiscData"
+		{
+			"SellValue" "875"
+			"CanTrade" "1"
+		}
+    }
 }

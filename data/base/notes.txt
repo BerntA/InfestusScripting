@@ -45,4 +45,9 @@
 		"Title" "#INF_NOTE_9_TEXT"
 		"Description" "#INF_NOTE_9_DESC"
     }
+    "10"
+    {
+		"Title" "#INF_NOTE_10_TEXT"
+		"Description" "#INF_NOTE_10_DESC"
+    }
 }

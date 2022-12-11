@@ -8,11 +8,10 @@
 		"Title" "#INF_SPELL_14_TEXT"
 		"Description" "#INF_SPELL_14_DESC"
 		"IconTexture" "icons/items/spell/ranged_fire"
-		"NoSpellCastBar" "1"
 		"MagicSchool" "1"
 		"Knockback" "75"
-		"DrainValue" "25"
-		"CastTime" "0"
+		"DrainValue" "20"
+		"CastTime" "1"
 		"CooldownTime" "12.5"
 		"Range" "1000"
 		"BuffDebuffID" "2"
@@ -42,6 +41,47 @@
 		"Ranks"
 		{
 			"61" "81"
+		}
+    }
+    "28"
+    {
+		"Type" "1"
+		"SubType" "0"
+		"Category" "5"
+		"Title" "#INF_SPELL_28_TEXT"
+		"Description" "#INF_SPELL_28_DESC"
+		"IconTexture" "icons/items/spell/ranged_paralyze"
+		"Knockback" "50"
+		"DrainValue" "15"
+		"CastTime" "1"
+		"CooldownTime" "10"
+		"Range" "1000"
+		"BuffDebuffID" "8"
+		"BuffDebuffDuration" "4"
+		"BuffDebuffPercentage" "1"
+		"Ranks"
+		{
+			"53" "71"
+		}
+    }
+    "29"
+    {
+		"Type" "1"
+		"SubType" "0"
+		"ExtraEffectType" "5"
+		"Category" "5"
+		"Title" "#INF_SPELL_29_TEXT"
+		"Description" "#INF_SPELL_29_DESC"
+		"IconTexture" "icons/items/spell/ranged_piercing"
+		"Misc" "100"
+		"Knockback" "100"
+		"DrainValue" "20"
+		"CastTime" "1"
+		"CooldownTime" "5"
+		"Range" "1000"
+		"Ranks"
+		{
+			"93" "117"
 		}
     }
 }

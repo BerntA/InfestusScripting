@@ -517,4 +517,57 @@
 			"ItemFlags" "16"
 		}
     }
+    "171"
+    {
+		"Name" "#INF_ITEM_171_TEXT"
+		"IconTexture" "icons/items/weapon/mace08"
+		"ItemInfo1" "10"
+		"ItemInfo2" "7"
+		"Type" "0"
+		"SubType" "9"
+		"Rarity" "2"
+		"Level" "20"
+		"IsUnique" "1"
+		"StatData"
+		{
+			"Stamina" "17"
+			"Strength" "27"
+			"Agility" "13"
+			"Intellect" "7"
+		}
+		"EquipData"
+		{
+			"MeleeAttackPower" "30"
+			"DamageMin" "31"
+			"DamageMax" "41"
+			"AttackSpeed" "0.9"
+		}
+		"ResistanceData"
+		{
+			"Fire" "-5"
+			"Water" "-5"
+			"Shadow" "-5"
+			"Earth" "-5"
+			"Wind" "-5"
+		}
+		"ChanceOnHit"
+		{
+			"Type" "4"
+			"ValueMin" "30"
+			"ValueMax" "50"
+			"ID" "1"
+			"Duration" "5"
+			"Probability" "0.125"
+		}
+		"ModelData"
+		{
+			"Model" "models/items/maces/mace08.mdl"
+		}
+		"MiscData"
+		{
+			"SellValue" "325"
+			"ItemFlags" "1"
+			"CanTrade" "1"
+		}
+    }
 }

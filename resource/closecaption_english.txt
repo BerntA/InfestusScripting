@@ -1,0 +1,8 @@
+"lang"
+{
+	"Language" "english"
+	"Tokens"
+	{
+		"CC_TEST" "This is a CC test!"
+	}
+}

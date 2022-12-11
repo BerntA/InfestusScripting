@@ -491,4 +491,68 @@
 			"SellValue" "225"
 		}
     }
+    "174"
+    {
+		"Name" "#INF_ITEM_174_TEXT"
+		"IconTexture" "icons/items/armor/helm15"
+		"ItemInfo1" "1"
+		"ItemInfo2" "1"
+		"Type" "0"
+		"SubType" "0"
+		"Rarity" "3"
+		"Level" "25"
+		"IsUnique" "1"
+		"StatData"
+		{
+			"Armor" "42"
+			"Stamina" "29"
+			"Agility" "49"
+			"Intellect" "15"
+		}
+		"EquipData"
+		{
+			"RangedAttackPower" "50"
+			"Focus" "25"
+		}
+		"ModelData"
+		{
+			"Model" "models/items/helmets/helm15.mdl"
+		}
+		"MiscData"
+		{
+			"SellValue" "750"
+			"CanTrade" "1"
+		}
+    }
+    "184"
+    {
+		"Name" "#INF_ITEM_184_TEXT"
+		"IconTexture" "icons/items/armor/helm16"
+		"ItemInfo1" "1"
+		"ItemInfo2" "1"
+		"Type" "0"
+		"SubType" "0"
+		"Rarity" "2"
+		"Level" "15"
+		"IsUnique" "1"
+		"StatData"
+		{
+			"Stamina" "15"
+			"Intellect" "29"
+		}
+		"EquipData"
+		{
+			"SpellPower" "25"
+			"Focus" "50"
+		}
+		"ModelData"
+		{
+			"Model" "models/items/helmets/helm16.mdl"
+		}
+		"MiscData"
+		{
+			"SellValue" "275"
+			"CanTrade" "1"
+		}
+    }
 }

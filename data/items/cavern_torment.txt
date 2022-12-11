@@ -1,0 +1,35 @@
+"Items"
+{
+    "177"
+    {
+		"Name" "#INF_ITEM_177_TEXT"
+		"IconTexture" "icons/items/misc/parchment02"
+		"ItemInfo1" "16"
+		"Type" "2"
+		"SubType" "0"
+		"Rarity" "1"
+		"IsUnique" "1"
+		"MiscData"
+		{
+			"ConsumeValue" "10"
+		}
+    }
+    "178"
+    {
+		"Name" "#INF_ITEM_178_TEXT"
+		"IconTexture" "icons/items/misc/essence01"
+		"ItemInfo1" "17"
+		"Type" "2"
+		"SubType" "1"
+		"Rarity" "2"
+    }
+    "179"
+    {
+		"Name" "#INF_ITEM_179_TEXT"
+		"IconTexture" "icons/items/misc/vial08"
+		"ItemInfo1" "17"
+		"Type" "2"
+		"SubType" "1"
+		"Rarity" "1"
+    }
+}

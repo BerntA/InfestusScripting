@@ -1,0 +1,196 @@
+"Quests"
+{
+    "42"
+    {
+		"Title" "#INF_QUEST_42_TITLE"
+		"ShortDescription" "#INF_QUEST_42_DESC_SHORT"
+		"LongDescription" "#INF_QUEST_42_DESC_LONG"
+		"LevelMin" "18"
+		"LevelMax" "28"
+		"Experience" "1750"
+		"ZoneID" "4"
+		"Money" "250"
+		"Objectives"
+		{
+			"2"
+			{
+				"Target" "179"
+				"Count" "8"
+			}
+		}
+		"Rewards"
+		{
+			"138"
+			{
+				"Quantity" "3"
+				"MustChoose" "1"
+			}
+			"140"
+			{
+				"Quantity" "3"
+				"MustChoose" "1"
+			}
+			"155"
+			{
+				"Quantity" "5"
+			}
+			"156"
+			{
+				"Quantity" "5"
+			}
+		}
+		"Reputation"
+		{
+			"2" "10"
+		}
+    }
+    "43"
+    {
+		"Title" "#INF_QUEST_43_TITLE"
+		"ShortDescription" "#INF_QUEST_43_DESC_SHORT"
+		"LongDescription" "#INF_QUEST_43_DESC_LONG"
+		"LevelMin" "18"
+		"LevelMax" "28"
+		"Experience" "750"
+		"ZoneID" "4"
+		"Money" "100"
+		"Objectives"
+		{
+			"2"
+			{
+				"Target" "178"
+			}
+		}
+		"Rewards"
+		{
+			"139"
+			{
+				"Quantity" "3"
+				"MustChoose" "1"
+			}
+			"141"
+			{
+				"Quantity" "3"
+				"MustChoose" "1"
+			}
+			"142"
+			{
+				"Quantity" "3"
+				"MustChoose" "1"
+			}
+		}
+		"Reputation"
+		{
+			"2" "15"
+		}
+    }
+    "44"
+    {
+		"Title" "#INF_QUEST_44_TITLE"
+		"ShortDescription" "#INF_QUEST_44_DESC_SHORT"
+		"LongDescription" "#INF_QUEST_44_DESC_LONG"
+		"LevelMin" "18"
+		"LevelMax" "28"
+		"Experience" "0"
+		"QuestChain" "43"
+		"ZoneID" "4"
+		"Money" "50"
+		"Repeatable" "1"
+		"Objectives"
+		{
+			"2"
+			{
+				"Target" "178"
+			}
+		}
+		"Reputation"
+		{
+			"2" "10"
+		}
+    }
+    "45"
+    {
+		"Title" "#INF_QUEST_45_TITLE"
+		"ShortDescription" "#INF_QUEST_45_DESC_SHORT"
+		"LongDescription" "#INF_QUEST_45_DESC_LONG"
+		"LevelMin" "18"
+		"LevelMax" "30"
+		"Experience" "3250"
+		"ZoneID" "4"
+		"Money" "500"
+		"Objectives"
+		{
+			"1"
+			{
+				"Target" "97"
+			}
+			"1"
+			{
+				"Target" "94"
+				"Count" "3"
+			}
+		}
+		"Rewards"
+		{
+			"185"
+			{
+			}
+		}
+		"Reputation"
+		{
+			"1" "100"
+		}
+    }
+    "46"
+    {
+		"Title" "#INF_QUEST_46_TITLE"
+		"ShortDescription" "#INF_QUEST_46_DESC_SHORT"
+		"LongDescription" "#INF_QUEST_46_DESC_LONG"
+		"LevelMin" "18"
+		"LevelMax" "28"
+		"Experience" "2500"
+		"ZoneID" "4"
+		"Money" "350"
+		"Objectives"
+		{
+			"1"
+			{
+				"Target" "98"
+				"Count" "10"
+			}
+			"1"
+			{
+				"Target" "100"
+				"Count" "8"
+			}
+			"1"
+			{
+				"Target" "99"
+				"Count" "6"
+			}
+		}
+		"Rewards"
+		{
+			"180"
+			{
+				"MustChoose" "1"
+			}
+			"181"
+			{
+				"MustChoose" "1"
+			}
+			"182"
+			{
+				"MustChoose" "1"
+			}
+			"183"
+			{
+				"MustChoose" "1"
+			}
+		}
+		"Reputation"
+		{
+			"1" "100"
+		}
+    }
+}

@@ -1,0 +1,594 @@
+"NPCs"
+{
+    "94"
+    {
+		"Name" "#INF_NPC_94_NAME"
+		"Level" "25"
+		"Health" "3500"
+		"Drainer" "1000"
+		"CollisionHeight" "104"
+		"ImagePreview" "icons/npcs/shade01"
+		"Soundscript" "Shade"
+		"MoneyRewardMin" "15"
+		"MoneyRewardMax" "30"
+		"Experience" "1500"
+		"RelationshipID" "2"
+		"ZoneLink" "4"
+		"Attributes"
+		{
+			"Armor" "1500"
+			"DamageMin" "89"
+			"DamageMax" "115"
+			"AttackSpeed" "1.25"
+			"AttackRange" "90"
+			"DrainerRegenRate" "0.005"
+			"FireResistance" "100"
+			"WaterResistance" "100"
+			"ShadowResistance" "100"
+			"EarthResistance" "100"
+			"WindResistance" "100"
+		}
+		"Spells"
+		{
+			"0" "25"
+			"1" "22"
+			"2" "20"
+			"0" "13"
+		}
+		"Loots"
+		{
+			"178"
+			{
+				"Percentage" "75"
+			}
+		}
+		"Reputation"
+		{
+			"2"
+			{
+				"Value" "10"
+				"Ally" "0"
+			}
+		}
+		"ModelData"
+		{
+			"models/characters/npc/shade03.mdl"
+			{
+			}
+			"models/characters/npc/shade04.mdl"
+			{
+			}
+		}
+		"Hitbox"
+		{
+			"xpos" "40"
+			"ypos" "40"
+			"zpos" "80"
+		}
+    }
+    "95"
+    {
+		"Name" "#INF_NPC_95_NAME"
+		"Level" "20"
+		"Health" "750"
+		"Soundscript" "Guard"
+		"Experience" "150"
+		"RelationshipID" "2"
+		"ZoneLink" "4"
+		"Attributes"
+		{
+			"Armor" "300"
+			"DamageMin" "35"
+			"DamageMax" "50"
+			"AttackSpeed" "0.9"
+			"AttackRange" "85"
+			"FireResistance" "-15"
+			"WaterResistance" "-15"
+			"ShadowResistance" "-15"
+			"EarthResistance" "-15"
+			"WindResistance" "-15"
+		}
+		"Spells"
+		{
+			"1" "1"
+		}
+		"Loots"
+		{
+			"166"
+			{
+				"Percentage" "20"
+			}
+			"116"
+			{
+				"Percentage" "5"
+			}
+		}
+		"ModelData"
+		{
+			"models/characters/npc/slave01.mdl"
+			{
+				"SkinMin" "9"
+				"SkinMax" "9"
+			}
+		}
+    }
+    "96"
+    {
+		"Name" "#INF_NPC_96_NAME"
+		"Level" "25"
+		"Health" "1500"
+		"CollisionHeight" "65"
+		"CollisionHeightCorpse" "46"
+		"Soundscript" "Spider"
+		"Experience" "850"
+		"RelationshipID" "2"
+		"ZoneLink" "4"
+		"Attributes"
+		{
+			"Armor" "1000"
+			"DamageMin" "85"
+			"DamageMax" "105"
+			"AttackSpeed" "0.7"
+			"AttackRange" "80"
+			"FireResistance" "-15"
+			"WaterResistance" "-15"
+			"ShadowResistance" "-15"
+			"EarthResistance" "-15"
+			"WindResistance" "-15"
+		}
+		"Spells"
+		{
+			"3" "15"
+		}
+		"Loots"
+		{
+			"161"
+			{
+				"Percentage" "65"
+			}
+			"162"
+			{
+				"Percentage" "15"
+			}
+			"179"
+			{
+				"Percentage" "80"
+			}
+		}
+		"ModelData"
+		{
+			"models/characters/npc/spider01.mdl"
+			{
+			}
+		}
+		"CamData"
+		{
+			"xpos" "10"
+			"ypos" "0"
+			"zpos" "-19"
+			"angx" "0"
+			"angy" "180"
+			"angz" "0"
+		}
+		"Hitbox"
+		{
+			"xpos" "24"
+			"ypos" "24"
+			"zpos" "65"
+		}
+    }
+    "97"
+    {
+		"Name" "#INF_NPC_97_NAME"
+		"Level" "30"
+		"Health" "12500"
+		"Drainer" "1000"
+		"CollisionHeight" "180"
+		"IsBoss" "1"
+		"ImagePreview" "icons/npcs/shade01"
+		"Soundscript" "Shade"
+		"MoneyRewardMin" "250"
+		"MoneyRewardMax" "250"
+		"Experience" "3000"
+		"MaxRareRewards" "2"
+		"RelationshipID" "2"
+		"ZoneLink" "4"
+		"Attributes"
+		{
+			"Armor" "1500"
+			"DamageMin" "125"
+			"DamageMax" "150"
+			"AttackSpeed" "0.8"
+			"AttackRange" "100"
+			"DrainerRegenRate" "0.01"
+			"FireResistance" "90"
+			"WaterResistance" "90"
+			"ShadowResistance" "90"
+			"EarthResistance" "90"
+			"WindResistance" "90"
+		}
+		"Spells"
+		{
+			"0" "6"
+			"0" "25"
+			"1" "20"
+			"0" "32"
+		}
+		"Loots"
+		{
+			"175"
+			{
+				"Percentage" "15"
+			}
+			"176"
+			{
+				"Percentage" "40"
+			}
+			"174"
+			{
+				"Percentage" "30"
+			}
+			"178"
+			{
+				"Percentage" "100"
+			}
+		}
+		"Reputation"
+		{
+			"2"
+			{
+				"Value" "25"
+				"Ally" "0"
+			}
+			"1"
+			{
+				"Value" "50"
+				"Ally" "0"
+			}
+		}
+		"ModelData"
+		{
+			"models/characters/npc/shade02.mdl"
+			{
+			}
+		}
+		"Hitbox"
+		{
+			"xpos" "90"
+			"ypos" "90"
+			"zpos" "150"
+		}
+    }
+    "98"
+    {
+		"Name" "#INF_NPC_98_NAME"
+		"Level" "25"
+		"Health" "1750"
+		"CollisionHeight" "90"
+		"Soundscript" "Smuggler"
+		"Experience" "1150"
+		"RelationshipID" "2"
+		"ZoneLink" "4"
+		"Attributes"
+		{
+			"Armor" "500"
+			"DrainerRegenRate" "0.01"
+			"MeleeDMGFactor" "3"
+			"RangedDMGFactor" "3"
+			"MagicDMGFactor" "5"
+			"FireResistance" "50"
+			"WaterResistance" "50"
+			"ShadowResistance" "50"
+			"EarthResistance" "50"
+			"WindResistance" "50"
+		}
+		"Spells"
+		{
+			"1" "21"
+			"1" "20"
+			"1" "24"
+			"0" "23"
+		}
+		"Loots"
+		{
+			"184"
+			{
+				"Percentage" "20"
+			}
+		}
+		"ModelData"
+		{
+			"models/characters/npc/mage02.mdl"
+			{
+				"SkinMin" "9"
+				"SkinMax" "9"
+			}
+			"models/characters/npc/mage01.mdl"
+			{
+				"SkinMin" "9"
+				"SkinMax" "9"
+			}
+		}
+    }
+    "99"
+    {
+		"Name" "#INF_NPC_99_NAME"
+		"Level" "20"
+		"Health" "650"
+		"Soundscript" "Smuggler"
+		"Experience" "375"
+		"RelationshipID" "2"
+		"ZoneLink" "4"
+		"Attributes"
+		{
+			"Armor" "500"
+			"DrainerRegenRate" "0.025"
+			"RangedDMGFactor" "5"
+			"FireResistance" "-10"
+			"WaterResistance" "-10"
+			"ShadowResistance" "-10"
+			"EarthResistance" "-10"
+			"WindResistance" "-10"
+		}
+		"Spells"
+		{
+			"0" "18"
+			"0" "14"
+			"0" "29"
+		}
+		"ModelData"
+		{
+			"models/characters/npc/smuggler03.mdl"
+			{
+			}
+		}
+		"CamData"
+		{
+			"xpos" "7"
+			"ypos" "0"
+			"zpos" "-67"
+			"angx" "0"
+			"angy" "170"
+			"angz" "0"
+		}
+    }
+    "100"
+    {
+		"Name" "#INF_NPC_100_NAME"
+		"Level" "24"
+		"Health" "1350"
+		"Soundscript" "Smuggler"
+		"Experience" "825"
+		"RelationshipID" "2"
+		"ZoneLink" "4"
+		"Attributes"
+		{
+			"Armor" "1000"
+			"AttackSpeed" "0.5"
+			"DrainerRegenRate" "0.025"
+			"MeleeDMGFactor" "2"
+			"RangedDMGFactor" "2"
+			"MagicDMGFactor" "2"
+		}
+		"Spells"
+		{
+			"1" "1"
+			"1" "2"
+			"0" "13"
+		}
+		"ModelData"
+		{
+			"models/characters/npc/smuggler01.mdl"
+			{
+			}
+		}
+    }
+    "101"
+    {
+		"Name" "#INF_NPC_101_NAME"
+		"Level" "28"
+		"Health" "8500"
+		"CollisionHeight" "100"
+		"IsBoss" "1"
+		"Soundscript" "Smuggler"
+		"MoneyRewardMin" "150"
+		"MoneyRewardMax" "150"
+		"Experience" "1750"
+		"MaxRareRewards" "1"
+		"RelationshipID" "2"
+		"ZoneLink" "4"
+		"Attributes"
+		{
+			"Armor" "1000"
+			"AttackSpeed" "0.8"
+			"DrainerRegenRate" "0.02"
+			"MeleeDMGFactor" "4"
+			"RangedDMGFactor" "0.25"
+			"MagicDMGFactor" "0.25"
+			"FireResistance" "25"
+			"WaterResistance" "25"
+			"ShadowResistance" "25"
+			"EarthResistance" "25"
+			"WindResistance" "25"
+		}
+		"Spells"
+		{
+			"1" "1"
+			"1" "2"
+			"0" "6"
+		}
+		"Loots"
+		{
+			"173"
+			{
+				"Percentage" "40"
+			}
+			"171"
+			{
+				"Percentage" "60"
+			}
+		}
+		"Reputation"
+		{
+			"2"
+			{
+				"Value" "10"
+				"Ally" "0"
+			}
+			"1"
+			{
+				"Value" "25"
+				"Ally" "0"
+			}
+		}
+		"ModelData"
+		{
+			"models/characters/npc/smuggler02.mdl"
+			{
+				"Scale" "1.35"
+			}
+		}
+		"Hitbox"
+		{
+			"xpos" "16"
+			"ypos" "16"
+			"zpos" "95"
+		}
+    }
+    "102"
+    {
+		"Name" "#INF_NPC_102_NAME"
+		"Level" "26"
+		"Health" "5000"
+		"CollisionHeight" "125"
+		"IsBoss" "1"
+		"Soundscript" "Giant"
+		"Experience" "1000"
+		"RelationshipID" "2"
+		"ZoneLink" "4"
+		"Attributes"
+		{
+			"Armor" "2000"
+			"AttackSpeed" "0.75"
+			"AttackRange" "110"
+			"DrainerRegenRate" "0.01"
+			"MeleeDMGFactor" "5"
+			"RangedDMGFactor" "5"
+			"MagicDMGFactor" "5"
+			"FireResistance" "-35"
+			"WaterResistance" "-35"
+			"ShadowResistance" "-35"
+			"EarthResistance" "-35"
+			"WindResistance" "-35"
+		}
+		"Spells"
+		{
+			"0" "13"
+			"1" "1"
+			"1" "2"
+			"0" "12"
+		}
+		"Loots"
+		{
+			"170"
+			{
+				"Percentage" "100"
+			}
+			"172"
+			{
+				"Percentage" "15"
+			}
+		}
+		"ModelData"
+		{
+			"models/characters/npc/giant01.mdl"
+			{
+				"SkinMin" "1"
+				"SkinMax" "1"
+			}
+		}
+		"CamData"
+		{
+			"xpos" "22"
+			"ypos" "0"
+			"zpos" "-106"
+			"angx" "0"
+			"angy" "185"
+			"angz" "0"
+		}
+		"Hitbox"
+		{
+			"xpos" "18"
+			"ypos" "18"
+			"zpos" "120"
+		}
+    }
+    "103"
+    {
+		"Name" "#INF_NPC_103_NAME"
+		"Level" "26"
+		"Health" "5000"
+		"CollisionHeight" "125"
+		"IsBoss" "1"
+		"Soundscript" "Giant"
+		"Experience" "1000"
+		"RelationshipID" "2"
+		"ZoneLink" "4"
+		"Attributes"
+		{
+			"AttackRange" "110"
+			"DrainerRegenRate" "0.01"
+			"MeleeDMGFactor" "5"
+			"RangedDMGFactor" "5"
+			"MagicDMGFactor" "5"
+			"FireResistance" "50"
+			"WaterResistance" "50"
+			"ShadowResistance" "50"
+			"EarthResistance" "50"
+			"WindResistance" "50"
+		}
+		"Spells"
+		{
+			"2" "21"
+			"2" "20"
+			"1" "22"
+			"1" "23"
+			"2" "24"
+			"0" "25"
+		}
+		"Loots"
+		{
+			"168"
+			{
+				"Percentage" "100"
+			}
+			"177"
+			{
+				"Percentage" "100"
+			}
+		}
+		"ModelData"
+		{
+			"models/characters/npc/giant01.mdl"
+			{
+				"BodyMin" "1"
+				"BodyMax" "1"
+			}
+		}
+		"CamData"
+		{
+			"xpos" "22"
+			"ypos" "0"
+			"zpos" "-106"
+			"angx" "0"
+			"angy" "185"
+			"angz" "0"
+		}
+		"Hitbox"
+		{
+			"xpos" "18"
+			"ypos" "18"
+			"zpos" "120"
+		}
+    }
+}

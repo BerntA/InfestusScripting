@@ -1,0 +1,94 @@
+"Items"
+{
+    "73"
+    {
+		"Name" "#INF_ITEM_73_TEXT"
+		"IconTexture" "icons/items/misc/skull"
+		"ItemInfo1" "20"
+		"Type" "2"
+		"SubType" "2"
+		"MiscData"
+		{
+			"SellValue" "2"
+			"CanTrade" "1"
+		}
+    }
+    "161"
+    {
+		"Name" "#INF_ITEM_161_TEXT"
+		"IconTexture" "icons/items/misc/spidersilk"
+		"ItemInfo1" "20"
+		"Type" "2"
+		"SubType" "2"
+		"MiscData"
+		{
+			"SellValue" "1"
+			"CanTrade" "1"
+		}
+    }
+    "162"
+    {
+		"Name" "#INF_ITEM_162_TEXT"
+		"IconTexture" "icons/items/misc/spine"
+		"ItemInfo1" "20"
+		"Type" "2"
+		"SubType" "2"
+		"MiscData"
+		{
+			"SellValue" "1"
+			"CanTrade" "1"
+		}
+    }
+    "163"
+    {
+		"Name" "#INF_ITEM_163_TEXT"
+		"IconTexture" "icons/items/misc/insectwing"
+		"ItemInfo1" "20"
+		"Type" "2"
+		"SubType" "2"
+		"MiscData"
+		{
+			"SellValue" "4"
+			"CanTrade" "1"
+		}
+    }
+    "164"
+    {
+		"Name" "#INF_ITEM_164_TEXT"
+		"IconTexture" "icons/items/misc/meat03"
+		"ItemInfo1" "20"
+		"Type" "2"
+		"SubType" "2"
+		"MiscData"
+		{
+			"SellValue" "2"
+			"CanTrade" "1"
+		}
+    }
+    "165"
+    {
+		"Name" "#INF_ITEM_165_TEXT"
+		"IconTexture" "icons/items/misc/rathead"
+		"ItemInfo1" "20"
+		"Type" "2"
+		"SubType" "2"
+		"MiscData"
+		{
+			"SellValue" "1"
+			"CanTrade" "1"
+		}
+    }
+    "166"
+    {
+		"Name" "#INF_ITEM_166_TEXT"
+		"IconTexture" "icons/items/misc/bandage"
+		"ItemInfo1" "20"
+		"Type" "2"
+		"SubType" "2"
+		"MiscData"
+		{
+			"SellValue" "1"
+			"CanTrade" "1"
+		}
+    }
+}

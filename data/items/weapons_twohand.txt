@@ -323,4 +323,93 @@
 			"ItemFlags" "32"
 		}
     }
+    "172"
+    {
+		"Name" "#INF_ITEM_172_TEXT"
+		"IconTexture" "icons/items/weapon/axe04"
+		"ItemInfo1" "11"
+		"ItemInfo2" "6"
+		"Type" "0"
+		"SubType" "9"
+		"Rarity" "2"
+		"Level" "20"
+		"IsUnique" "1"
+		"StatData"
+		{
+			"Stamina" "11"
+			"Strength" "37"
+			"Agility" "15"
+		}
+		"EquipData"
+		{
+			"MeleeAttackPower" "35"
+			"DamageMin" "81"
+			"DamageMax" "110"
+		}
+		"ChanceOnHit"
+		{
+			"Type" "4"
+			"ValueMin" "35"
+			"ValueMax" "50"
+			"ID" "1"
+			"Duration" "7"
+			"Probability" "0.2"
+		}
+		"ModelData"
+		{
+			"Model" "models/items/axes/axe04.mdl"
+		}
+		"MiscData"
+		{
+			"SellValue" "375"
+			"ItemFlags" "4"
+			"CanTrade" "1"
+		}
+    }
+    "173"
+    {
+		"Name" "#INF_ITEM_173_TEXT"
+		"IconTexture" "icons/items/weapon/sword09_02"
+		"ItemInfo1" "11"
+		"ItemInfo2" "5"
+		"Type" "0"
+		"SubType" "9"
+		"Rarity" "3"
+		"Level" "25"
+		"IsUnique" "1"
+		"StatData"
+		{
+			"Armor" "100"
+			"Stamina" "19"
+			"Strength" "47"
+			"Agility" "21"
+			"Intellect" "13"
+		}
+		"EquipData"
+		{
+			"MeleeAttackPower" "50"
+			"RangedAttackPower" "25"
+			"DamageMin" "91"
+			"DamageMax" "123"
+			"AttackSpeed" "1.1"
+		}
+		"ChanceOnHit"
+		{
+			"Type" "1"
+			"ValueMin" "30"
+			"ValueMax" "75"
+			"School" "1"
+			"Probability" "0.1"
+		}
+		"ModelData"
+		{
+			"Model" "models/items/swords/sword09.mdl"
+			"Skin" "1"
+		}
+		"MiscData"
+		{
+			"SellValue" "525"
+			"CanTrade" "1"
+		}
+    }
 }

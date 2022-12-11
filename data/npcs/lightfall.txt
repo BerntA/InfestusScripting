@@ -215,6 +215,10 @@
 			{
 				"Percentage" "35"
 			}
+			"166"
+			{
+				"Percentage" "20"
+			}
 		}
 		"Reputation"
 		{
@@ -243,7 +247,6 @@
 		"Attributes"
 		{
 			"Armor" "250"
-			"AttackSpeed" "0.8"
 			"DrainerRegenRate" "0.025"
 			"RangedDMGFactor" "4.15"
 			"FireResistance" "-10"
@@ -268,6 +271,10 @@
 			"96"
 			{
 				"Percentage" "40"
+			}
+			"166"
+			{
+				"Percentage" "20"
 			}
 		}
 		"Reputation"
@@ -380,6 +387,10 @@
 			{
 				"Percentage" "30"
 			}
+			"161"
+			{
+				"Percentage" "40"
+			}
 		}
 		"ModelData"
 		{
@@ -395,6 +406,12 @@
 			"angx" "0"
 			"angy" "180"
 			"angz" "0"
+		}
+		"Hitbox"
+		{
+			"xpos" "20"
+			"ypos" "20"
+			"zpos" "60"
 		}
     }
     "50"
@@ -435,6 +452,9 @@
 			{
 				"Percentage" "55"
 			}
+			"161"
+			{
+			}
 		}
 		"ModelData"
 		{
@@ -451,6 +471,12 @@
 			"angy" "180"
 			"angz" "0"
 		}
+		"Hitbox"
+		{
+			"xpos" "22"
+			"ypos" "22"
+			"zpos" "60"
+		}
     }
     "51"
     {
@@ -460,8 +486,7 @@
 		"CollisionHeight" "103"
 		"IsBoss" "1"
 		"Soundscript" "Hulk"
-		"MoneyRewardMin" "250"
-		"Experience" "1000"
+		"MoneyRewardMin" "200"
 		"RelationshipID" "2"
 		"ZoneLink" "2"
 		"Attributes"
@@ -496,6 +521,12 @@
 			"angy" "182"
 			"angz" "0"
 		}
+		"Hitbox"
+		{
+			"xpos" "15"
+			"ypos" "15"
+			"zpos" "95"
+		}
     }
     "52"
     {
@@ -525,6 +556,10 @@
 			"93"
 			{
 			}
+			"164"
+			{
+				"Percentage" "25"
+			}
 		}
 		"ModelData"
 		{
@@ -541,6 +576,12 @@
 			"angx" "0"
 			"angy" "150"
 			"angz" "0"
+		}
+		"Hitbox"
+		{
+			"xpos" "30"
+			"ypos" "15"
+			"zpos" "70"
 		}
     }
     "53"
@@ -572,6 +613,10 @@
 			{
 				"Percentage" "65"
 			}
+			"164"
+			{
+				"Percentage" "40"
+			}
 		}
 		"ModelData"
 		{
@@ -588,6 +633,12 @@
 			"angx" "0"
 			"angy" "150"
 			"angz" "0"
+		}
+		"Hitbox"
+		{
+			"xpos" "30"
+			"ypos" "15"
+			"zpos" "70"
 		}
     }
     "54"
@@ -678,13 +729,14 @@
 		{
 			"0" "25"
 			"1" "37"
+			"2" "42"
+			"3" "43"
+			"4" "44"
 		}
     }
     "57"
     {
 		"Name" "#INF_NPC_57_NAME"
-		"Level" "10"
-		"Health" "75"
 		"CollisionHeight" "26"
 		"CollisionHeightCorpse" "26"
 		"Soundscript" "Chicken"
@@ -729,7 +781,7 @@
 		"Attributes"
 		{
 			"Armor" "250"
-			"AttackSpeed" "0.7"
+			"AttackSpeed" "0.9"
 			"DrainerRegenRate" "0.02"
 			"MeleeDMGFactor" "5"
 			"RangedDMGFactor" "5"
@@ -891,6 +943,7 @@
 			"2" "29"
 			"3" "39"
 			"4" "36"
+			"5" "46"
 		}
     }
     "66"
@@ -923,6 +976,7 @@
 			"1" "32"
 			"2" "28"
 			"3" "33"
+			"4" "45"
 		}
     }
     "67"
@@ -1099,6 +1153,10 @@
 			{
 				"Price" "185"
 			}
+			"169"
+			{
+				"Price" "125"
+			}
 		}
     }
     "73"
@@ -1132,6 +1190,10 @@
 			"158"
 			{
 				"Price" "215"
+			}
+			"167"
+			{
+				"Price" "50"
 			}
 		}
     }
@@ -1285,11 +1347,9 @@
     "79"
     {
 		"Name" "#INF_NPC_79_NAME"
-		"Level" "10"
 		"CollisionHeight" "26"
 		"CollisionHeightCorpse" "26"
 		"Soundscript" "Chicken"
-		"Experience" "25"
 		"ZoneLink" "3"
 		"Attributes"
 		{
@@ -1615,6 +1675,13 @@
 			"EarthResistance" "-15"
 			"WindResistance" "-15"
 		}
+		"Loots"
+		{
+			"165"
+			{
+				"Percentage" "25"
+			}
+		}
 		"ModelData"
 		{
 			"models/characters/npc/rat01.mdl"
@@ -1629,6 +1696,12 @@
 			"angx" "11"
 			"angy" "180"
 			"angz" "0"
+		}
+		"Hitbox"
+		{
+			"xpos" "25"
+			"ypos" "14"
+			"zpos" "60"
 		}
     }
     "90"

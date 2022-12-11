@@ -3,12 +3,14 @@
 	"Language" "english" 
 	"Tokens" 
 	{ 	
-		"INF_MENU_SERVERBROWSER" "Realm List"
+		"INF_MENU_SOLOPLAY" "Play Solo"
+		"INF_MENU_SERVERBROWSER" "Play Online"
 		"INF_MENU_OPTIONS" "Options"
 		"INF_MENU_LEAVE" "Disconnect"
 		"INF_MENU_QUIT" "Quit"
 		"INF_MENU_RESUME" "Resume"
-		"INF_MENU_WORLDDATA" "Playing on %s1, World %s2, Ping %s3, Active Players %s4"
+		"INF_MENU_WORLDDATA" "Playing on %s1, World %s2, Ping %s3"
+		"INF_MENU_DUNGEONDATA" "Ping %s3"
 		
 		"INF_CHAT_MESSAGE" "Open Chat"
 		"INF_CHAT_REPLYMSG" "Reply to last sent/received message"
@@ -33,6 +35,7 @@
 		"INF_PANEL_CHARACTERINFO_TAB_EQUIP" "Character"
 		"INF_PANEL_CHARACTERINFO_TAB_STATS" "Stats"
 		"INF_PANEL_CHARACTERINFO_TAB_REPUTATION" "Reputation"
+		
 		"INF_GUI_ACTION_KEY" "Special GUI Action"
 		"INF_GUI_MINIMAP_ZOOM_IN" "Minimap Zoom In"
 		"INF_GUI_MINIMAP_ZOOM_OUT" "Minimap Zoom Out"
@@ -75,7 +78,7 @@
 		"INF_GUI_LEVEL" "Level"
 		"INF_GUI_ACCEPT" "Accept"
 		"INF_GUI_DECLINE" "Decline"
-		"INF_GUI_USER_COUNT" "Found %s1 | %s2 active players!"
+		"INF_GUI_USER_COUNT" "Found %s1 players!"
 		"INF_GUI_DISCONNECT" "Disconnect"
 		"INF_GUI_CREATE_CHARACTER" "Create"
 		"INF_GUI_CREATE" "Create"
@@ -88,7 +91,7 @@
 		"INF_GUI_COMPLETE" "Complete"
 		"INF_GUI_DELETEITEM" "Delete this item?"
 		"INF_GUI_DELETEUSER" "Are you sure?"
-		"INF_GUI_FAKELOAD_INFO" "Waiting for dungeon..."
+		"INF_GUI_FAKELOAD_INFO" "Preparing to travel..."
 		"INF_INTERACTION_CLOSE" "Goodbye"
 		"INF_INTERACTION_LOOTALL" "Loot All"
 		"INF_CHAR_LEVELUP_RESET" "Reset"
@@ -99,8 +102,23 @@
 		"INF_PLR_INTERACTION_INSPECT" "Inspect"
 		"INF_PLR_INTERACTION_TRADE" "Trade"
 		"INF_PLR_INTERACTION_EXIT" "Close"
+		
+		// Co-Op
+		"INF_PLR_CONNECTED" "Player %s1 has joined the game!"
+		"INF_PLR_DISCONNECTED" "Player %s1 has left the game!"
+		
+		"INF_VOTEMAP_FAILED" "Vote failed, too many naysayers!"
+		"INF_VOTEMAP_SUCCESS" "Travelling to %s1!"
+		"INF_VOTEMAP_START" "A vote to travel to %s1 has been initiated."
+		"INF_VOTEMAP_COOLDOWN" "Please wait at least %s1 seconds until starting another vote!"
+		"INF_VOTEMAP_NOTICE" "Travel to %s1?"
+		"INF_VOTEMAP_BUSY" "A vote is already ongoing!"
+		"INF_VOTEMAP_ERROR" "This travel connection seem to be unavailable!"
+		"INF_VOTEMAP_YES" "%s1 is ready to travel."
+		"INF_VOTEMAP_NO" "%s1 is not ready to travel."
 			
 		"INF_WARN_CHARACTER_LIMIT" "You've reached the character limit!"
+		"INF_WARN_CHARACTER_FAILED" "Unable to create character, internal server error!"
 		"INF_WARN_NAME_LENGTH" "Your name is too long!"
 		"INF_WARN_NAME_INVALID_SPACES" "Your name may not have spaces!"
 		"INF_WARN_NAME_INVALID_CHARS" "Your name may only consist of letters from the alphabet!"
@@ -109,8 +127,6 @@
 		"INF_WARN_NAME_PROFANITY" "Name contains profanity!"
 		
 		"INF_WARN_DUNGEON_DELAY" "Please wait a few seconds before entering a dungeon!"
-		"INF_WARN_DUNGEON_LOWLVL1" "Your level is too low for this area!"
-		"INF_WARN_DUNGEON_LOWLVL2" "You have to be at least level %s1 to enter '%s2'."
 		"INF_WARN_DUNGEON_UNFIT" "You cannot enter a dungeon right now!"
 		
 		"INF_WARN_USER_NONEXISTANT" "This user is either offline or doesn't exist!"
@@ -145,6 +161,7 @@
 		"INF_WARN_GRP_DISBANDED" "The group no longer exist!"
 		"INF_WARN_GRP_KICK_INVALID" "This user is not in your group!"
 		
+		"INF_WARN_GUILD_CREATE_COOP" "You cannot create a guild in co-op mode!"
 		"INF_WARN_GUILD_CREATE_LVL" "You must be at least level %s1 to create a guild."
 		"INF_WARN_GUILD_CREATE_COST" "You need at least %s1 coins to create a guild."
 		"INF_WARN_GUILD_HASGUILD" "Player %s1 is already in a guild!"
@@ -396,11 +413,13 @@
 		"INF_ITEM_STAT_TOOLTIP_ITEM_DAMAGE_WIND" "%s1 - %s2 Wind Damage"
 		"INF_ITEM_STAT_TOOLTIP_ITEM_HEALING" "%s1 - %s2 Healing"
 		"INF_ITEM_STAT_TOOLTIP_ITEM_SPEED" "Speed %s1"
+		"INF_ITEM_STAT_TOOLTIP_ITEM_AMMO" "Ammo Capacity %s1"
 		
 		"INF_ITEM_TOOLTIP_CHANCE" "Chance on hit:"
 		"INF_ITEM_TOOLTIP_BUFF" "Buff:"
 		"INF_ITEM_TOOLTIP_DEBUFF" "Debuff:"
 		"INF_ITEM_TOOLTIP_SPELL_RANK" "Rank %s1"
+		"INF_ITEM_TOOLTIP_IGNORE_ARMOR" "Ignores %s1% of the opponents armor"
 		
 		"INF_ITEM_TOOLTIP_CHANCE_DAMAGE" "%s2 Deals %s1 - %s3 Damage"
 		"INF_ITEM_TOOLTIP_CHANCE_DAMAGE_FIRE" "%s2 Deals %s1 - %s3 Fire Damage"
@@ -532,10 +551,11 @@
 		"INF_HINT_QUEST_SELECT_REWARD" "You must select a quest reward, some quests may give you multiple items as rewards. In this case you can only receive one out of X rewards. Choose wisely!"
 		"INF_HINT_COMBAT_BLOCK" "You may block an enemy attack with any melee weapon, or with a shield. Blocking an attack with a shield is twice as efficient. The block efficiency value given by your strength stat decides how much base damage can be blocked. Keep in mind that some attacks may only be blocked by a shield, for example projectiles."
 		"INF_HINT_WORLDMAP" "In the worldmap you can zoom in and out by scrolling, and you may move around by pressing and holding down the left mouse button. Moving the cursor over any markers will print detailed information about that marker, in the options you can set whether or not markers should only show for tracked quests, any active quest or none at all."
+		"INF_HINT_DEATH" "Oh no, you have died! When you die you will be revived at a nearby graveyard, and if you carry more than 500 coins you will have to sacrifice some of it, even more so if you died in a dungeon."
 		
 		// Loading Tips
 		"INF_LOADING_TIP_1" "You cannot use your items while in combat, except for potions." 
-		"INF_LOADING_TIP_2" "When you die you will respawn at a nearby graveyard, plus lose 10% of your money."
+		"INF_LOADING_TIP_2" "When you die you will respawn at a nearby graveyard, plus potentially lose some of your money."
 		"INF_LOADING_TIP_3" "Some quests are repeatable, however repeatable quests can only be repeated every 24Hr."
 		"INF_LOADING_TIP_4" "Press [select_melee] to draw your equipped melee weapons."
 		"INF_LOADING_TIP_5" "Press [select_ranged] to draw your equipped ranged weapon."

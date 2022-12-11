@@ -30,7 +30,7 @@
 		"IconTexture" "icons/items/spell/magic_fireball"
 		"MagicSchool" "1"
 		"Knockback" "75"
-		"DrainValue" "35"
+		"DrainValue" "30"
 		"CastTime" "2"
 		"CooldownTime" "1"
 		"Range" "350"
@@ -75,7 +75,7 @@
 		"MagicSchool" "3"
 		"Duration" "35"
 		"Knockback" "175"
-		"DrainValue" "65"
+		"DrainValue" "50"
 		"CastTime" "5"
 		"CooldownTime" "60"
 		"Range" "100"
@@ -112,7 +112,7 @@
 		"IconTexture" "icons/items/spell/magic_frostbolt"
 		"MagicSchool" "2"
 		"Knockback" "100"
-		"DrainValue" "40"
+		"DrainValue" "30"
 		"CastTime" "2.5"
 		"CooldownTime" "1"
 		"Range" "350"
@@ -150,6 +150,7 @@
 		"Title" "#INF_SPELL_19_TEXT"
 		"Description" "#INF_SPELL_19_DESC"
 		"IconTexture" "icons/items/spell/magic_arcanebolt"
+		"MagicSchool" "5"
 		"Knockback" "125"
 		"DrainValue" "30"
 		"CastTime" "2.5"
@@ -158,6 +159,49 @@
 		"Ranks"
 		{
 			"64" "81"
+		}
+    }
+    "26"
+    {
+		"Type" "2"
+		"SubType" "4"
+		"ExtraEffectType" "6"
+		"Category" "8"
+		"Title" "#INF_SPELL_26_TEXT"
+		"Description" "#INF_SPELL_26_DESC"
+		"IconTexture" "icons/items/spell/magic_illumination"
+		"DrainValue" "10"
+		"CastTime" "1"
+		"CooldownTime" "0"
+		"Range" "0"
+		"Ranks"
+		{
+			"0" "0"
+		}
+    }
+    "27"
+    {
+		"Type" "2"
+		"SubType" "0"
+		"ExtraEffectType" "3"
+		"Category" "9"
+		"Title" "#INF_SPELL_27_TEXT"
+		"Description" "#INF_SPELL_27_DESC"
+		"IconTexture" "icons/items/spell/magic_fireblast"
+		"NoSpellCastBar" "1"
+		"Misc" "50"
+		"MagicSchool" "1"
+		"Knockback" "25"
+		"DrainValue" "35"
+		"CastTime" "0"
+		"CooldownTime" "2"
+		"Range" "300"
+		"BuffDebuffID" "2"
+		"BuffDebuffDuration" "8"
+		"BuffDebuffPercentage" "0.35"
+		"Ranks"
+		{
+			"65" "85"
 		}
     }
 }
