@@ -39,12 +39,12 @@
 			"Stamina" "-10"
 			"Strength" "-10"
 			"Agility" "-10"
-			"Intellect" "20"
+			"Intellect" "50"
 		}
 		"EquipData"
 		{
-			"SpellPower" "25"
-			"Focus" "15"
+			"SpellPower" "35"
+			"Focus" "20"
 		}
 		"ResistanceData"
 		{
@@ -56,7 +56,7 @@
 		}
 		"MiscData"
 		{
-			"SellValue" "250"
+			"SellValue" "425"
 			"CanTrade" "1"
 		}
     }

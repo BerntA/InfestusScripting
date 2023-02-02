@@ -570,4 +570,40 @@
 			"CanTrade" "1"
 		}
     }
+    "87"
+    {
+		"Name" "#INF_ITEM_87_TEXT"
+		"IconTexture" "icons/items/weapon/sword14"
+		"ItemInfo1" "10"
+		"ItemInfo2" "5"
+		"Type" "0"
+		"SubType" "9"
+		"Rarity" "2"
+		"Level" "16"
+		"IsUnique" "1"
+		"StatData"
+		{
+			"Stamina" "19"
+			"Strength" "17"
+			"Agility" "23"
+			"Intellect" "7"
+		}
+		"EquipData"
+		{
+			"RangedAttackPower" "15"
+			"Focus" "10"
+			"DamageMin" "27"
+			"DamageMax" "39"
+		}
+		"ModelData"
+		{
+			"Model" "models/items/swords/sword14.mdl"
+		}
+		"MiscData"
+		{
+			"SellValue" "290"
+			"ItemFlags" "1"
+			"CanTrade" "1"
+		}
+    }
 }

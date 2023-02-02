@@ -364,7 +364,7 @@
 		"INF_ITEM_85_TEXT" "Novice's Fiery Battle Staff"
 		"INF_ITEM_86_TEXT" "Steam Crossbow"
 		"INF_ITEM_86_DESC" "Blessed by Van Helsing himself..."
-		"INF_ITEM_87_TEXT" "Dog"
+		"INF_ITEM_87_TEXT" "The Butcher"
 		"INF_ITEM_87_DESC" "Alyx's Favorite!"
 		"INF_NPC_42_NAME" "Guard"
 		"INF_NPC_43_NAME" "Guard"
@@ -639,7 +639,7 @@
 		"INF_SPELL_18_DESC" "Potentially knockdown your opponent."
 		"INF_ITEM_157_TEXT" "Tome of Impale I"
 		"INF_SPELL_19_TEXT" "Arcane Bolt"
-		"INF_SPELL_19_DESC" "Hurl a bolt of lighting towards your enemy."
+		"INF_SPELL_19_DESC" "Hurl an arcane infused bolt towards your enemy, explodes on impact."
 		"INF_ITEM_158_TEXT" "Tome of Arcane Bolt I"
 		"INF_NPC_89_NAME" "Giant Rat"
 		"INF_QUEST_41_TITLE" "Purge the Filth"
@@ -733,5 +733,8 @@
 		"INF_SPELL_32_TEXT" "Mind Blast"
 		"INF_SPELL_32_DESC" ""
 		"INF_ITEM_185_TEXT" "Light's Justice"
+		"INF_SPELL_33_TEXT" "Explosive Shot"
+		"INF_SPELL_33_DESC" "Fires an explosive arrow towards your opponent."
+		"INF_ITEM_186_TEXT" "Tome of Explosive Shot I"
 	}
 }

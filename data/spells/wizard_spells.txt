@@ -146,10 +146,12 @@
     {
 		"Type" "2"
 		"SubType" "1"
+		"ExtraEffectType" "7"
 		"Category" "8"
 		"Title" "#INF_SPELL_19_TEXT"
 		"Description" "#INF_SPELL_19_DESC"
 		"IconTexture" "icons/items/spell/magic_arcanebolt"
+		"Misc" "60"
 		"MagicSchool" "5"
 		"Knockback" "125"
 		"DrainValue" "30"
@@ -158,7 +160,7 @@
 		"Range" "400"
 		"Ranks"
 		{
-			"64" "81"
+			"52" "70"
 		}
     }
     "26"

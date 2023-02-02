@@ -21,6 +21,7 @@
 			"DamageMax" "115"
 			"AttackSpeed" "1.25"
 			"AttackRange" "90"
+			"RunSpeed" "375"
 			"DrainerRegenRate" "0.005"
 			"FireResistance" "100"
 			"WaterResistance" "100"
@@ -200,6 +201,7 @@
 			"DamageMax" "150"
 			"AttackSpeed" "0.8"
 			"AttackRange" "100"
+			"RunSpeed" "375"
 			"DrainerRegenRate" "0.01"
 			"FireResistance" "90"
 			"WaterResistance" "90"
@@ -336,6 +338,13 @@
 			"0" "14"
 			"0" "29"
 		}
+		"Loots"
+		{
+			"186"
+			{
+				"Percentage" "15"
+			}
+		}
 		"ModelData"
 		{
 			"models/characters/npc/smuggler03.mdl"
@@ -471,6 +480,7 @@
 			"Armor" "2000"
 			"AttackSpeed" "0.75"
 			"AttackRange" "110"
+			"RunSpeed" "280"
 			"DrainerRegenRate" "0.01"
 			"MeleeDMGFactor" "5"
 			"RangedDMGFactor" "5"

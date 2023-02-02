@@ -121,14 +121,13 @@
 		"IsUnique" "1"
 		"StatData"
 		{
-			"Stamina" "7"
-			"Strength" "-3"
-			"Agility" "-1"
-			"Intellect" "9"
+			"Stamina" "9"
+			"Intellect" "16"
 		}
 		"EquipData"
 		{
-			"SpellPower" "25"
+			"SpellPower" "30"
+			"Focus" "10"
 		}
 		"ResistanceData"
 		{
@@ -136,7 +135,7 @@
 		}
 		"MiscData"
 		{
-			"SellValue" "160"
+			"SellValue" "240"
 			"CanTrade" "1"
 		}
     }
@@ -178,7 +177,8 @@
 		"IsUnique" "1"
 		"StatData"
 		{
-			"Stamina" "17"
+			"Armor" "30"
+			"Stamina" "25"
 			"Strength" "11"
 		}
 		"MiscData"
@@ -203,6 +203,11 @@
 			"Strength" "7"
 			"Agility" "15"
 			"Intellect" "9"
+		}
+		"EquipData"
+		{
+			"RangedAttackPower" "10"
+			"Focus" "10"
 		}
 		"MiscData"
 		{

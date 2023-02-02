@@ -96,7 +96,6 @@
 			"Stamina" "12"
 			"Strength" "10"
 			"Agility" "7"
-			"Intellect" "-5"
 		}
 		"EquipData"
 		{

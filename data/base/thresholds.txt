@@ -102,8 +102,8 @@
 		"RangedMinRange" "60"
 		"RangedBowMaxRange" "350"
 		"RangedCrossbowMaxRange" "500"
-		"MeleeOneHandMaxRange" "81"
-		"MeleeTwoHandMaxRange" "90"
+		"MeleeOneHandMaxRange" "83"
+		"MeleeTwoHandMaxRange" "92"
 		
 		"BlockGenericDrain" "10"
 		"BlockShieldDrain" "20"
