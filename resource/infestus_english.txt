@@ -126,6 +126,7 @@
 		"INF_WARN_NAME_INVALID_SPACES" "Your name may not have spaces!"
 		"INF_WARN_NAME_INVALID_CHARS" "Your name may only consist of letters from the alphabet!"
 		"INF_WARN_NAME_TOO_LONG" "Your name can only consist of 16 characters!"
+		"INF_WARN_NAME_TOO_SHORT" "Your name is too short!"
 		"INF_WARN_NAME_TAKEN" "This name has been taken!"
 		"INF_WARN_NAME_PROFANITY" "Name contains profanity!"
 		
@@ -313,6 +314,7 @@
 		"INF_COMBAT_BLOCK" "Block Attack"
 		
 		"INF_MOUNT_DISMOUNT" "Dismount or Show Mount Selection Menu"
+		"INF_TOGGLE_AUTORUN" "Toggle Autorun"
 		
 		"INF_ITEM_INFO_WEAPON_ONEHAND" "One Hand"
 		"INF_ITEM_INFO_WEAPON_TWOHAND" "Two Hand"
@@ -527,6 +529,7 @@
 		"INF_ADV_OPT_GUILDNOTIFICATIONS" "Enable guild notifications for when guildies go online or offline."
 		"INF_ADV_OPT_ENABLE_HINTS" "Enable Gameplay Hints"
 		"INF_ADV_OPT_PLRCACHE" "Enable Local Player Cache"
+		"INF_ADV_OPT_DETAIL_DIST" "Detail Prop Draw Dist"
 		
 		// Trading
 		"INF_TRADE_ACCEPT" "Accept"

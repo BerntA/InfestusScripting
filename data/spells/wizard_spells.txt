@@ -151,7 +151,7 @@
 		"Title" "#INF_SPELL_19_TEXT"
 		"Description" "#INF_SPELL_19_DESC"
 		"IconTexture" "icons/items/spell/magic_arcanebolt"
-		"Misc" "60"
+		"Misc" "75"
 		"MagicSchool" "5"
 		"Knockback" "125"
 		"DrainValue" "30"

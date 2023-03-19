@@ -58,10 +58,6 @@
 		"QuestChain" "3"
 		"ZoneID" "1"
 		"Money" "20"
-		"Reputation"
-		{
-			"1" "25"
-		}
 		"Objectives"
 		{
 			"3"
@@ -72,6 +68,10 @@
 			{
 				"Custom" "#INF_QUEST_4_OBJECTIVE_2"
 			}
+		}
+		"Reputation"
+		{
+			"1" "25"
 		}
     }
     "5"
@@ -85,10 +85,6 @@
 		"QuestChain" "4"
 		"ZoneID" "1"
 		"Money" "35"
-		"Reputation"
-		{
-			"1" "50"
-		}
 		"Objectives"
 		{
 			"1"
@@ -96,6 +92,10 @@
 				"Target" "20"
 				"Count" "10"
 			}
+		}
+		"Reputation"
+		{
+			"1" "50"
 		}
     }
     "6"
@@ -109,10 +109,6 @@
 		"QuestChain" "5"
 		"ZoneID" "1"
 		"Money" "30"
-		"Reputation"
-		{
-			"1" "65"
-		}
 		"Objectives"
 		{
 			"4"
@@ -120,6 +116,10 @@
 				"Target" "19"
 				"Count" "5"
 			}
+		}
+		"Reputation"
+		{
+			"1" "65"
 		}
     }
     "7"
@@ -133,10 +133,6 @@
 		"QuestChain" "6"
 		"ZoneID" "1"
 		"Money" "75"
-		"Reputation"
-		{
-			"1" "125"
-		}
 		"Objectives"
 		{
 			"1"
@@ -152,6 +148,10 @@
 				"Target" "27"
 			}
 		}
+		"Reputation"
+		{
+			"1" "125"
+		}
     }
     "8"
     {
@@ -165,10 +165,6 @@
 		"ZoneID" "1"
 		"QuestHandInID" "3"
 		"Money" "50"
-		"Reputation"
-		{
-			"1" "150"
-		}
 		"Rewards"
 		{
 			"12"
@@ -179,6 +175,10 @@
 			{
 				"MustChoose" "1"
 			}
+		}
+		"Reputation"
+		{
+			"1" "150"
 		}
     }
     "9"
@@ -237,10 +237,6 @@
 		"Experience" "400"
 		"ZoneID" "1"
 		"Money" "30"
-		"Reputation"
-		{
-			"2" "150"
-		}
 		"Objectives"
 		{
 			"2"
@@ -254,6 +250,10 @@
 				"Count" "3"
 			}
 		}
+		"Reputation"
+		{
+			"2" "150"
+		}
     }
     "12"
     {
@@ -266,10 +266,6 @@
 		"QuestChain" "8"
 		"ZoneID" "1"
 		"Money" "50"
-		"Reputation"
-		{
-			"1" "100"
-		}
 		"Repeatable" "1"
 		"Objectives"
 		{
@@ -295,6 +291,10 @@
 				"Quantity" "3"
 				"MustChoose" "1"
 			}
+		}
+		"Reputation"
+		{
+			"1" "100"
 		}
     }
     "13"
@@ -369,10 +369,6 @@
 		"QuestChain" "8"
 		"ZoneID" "1"
 		"Money" "50"
-		"Reputation"
-		{
-			"1" "150"
-		}
 		"Objectives"
 		{
 			"1"
@@ -394,13 +390,17 @@
 				"Quantity" "5"
 			}
 		}
+		"Reputation"
+		{
+			"1" "150"
+		}
     }
     "23"
     {
 		"Title" "#INF_QUEST_23_TITLE"
 		"ShortDescription" "#INF_QUEST_23_DESC_SHORT"
 		"LongDescription" "#INF_QUEST_23_DESC_LONG"
-		"LevelMin" "5"
+		"LevelMin" "1"
 		"LevelMax" "10"
 		"Experience" "500"
 		"QuestChain" "14"
@@ -426,7 +426,7 @@
 		"Title" "#INF_QUEST_24_TITLE"
 		"ShortDescription" "#INF_QUEST_24_DESC_SHORT"
 		"LongDescription" "#INF_QUEST_24_DESC_LONG"
-		"LevelMin" "5"
+		"LevelMin" "1"
 		"LevelMax" "10"
 		"Experience" "650"
 		"QuestChain" "23"

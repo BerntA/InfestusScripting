@@ -69,6 +69,7 @@
 		"PlayerMountSpeed" "400"
 		"PlayerSpellCastMoveSpeed" "0.75"
 		"PlayerRangedChargeMoveSpeed" "0.865"
+		"PlayerReloadSpeedReduction" "0.60"
 		
 		"HealthPotionCooldown" "65"
 		"FocusPotionCooldown" "35"

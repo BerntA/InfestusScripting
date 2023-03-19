@@ -5,7 +5,7 @@
 		"Name" "#INF_NPC_94_NAME"
 		"Level" "25"
 		"Health" "3500"
-		"Drainer" "1000"
+		"Drainer" "250"
 		"CollisionHeight" "104"
 		"ImagePreview" "icons/npcs/shade01"
 		"Soundscript" "Shade"
@@ -183,7 +183,7 @@
 		"Name" "#INF_NPC_97_NAME"
 		"Level" "30"
 		"Health" "12500"
-		"Drainer" "1000"
+		"Drainer" "500"
 		"CollisionHeight" "180"
 		"IsBoss" "1"
 		"ImagePreview" "icons/npcs/shade01"
@@ -454,6 +454,8 @@
 		{
 			"models/characters/npc/smuggler02.mdl"
 			{
+				"SkinMin" "1"
+				"SkinMax" "1"
 				"Scale" "1.35"
 			}
 		}
