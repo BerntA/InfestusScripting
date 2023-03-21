@@ -116,7 +116,7 @@
     "45"
     {
 		"Name" "#INF_NPC_45_NAME"
-		"Level" "20"
+		"Level" "16"
 		"Health" "1000"
 		"Soundscript" "Mercenary"
 		"MoneyRewardMin" "10"
@@ -129,8 +129,7 @@
 			"Armor" "500"
 			"AttackSpeed" "0.8"
 			"DrainerRegenRate" "0.025"
-			"MeleeDMGFactor" "3.25"
-			"RangedDMGFactor" "2"
+			"MeleeDMGFactor" "2.5"
 			"FireResistance" "25"
 			"WaterResistance" "25"
 			"ShadowResistance" "25"
@@ -252,7 +251,7 @@
 		{
 			"Armor" "250"
 			"DrainerRegenRate" "0.025"
-			"RangedDMGFactor" "4.15"
+			"RangedDMGFactor" "3"
 			"FireResistance" "-10"
 			"WaterResistance" "-10"
 			"ShadowResistance" "-10"
@@ -312,7 +311,7 @@
     "48"
     {
 		"Name" "#INF_NPC_48_NAME"
-		"Level" "15"
+		"Level" "14"
 		"Health" "850"
 		"Soundscript" "Smuggler"
 		"Experience" "400"
@@ -322,7 +321,7 @@
 		{
 			"Armor" "1000"
 			"DrainerRegenRate" "0.025"
-			"MeleeDMGFactor" "2.5"
+			"MeleeDMGFactor" "2"
 		}
 		"Spells"
 		{
@@ -361,7 +360,7 @@
     "49"
     {
 		"Name" "#INF_NPC_49_NAME"
-		"Level" "16"
+		"Level" "14"
 		"Health" "650"
 		"CollisionHeight" "50"
 		"Soundscript" "Spider"
@@ -425,7 +424,7 @@
     "50"
     {
 		"Name" "#INF_NPC_50_NAME"
-		"Level" "24"
+		"Level" "18"
 		"Health" "1350"
 		"CollisionHeight" "65"
 		"CollisionHeightCorpse" "46"
@@ -436,8 +435,8 @@
 		"Attributes"
 		{
 			"Armor" "600"
-			"DamageMin" "73"
-			"DamageMax" "91"
+			"DamageMin" "55"
+			"DamageMax" "73"
 			"AttackSpeed" "0.75"
 			"AttackRange" "80"
 			"FireResistance" "-25"
@@ -539,7 +538,7 @@
     "52"
     {
 		"Name" "#INF_NPC_52_NAME"
-		"Level" "15"
+		"Level" "10"
 		"Health" "350"
 		"CollisionHeight" "52"
 		"Soundscript" "Wolf"
@@ -595,7 +594,7 @@
     "53"
     {
 		"Name" "#INF_NPC_53_NAME"
-		"Level" "18"
+		"Level" "14"
 		"Health" "575"
 		"CollisionHeight" "64"
 		"Soundscript" "Wolf"
