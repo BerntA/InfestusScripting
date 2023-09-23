@@ -468,4 +468,83 @@
 			}
 		}
     }
+    "48"
+    {
+		"Title" "#INF_QUEST_48_TITLE"
+		"ShortDescription" "#INF_QUEST_48_DESC_SHORT"
+		"LongDescription" "#INF_QUEST_48_DESC_LONG"
+		"LevelMin" "18"
+		"LevelMax" "30"
+		"Experience" "0"
+		"QuestChain" "47"
+		"ZoneID" "3"
+		"Objectives"
+		{
+			"2"
+			{
+				"Target" "178"
+				"Count" "5"
+			}
+			"2"
+			{
+				"Target" "64"
+				"Count" "15"
+			}
+			"2"
+			{
+				"Target" "108"
+			}
+		}
+		"Rewards"
+		{
+			"190"
+			{
+			}
+		}
+		"Reputation"
+		{
+			"4" "25"
+		}
+    }
+    "49"
+    {
+		"Title" "#INF_QUEST_49_TITLE"
+		"ShortDescription" "#INF_QUEST_49_DESC_SHORT"
+		"LongDescription" "#INF_QUEST_49_DESC_LONG"
+		"LevelMin" "18"
+		"LevelMax" "30"
+		"Experience" "0"
+		"QuestChain" "43"
+		"ZoneID" "3"
+		"Objectives"
+		{
+			"2"
+			{
+				"Target" "74"
+			}
+			"2"
+			{
+				"Target" "178"
+				"Count" "3"
+			}
+			"2"
+			{
+				"Target" "123"
+			}
+			"2"
+			{
+				"Target" "184"
+			}
+		}
+		"Rewards"
+		{
+			"191"
+			{
+			}
+		}
+		"Reputation"
+		{
+			"2" "50"
+		}
+    }
 }

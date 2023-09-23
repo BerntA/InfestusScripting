@@ -520,6 +520,7 @@
 		"Health" "130"
 		"Soundscript" "Smuggler"
 		"Experience" "135"
+		"MaxRareRewards" "1"
 		"RelationshipID" "2"
 		"ZoneLink" "1"
 		"Attributes"
@@ -540,11 +541,23 @@
 		{
 			"3"
 			{
-				"Percentage" "10"
+				"Percentage" "5"
 			}
 			"15"
 			{
-				"Percentage" "5"
+				"Percentage" "2.5"
+			}
+			"166"
+			{
+				"Percentage" "25"
+			}
+			"188"
+			{
+				"Percentage" "10"
+			}
+			"189"
+			{
+				"Percentage" "10"
 			}
 		}
 		"ModelData"
@@ -562,6 +575,7 @@
 		"Soundscript" "Smuggler"
 		"MoneyRewardMin" "5"
 		"Experience" "350"
+		"MaxRareRewards" "1"
 		"RelationshipID" "2"
 		"ZoneLink" "1"
 		"Attributes"
@@ -584,6 +598,18 @@
 			"10"
 			{
 				"Percentage" "3"
+			}
+			"189"
+			{
+				"Percentage" "10"
+			}
+			"188"
+			{
+				"Percentage" "10"
+			}
+			"166"
+			{
+				"Percentage" "25"
 			}
 		}
 		"ModelData"
@@ -810,6 +836,7 @@
 		"Soundscript" "Smuggler"
 		"MoneyRewardMin" "5"
 		"Experience" "350"
+		"MaxRareRewards" "1"
 		"RelationshipID" "2"
 		"ZoneLink" "1"
 		"Attributes"
@@ -833,6 +860,18 @@
 			{
 				"Percentage" "3"
 			}
+			"189"
+			{
+				"Percentage" "10"
+			}
+			"188"
+			{
+				"Percentage" "10"
+			}
+			"166"
+			{
+				"Percentage" "25"
+			}
 		}
 		"ModelData"
 		{
@@ -849,6 +888,7 @@
 		"Soundscript" "Smuggler"
 		"MoneyRewardMin" "5"
 		"Experience" "350"
+		"MaxRareRewards" "1"
 		"RelationshipID" "2"
 		"ZoneLink" "1"
 		"Attributes"
@@ -871,6 +911,18 @@
 			"10"
 			{
 				"Percentage" "3"
+			}
+			"188"
+			{
+				"Percentage" "10"
+			}
+			"189"
+			{
+				"Percentage" "10"
+			}
+			"166"
+			{
+				"Percentage" "25"
 			}
 		}
 		"ModelData"

@@ -157,7 +157,19 @@
 			}
 			"87"
 			{
-				"Percentage" "8"
+				"Percentage" "3"
+			}
+			"188"
+			{
+				"Percentage" "15"
+			}
+			"189"
+			{
+				"Percentage" "15"
+			}
+			"166"
+			{
+				"Percentage" "30"
 			}
 		}
 		"Reputation"
@@ -222,6 +234,14 @@
 			{
 				"Percentage" "20"
 			}
+			"188"
+			{
+				"Percentage" "10"
+			}
+			"189"
+			{
+				"Percentage" "10"
+			}
 		}
 		"Reputation"
 		{
@@ -283,6 +303,14 @@
 			{
 				"Percentage" "4"
 			}
+			"188"
+			{
+				"Percentage" "10"
+			}
+			"189"
+			{
+				"Percentage" "10"
+			}
 		}
 		"Reputation"
 		{
@@ -340,6 +368,14 @@
 			"96"
 			{
 				"Percentage" "65"
+			}
+			"189"
+			{
+				"Percentage" "10"
+			}
+			"188"
+			{
+				"Percentage" "10"
 			}
 		}
 		"Reputation"
@@ -739,6 +775,7 @@
 			"2" "42"
 			"3" "43"
 			"4" "44"
+			"5" "49"
 		}
     }
     "57"
@@ -783,6 +820,7 @@
 		"Level" "15"
 		"Health" "500"
 		"Soundscript" "Smuggler"
+		"MaxRareRewards" "1"
 		"RelationshipID" "2"
 		"ZoneLink" "3"
 		"Attributes"
@@ -793,6 +831,27 @@
 			"MeleeDMGFactor" "5"
 			"RangedDMGFactor" "5"
 			"MagicDMGFactor" "5"
+		}
+		"Loots"
+		{
+			"188"
+			{
+			}
+			"189"
+			{
+			}
+			"166"
+			{
+				"Percentage" "35"
+			}
+			"155"
+			{
+				"Percentage" "5"
+			}
+			"156"
+			{
+				"Percentage" "5"
+			}
 		}
 		"ModelData"
 		{
@@ -1404,6 +1463,8 @@
 		"Quests"
 		{
 			"0" "40"
+			"1" "47"
+			"2" "48"
 		}
     }
     "81"

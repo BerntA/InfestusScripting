@@ -555,4 +555,33 @@
 			"CanTrade" "1"
 		}
     }
+    "191"
+    {
+		"Name" "#INF_ITEM_191_TEXT"
+		"IconTexture" "icons/items/armor/helm17"
+		"ItemInfo1" "1"
+		"ItemInfo2" "1"
+		"Type" "0"
+		"SubType" "0"
+		"Rarity" "3"
+		"Level" "20"
+		"IsUnique" "1"
+		"StatData"
+		{
+			"Stamina" "15"
+			"Intellect" "50"
+		}
+		"EquipData"
+		{
+			"SpellPower" "75"
+		}
+		"ModelData"
+		{
+			"Model" "models/items/helmets/helm17.mdl"
+		}
+		"MiscData"
+		{
+			"SellValue" "625"
+		}
+    }
 }

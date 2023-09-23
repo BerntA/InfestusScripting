@@ -103,6 +103,14 @@
 			{
 				"Percentage" "5"
 			}
+			"188"
+			{
+				"Percentage" "35"
+			}
+			"189"
+			{
+				"Percentage" "35"
+			}
 		}
 		"ModelData"
 		{
@@ -435,6 +443,10 @@
 			"171"
 			{
 				"Percentage" "60"
+			}
+			"187"
+			{
+				"Percentage" "100"
 			}
 		}
 		"Reputation"

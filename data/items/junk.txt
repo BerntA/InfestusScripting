@@ -91,4 +91,30 @@
 			"CanTrade" "1"
 		}
     }
+    "188"
+    {
+		"Name" "#INF_ITEM_188_TEXT"
+		"IconTexture" "icons/items/misc/eye01"
+		"ItemInfo1" "20"
+		"Type" "2"
+		"SubType" "2"
+		"MiscData"
+		{
+			"SellValue" "1"
+			"CanTrade" "1"
+		}
+    }
+    "189"
+    {
+		"Name" "#INF_ITEM_189_TEXT"
+		"IconTexture" "icons/items/misc/ear01"
+		"ItemInfo1" "20"
+		"Type" "2"
+		"SubType" "2"
+		"MiscData"
+		{
+			"SellValue" "1"
+			"CanTrade" "1"
+		}
+    }
 }

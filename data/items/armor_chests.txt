@@ -199,4 +199,44 @@
 			"SellValue" "435"
 		}
     }
+    "190"
+    {
+		"Name" "#INF_ITEM_190_TEXT"
+		"IconTexture" "icons/items/armor/chest04_molten"
+		"ItemInfo1" "2"
+		"ItemInfo2" "3"
+		"Type" "0"
+		"SubType" "1"
+		"Rarity" "3"
+		"Level" "20"
+		"IsUnique" "1"
+		"StatData"
+		{
+			"Armor" "235"
+			"Stamina" "21"
+			"Strength" "16"
+			"Agility" "12"
+			"Intellect" "5"
+		}
+		"EquipData"
+		{
+			"MeleeAttackPower" "50"
+			"RangedAttackPower" "25"
+			"SpellPower" "10"
+			"Focus" "30"
+		}
+		"ResistanceData"
+		{
+			"Fire" "25"
+		}
+		"ModelData"
+		{
+			"Model" "models/items/chests/chest04.mdl"
+			"Skin" "1"
+		}
+		"MiscData"
+		{
+			"SellValue" "750"
+		}
+    }
 }

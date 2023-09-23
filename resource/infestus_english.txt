@@ -178,6 +178,7 @@
 		
 		"INF_WARN_NOREWARD_SELECTED" "You have to select a reward!"
 		"INF_WARN_NOINVENTORYSPACE" "You don't have enough room in your inventory!"
+		"INF_WARN_MISSING_ITEMS" "You do not hold all the necessary items in your inventory!"
 		
 		"INF_WARN_SPELL_NOWEP" "You need a weapon to activate this spell!"
 		"INF_WARN_SPELL_INVALIDWEP_MELEE" "You need a melee weapon to activate this spell!"
@@ -299,6 +300,7 @@
 		"INF_CAMERA_ZOOMIN" "Zoom-In Camera"
 		"INF_CAMERA_ZOOMOUT" "Zoom-Out Camera"
 		"INF_CAMERA_FREEVIEW" "Camera Free Rotate Mode"
+		"INF_CAMERA_MODE_TOGGLE" "Switch between camera modes"
 		
 		"INF_ITEM_SELECTION" "Item Quick Selection Menu"
 

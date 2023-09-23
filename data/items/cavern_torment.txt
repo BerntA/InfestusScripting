@@ -20,8 +20,12 @@
 		"IconTexture" "icons/items/misc/essence01"
 		"ItemInfo1" "17"
 		"Type" "2"
-		"SubType" "1"
+		"SubType" "2"
 		"Rarity" "2"
+		"MiscData"
+		{
+			"SellValue" "10"
+		}
     }
     "179"
     {
@@ -31,5 +35,13 @@
 		"Type" "2"
 		"SubType" "1"
 		"Rarity" "1"
+    }
+    "187"
+    {
+		"Name" "#INF_ITEM_187_TEXT"
+		"IconTexture" "icons/items/misc/head02"
+		"ItemInfo1" "17"
+		"Type" "2"
+		"SubType" "1"
     }
 }
