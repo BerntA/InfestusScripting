@@ -893,10 +893,12 @@
 		"ZoneLink" "3"
 		"ModelData"
 		{
-			"models/characters/npc/merchant01.mdl"
+			"models/characters/npc/slave01.mdl"
 			{
 				"SkinMin" "1"
 				"SkinMax" "1"
+				"BodyMin" "3"
+				"BodyMax" "3"
 			}
 		}
 		"Quests"
@@ -1010,6 +1012,10 @@
 			"3" "39"
 			"4" "36"
 			"5" "46"
+			"6" "50"
+			"7" "51"
+			"8" "52"
+			"9" "53"
 		}
     }
     "66"

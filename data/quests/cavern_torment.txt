@@ -199,7 +199,7 @@
 		"ShortDescription" "#INF_QUEST_47_DESC_SHORT"
 		"LongDescription" "#INF_QUEST_47_DESC_LONG"
 		"LevelMin" "18"
-		"LevelMax" "30"
+		"LevelMax" "28"
 		"Experience" "2000"
 		"ZoneID" "4"
 		"Money" "250"

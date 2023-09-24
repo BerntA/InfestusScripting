@@ -474,7 +474,7 @@
 		"ShortDescription" "#INF_QUEST_48_DESC_SHORT"
 		"LongDescription" "#INF_QUEST_48_DESC_LONG"
 		"LevelMin" "18"
-		"LevelMax" "30"
+		"LevelMax" "28"
 		"Experience" "0"
 		"QuestChain" "47"
 		"ZoneID" "3"
@@ -512,7 +512,7 @@
 		"ShortDescription" "#INF_QUEST_49_DESC_SHORT"
 		"LongDescription" "#INF_QUEST_49_DESC_LONG"
 		"LevelMin" "18"
-		"LevelMax" "30"
+		"LevelMax" "28"
 		"Experience" "0"
 		"QuestChain" "43"
 		"ZoneID" "3"
@@ -545,6 +545,158 @@
 		"Reputation"
 		{
 			"2" "50"
+		}
+    }
+    "50"
+    {
+		"Title" "#INF_QUEST_50_TITLE"
+		"ShortDescription" "#INF_QUEST_50_DESC_SHORT"
+		"LongDescription" "#INF_QUEST_50_DESC_LONG"
+		"LevelMin" "18"
+		"LevelMax" "28"
+		"Experience" "0"
+		"QuestChain" "46"
+		"ZoneID" "3"
+		"Repeatable" "1"
+		"Objectives"
+		{
+			"2"
+			{
+				"Target" "178"
+			}
+			"2"
+			{
+				"Target" "180"
+			}
+		}
+		"Rewards"
+		{
+			"181"
+			{
+				"MustChoose" "1"
+			}
+			"182"
+			{
+				"MustChoose" "1"
+			}
+			"183"
+			{
+				"MustChoose" "1"
+			}
+		}
+    }
+    "51"
+    {
+		"Title" "#INF_QUEST_51_TITLE"
+		"ShortDescription" "#INF_QUEST_51_DESC_SHORT"
+		"LongDescription" "#INF_QUEST_51_DESC_LONG"
+		"LevelMin" "18"
+		"LevelMax" "28"
+		"Experience" "0"
+		"QuestChain" "46"
+		"ZoneID" "3"
+		"Repeatable" "1"
+		"Objectives"
+		{
+			"2"
+			{
+				"Target" "178"
+			}
+			"2"
+			{
+				"Target" "181"
+			}
+		}
+		"Rewards"
+		{
+			"180"
+			{
+				"MustChoose" "1"
+			}
+			"182"
+			{
+				"MustChoose" "1"
+			}
+			"183"
+			{
+				"MustChoose" "1"
+			}
+		}
+    }
+    "52"
+    {
+		"Title" "#INF_QUEST_52_TITLE"
+		"ShortDescription" "#INF_QUEST_52_DESC_SHORT"
+		"LongDescription" "#INF_QUEST_52_DESC_LONG"
+		"LevelMin" "18"
+		"LevelMax" "28"
+		"Experience" "0"
+		"QuestChain" "46"
+		"ZoneID" "3"
+		"Repeatable" "1"
+		"Objectives"
+		{
+			"2"
+			{
+				"Target" "178"
+			}
+			"2"
+			{
+				"Target" "182"
+			}
+		}
+		"Rewards"
+		{
+			"180"
+			{
+				"MustChoose" "1"
+			}
+			"181"
+			{
+				"MustChoose" "1"
+			}
+			"183"
+			{
+				"MustChoose" "1"
+			}
+		}
+    }
+    "53"
+    {
+		"Title" "#INF_QUEST_53_TITLE"
+		"ShortDescription" "#INF_QUEST_53_DESC_SHORT"
+		"LongDescription" "#INF_QUEST_53_DESC_LONG"
+		"LevelMin" "18"
+		"LevelMax" "28"
+		"Experience" "0"
+		"QuestChain" "46"
+		"ZoneID" "3"
+		"Repeatable" "1"
+		"Objectives"
+		{
+			"2"
+			{
+				"Target" "178"
+			}
+			"2"
+			{
+				"Target" "183"
+			}
+		}
+		"Rewards"
+		{
+			"180"
+			{
+				"MustChoose" "1"
+			}
+			"181"
+			{
+				"MustChoose" "1"
+			}
+			"182"
+			{
+				"MustChoose" "1"
+			}
 		}
     }
 }
