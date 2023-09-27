@@ -199,7 +199,7 @@
 		"MoneyRewardMin" "250"
 		"MoneyRewardMax" "250"
 		"Experience" "3000"
-		"MaxRareRewards" "2"
+		"MaxRareRewards" "1"
 		"RelationshipID" "2"
 		"ZoneLink" "4"
 		"Attributes"
