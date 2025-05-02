@@ -7,6 +7,7 @@
 		"GreetingsText" "#INF_NPC_1_GREETINGS"
 		"Type" "3"
 		"ZoneLink" "1"
+		"Flags" "8"
 		"ModelData"
 		{
 			"models/characters/npc/merchant01.mdl"
@@ -25,6 +26,7 @@
 		"GreetingsText" "#INF_NPC_2_GREETINGS"
 		"Type" "2"
 		"ZoneLink" "1"
+		"Flags" "6"
 		"ModelData"
 		{
 			"models/characters/npc/merchant01.mdl"
@@ -47,6 +49,7 @@
 		"DialogueFinishedQuest" "#INF_NPC_3_DIA_FIN"
 		"Type" "3"
 		"ZoneLink" "1"
+		"Flags" "8"
 		"ModelData"
 		{
 			"models/characters/npc/crusader01.mdl"
@@ -82,6 +85,7 @@
 		"DialogueFinishedQuest" "#INF_NPC_4_DIA_FIN"
 		"Type" "3"
 		"ZoneLink" "1"
+		"Flags" "8"
 		"ModelData"
 		{
 			"models/characters/npc/merchant01.mdl"
@@ -104,6 +108,7 @@
 		"GreetingsText" "#INF_NPC_5_GREETINGS"
 		"Type" "4"
 		"ZoneLink" "1"
+		"Flags" "16"
 		"ModelData"
 		{
 			"models/characters/npc/merchant01.mdl"
@@ -158,6 +163,7 @@
 		"Description" "#INF_NPC_6_DESC"
 		"Type" "4"
 		"ZoneLink" "1"
+		"Flags" "16"
 		"ModelData"
 		{
 			"models/characters/npc/merchant01.mdl"
@@ -195,6 +201,7 @@
 		"DialogueFinishedQuest" "#INF_NPC_7_DIA_FIN"
 		"Type" "3"
 		"ZoneLink" "1"
+		"Flags" "8"
 		"ModelData"
 		{
 			"models/characters/npc/guard02.mdl"
@@ -221,6 +228,7 @@
 		"DialogueFinishedQuest" "#INF_NPC_8_DIA_FIN"
 		"Type" "3"
 		"ZoneLink" "1"
+		"Flags" "8"
 		"ModelData"
 		{
 			"models/characters/npc/merchant01.mdl"
@@ -244,6 +252,7 @@
 		"DialogueFinishedQuest" "#INF_NPC_9_DIA_FIN"
 		"Type" "3"
 		"ZoneLink" "1"
+		"Flags" "8"
 		"ModelData"
 		{
 			"models/characters/npc/merchant01.mdl"
@@ -269,6 +278,7 @@
 		"DialogueFinishedQuest" "#INF_NPC_10_DIA_FIN"
 		"Type" "3"
 		"ZoneLink" "1"
+		"Flags" "8"
 		"ModelData"
 		{
 			"models/characters/npc/merchant01.mdl"
@@ -288,6 +298,7 @@
 		"Description" "#INF_NPC_11_DESC"
 		"Type" "4"
 		"ZoneLink" "1"
+		"Flags" "16"
 		"ModelData"
 		{
 			"models/characters/npc/merchant01.mdl"
@@ -323,6 +334,7 @@
 		"GreetingsText" "#INF_NPC_12_GREETINGS"
 		"Type" "4"
 		"ZoneLink" "1"
+		"Flags" "16"
 		"ModelData"
 		{
 			"models/characters/npc/merchant01.mdl"
@@ -360,6 +372,7 @@
 		"DialogueFinishedQuest" "#INF_NPC_13_DIA_FIN"
 		"Type" "3"
 		"ZoneLink" "1"
+		"Flags" "8"
 		"ModelData"
 		{
 			"models/characters/npc/merchant01.mdl"
@@ -379,6 +392,7 @@
 		"Description" "#INF_NPC_14_DESC"
 		"Type" "4"
 		"ZoneLink" "1"
+		"Flags" "16"
 		"ModelData"
 		{
 			"models/characters/npc/merchant01.mdl"
@@ -413,6 +427,7 @@
 		"DialogueFinishedQuest" "#INF_NPC_15_DIA_FIN"
 		"Type" "3"
 		"ZoneLink" "1"
+		"Flags" "8"
 		"ModelData"
 		{
 			"models/characters/npc/merchant01.mdl"
@@ -437,6 +452,7 @@
 		"DialogueFinishedQuest" "#INF_NPC_16_DIA_FIN"
 		"Type" "3"
 		"ZoneLink" "1"
+		"Flags" "8"
 		"ModelData"
 		{
 			"models/characters/npc/merchant01.mdl"
@@ -455,6 +471,7 @@
 		"GreetingsText" "#INF_NPC_17_GREETINGS"
 		"Type" "2"
 		"ZoneLink" "1"
+		"Flags" "6"
 		"ModelData"
 		{
 			"models/characters/npc/merchant01.mdl"
@@ -477,6 +494,7 @@
 		"GreetingsText" "#INF_NPC_18_GREETINGS"
 		"Type" "2"
 		"ZoneLink" "1"
+		"Flags" "6"
 		"ModelData"
 		{
 			"models/characters/npc/merchant01.mdl"
@@ -501,6 +519,7 @@
 		"RequiredType" "1"
 		"RequiredValue" "0"
 		"ZoneLink" "1"
+		"Flags" "6"
 		"ModelData"
 		{
 			"models/characters/npc/slave01.mdl"
@@ -528,7 +547,6 @@
 			"Armor" "250"
 			"AttackSpeed" "0.9"
 			"AttackRange" "70"
-			"DrainerRegenRate" "0.025"
 			"MeleeDMGFactor" "0.85"
 			"RangedDMGFactor" "0.75"
 			"MagicDMGFactor" "0.8"
@@ -582,7 +600,6 @@
 		{
 			"Armor" "700"
 			"AttackRange" "90"
-			"DrainerRegenRate" "0.025"
 			"MeleeDMGFactor" "1.15"
 		}
 		"Spells"
@@ -798,9 +815,11 @@
 		"Name" "#INF_NPC_25_NAME"
 		"Level" "10"
 		"Health" "500"
+		"Type" "2"
 		"Soundscript" "Guard"
 		"RelationshipID" "3"
 		"ZoneLink" "1"
+		"Flags" "2"
 		"Attributes"
 		{
 			"Armor" "500"
@@ -819,6 +838,14 @@
 		{
 			"1" "1"
 			"1" "2"
+		}
+		"Reputation"
+		{
+			"1"
+			{
+				"Value" "-5"
+				"Ally" "1"
+			}
 		}
 		"ModelData"
 		{
@@ -843,7 +870,6 @@
 		{
 			"Armor" "700"
 			"AttackRange" "90"
-			"DrainerRegenRate" "0.025"
 			"MeleeDMGFactor" "1.15"
 		}
 		"Spells"
@@ -895,7 +921,6 @@
 		{
 			"Armor" "700"
 			"AttackRange" "90"
-			"DrainerRegenRate" "0.025"
 			"MeleeDMGFactor" "1.15"
 		}
 		"Spells"
@@ -939,6 +964,7 @@
 		"GreetingsText" "#INF_NPC_28_GREETINGS"
 		"Type" "2"
 		"ZoneLink" "1"
+		"Flags" "6"
 		"ModelData"
 		{
 			"models/characters/npc/merchant01.mdl"
@@ -970,7 +996,7 @@
 			"Armor" "1000"
 			"AttackSpeed" "0.9"
 			"AttackRange" "100"
-			"DrainerRegenRate" "0.012"
+			"DrainerRegenRate" "0.025"
 			"MeleeDMGFactor" "1.5"
 			"FireResistance" "25"
 			"WaterResistance" "25"
@@ -1011,6 +1037,7 @@
 		"GreetingsText" "#INF_NPC_30_GREETINGS"
 		"Type" "2"
 		"ZoneLink" "1"
+		"Flags" "6"
 		"ModelData"
 		{
 			"models/characters/npc/guard02.mdl"
@@ -1031,6 +1058,7 @@
 		"GreetingsText" "#INF_NPC_41_GREETINGS"
 		"Type" "2"
 		"ZoneLink" "3"
+		"Flags" "6"
 		"ModelData"
 		{
 			"models/characters/npc/merchant01.mdl"
@@ -1050,6 +1078,7 @@
 		"Description" "#INF_NPC_59_DESC"
 		"Type" "4"
 		"ZoneLink" "1"
+		"Flags" "16"
 		"ModelData"
 		{
 			"models/characters/npc/merchant01.mdl"
@@ -1108,6 +1137,7 @@
 		"RequiredType" "1"
 		"RequiredValue" "1"
 		"ZoneLink" "1"
+		"Flags" "6"
 		"ModelData"
 		{
 			"models/characters/npc/merchant01.mdl"
