@@ -104,14 +104,6 @@
 			"DamageMax" "67"
 			"AttackSpeed" "1.15"
 		}
-		"ResistanceData"
-		{
-			"Fire" "-5"
-			"Water" "-5"
-			"Shadow" "-5"
-			"Earth" "-5"
-			"Wind" "-5"
-		}
 		"ChanceOnHit"
 		{
 			"Type" "1"

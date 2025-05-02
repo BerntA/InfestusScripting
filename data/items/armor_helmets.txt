@@ -142,11 +142,7 @@
 		}
 		"ResistanceData"
 		{
-			"Fire" "-5"
-			"Water" "-5"
 			"Shadow" "10"
-			"Earth" "-5"
-			"Wind" "-5"
 		}
 		"ModelData"
 		{

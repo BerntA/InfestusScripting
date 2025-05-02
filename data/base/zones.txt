@@ -24,7 +24,7 @@
     }
     "3"
     {
-        "allow_pvp" "1"
+        "allow_pvp" "0"
         "allow_mounts" "1"
         "map" "lightfall"
         "name" "Lightfall"
@@ -43,5 +43,38 @@
         "ypos" "5878"
         "scale" "6.5"
         "zoom" "3.5"
+    }
+    "5"
+    {
+        "allow_pvp" "0"
+        "allow_mounts" "1"
+        "map" "scorchridge"
+        "name" "Scorchridge"
+        "xpos" "0"
+        "ypos" "0"
+        "scale" "1"
+        "zoom" "5"
+    }
+    "6"
+    {
+        "allow_pvp" "0"
+        "allow_mounts" "0"
+        "map" "grimhold"
+        "name" "Grimhold Library"
+        "xpos" "0"
+        "ypos" "0"
+        "scale" "1"
+        "zoom" "5"
+    }
+    "7"
+    {
+        "allow_pvp" "0"
+        "allow_mounts" "0"
+        "map" "trials01"
+        "name" "Trials of Vorath"
+        "xpos" "0"
+        "ypos" "0"
+        "scale" "1"
+        "zoom" "5"
     }
 }

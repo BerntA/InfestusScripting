@@ -23,11 +23,11 @@
 			"AttackRange" "90"
 			"RunSpeed" "375"
 			"DrainerRegenRate" "0.005"
-			"FireResistance" "100"
-			"WaterResistance" "100"
-			"ShadowResistance" "100"
-			"EarthResistance" "100"
-			"WindResistance" "100"
+			"FireResistance" "90"
+			"WaterResistance" "90"
+			"ShadowResistance" "90"
+			"EarthResistance" "90"
+			"WindResistance" "90"
 		}
 		"Spells"
 		{

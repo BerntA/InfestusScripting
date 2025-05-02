@@ -9,7 +9,7 @@
 		"SubType" "2"
 		"MiscData"
 		{
-			"SellValue" "2"
+			"SellValue" "1"
 			"CanTrade" "1"
 		}
     }
@@ -48,7 +48,7 @@
 		"SubType" "2"
 		"MiscData"
 		{
-			"SellValue" "4"
+			"SellValue" "1"
 			"CanTrade" "1"
 		}
     }
@@ -61,7 +61,7 @@
 		"SubType" "2"
 		"MiscData"
 		{
-			"SellValue" "2"
+			"SellValue" "1"
 			"CanTrade" "1"
 		}
     }

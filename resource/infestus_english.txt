@@ -41,6 +41,8 @@
 		"INF_GUI_ACTION_KEY" "Special GUI Action"
 		"INF_GUI_MINIMAP_ZOOM_IN" "Minimap Zoom In"
 		"INF_GUI_MINIMAP_ZOOM_OUT" "Minimap Zoom Out"
+		"INF_GUI_LOADOUT_SLOT" "Slot %s1"
+		"INF_LOADOUT_MENU" "Loadout Menu"
 		
 		"INF_GUI_CHARSELECTION_STATUS" "Level %s1"
 		"INF_GUI_VAULT" "Bank Vault"
@@ -155,6 +157,7 @@
 		"INF_WARN_CANTMOUNT" "Unable to mount in this area or zone."
 		"INF_WARN_ALREADYMOUNTED" "You're already mounted!"
 		"INF_WARN_BANK_MONEY" "You cannot deposit more money to the bank!"
+		"INF_WARN_HAS_COMPANION" "You already have an active summoned companion!"
 		
 		"INF_WARN_GRP_NOT_LEADER" "You're not the leader of this group!"
 		"INF_WARN_GRP_ALREADY_INCURRGROUP" "This user is already in your group!"
@@ -303,12 +306,7 @@
 		"INF_CAMERA_MODE_TOGGLE" "Switch between camera modes"
 		
 		"INF_ITEM_SELECTION" "Item Quick Selection Menu"
-
-		"INF_ACTION_PRESET1" "Action Preset 1"
-		"INF_ACTION_PRESET2" "Action Preset 2"
-		"INF_ACTION_PRESET3" "Action Preset 3"
-		"INF_ACTION_PRESET4" "Action Preset 4"
-
+		
 		"INF_SELECT_WEAPON_MELEE" "Draw Melee Weapon(s)"
 		"INF_SELECT_WEAPON_RANGED" "Draw Ranged Weapon"
 		"INF_SELECT_WEAPON_NONE" "Holster Weapon(s)"
@@ -329,6 +327,7 @@
 		"INF_ITEM_INFO_MISC_QUEST" "Quest Item"
 		"INF_ITEM_INFO_MISC_JUNK" "Junk"
 		"INF_ITEM_INFO_MISC_MOUNT" "Mount"
+		"INF_ITEM_INFO_MISC_COMPANION" "Companion"
 		
 		"INF_ITEM_INFO_ARMOR_CLOTH" "Light Armor"
 		"INF_ITEM_INFO_ARMOR_LEATHER" "Light Armor"
@@ -551,7 +550,7 @@
 		"INF_HINT_AUTO_LOOT" "You can auto-loot any corpse by holding down %s1 before pressing %s2 on the corpse."
 		"INF_HINT_GROUP_LEAVE" "You have joined a group, to leave simply press %s1."
 		"INF_HINT_COMBAT_WEAPON" "You've been engaged, to draw your melee weapon press %s1, to draw a ranged weapon press %s2 and to holster your weapons press %s3."
-		"INF_HINT_SPELLS_DRAGDROP" "You can drag and drop any spells here into the action bar at the very bottom, to remove existing items in the action bar simply press and hold RMB on the spell you wish to remove. You can also save up to four action presets (double press), this will allow easy switching between presets."
+		"INF_HINT_SPELLS_DRAGDROP" "You can drag and drop any spells here into the action bar at the very bottom, to remove existing items in the action bar simply press and hold RMB on the spell you wish to remove. You can also use the loadout menu (press %s1) to save/load up to eight action presets, this will allow easy switching between presets."
 		"INF_HINT_MERCHANT_SELLALL" "You can sell an entire item by holding down %s1 prior to selling the item."
 		"INF_HINT_RANGED_CHARGE" "The more you charge a ranged weapon, the more damage it will do and it will traverse further."
 		"INF_HINT_ITEM_QUICKSELECT" "Use the mouse wheel to navigate the items in the quick selection menu. RMB and ESC will close the menu, while LMB will select an item."
@@ -560,6 +559,7 @@
 		"INF_HINT_COMBAT_BLOCK" "You may block an enemy attack with any melee weapon, or with a shield. Blocking an attack with a shield is twice as efficient. The block efficiency value given by your strength stat decides how much base damage can be blocked. Keep in mind that some attacks may only be blocked by a shield, for example projectiles."
 		"INF_HINT_WORLDMAP" "In the worldmap you can zoom in and out by scrolling, and you may move around by pressing and holding down the left mouse button. Moving the cursor over any markers will print detailed information about that marker, in the options you can set whether or not markers should only show for tracked quests, any active quest or none at all."
 		"INF_HINT_DEATH" "Oh no, you have died! When you die you will be revived at a nearby graveyard, and if you carry more than 500 coins you will have to sacrifice some of it, even more so if you died in a dungeon."
+		"INF_HINT_LOADOUT_MENU" "You can use this menu to load / save action presets, press %s1 to load a preset and %s2 to save the current action bar choices to the selected preset slot."
 		
 		// Loading Tips
 		"INF_LOADING_TIP_1" "You cannot use your items while in combat, except for potions." 
@@ -590,6 +590,7 @@
 		"INF_LOADING_TIP_26" "Press $[+use]$ to interact with other players!"
 		"INF_LOADING_TIP_27" "Press $[+attack3]$ to block an attack."
 		"INF_LOADING_TIP_28" "Press $[worldmap]$ to open the world map."
+		"INF_LOADING_TIP_29" "Use the loadout menu (press $[show_loadout_menu]$ to open) to quickly change between action presets."
 		
 		// Active Effects, Buff Debuff, etc...
 		"INF_ACTIVE_EFFECTS" "Active Effects"
