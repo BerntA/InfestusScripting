@@ -1,0 +1,852 @@
+"NPCs"
+{
+    "173"
+    {
+		"Name" "#INF_NPC_173_NAME"
+		"Level" "25"
+		"Health" "5000"
+		"Soundscript" "Smuggler"
+		"RelationshipID" "2"
+		"ZoneLink" "7"
+		"Attributes"
+		{
+			"Armor" "750"
+			"MeleeDMGFactor" "7.5"
+		}
+		"Spells"
+		{
+			"1" "52"
+			"1" "53"
+		}
+		"Loots"
+		{
+			"287"
+			{
+				"Percentage" "100"
+			}
+		}
+		"Reputation"
+		{
+			"5"
+			{
+				"Value" "5"
+				"Ally" "0"
+			}
+		}
+		"ModelData"
+		{
+			"models/characters/npc/smuggler01.mdl"
+			{
+			}
+		}
+    }
+    "174"
+    {
+		"Name" "#INF_NPC_174_NAME"
+		"Level" "25"
+		"Health" "3500"
+		"Soundscript" "Smuggler"
+		"RelationshipID" "2"
+		"ZoneLink" "7"
+		"Attributes"
+		{
+			"Armor" "250"
+			"RangedDMGFactor" "7.5"
+		}
+		"Spells"
+		{
+			"0" "50"
+		}
+		"Loots"
+		{
+			"287"
+			{
+				"Percentage" "100"
+			}
+		}
+		"Reputation"
+		{
+			"5"
+			{
+				"Value" "5"
+				"Ally" "0"
+			}
+		}
+		"ModelData"
+		{
+			"models/characters/npc/smuggler03.mdl"
+			{
+			}
+		}
+		"CamData"
+		{
+			"xpos" "7"
+			"ypos" "0"
+			"zpos" "-67"
+			"angx" "0"
+			"angy" "170"
+			"angz" "0"
+		}
+    }
+    "175"
+    {
+		"Name" "#INF_NPC_175_NAME"
+		"Level" "28"
+		"Health" "7500"
+		"CollisionHeight" "135"
+		"Soundscript" "Giant"
+		"MoneyRewardMin" "50"
+		"MoneyRewardMax" "100"
+		"RelationshipID" "2"
+		"ZoneLink" "7"
+		"Attributes"
+		{
+			"Armor" "1000"
+			"AttackSpeed" "0.85"
+			"MeleeDMGFactor" "10"
+			"RangedDMGFactor" "10"
+			"MagicDMGFactor" "10"
+			"FireResistance" "15"
+			"WaterResistance" "15"
+			"ShadowResistance" "15"
+			"EarthResistance" "15"
+			"WindResistance" "15"
+		}
+		"Spells"
+		{
+			"0" "12"
+			"0" "55"
+			"1" "52"
+		}
+		"Loots"
+		{
+			"287"
+			{
+				"Percentage" "100"
+			}
+		}
+		"Reputation"
+		{
+			"5"
+			{
+				"Value" "10"
+				"Ally" "0"
+			}
+		}
+		"ModelData"
+		{
+			"models/characters/npc/giant01.mdl"
+			{
+				"SkinMax" "1"
+				"BodyMin" "10"
+				"BodyMax" "10"
+				"Scale" "1.05"
+			}
+		}
+		"CamData"
+		{
+			"xpos" "22"
+			"ypos" "0"
+			"zpos" "-108"
+			"angx" "0"
+			"angy" "185"
+			"angz" "0"
+		}
+    }
+    "176"
+    {
+		"Name" "#INF_NPC_176_NAME"
+		"Level" "30"
+		"Health" "15000"
+		"CollisionHeight" "95"
+		"IsBoss" "1"
+		"Soundscript" "MercenaryElite"
+		"MoneyRewardMin" "150"
+		"RelationshipID" "2"
+		"ZoneLink" "7"
+		"Attributes"
+		{
+			"Armor" "1250"
+			"AttackSpeed" "0.9"
+			"MeleeDMGFactor" "10"
+			"RangedDMGFactor" "10"
+			"MagicDMGFactor" "10"
+			"FireResistance" "25"
+			"WaterResistance" "25"
+			"ShadowResistance" "25"
+			"EarthResistance" "25"
+			"WindResistance" "25"
+		}
+		"Spells"
+		{
+			"0" "6"
+			"0" "25"
+			"0" "56"
+			"1" "52"
+		}
+		"Loots"
+		{
+			"287"
+			{
+				"Quantity" "5"
+				"Percentage" "100"
+			}
+		}
+		"Reputation"
+		{
+			"5"
+			{
+				"Value" "25"
+				"Ally" "0"
+			}
+		}
+		"ModelData"
+		{
+			"models/characters/npc/mercenary04.mdl"
+			{
+				"Scale" "1.2"
+			}
+		}
+		"CamData"
+		{
+			"xpos" "7"
+			"ypos" "0"
+			"zpos" "-66"
+			"angx" "0"
+			"angy" "170"
+			"angz" "0"
+		}
+    }
+    "177"
+    {
+		"Name" "#INF_NPC_177_NAME"
+		"Level" "25"
+		"Health" "3750"
+		"CollisionHeight" "60"
+		"Soundscript" "Boar"
+		"RelationshipID" "2"
+		"ZoneLink" "7"
+		"Attributes"
+		{
+			"Armor" "750"
+			"DamageMin" "110"
+			"DamageMax" "135"
+			"AttackSpeed" "0.8"
+			"AttackRange" "80"
+			"WalkSpeed" "65"
+			"RunSpeed" "235"
+		}
+		"Loots"
+		{
+			"287"
+			{
+				"Percentage" "100"
+			}
+		}
+		"Reputation"
+		{
+			"5"
+			{
+				"Value" "5"
+				"Ally" "0"
+			}
+		}
+		"ModelData"
+		{
+			"models/characters/npc/boar01.mdl"
+			{
+				"Scale" "1.25"
+			}
+		}
+		"CamData"
+		{
+			"xpos" "50"
+			"ypos" "0"
+			"zpos" "-25"
+			"angx" "0"
+			"angy" "190"
+			"angz" "0"
+		}
+		"Hitbox"
+		{
+			"xpos" "25"
+			"ypos" "20"
+			"zpos" "70"
+		}
+    }
+    "178"
+    {
+		"Name" "#INF_NPC_178_NAME"
+		"Level" "25"
+		"Health" "3000"
+		"CollisionHeight" "64"
+		"Soundscript" "Wolf"
+		"RelationshipID" "2"
+		"ZoneLink" "7"
+		"Attributes"
+		{
+			"DamageMin" "100"
+			"DamageMax" "125"
+			"AttackSpeed" "0.75"
+			"AttackRange" "80"
+			"WalkSpeed" "60"
+		}
+		"Spells"
+		{
+			"0" "15"
+		}
+		"Loots"
+		{
+			"287"
+			{
+				"Percentage" "100"
+			}
+		}
+		"Reputation"
+		{
+			"5"
+			{
+				"Value" "5"
+				"Ally" "0"
+			}
+		}
+		"ModelData"
+		{
+			"models/characters/npc/wolf02.mdl"
+			{
+				"SkinMax" "2"
+			}
+		}
+		"CamData"
+		{
+			"xpos" "60"
+			"ypos" "-10"
+			"zpos" "-25"
+			"angx" "0"
+			"angy" "150"
+			"angz" "0"
+		}
+		"Hitbox"
+		{
+			"xpos" "30"
+			"ypos" "15"
+			"zpos" "70"
+		}
+    }
+    "179"
+    {
+		"Name" "#INF_NPC_179_NAME"
+		"Level" "25"
+		"Health" "4500"
+		"CollisionHeight" "60"
+		"Soundscript" "Beetle"
+		"RelationshipID" "2"
+		"ZoneLink" "7"
+		"Attributes"
+		{
+			"Armor" "1250"
+			"DamageMin" "135"
+			"DamageMax" "150"
+			"AttackRange" "80"
+			"WalkSpeed" "65"
+			"FireResistance" "100"
+			"WaterResistance" "-25"
+			"ShadowResistance" "-25"
+			"EarthResistance" "-25"
+			"WindResistance" "-25"
+		}
+		"Spells"
+		{
+			"0" "35"
+		}
+		"Loots"
+		{
+			"287"
+			{
+				"Percentage" "100"
+			}
+		}
+		"Reputation"
+		{
+			"5"
+			{
+				"Value" "5"
+				"Ally" "0"
+			}
+		}
+		"ModelData"
+		{
+			"models/characters/npc/scorpion01.mdl"
+			{
+				"SkinMin" "3"
+				"SkinMax" "3"
+				"Scale" "1.15"
+			}
+		}
+		"CamData"
+		{
+			"xpos" "27"
+			"ypos" "0"
+			"zpos" "-13"
+			"angx" "0"
+			"angy" "185"
+			"angz" "0"
+		}
+		"Hitbox"
+		{
+			"xpos" "40"
+			"ypos" "25"
+			"zpos" "70"
+		}
+    }
+    "180"
+    {
+		"Name" "#INF_NPC_180_NAME"
+		"Level" "28"
+		"Health" "8500"
+		"CollisionHeight" "60"
+		"NoMorphs" "1"
+		"Soundscript" "Beetle"
+		"RelationshipID" "2"
+		"ZoneLink" "7"
+		"Attributes"
+		{
+			"Armor" "2000"
+			"DamageMin" "75"
+			"DamageMax" "90"
+			"AttackRange" "100"
+			"FireResistance" "50"
+			"WaterResistance" "50"
+			"ShadowResistance" "50"
+			"EarthResistance" "50"
+			"WindResistance" "50"
+		}
+		"Spells"
+		{
+			"4" "15"
+		}
+		"Loots"
+		{
+			"287"
+			{
+				"Quantity" "2"
+				"Percentage" "100"
+			}
+		}
+		"Reputation"
+		{
+			"5"
+			{
+				"Value" "5"
+				"Ally" "0"
+			}
+		}
+		"ModelData"
+		{
+			"models/characters/npc/beetle01.mdl"
+			{
+				"SkinMax" "2"
+			}
+		}
+		"CamData"
+		{
+			"xpos" "145"
+			"ypos" "-2"
+			"zpos" "-32"
+			"angx" "5"
+			"angy" "180"
+			"angz" "0"
+		}
+		"Hitbox"
+		{
+			"xpos" "85"
+			"ypos" "42"
+			"zpos" "70"
+		}
+    }
+    "181"
+    {
+		"Name" "#INF_NPC_181_NAME"
+		"Level" "30"
+		"Health" "12500"
+		"CollisionHeight" "112"
+		"IsBoss" "1"
+		"Soundscript" "Snake"
+		"MoneyRewardMin" "150"
+		"RelationshipID" "2"
+		"ZoneLink" "7"
+		"Attributes"
+		{
+			"Armor" "1000"
+			"DamageMin" "137"
+			"DamageMax" "161"
+			"AttackSpeed" "0.75"
+			"WalkSpeed" "70"
+			"RunSpeed" "190"
+			"FireResistance" "75"
+			"WaterResistance" "-50"
+			"ShadowResistance" "-35"
+			"EarthResistance" "-25"
+			"WindResistance" "-15"
+		}
+		"Spells"
+		{
+			"4" "15"
+			"0" "57"
+		}
+		"Loots"
+		{
+			"287"
+			{
+				"Quantity" "5"
+				"Percentage" "100"
+			}
+		}
+		"Reputation"
+		{
+			"5"
+			{
+				"Value" "25"
+				"Ally" "0"
+			}
+		}
+		"ModelData"
+		{
+			"models/characters/npc/snake01.mdl"
+			{
+				"SkinMin" "1"
+				"SkinMax" "1"
+				"Scale" "2.75"
+			}
+		}
+		"CamData"
+		{
+			"xpos" "20"
+			"ypos" "0"
+			"zpos" "-29"
+			"angx" "15"
+			"angy" "190"
+			"angz" "0"
+		}
+		"Hitbox"
+		{
+			"xpos" "100"
+			"ypos" "50"
+			"zpos" "110"
+		}
+    }
+    "182"
+    {
+		"Name" "#INF_NPC_182_NAME"
+		"Level" "25"
+		"Health" "6500"
+		"Soundscript" "Guard"
+		"RelationshipID" "2"
+		"ZoneLink" "7"
+		"Attributes"
+		{
+			"Armor" "500"
+			"MeleeDMGFactor" "5"
+		}
+		"Spells"
+		{
+			"1" "52"
+			"1" "53"
+			"0" "44"
+		}
+		"Loots"
+		{
+			"287"
+			{
+				"Percentage" "100"
+			}
+		}
+		"Reputation"
+		{
+			"5"
+			{
+				"Value" "5"
+				"Ally" "0"
+			}
+		}
+		"ModelData"
+		{
+			"models/characters/npc/guard01.mdl"
+			{
+				"SkinMax" "1"
+			}
+		}
+    }
+    "183"
+    {
+		"Name" "#INF_NPC_183_NAME"
+		"Level" "28"
+		"Health" "10000"
+		"Soundscript" "Guard"
+		"RelationshipID" "2"
+		"ZoneLink" "7"
+		"Attributes"
+		{
+			"Armor" "1000"
+			"MeleeDMGFactor" "10"
+			"FireResistance" "25"
+			"WaterResistance" "25"
+			"ShadowResistance" "25"
+			"EarthResistance" "25"
+			"WindResistance" "25"
+		}
+		"Spells"
+		{
+			"5" "10"
+			"1" "52"
+			"1" "53"
+		}
+		"Loots"
+		{
+			"287"
+			{
+				"Percentage" "100"
+			}
+		}
+		"Reputation"
+		{
+			"5"
+			{
+				"Value" "5"
+				"Ally" "0"
+			}
+		}
+		"ModelData"
+		{
+			"models/characters/npc/guard02.mdl"
+			{
+			}
+		}
+		"CamData"
+		{
+			"xpos" "7"
+			"ypos" "0"
+			"zpos" "-61"
+			"angx" "0"
+			"angy" "170"
+			"angz" "0"
+		}
+    }
+    "184"
+    {
+		"Name" "#INF_NPC_184_NAME"
+		"Level" "25"
+		"Health" "4000"
+		"Soundscript" "Guard"
+		"RelationshipID" "2"
+		"ZoneLink" "7"
+		"Attributes"
+		{
+			"Armor" "250"
+			"RangedDMGFactor" "10"
+			"FireResistance" "-20"
+			"WaterResistance" "-20"
+			"ShadowResistance" "-20"
+			"EarthResistance" "-20"
+			"WindResistance" "-20"
+		}
+		"Loots"
+		{
+			"287"
+			{
+				"Percentage" "100"
+			}
+		}
+		"Reputation"
+		{
+			"5"
+			{
+				"Value" "5"
+				"Ally" "0"
+			}
+		}
+		"ModelData"
+		{
+			"models/characters/npc/guard03.mdl"
+			{
+			}
+		}
+		"CamData"
+		{
+			"xpos" "7"
+			"ypos" "0"
+			"zpos" "-67"
+			"angx" "0"
+			"angy" "170"
+			"angz" "0"
+		}
+    }
+    "185"
+    {
+		"Name" "#INF_NPC_185_NAME"
+		"Level" "25"
+		"Health" "3000"
+		"Soundscript" "Guard"
+		"RelationshipID" "2"
+		"ZoneLink" "7"
+		"Attributes"
+		{
+			"MagicDMGFactor" "10"
+			"FireResistance" "15"
+			"WaterResistance" "15"
+			"ShadowResistance" "15"
+			"EarthResistance" "15"
+			"WindResistance" "15"
+		}
+		"Spells"
+		{
+			"3" "20"
+			"3" "21"
+			"1" "22"
+		}
+		"Loots"
+		{
+			"287"
+			{
+				"Percentage" "100"
+			}
+		}
+		"Reputation"
+		{
+			"5"
+			{
+				"Value" "5"
+				"Ally" "0"
+			}
+		}
+		"ModelData"
+		{
+			"models/characters/npc/mage03.mdl"
+			{
+				"SkinMax" "8"
+			}
+		}
+    }
+    "186"
+    {
+		"Name" "#INF_NPC_186_NAME"
+		"Level" "30"
+		"Health" "21500"
+		"CollisionHeight" "100"
+		"IsBoss" "1"
+		"Soundscript" "Guard"
+		"MoneyRewardMin" "150"
+		"RelationshipID" "2"
+		"ZoneLink" "7"
+		"Attributes"
+		{
+			"Armor" "2000"
+			"AttackSpeed" "0.75"
+			"DrainerRegenRate" "0.03"
+			"MeleeDMGFactor" "10"
+			"RangedDMGFactor" "10"
+			"MagicDMGFactor" "10"
+			"FireResistance" "65"
+			"WaterResistance" "65"
+			"ShadowResistance" "65"
+			"EarthResistance" "65"
+			"WindResistance" "65"
+		}
+		"Spells"
+		{
+			"0" "6"
+			"0" "56"
+			"1" "52"
+		}
+		"Loots"
+		{
+			"287"
+			{
+				"Quantity" "5"
+				"Percentage" "100"
+			}
+		}
+		"Reputation"
+		{
+			"5"
+			{
+				"Value" "25"
+				"Ally" "0"
+			}
+		}
+		"ModelData"
+		{
+			"models/characters/npc/crusader01.mdl"
+			{
+				"Scale" "1.25"
+			}
+		}
+		"CamData"
+		{
+			"xpos" "12"
+			"ypos" "0"
+			"zpos" "-65"
+			"angx" "0"
+			"angy" "170"
+			"angz" "0"
+		}
+    }
+    "187"
+    {
+		"Name" "#INF_NPC_187_NAME"
+		"Level" "40"
+		"Health" "45000"
+		"Type" "2"
+		"CollisionHeight" "150"
+		"IsBoss" "1"
+		"Soundscript" "Smuggler"
+		"MoneyRewardMin" "500"
+		"RelationshipID" "2"
+		"ZoneLink" "7"
+		"Flags" "2"
+		"Attributes"
+		{
+			"Armor" "2000"
+			"AttackSpeed" "0.65"
+			"AttackRange" "100"
+			"DrainerRegenRate" "0.03"
+			"MeleeDMGFactor" "8"
+			"RangedDMGFactor" "8"
+			"MagicDMGFactor" "8"
+			"FireResistance" "-50"
+			"WaterResistance" "25"
+			"ShadowResistance" "75"
+			"EarthResistance" "-35"
+			"WindResistance" "-15"
+		}
+		"Spells"
+		{
+			"0" "54"
+			"0" "56"
+			"1" "52"
+		}
+		"Loots"
+		{
+			"287"
+			{
+				"Quantity" "10"
+				"Percentage" "100"
+			}
+		}
+		"Reputation"
+		{
+			"5"
+			{
+				"Value" "50"
+				"Ally" "0"
+			}
+		}
+		"ModelData"
+		{
+			"models/characters/npc/smuggler02.mdl"
+			{
+				"Scale" "1.85"
+			}
+		}
+    }
+}

@@ -10,7 +10,7 @@
 		"IconTexture" ""
 		"MagicSchool" "5"
 		"Knockback" "500"
-		"DrainValue" "25"
+		"DrainValue" "10"
 		"CastTime" "1"
 		"CooldownTime" "3"
 		"Range" "170"
@@ -19,6 +19,7 @@
 			"14" "28"
 			"28" "44"
 			"35" "62"
+			"55" "85"
 		}
     }
     "21"
@@ -31,7 +32,7 @@
 		"IconTexture" ""
 		"MagicSchool" "1"
 		"Knockback" "50"
-		"DrainValue" "25"
+		"DrainValue" "10"
 		"CastTime" "1"
 		"CooldownTime" "1"
 		"Range" "350"
@@ -43,6 +44,7 @@
 			"30" "55"
 			"55" "75"
 			"80" "105"
+			"95" "125"
 		}
     }
     "22"
@@ -55,7 +57,7 @@
 		"IconTexture" ""
 		"MagicSchool" "2"
 		"Knockback" "100"
-		"DrainValue" "25"
+		"DrainValue" "10"
 		"CastTime" "1"
 		"CooldownTime" "1"
 		"Range" "350"
@@ -80,7 +82,7 @@
 		"Misc" "90"
 		"MagicSchool" "5"
 		"Knockback" "125"
-		"DrainValue" "25"
+		"DrainValue" "10"
 		"CastTime" "1"
 		"CooldownTime" "1"
 		"Range" "400"
@@ -88,6 +90,7 @@
 		{
 			"64" "81"
 			"81" "105"
+			"97" "123"
 		}
     }
     "24"
@@ -99,7 +102,7 @@
 		"Title" "#INF_SPELL_24_TEXT"
 		"Description" "#INF_SPELL_24_DESC"
 		"IconTexture" ""
-		"DrainValue" "25"
+		"DrainValue" "10"
 		"CastTime" "2"
 		"CooldownTime" "10"
 		"Range" "400"
@@ -109,6 +112,7 @@
 			"150" "250"
 			"225" "325"
 			"275" "415"
+			"315" "465"
 		}
     }
     "25"
@@ -121,7 +125,7 @@
 		"IconTexture" ""
 		"MagicSchool" "1"
 		"Knockback" "25"
-		"DrainValue" "25"
+		"DrainValue" "10"
 		"CastTime" "0.25"
 		"CooldownTime" "1.5"
 		"Range" "300"
@@ -147,7 +151,7 @@
 		"Duration" "35"
 		"Interval" "2"
 		"Knockback" "175"
-		"DrainValue" "50"
+		"DrainValue" "10"
 		"CastTime" "1"
 		"CooldownTime" "60"
 		"Range" "100"
@@ -166,7 +170,7 @@
 		"Description" "#INF_SPELL_32_DESC"
 		"IconTexture" ""
 		"MagicSchool" "5"
-		"DrainValue" "50"
+		"DrainValue" "10"
 		"CastTime" "2"
 		"CooldownTime" "20"
 		"Range" "575"
@@ -176,6 +180,116 @@
 		"Ranks"
 		{
 			"10" "20"
+		}
+    }
+    "35"
+    {
+		"Type" "0"
+		"SubType" "0"
+		"Category" "0"
+		"Title" "#INF_SPELL_35_TEXT"
+		"Description" "#INF_SPELL_35_DESC"
+		"IconTexture" ""
+		"NoSpellCastBar" "1"
+		"MagicSchool" "1"
+		"DrainValue" "10"
+		"CastTime" "0"
+		"CooldownTime" "25"
+		"Range" "125"
+		"BuffDebuffID" "2"
+		"BuffDebuffDuration" "10"
+		"BuffDebuffPercentage" "2.5"
+		"Ranks"
+		{
+			"150" "200"
+		}
+    }
+    "37"
+    {
+		"Type" "2"
+		"SubType" "2"
+		"ExtraEffectType" "4"
+		"Category" "10"
+		"Title" "#INF_SPELL_37_TEXT"
+		"Description" "#INF_SPELL_37_DESC"
+		"IconTexture" ""
+		"MagicSchool" "2"
+		"DrainValue" "10"
+		"CastTime" "1"
+		"CooldownTime" "15"
+		"Range" "225"
+		"BuffDebuffID" "8"
+		"BuffDebuffDuration" "7.5"
+		"BuffDebuffPercentage" "1"
+		"Ranks"
+		{
+			"25" "50"
+		}
+    }
+    "42"
+    {
+		"Type" "2"
+		"SubType" "1"
+		"ExtraEffectType" "9"
+		"Category" "8"
+		"Title" "#INF_SPELL_42_TEXT"
+		"Description" "#INF_SPELL_42_DESC"
+		"IconTexture" ""
+		"Misc" "1"
+		"MagicSchool" "4"
+		"Knockback" "100"
+		"DrainValue" "10"
+		"CastTime" "1"
+		"CooldownTime" "1"
+		"Range" "500"
+		"Ranks"
+		{
+			"125" "150"
+		}
+    }
+    "43"
+    {
+		"Type" "2"
+		"SubType" "1"
+		"ExtraEffectType" "9"
+		"Category" "8"
+		"Title" "#INF_SPELL_43_TEXT"
+		"Description" "#INF_SPELL_43_DESC"
+		"IconTexture" ""
+		"Misc" "5"
+		"MagicSchool" "4"
+		"Knockback" "500"
+		"DrainValue" "10"
+		"CastTime" "4"
+		"CooldownTime" "10"
+		"Range" "1000"
+		"Ranks"
+		{
+			"175" "225"
+		}
+    }
+    "45"
+    {
+		"Type" "2"
+		"SubType" "2"
+		"ExtraEffectType" "7"
+		"Category" "6"
+		"Title" "#INF_SPELL_45_TEXT"
+		"Description" "#INF_SPELL_45_DESC"
+		"IconTexture" ""
+		"DamageBits" "8"
+		"MagicSchool" "1"
+		"Knockback" "2500"
+		"DrainValue" "10"
+		"CastTime" "7.5"
+		"CooldownTime" "35"
+		"Range" "1000"
+		"BuffDebuffID" "2"
+		"BuffDebuffDuration" "10"
+		"BuffDebuffPercentage" "0.5"
+		"Ranks"
+		{
+			"400" "500"
 		}
     }
 }

@@ -1,0 +1,14 @@
+"Items"
+{
+    "289"
+    {
+		"Name" "#INF_ITEM_289_TEXT"
+		"Description" "#INF_ITEM_289_DESC"
+		"IconTexture" "icons/items/misc/rudis"
+		"ItemInfo1" "17"
+		"Type" "2"
+		"SubType" "2"
+		"Rarity" "3"
+		"IsUnique" "1"
+    }
+}

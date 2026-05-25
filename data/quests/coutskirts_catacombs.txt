@@ -10,10 +10,6 @@
 		"Experience" "3500"
 		"ZoneID" "2"
 		"Money" "350"
-		"Reputation"
-		{
-			"1" "150"
-		}
 		"Objectives"
 		{
 			"2"
@@ -22,27 +18,33 @@
 				"Count" "30"
 			}
 		}
+		"Reputation"
+		{
+			"1" "150"
+		}
     }
     "18"
     {
 		"Title" "#INF_QUEST_18_TITLE"
 		"ShortDescription" "#INF_QUEST_18_DESC_SHORT"
 		"LongDescription" "#INF_QUEST_18_DESC_LONG"
+		"DialogueStartedQuest" "#INF_QUEST_18_DIALOGUE_STARTED"
+		"DialogueFinishedQuest" "#INF_QUEST_18_DIALOGUE_FINISHED"
 		"LevelMin" "8"
 		"LevelMax" "16"
 		"Experience" "2000"
 		"ZoneID" "2"
 		"Money" "200"
-		"Reputation"
-		{
-			"1" "100"
-		}
 		"Objectives"
 		{
 			"3"
 			{
 				"Custom" "#INF_QUEST_18_OBJECTIVE_1"
 			}
+		}
+		"Reputation"
+		{
+			"1" "100"
 		}
     }
     "19"
@@ -55,10 +57,6 @@
 		"Experience" "1250"
 		"ZoneID" "2"
 		"Money" "100"
-		"Reputation"
-		{
-			"2" "150"
-		}
 		"Objectives"
 		{
 			"1"
@@ -82,6 +80,10 @@
 				"Quantity" "5"
 			}
 		}
+		"Reputation"
+		{
+			"2" "150"
+		}
     }
     "20"
     {
@@ -93,10 +95,6 @@
 		"Experience" "2000"
 		"ZoneID" "2"
 		"Money" "500"
-		"Reputation"
-		{
-			"1" "100"
-		}
 		"Objectives"
 		{
 			"1"
@@ -131,6 +129,10 @@
 				"MustChoose" "1"
 			}
 		}
+		"Reputation"
+		{
+			"1" "100"
+		}
     }
     "21"
     {
@@ -142,10 +144,6 @@
 		"Experience" "2500"
 		"ZoneID" "2"
 		"Money" "500"
-		"Reputation"
-		{
-			"2" "300"
-		}
 		"Objectives"
 		{
 			"1"
@@ -172,6 +170,10 @@
 				"MustChoose" "1"
 			}
 		}
+		"Reputation"
+		{
+			"2" "300"
+		}
     }
     "22"
     {
@@ -185,10 +187,6 @@
 		"ZoneID" "2"
 		"Money" "100"
 		"Repeatable" "1"
-		"Reputation"
-		{
-			"2" "10"
-		}
 		"Objectives"
 		{
 			"2"
@@ -196,6 +194,10 @@
 				"Target" "64"
 				"Count" "10"
 			}
+		}
+		"Reputation"
+		{
+			"2" "10"
 		}
     }
 }

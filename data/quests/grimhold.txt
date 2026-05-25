@@ -1,0 +1,428 @@
+"Quests"
+{
+    "66"
+    {
+		"Title" "#INF_QUEST_66_TITLE"
+		"ShortDescription" "#INF_QUEST_66_DESC_SHORT"
+		"LongDescription" "#INF_QUEST_66_DESC_LONG"
+		"DialogueFinishedQuest" "#INF_QUEST_66_DIALOGUE_FINISHED"
+		"LevelMin" "24"
+		"LevelMax" "32"
+		"Experience" "3500"
+		"QuestChain" "65"
+		"ZoneID" "6"
+		"Money" "500"
+		"Objectives"
+		{
+			"1"
+			{
+				"Target" "151"
+			}
+		}
+		"Rewards"
+		{
+			"301"
+			{
+			}
+		}
+		"Reputation"
+		{
+			"8" "25"
+		}
+    }
+    "67"
+    {
+		"Title" "#INF_QUEST_67_TITLE"
+		"ShortDescription" "#INF_QUEST_67_DESC_SHORT"
+		"LongDescription" "#INF_QUEST_67_DESC_LONG"
+		"LevelMin" "24"
+		"LevelMax" "32"
+		"Experience" "1500"
+		"QuestChain" "65"
+		"ZoneID" "6"
+		"Money" "350"
+		"Objectives"
+		{
+			"1"
+			{
+				"Target" "163"
+				"Count" "4"
+			}
+			"1"
+			{
+				"Target" "156"
+				"Count" "6"
+			}
+			"1"
+			{
+				"Target" "158"
+				"Count" "3"
+			}
+			"1"
+			{
+				"Target" "157"
+				"Count" "5"
+			}
+			"1"
+			{
+				"Target" "164"
+				"Count" "4"
+			}
+		}
+		"Reputation"
+		{
+			"8" "25"
+		}
+    }
+    "68"
+    {
+		"Title" "#INF_QUEST_68_TITLE"
+		"ShortDescription" "#INF_QUEST_68_DESC_SHORT"
+		"LongDescription" "#INF_QUEST_68_DESC_LONG"
+		"DialogueStartedQuest" "#INF_QUEST_68_DIALOGUE_STARTED"
+		"DialogueFinishedQuest" "#INF_QUEST_68_DIALOGUE_FINISHED"
+		"LevelMin" "24"
+		"LevelMax" "32"
+		"Experience" "1500"
+		"QuestChain" "65"
+		"ZoneID" "6"
+		"Money" "350"
+		"Objectives"
+		{
+			"3"
+			{
+				"Custom" "#INF_QUEST_68_OBJECTIVE_1"
+			}
+		}
+		"Rewards"
+		{
+			"302"
+			{
+			}
+		}
+		"Reputation"
+		{
+			"8" "25"
+		}
+    }
+    "92"
+    {
+		"Title" "#INF_QUEST_92_TITLE"
+		"ShortDescription" "#INF_QUEST_92_DESC_SHORT"
+		"LongDescription" "#INF_QUEST_92_DESC_LONG"
+		"LevelMin" "24"
+		"LevelMax" "32"
+		"Experience" "1500"
+		"QuestChain" "65"
+		"ZoneID" "6"
+		"Money" "300"
+		"Objectives"
+		{
+			"2"
+			{
+				"Target" "214"
+				"Count" "4"
+			}
+		}
+		"Rewards"
+		{
+			"210"
+			{
+				"Quantity" "2"
+			}
+		}
+		"Reputation"
+		{
+			"6" "25"
+		}
+    }
+    "97"
+    {
+		"Title" "#INF_QUEST_97_TITLE"
+		"ShortDescription" "#INF_QUEST_97_DESC_SHORT"
+		"LongDescription" "#INF_QUEST_97_DESC_LONG"
+		"DialogueStartedQuest" "#INF_QUEST_97_DIALOGUE_STARTED"
+		"DialogueFinishedQuest" "#INF_QUEST_97_DIALOGUE_FINISHED"
+		"LevelMin" "24"
+		"LevelMax" "32"
+		"Experience" "1250"
+		"QuestChain" "65"
+		"ZoneID" "6"
+		"Money" "250"
+		"Objectives"
+		{
+			"2"
+			{
+				"Target" "248"
+			}
+		}
+		"Reputation"
+		{
+			"2" "50"
+		}
+    }
+    "98"
+    {
+		"Title" "#INF_QUEST_98_TITLE"
+		"ShortDescription" "#INF_QUEST_98_DESC_SHORT"
+		"LongDescription" "#INF_QUEST_98_DESC_LONG"
+		"DialogueStartedQuest" "#INF_QUEST_98_DIALOGUE_STARTED"
+		"DialogueFinishedQuest" "#INF_QUEST_98_DIALOGUE_FINISHED"
+		"LevelMin" "24"
+		"LevelMax" "32"
+		"Experience" "3000"
+		"QuestChain" "65"
+		"ZoneID" "6"
+		"Money" "500"
+		"Objectives"
+		{
+			"1"
+			{
+				"Target" "161"
+				"Count" "3"
+			}
+			"1"
+			{
+				"Target" "165"
+				"Count" "2"
+			}
+			"1"
+			{
+				"Target" "166"
+				"Count" "2"
+			}
+		}
+		"Rewards"
+		{
+			"141"
+			{
+				"Quantity" "3"
+			}
+			"142"
+			{
+				"Quantity" "3"
+			}
+		}
+		"Reputation"
+		{
+			"6" "50"
+		}
+    }
+    "99"
+    {
+		"Title" "#INF_QUEST_99_TITLE"
+		"ShortDescription" "#INF_QUEST_99_DESC_SHORT"
+		"LongDescription" "#INF_QUEST_99_DESC_LONG"
+		"DialogueStartedQuest" "#INF_QUEST_99_DIALOGUE_STARTED"
+		"DialogueFinishedQuest" "#INF_QUEST_99_DIALOGUE_FINISHED"
+		"LevelMin" "24"
+		"LevelMax" "32"
+		"Experience" "3500"
+		"QuestChain" "65"
+		"ZoneID" "6"
+		"Money" "1000"
+		"Objectives"
+		{
+			"1"
+			{
+				"Target" "149"
+			}
+		}
+		"Rewards"
+		{
+			"305"
+			{
+			}
+			"221"
+			{
+				"Quantity" "3"
+			}
+			"222"
+			{
+				"Quantity" "3"
+			}
+			"230"
+			{
+			}
+		}
+		"Reputation"
+		{
+			"6" "100"
+		}
+    }
+    "100"
+    {
+		"Title" "#INF_QUEST_100_TITLE"
+		"ShortDescription" "#INF_QUEST_100_DESC_SHORT"
+		"LongDescription" "#INF_QUEST_100_DESC_LONG"
+		"DialogueFinishedQuest" "#INF_QUEST_100_DIALOGUE_FINISHED"
+		"LevelMin" "24"
+		"LevelMax" "32"
+		"Experience" "1000"
+		"QuestChain" "65"
+		"ZoneID" "6"
+		"QuestHandInID" "136"
+		"Money" "250"
+		"QuestItemID" "250"
+		"Reputation"
+		{
+			"8" "50"
+		}
+    }
+    "101"
+    {
+		"Title" "#INF_QUEST_101_TITLE"
+		"ShortDescription" "#INF_QUEST_101_DESC_SHORT"
+		"LongDescription" "#INF_QUEST_101_DESC_LONG"
+		"DialogueStartedQuest" "#INF_QUEST_101_DIALOGUE_STARTED"
+		"DialogueFinishedQuest" "#INF_QUEST_101_DIALOGUE_FINISHED"
+		"LevelMin" "24"
+		"LevelMax" "32"
+		"Experience" "2000"
+		"QuestChain" "65"
+		"ZoneID" "6"
+		"Money" "100"
+		"QuestItemID" "254"
+		"Objectives"
+		{
+			"2"
+			{
+				"Target" "255"
+			}
+		}
+		"Reputation"
+		{
+			"2" "15"
+		}
+    }
+    "102"
+    {
+		"Title" "#INF_QUEST_102_TITLE"
+		"ShortDescription" "#INF_QUEST_102_DESC_SHORT"
+		"LongDescription" "#INF_QUEST_102_DESC_LONG"
+		"DialogueStartedQuest" "#INF_QUEST_102_DIALOGUE_STARTED"
+		"DialogueFinishedQuest" "#INF_QUEST_102_DIALOGUE_FINISHED"
+		"LevelMin" "24"
+		"LevelMax" "32"
+		"Experience" "1000"
+		"QuestChain" "101"
+		"ZoneID" "5"
+		"Money" "100"
+		"QuestItemID" "257"
+		"Objectives"
+		{
+			"3"
+			{
+				"Custom" "#INF_QUEST_102_OBJECTIVE_1"
+			}
+		}
+		"Reputation"
+		{
+			"2" "15"
+		}
+    }
+    "103"
+    {
+		"Title" "#INF_QUEST_103_TITLE"
+		"ShortDescription" "#INF_QUEST_103_DESC_SHORT"
+		"LongDescription" "#INF_QUEST_103_DESC_LONG"
+		"DialogueStartedQuest" "#INF_QUEST_103_DIALOGUE_STARTED"
+		"DialogueFinishedQuest" "#INF_QUEST_103_DIALOGUE_FINISHED"
+		"LevelMin" "24"
+		"LevelMax" "32"
+		"Experience" "2000"
+		"QuestChain" "65"
+		"ZoneID" "6"
+		"Money" "250"
+		"Objectives"
+		{
+			"2"
+			{
+				"Target" "256"
+				"Count" "5"
+			}
+		}
+		"Rewards"
+		{
+			"227"
+			{
+				"Quantity" "3"
+			}
+			"221"
+			{
+				"Quantity" "5"
+				"MustChoose" "1"
+			}
+			"222"
+			{
+				"Quantity" "5"
+				"MustChoose" "1"
+			}
+		}
+		"Reputation"
+		{
+			"8" "25"
+		}
+    }
+    "104"
+    {
+		"Title" "#INF_QUEST_104_TITLE"
+		"ShortDescription" "#INF_QUEST_104_DESC_SHORT"
+		"LongDescription" "#INF_QUEST_104_DESC_LONG"
+		"DialogueFinishedQuest" "#INF_QUEST_104_DIALOGUE_FINISHED"
+		"LevelMin" "24"
+		"LevelMax" "32"
+		"Experience" "500"
+		"QuestChain" "102"
+		"ZoneID" "5"
+		"QuestHandInID" "136"
+		"Reputation"
+		{
+			"2" "5"
+		}
+    }
+    "105"
+    {
+		"Title" "#INF_QUEST_105_TITLE"
+		"ShortDescription" "#INF_QUEST_105_DESC_SHORT"
+		"LongDescription" "#INF_QUEST_105_DESC_LONG"
+		"DialogueStartedQuest" "#INF_QUEST_105_DIALOGUE_STARTED"
+		"DialogueFinishedQuest" "#INF_QUEST_105_DIALOGUE_FINISHED"
+		"LevelMin" "24"
+		"LevelMax" "32"
+		"Experience" "1250"
+		"QuestChain" "104"
+		"ZoneID" "6"
+		"Money" "150"
+		"QuestItemID" "288"
+		"Objectives"
+		{
+			"3"
+			{
+				"Custom" "#INF_QUEST_105_OBJECTIVE_1"
+			}
+		}
+		"Reputation"
+		{
+			"2" "25"
+			"8" "25"
+		}
+    }
+    "108"
+    {
+		"Title" "#INF_QUEST_108_TITLE"
+		"ShortDescription" "#INF_QUEST_108_DESC_SHORT"
+		"LongDescription" "#INF_QUEST_108_DESC_LONG"
+		"DialogueFinishedQuest" "#INF_QUEST_108_DIALOGUE_FINISHED"
+		"LevelMin" "24"
+		"LevelMax" "32"
+		"Experience" "500"
+		"QuestChain" "105"
+		"ZoneID" "5"
+		"QuestHandInID" "55"
+		"Reputation"
+		{
+			"2" "25"
+		}
+    }
+}

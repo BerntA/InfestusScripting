@@ -1,0 +1,131 @@
+"Spells"
+{
+    "47"
+    {
+		"Type" "1"
+		"SubType" "0"
+		"Category" "5"
+		"Title" "#INF_SPELL_47_TEXT"
+		"Description" "#INF_SPELL_47_DESC"
+		"IconTexture" ""
+		"MagicSchool" "1"
+		"Knockback" "100"
+		"DrainValue" "10"
+		"CastTime" "1"
+		"CooldownTime" "4"
+		"Range" "1000"
+		"BuffDebuffID" "2"
+		"BuffDebuffDuration" "10"
+		"BuffDebuffPercentage" "0.25"
+		"Ranks"
+		{
+			"15" "25"
+			"35" "50"
+		}
+    }
+    "48"
+    {
+		"Type" "1"
+		"SubType" "0"
+		"Category" "5"
+		"Title" "#INF_SPELL_48_TEXT"
+		"Description" "#INF_SPELL_48_DESC"
+		"IconTexture" ""
+		"Knockback" "100"
+		"DrainValue" "10"
+		"CastTime" "1"
+		"CooldownTime" "15"
+		"Range" "1000"
+		"BuffDebuffID" "16"
+		"BuffDebuffDuration" "0"
+		"BuffDebuffPercentage" "1"
+		"Ranks"
+		{
+			"61" "81"
+		}
+    }
+    "49"
+    {
+		"Type" "1"
+		"SubType" "0"
+		"Category" "5"
+		"Title" "#INF_SPELL_49_TEXT"
+		"Description" "#INF_SPELL_49_DESC"
+		"IconTexture" ""
+		"Knockback" "50"
+		"DrainValue" "10"
+		"CastTime" "1"
+		"CooldownTime" "10"
+		"Range" "1000"
+		"BuffDebuffID" "8"
+		"BuffDebuffDuration" "4"
+		"BuffDebuffPercentage" "1"
+		"Ranks"
+		{
+			"53" "71"
+		}
+    }
+    "50"
+    {
+		"Type" "1"
+		"SubType" "0"
+		"ExtraEffectType" "5"
+		"Category" "5"
+		"Title" "#INF_SPELL_50_TEXT"
+		"Description" "#INF_SPELL_50_DESC"
+		"IconTexture" ""
+		"Misc" "75"
+		"Knockback" "100"
+		"DrainValue" "10"
+		"CastTime" "1"
+		"CooldownTime" "10"
+		"Range" "1000"
+		"Ranks"
+		{
+			"93" "117"
+		}
+    }
+    "51"
+    {
+		"Type" "1"
+		"SubType" "0"
+		"ExtraEffectType" "7"
+		"Category" "5"
+		"Title" "#INF_SPELL_51_TEXT"
+		"Description" "#INF_SPELL_51_DESC"
+		"IconTexture" ""
+		"Misc" "80"
+		"DamageBits" "32"
+		"MagicSchool" "1"
+		"Knockback" "250"
+		"DrainValue" "10"
+		"CastTime" "1"
+		"CooldownTime" "8"
+		"Range" "1000"
+		"BuffDebuffID" "2"
+		"BuffDebuffDuration" "10"
+		"BuffDebuffPercentage" "0.5"
+		"Ranks"
+		{
+			"31" "55"
+		}
+    }
+    "58"
+    {
+		"Type" "1"
+		"SubType" "0"
+		"Category" "5"
+		"Title" "#INF_SPELL_58_TEXT"
+		"Description" "#INF_SPELL_58_DESC"
+		"IconTexture" ""
+		"Knockback" "500"
+		"DrainValue" "10"
+		"CastTime" "1"
+		"CooldownTime" "12"
+		"Range" "1000"
+		"Ranks"
+		{
+			"65" "85"
+		}
+    }
+}

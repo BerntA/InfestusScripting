@@ -113,6 +113,7 @@
 		"Title" "#INF_QUEST_45_TITLE"
 		"ShortDescription" "#INF_QUEST_45_DESC_SHORT"
 		"LongDescription" "#INF_QUEST_45_DESC_LONG"
+		"DialogueFinishedQuest" "#INF_QUEST_45_DIALOGUE_FINISHED"
 		"LevelMin" "18"
 		"LevelMax" "30"
 		"Experience" "3250"

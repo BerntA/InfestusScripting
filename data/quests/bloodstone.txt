@@ -1,0 +1,144 @@
+"Quests"
+{
+    "106"
+    {
+		"Title" "#INF_QUEST_106_TITLE"
+		"ShortDescription" "#INF_QUEST_106_DESC_SHORT"
+		"LongDescription" "#INF_QUEST_106_DESC_LONG"
+		"DialogueStartedQuest" "#INF_QUEST_106_DIALOGUE_STARTED"
+		"DialogueFinishedQuest" "#INF_QUEST_106_DIALOGUE_FINISHED"
+		"LevelMin" "24"
+		"LevelMax" "32"
+		"Experience" "1000"
+		"QuestChain" "86"
+		"ZoneID" "7"
+		"Money" "200"
+		"Objectives"
+		{
+			"3"
+			{
+				"Custom" "#INF_QUEST_106_OBJECTIVE_1"
+			}
+		}
+		"Rewards"
+		{
+			"287"
+			{
+				"Quantity" "5"
+			}
+		}
+		"Reputation"
+		{
+			"5" "50"
+		}
+    }
+    "107"
+    {
+		"Title" "#INF_QUEST_107_TITLE"
+		"ShortDescription" "#INF_QUEST_107_DESC_SHORT"
+		"LongDescription" "#INF_QUEST_107_DESC_LONG"
+		"DialogueStartedQuest" "#INF_QUEST_107_DIALOGUE_STARTED"
+		"DialogueFinishedQuest" "#INF_QUEST_107_DIALOGUE_FINISHED"
+		"LevelMin" "24"
+		"LevelMax" "32"
+		"Experience" "2500"
+		"QuestChain" "106"
+		"ZoneID" "7"
+		"Money" "500"
+		"Objectives"
+		{
+			"3"
+			{
+				"Count" "3"
+				"Custom" "#INF_QUEST_107_OBJECTIVE_1"
+			}
+			"3"
+			{
+				"Count" "3"
+				"Custom" "#INF_QUEST_107_OBJECTIVE_2"
+			}
+			"3"
+			{
+				"Count" "3"
+				"Custom" "#INF_QUEST_107_OBJECTIVE_3"
+			}
+		}
+		"Rewards"
+		{
+			"287"
+			{
+				"Quantity" "15"
+			}
+		}
+		"Reputation"
+		{
+			"5" "100"
+		}
+    }
+    "109"
+    {
+		"Title" "#INF_QUEST_109_TITLE"
+		"ShortDescription" "#INF_QUEST_109_DESC_SHORT"
+		"LongDescription" "#INF_QUEST_109_DESC_LONG"
+		"DialogueStartedQuest" "#INF_QUEST_109_DIALOGUE_STARTED"
+		"DialogueFinishedQuest" "#INF_QUEST_109_DIALOGUE_FINISHED"
+		"LevelMin" "24"
+		"LevelMax" "32"
+		"Experience" "1250"
+		"QuestChain" "107"
+		"ZoneID" "7"
+		"Money" "500"
+		"QuestItemID" "289"
+		"Objectives"
+		{
+			"1"
+			{
+				"Target" "187"
+			}
+		}
+		"Rewards"
+		{
+			"287"
+			{
+				"Quantity" "30"
+			}
+		}
+		"Reputation"
+		{
+			"5" "100"
+		}
+    }
+    "110"
+    {
+		"Title" "#INF_QUEST_110_TITLE"
+		"ShortDescription" "#INF_QUEST_110_DESC_SHORT"
+		"LongDescription" "#INF_QUEST_110_DESC_LONG"
+		"DialogueStartedQuest" "#INF_QUEST_110_DIALOGUE_STARTED"
+		"DialogueFinishedQuest" "#INF_QUEST_110_DIALOGUE_FINISHED"
+		"LevelMin" "24"
+		"LevelMax" "32"
+		"Experience" "0"
+		"QuestChain" "106"
+		"ZoneID" "7"
+		"Money" "100"
+		"Repeatable" "1"
+		"Objectives"
+		{
+			"3"
+			{
+				"Custom" "#INF_QUEST_110_OBJECTIVE_1"
+			}
+		}
+		"Rewards"
+		{
+			"287"
+			{
+				"Quantity" "10"
+			}
+		}
+		"Reputation"
+		{
+			"5" "25"
+		}
+    }
+}

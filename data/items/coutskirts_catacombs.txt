@@ -40,8 +40,8 @@
     {
 		"Name" "#INF_ITEM_71_TEXT"
 		"Description" "#INF_ITEM_71_DESC"
-		"IconTexture" "icons/items/misc/key01"
-		"ItemInfo1" "17"
+		"IconTexture" "icons/items/misc/key03"
+		"ItemInfo1" "26"
 		"Type" "2"
 		"SubType" "2"
 		"Rarity" "2"

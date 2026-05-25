@@ -236,4 +236,62 @@
 			"ItemFlags" "2"
 		}
     }
+    "260"
+    {
+		"Name" "#INF_ITEM_260_TEXT"
+		"IconTexture" "icons/items/weapon/shield04_02"
+		"ItemInfo1" "19"
+		"ItemInfo2" "11"
+		"Type" "0"
+		"SubType" "10"
+		"Rarity" "1"
+		"Level" "20"
+		"IsUnique" "1"
+		"StatData"
+		{
+			"Armor" "90"
+			"Stamina" "15"
+			"Strength" "17"
+			"Agility" "9"
+		}
+		"ModelData"
+		{
+			"Model" "models/items/shields/shield04.mdl"
+			"Skin" "1"
+		}
+		"MiscData"
+		{
+			"SellValue" "200"
+			"ItemFlags" "2"
+			"CanTrade" "1"
+		}
+    }
+    "302"
+    {
+		"Name" "#INF_ITEM_302_TEXT"
+		"IconTexture" "icons/items/weapon/shield01"
+		"ItemInfo1" "19"
+		"ItemInfo2" "11"
+		"Type" "0"
+		"SubType" "10"
+		"Rarity" "3"
+		"IsUnique" "1"
+		"StatData"
+		{
+			"Armor" "165"
+			"Stamina" "27"
+			"Strength" "21"
+			"Agility" "7"
+			"Intellect" "15"
+		}
+		"ModelData"
+		{
+			"Model" "models/items/shields/shield01.mdl"
+		}
+		"MiscData"
+		{
+			"SellValue" "850"
+			"ItemFlags" "2"
+		}
+    }
 }

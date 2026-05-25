@@ -1,0 +1,17 @@
+"Items"
+{
+    "287"
+    {
+		"Name" "#INF_ITEM_287_TEXT"
+		"Description" "#INF_ITEM_287_DESC"
+		"IconTexture" "icons/items/misc/coin01"
+		"ItemInfo1" "24"
+		"Type" "2"
+		"SubType" "2"
+		"Rarity" "2"
+		"MiscData"
+		{
+			"SellValue" "15"
+		}
+    }
+}

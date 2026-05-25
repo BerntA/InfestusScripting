@@ -1,0 +1,304 @@
+"Items"
+{
+    "199"
+    {
+		"Name" "#INF_ITEM_199_TEXT"
+		"IconTexture" "icons/items/misc/snout01"
+		"ItemInfo1" "17"
+		"Type" "2"
+		"SubType" "1"
+    }
+    "200"
+    {
+		"Name" "#INF_ITEM_200_TEXT"
+		"IconTexture" "icons/items/misc/meat05"
+		"ItemInfo1" "20"
+		"Type" "2"
+		"SubType" "2"
+		"MiscData"
+		{
+			"SellValue" "1"
+			"CanTrade" "1"
+		}
+    }
+    "207"
+    {
+		"Name" "#INF_ITEM_207_TEXT"
+		"IconTexture" "icons/items/misc/scorpionstinger04"
+		"ItemInfo1" "20"
+		"Type" "2"
+		"SubType" "2"
+		"MiscData"
+		{
+			"SellValue" "1"
+			"CanTrade" "1"
+		}
+    }
+    "208"
+    {
+		"Name" "#INF_ITEM_208_TEXT"
+		"IconTexture" "icons/items/misc/scorpionhusk04"
+		"ItemInfo1" "20"
+		"Type" "2"
+		"SubType" "2"
+		"MiscData"
+		{
+			"SellValue" "1"
+			"CanTrade" "1"
+		}
+    }
+    "209"
+    {
+		"Name" "#INF_ITEM_209_TEXT"
+		"IconTexture" "icons/items/misc/scorpionclaw04"
+		"ItemInfo1" "20"
+		"Type" "2"
+		"SubType" "2"
+		"MiscData"
+		{
+			"SellValue" "1"
+			"CanTrade" "1"
+		}
+    }
+    "210"
+    {
+		"Name" "#INF_ITEM_210_TEXT"
+		"IconTexture" "icons/items/misc/mystic01"
+		"ItemInfo1" "23"
+		"Type" "2"
+		"SubType" "2"
+		"Rarity" "2"
+		"MiscData"
+		{
+			"SellValue" "10"
+			"CanTrade" "1"
+		}
+    }
+    "211"
+    {
+		"Name" "#INF_ITEM_211_TEXT"
+		"IconTexture" "icons/items/misc/beetlefang"
+		"ItemInfo1" "20"
+		"Type" "2"
+		"SubType" "2"
+		"MiscData"
+		{
+			"SellValue" "5"
+			"CanTrade" "1"
+		}
+    }
+    "213"
+    {
+		"Name" "#INF_ITEM_213_TEXT"
+		"IconTexture" "icons/items/misc/husk01"
+		"ItemInfo1" "17"
+		"Type" "2"
+		"SubType" "1"
+		"Rarity" "1"
+    }
+    "216"
+    {
+		"Name" "#INF_ITEM_216_TEXT"
+		"IconTexture" "icons/items/misc/snout01"
+		"ItemInfo1" "17"
+		"Type" "2"
+		"SubType" "1"
+		"Rarity" "1"
+		"IsUnique" "1"
+    }
+    "217"
+    {
+		"Name" "#INF_ITEM_217_TEXT"
+		"IconTexture" "icons/items/misc/scorpionstinger04"
+		"ItemInfo1" "17"
+		"Type" "2"
+		"SubType" "1"
+		"Rarity" "1"
+		"IsUnique" "1"
+    }
+    "231"
+    {
+		"Name" "#INF_ITEM_231_TEXT"
+		"IconTexture" "icons/items/misc/gem05"
+		"ItemInfo1" "17"
+		"Type" "2"
+		"SubType" "1"
+		"Rarity" "2"
+    }
+    "233"
+    {
+		"Name" "#INF_ITEM_233_TEXT"
+		"IconTexture" "icons/items/misc/stone01"
+		"ItemInfo1" "17"
+		"Type" "2"
+		"SubType" "2"
+		"IsUnique" "1"
+    }
+    "234"
+    {
+		"Name" "#INF_ITEM_234_TEXT"
+		"Description" "#INF_ITEM_234_DESC"
+		"IconTexture" "icons/items/misc/mystic02"
+		"ItemInfo1" "17"
+		"Type" "2"
+		"SubType" "1"
+		"Rarity" "1"
+    }
+    "235"
+    {
+		"Name" "#INF_ITEM_235_TEXT"
+		"IconTexture" "icons/items/misc/book01"
+		"ItemInfo1" "17"
+		"ItemInfo2" "14"
+		"Type" "2"
+		"SubType" "0"
+		"Rarity" "1"
+		"IsUnique" "1"
+		"MiscData"
+		{
+			"ConsumeValue" "11"
+			"SellValue" "5"
+		}
+    }
+    "236"
+    {
+		"Name" "#INF_ITEM_236_TEXT"
+		"IconTexture" "icons/items/misc/mystic02"
+		"ItemInfo1" "17"
+		"Type" "2"
+		"SubType" "1"
+		"Rarity" "1"
+		"IsUnique" "1"
+    }
+    "237"
+    {
+		"Name" "#INF_ITEM_237_TEXT"
+		"IconTexture" "icons/items/misc/mystic02"
+		"ItemInfo1" "17"
+		"Type" "2"
+		"SubType" "1"
+		"Rarity" "1"
+		"IsUnique" "1"
+    }
+    "238"
+    {
+		"Name" "#INF_ITEM_238_TEXT"
+		"IconTexture" "icons/items/misc/flowers02"
+		"ItemInfo1" "17"
+		"Type" "2"
+		"SubType" "1"
+		"Rarity" "1"
+		"ModelData"
+		{
+			"Model" "models/plantlife/monkeyflower/jn_monkeyflower_single_small.mdl"
+		}
+    }
+    "239"
+    {
+		"Name" "#INF_ITEM_239_TEXT"
+		"IconTexture" "icons/items/misc/letter"
+		"ItemInfo1" "17"
+		"ItemInfo2" "16"
+		"Type" "2"
+		"SubType" "0"
+		"Rarity" "1"
+		"IsUnique" "1"
+		"MiscData"
+		{
+			"ConsumeValue" "12"
+		}
+    }
+    "240"
+    {
+		"Name" "#INF_ITEM_240_TEXT"
+		"IconTexture" "icons/items/misc/parchment02"
+		"ItemInfo1" "17"
+		"Type" "2"
+		"SubType" "1"
+		"IsUnique" "1"
+    }
+    "241"
+    {
+		"Name" "#INF_ITEM_241_TEXT"
+		"IconTexture" "icons/items/misc/head01"
+		"ItemInfo1" "17"
+		"Type" "2"
+		"SubType" "1"
+    }
+    "242"
+    {
+		"Name" "#INF_ITEM_242_TEXT"
+		"IconTexture" "icons/items/armor/ring02"
+		"ItemInfo1" "17"
+		"Type" "2"
+		"SubType" "1"
+		"Rarity" "1"
+		"IsUnique" "1"
+    }
+    "243"
+    {
+		"Name" "#INF_ITEM_243_TEXT"
+		"IconTexture" "icons/items/misc/pouch03"
+		"ItemInfo1" "17"
+		"Type" "2"
+		"SubType" "1"
+		"Rarity" "1"
+		"ModelData"
+		{
+			"Model" "models/props/exterior/lootbag.mdl"
+		}
+    }
+    "244"
+    {
+		"Name" "#INF_ITEM_244_TEXT"
+		"IconTexture" "icons/items/misc/letter"
+		"ItemInfo1" "17"
+		"ItemInfo2" "16"
+		"Type" "2"
+		"SubType" "0"
+		"IsUnique" "1"
+		"MiscData"
+		{
+			"ConsumeValue" "13"
+		}
+    }
+    "245"
+    {
+		"Name" "#INF_ITEM_245_TEXT"
+		"IconTexture" "icons/items/weapon/pickaxe"
+		"ItemInfo1" "17"
+		"Type" "2"
+		"SubType" "1"
+		"IsUnique" "1"
+		"ModelData"
+		{
+			"Model" "models/items/static/misc/pick.mdl"
+		}
+    }
+    "246"
+    {
+		"Name" "#INF_ITEM_246_TEXT"
+		"IconTexture" "icons/items/misc/sausage01"
+		"ItemInfo1" "17"
+		"Type" "2"
+		"SubType" "1"
+		"IsUnique" "1"
+		"ModelData"
+		{
+			"Model" "models/aoc_outdoor/sausage_01.mdl"
+		}
+    }
+    "247"
+    {
+		"Name" "#INF_ITEM_247_TEXT"
+		"IconTexture" "icons/items/misc/scroll01"
+		"ItemInfo1" "17"
+		"Type" "2"
+		"SubType" "1"
+		"IsUnique" "1"
+		"ModelData"
+		{
+			"Model" "models/aoc_objects/scroll01_static.mdl"
+		}
+    }
+}

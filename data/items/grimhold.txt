@@ -1,0 +1,177 @@
+"Items"
+{
+    "214"
+    {
+		"Name" "#INF_ITEM_214_TEXT"
+		"IconTexture" "icons/items/misc/scarabshell01"
+		"ItemInfo1" "23"
+		"Type" "2"
+		"SubType" "2"
+		"Rarity" "2"
+		"MiscData"
+		{
+			"SellValue" "15"
+			"CanTrade" "1"
+		}
+    }
+    "215"
+    {
+		"Name" "#INF_ITEM_215_TEXT"
+		"IconTexture" "icons/items/misc/scarabshell02"
+		"ItemInfo1" "20"
+		"Type" "2"
+		"SubType" "2"
+		"MiscData"
+		{
+			"SellValue" "1"
+			"CanTrade" "1"
+		}
+    }
+    "248"
+    {
+		"Name" "#INF_ITEM_248_TEXT"
+		"IconTexture" "icons/items/misc/grail02"
+		"ItemInfo1" "17"
+		"Type" "2"
+		"SubType" "1"
+		"Rarity" "4"
+		"IsUnique" "1"
+		"ModelData"
+		{
+			"Model" "models/items/misc/grail02.mdl"
+		}
+    }
+    "250"
+    {
+		"Name" "#INF_ITEM_250_TEXT"
+		"Description" "#INF_ITEM_250_DESC"
+		"IconTexture" "icons/items/misc/letter"
+		"ItemInfo1" "17"
+		"Type" "2"
+		"SubType" "2"
+		"IsUnique" "1"
+    }
+    "251"
+    {
+		"Name" "#INF_ITEM_251_TEXT"
+		"IconTexture" "icons/items/misc/gtablet03"
+		"ItemInfo1" "17"
+		"Type" "2"
+		"SubType" "2"
+		"Rarity" "2"
+		"IsUnique" "1"
+		"ModelData"
+		{
+			"Model" "models/propper/grimhold/tablet03.mdl"
+		}
+		"MiscData"
+		{
+			"SellValue" "50"
+			"CanTrade" "1"
+		}
+    }
+    "252"
+    {
+		"Name" "#INF_ITEM_252_TEXT"
+		"IconTexture" "icons/items/misc/gtablet02"
+		"ItemInfo1" "17"
+		"Type" "2"
+		"SubType" "2"
+		"Rarity" "2"
+		"IsUnique" "1"
+		"ModelData"
+		{
+			"Model" "models/propper/grimhold/tablet02.mdl"
+		}
+		"MiscData"
+		{
+			"SellValue" "50"
+			"CanTrade" "1"
+		}
+    }
+    "253"
+    {
+		"Name" "#INF_ITEM_253_TEXT"
+		"IconTexture" "icons/items/misc/gtablet01"
+		"ItemInfo1" "17"
+		"Type" "2"
+		"SubType" "2"
+		"Rarity" "2"
+		"IsUnique" "1"
+		"ModelData"
+		{
+			"Model" "models/propper/grimhold/tablet01.mdl"
+		}
+		"MiscData"
+		{
+			"SellValue" "50"
+			"CanTrade" "1"
+		}
+    }
+    "254"
+    {
+		"Name" "#INF_ITEM_254_TEXT"
+		"IconTexture" "icons/items/misc/vial01"
+		"ItemInfo1" "17"
+		"Type" "2"
+		"SubType" "2"
+		"Rarity" "1"
+		"IsUnique" "1"
+    }
+    "255"
+    {
+		"Name" "#INF_ITEM_255_TEXT"
+		"Description" "#INF_ITEM_255_DESC"
+		"IconTexture" "icons/items/misc/vial08"
+		"ItemInfo1" "17"
+		"Type" "2"
+		"SubType" "1"
+		"Rarity" "1"
+		"IsUnique" "1"
+    }
+    "256"
+    {
+		"Name" "#INF_ITEM_256_TEXT"
+		"IconTexture" "icons/items/misc/book01"
+		"ItemInfo1" "17"
+		"Type" "2"
+		"SubType" "1"
+		"Rarity" "1"
+    }
+    "257"
+    {
+		"Name" "#INF_ITEM_257_TEXT"
+		"Description" "#INF_ITEM_257_DESC"
+		"IconTexture" "icons/items/misc/vial08"
+		"ItemInfo1" "17"
+		"Type" "2"
+		"SubType" "2"
+		"Rarity" "1"
+		"IsUnique" "1"
+    }
+    "280"
+    {
+		"Name" "#INF_ITEM_280_TEXT"
+		"IconTexture" "icons/items/misc/dust01"
+		"ItemInfo1" "17"
+		"Type" "2"
+		"SubType" "2"
+		"Rarity" "1"
+		"MiscData"
+		{
+			"SellValue" "10"
+			"CanTrade" "1"
+		}
+    }
+    "290"
+    {
+		"Name" "#INF_ITEM_290_TEXT"
+		"Description" "#INF_ITEM_290_DESC"
+		"IconTexture" "icons/items/misc/key01"
+		"ItemInfo1" "26"
+		"Type" "2"
+		"SubType" "2"
+		"Rarity" "2"
+		"IsUnique" "1"
+    }
+}

@@ -6,10 +6,17 @@
         "allow_mounts" "1"
         "map" "capital_outskirts"
         "name" "Capital Outskirts"
-        "xpos" "-13463"
-        "ypos" "12307"
-        "scale" "26.34"
-        "zoom" "5"
+		"minimaps"
+		{
+			"capital_outskirts_0"
+			{
+				"xpos" "-13463"
+				"ypos" "12307"
+				"scale" "26.34"
+				"zoom" "5"
+				"rotate" "0"
+			}
+		}
     }
     "2"
     {
@@ -17,10 +24,17 @@
         "allow_mounts" "0"
         "map" "coutskirts_catacombs"
         "name" "Outskirts Catacombs"
-        "xpos" "3969"
-        "ypos" "15090"
-        "scale" "7.7"
-        "zoom" "5"
+		"minimaps"
+		{
+			"coutskirts_catacombs_0"
+			{
+				"xpos" "3969"
+				"ypos" "15090"
+				"scale" "7.7"
+				"zoom" "5"
+				"rotate" "0"
+			}
+		}
     }
     "3"
     {
@@ -28,10 +42,17 @@
         "allow_mounts" "1"
         "map" "lightfall"
         "name" "Lightfall"
-        "xpos" "-7563"
-        "ypos" "5437"
-        "scale" "22"
-        "zoom" "5"
+		"minimaps"
+		{
+			"lightfall_0"
+			{
+				"xpos" "-7563"
+				"ypos" "5437"
+				"scale" "22"
+				"zoom" "5"
+				"rotate" "0"
+			}
+		}
     }
     "4"
     {
@@ -39,10 +60,17 @@
         "allow_mounts" "0"
         "map" "cavern_torment"
         "name" "Cavern of Torment"
-        "xpos" "-2418"
-        "ypos" "5878"
-        "scale" "6.5"
-        "zoom" "3.5"
+		"minimaps"
+		{
+			"cavern_torment_0"
+			{
+				"xpos" "-2418"
+				"ypos" "5878"
+				"scale" "6.5"
+				"zoom" "3.5"
+				"rotate" "0"
+			}
+		}
     }
     "5"
     {
@@ -50,31 +78,68 @@
         "allow_mounts" "1"
         "map" "scorchridge"
         "name" "Scorchridge"
-        "xpos" "0"
-        "ypos" "0"
-        "scale" "1"
-        "zoom" "5"
+		"minimaps"
+		{
+			"scorchridge_0"
+			{
+				"xpos" "-7100"
+				"ypos" "4770"
+				"scale" "23"
+				"zoom" "5"
+				"rotate" "0"
+			}
+			"scorchridge_1"
+			{
+				"xpos" "213"
+				"ypos" "-3129"
+				"scale" "8.7"
+				"zoom" "5"
+				"rotate" "0"
+			}
+		}
     }
     "6"
     {
         "allow_pvp" "0"
         "allow_mounts" "0"
         "map" "grimhold"
-        "name" "Grimhold Library"
-        "xpos" "0"
-        "ypos" "0"
-        "scale" "1"
-        "zoom" "5"
+        "name" "Grimhold Sanctuary"
+		"minimaps"
+		{
+			"grimhold_0"
+			{
+				"xpos" "-1841"
+				"ypos" "5826"
+				"scale" "8"
+				"zoom" "5"
+				"rotate" "0"
+			}
+			"grimhold_1"
+			{
+				"xpos" "62"
+				"ypos" "-381"
+				"scale" "4.5"
+				"zoom" "5"
+				"rotate" "0"
+			}
+		}
     }
     "7"
     {
         "allow_pvp" "0"
         "allow_mounts" "0"
-        "map" "trials01"
-        "name" "Trials of Vorath"
-        "xpos" "0"
-        "ypos" "0"
-        "scale" "1"
-        "zoom" "5"
+        "map" "arena01"
+        "name" "Bloodstone Arena"
+		"minimaps"
+		{
+			"arena01_0"
+			{
+				"xpos" "-450"
+				"ypos" "3110"
+				"scale" "2.84"
+				"zoom" "4"
+				"rotate" "0"
+			}
+		}
     }
 }

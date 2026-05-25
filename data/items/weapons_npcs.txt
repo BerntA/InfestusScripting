@@ -1,0 +1,103 @@
+"Items"
+{
+    "192"
+    {
+		"Name" "#INF_ITEM_192_TEXT"
+		"IconTexture" ""
+		"ItemInfo1" "10"
+		"ItemInfo2" "7"
+		"Type" "0"
+		"SubType" "9"
+		"Rarity" "3"
+		"IsUnique" "1"
+		"EquipData"
+		{
+			"DamageMin" "135"
+			"DamageMax" "175"
+			"AttackSpeed" "0.5"
+		}
+		"ChanceOnHit"
+		{
+			"Type" "4"
+			"ValueMin" "150"
+			"ValueMax" "300"
+			"ID" "1"
+			"Duration" "15"
+			"Probability" "0.1"
+		}
+		"ModelData"
+		{
+			"Model" "models/items/maces/mace09.mdl"
+		}
+		"MiscData"
+		{
+			"ItemFlags" "1"
+		}
+    }
+    "193"
+    {
+		"Name" "#INF_ITEM_193_TEXT"
+		"IconTexture" ""
+		"ItemInfo1" "10"
+		"ItemInfo2" "7"
+		"Type" "0"
+		"SubType" "9"
+		"Rarity" "3"
+		"IsUnique" "1"
+		"EquipData"
+		{
+			"DamageMin" "89"
+			"DamageMax" "103"
+		}
+		"ChanceOnHit"
+		{
+			"Type" "4"
+			"ValueMin" "100"
+			"ValueMax" "150"
+			"ID" "1"
+			"Duration" "15"
+			"Probability" "0.15"
+		}
+		"ModelData"
+		{
+			"Model" "models/items/maces/mace10.mdl"
+		}
+		"MiscData"
+		{
+			"ItemFlags" "1"
+		}
+    }
+    "194"
+    {
+		"Name" "#INF_ITEM_194_TEXT"
+		"IconTexture" ""
+		"ItemInfo1" "10"
+		"ItemInfo2" "5"
+		"Type" "0"
+		"SubType" "9"
+		"Rarity" "3"
+		"IsUnique" "1"
+		"EquipData"
+		{
+			"DamageMin" "78"
+			"DamageMax" "97"
+		}
+		"ChanceOnHit"
+		{
+			"Type" "4"
+			"ValueMin" "125"
+			"ValueMax" "150"
+			"ID" "1"
+			"Duration" "15"
+			"Probability" "0.15"
+		}
+		"ModelData"
+		{
+			"Model" "models/items/static/swords/sword10.mdl"
+		}
+		"MiscData"
+		{
+			"ItemFlags" "1"
+		}
+    }
+}

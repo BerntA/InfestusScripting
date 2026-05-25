@@ -18,6 +18,7 @@
 		{
 			"14" "28"
 			"28" "44"
+			"44" "60"
 		}
     }
     "4"
@@ -40,7 +41,8 @@
 		"Ranks"
 		{
 			"30" "55"
-			"55" "75"
+			"50" "75"
+			"70" "95"
 		}
     }
     "5"
@@ -61,6 +63,7 @@
 		"Ranks"
 		{
 			"10" "20"
+			"20" "30"
 		}
     }
     "9"
@@ -100,6 +103,7 @@
 		"Ranks"
 		{
 			"25" "35"
+			"45" "55"
 		}
     }
     "16"
@@ -122,6 +126,7 @@
 		"Ranks"
 		{
 			"50" "75"
+			"70" "100"
 		}
     }
     "17"
@@ -160,7 +165,8 @@
 		"Range" "400"
 		"Ranks"
 		{
-			"52" "70"
+			"50" "70"
+			"70" "90"
 		}
     }
     "26"
@@ -204,6 +210,65 @@
 		"Ranks"
 		{
 			"65" "85"
+		}
+    }
+    "38"
+    {
+		"Type" "2"
+		"SubType" "1"
+		"ExtraEffectType" "9"
+		"Category" "8"
+		"Title" "#INF_SPELL_38_TEXT"
+		"Description" "#INF_SPELL_38_DESC"
+		"IconTexture" "icons/items/spell/magic_chainlightning"
+		"Misc" "3"
+		"MagicSchool" "4"
+		"DrainValue" "30"
+		"CastTime" "4"
+		"CooldownTime" "6"
+		"Range" "300"
+		"Ranks"
+		{
+			"100" "135"
+		}
+    }
+    "39"
+    {
+		"Type" "2"
+		"SubType" "1"
+		"ExtraEffectType" "9"
+		"Category" "8"
+		"Title" "#INF_SPELL_39_TEXT"
+		"Description" "#INF_SPELL_39_DESC"
+		"IconTexture" "icons/items/spell/magic_lightningbolt"
+		"Misc" "1"
+		"MagicSchool" "4"
+		"DrainValue" "30"
+		"CastTime" "2"
+		"CooldownTime" "1"
+		"Range" "300"
+		"Ranks"
+		{
+			"100" "135"
+		}
+    }
+    "46"
+    {
+		"Type" "2"
+		"SubType" "0"
+		"ExtraEffectType" "10"
+		"Category" "8"
+		"Title" "#INF_SPELL_46_TEXT"
+		"Description" "#INF_SPELL_46_DESC"
+		"IconTexture" "icons/items/spell/magic_polymorph_chicken"
+		"Misc" "2"
+		"DrainValue" "50"
+		"CastTime" "5"
+		"CooldownTime" "2.5"
+		"Range" "350"
+		"Ranks"
+		{
+			"0" "0"
 		}
     }
 }

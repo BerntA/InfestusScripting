@@ -1,0 +1,18 @@
+"Items"
+{
+    "288"
+    {
+		"Name" "#INF_ITEM_288_TEXT"
+		"Description" "#INF_ITEM_288_DESC"
+		"IconTexture" "icons/items/misc/disguise01"
+		"ItemInfo1" "17"
+		"Type" "2"
+		"SubType" "5"
+		"Rarity" "1"
+		"IsUnique" "1"
+		"MiscData"
+		{
+			"ConsumeValue" "1"
+		}
+    }
+}

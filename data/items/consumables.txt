@@ -408,6 +408,7 @@
     "142"
     {
 		"Name" "#INF_ITEM_142_TEXT"
+		"Description" "#INF_ITEM_142_DESC"
 		"IconTexture" "icons/items/misc/vial03"
 		"ItemInfo1" "14"
 		"Type" "1"
@@ -487,6 +488,272 @@
 			"ConsumeValue" "75"
 			"SellValue" "20"
 			"CanTrade" "1"
+		}
+    }
+    "201"
+    {
+		"Name" "#INF_ITEM_201_TEXT"
+		"IconTexture" "icons/items/misc/meat04"
+		"ItemInfo1" "15"
+		"Type" "1"
+		"SubType" "3"
+		"Rarity" "1"
+		"Level" "20"
+		"MiscData"
+		{
+			"ConsumeValue" "200"
+			"SellValue" "35"
+			"CanTrade" "1"
+		}
+    }
+    "218"
+    {
+		"Name" "#INF_ITEM_218_TEXT"
+		"IconTexture" "icons/items/misc/fruit01"
+		"ItemInfo1" "15"
+		"Type" "1"
+		"SubType" "3"
+		"Rarity" "1"
+		"Level" "20"
+		"MiscData"
+		{
+			"ConsumeValue" "200"
+			"SellValue" "35"
+			"CanTrade" "1"
+		}
+    }
+    "219"
+    {
+		"Name" "#INF_ITEM_219_TEXT"
+		"IconTexture" "icons/items/misc/fish03"
+		"ItemInfo1" "15"
+		"Type" "1"
+		"SubType" "3"
+		"Rarity" "1"
+		"Level" "25"
+		"MiscData"
+		{
+			"ConsumeValue" "300"
+			"SellValue" "50"
+			"CanTrade" "1"
+		}
+    }
+    "220"
+    {
+		"Name" "#INF_ITEM_220_TEXT"
+		"IconTexture" "icons/items/misc/fruit03"
+		"ItemInfo1" "15"
+		"Type" "1"
+		"SubType" "3"
+		"Rarity" "1"
+		"Level" "15"
+		"MiscData"
+		{
+			"ConsumeValue" "100"
+			"SellValue" "25"
+			"CanTrade" "1"
+		}
+    }
+    "221"
+    {
+		"Name" "#INF_ITEM_221_TEXT"
+		"IconTexture" "icons/items/misc/potion01"
+		"ItemInfo1" "14"
+		"Type" "1"
+		"SubType" "1"
+		"Rarity" "1"
+		"Level" "20"
+		"MiscData"
+		{
+			"ConsumeValue" "250"
+			"SellValue" "40"
+			"CanTrade" "1"
+		}
+    }
+    "222"
+    {
+		"Name" "#INF_ITEM_222_TEXT"
+		"IconTexture" "icons/items/misc/potion02"
+		"ItemInfo1" "14"
+		"Type" "1"
+		"SubType" "2"
+		"Rarity" "1"
+		"Level" "20"
+		"MiscData"
+		{
+			"ConsumeValue" "100"
+			"SellValue" "40"
+			"CanTrade" "1"
+		}
+    }
+    "223"
+    {
+		"Name" "#INF_ITEM_223_TEXT"
+		"IconTexture" "icons/items/misc/vial02"
+		"ItemInfo1" "14"
+		"Type" "1"
+		"SubType" "5"
+		"Rarity" "1"
+		"Level" "20"
+		"StatData"
+		{
+			"Strength" "30"
+		}
+		"MiscData"
+		{
+			"SellValue" "30"
+			"CanTrade" "1"
+		}
+    }
+    "224"
+    {
+		"Name" "#INF_ITEM_224_TEXT"
+		"IconTexture" "icons/items/misc/vial02"
+		"ItemInfo1" "14"
+		"Type" "1"
+		"SubType" "4"
+		"Rarity" "1"
+		"Level" "20"
+		"StatData"
+		{
+			"Stamina" "30"
+		}
+		"MiscData"
+		{
+			"SellValue" "30"
+			"CanTrade" "1"
+		}
+    }
+    "225"
+    {
+		"Name" "#INF_ITEM_225_TEXT"
+		"IconTexture" "icons/items/misc/vial02"
+		"ItemInfo1" "14"
+		"Type" "1"
+		"SubType" "6"
+		"Rarity" "1"
+		"Level" "20"
+		"StatData"
+		{
+			"Agility" "30"
+		}
+		"MiscData"
+		{
+			"SellValue" "30"
+			"CanTrade" "1"
+		}
+    }
+    "226"
+    {
+		"Name" "#INF_ITEM_226_TEXT"
+		"IconTexture" "icons/items/misc/vial02"
+		"ItemInfo1" "14"
+		"Type" "1"
+		"SubType" "7"
+		"Rarity" "1"
+		"Level" "20"
+		"StatData"
+		{
+			"Intellect" "30"
+		}
+		"MiscData"
+		{
+			"SellValue" "30"
+			"CanTrade" "1"
+		}
+    }
+    "227"
+    {
+		"Name" "#INF_ITEM_227_TEXT"
+		"IconTexture" "icons/items/misc/vial07"
+		"ItemInfo1" "14"
+		"Type" "1"
+		"SubType" "11"
+		"Rarity" "1"
+		"Level" "20"
+		"ResistanceData"
+		{
+			"Fire" "25"
+			"Water" "25"
+			"Shadow" "25"
+			"Earth" "25"
+			"Wind" "25"
+		}
+		"MiscData"
+		{
+			"SellValue" "100"
+			"CanTrade" "1"
+		}
+    }
+    "228"
+    {
+		"Name" "#INF_ITEM_228_TEXT"
+		"IconTexture" "icons/items/misc/potion07"
+		"ItemInfo1" "14"
+		"Type" "1"
+		"SubType" "8"
+		"Rarity" "1"
+		"Level" "25"
+		"EquipData"
+		{
+			"MeleeAttackPower" "150"
+		}
+		"MiscData"
+		{
+			"SellValue" "175"
+			"CanTrade" "1"
+		}
+    }
+    "229"
+    {
+		"Name" "#INF_ITEM_229_TEXT"
+		"IconTexture" "icons/items/misc/potion03"
+		"ItemInfo1" "14"
+		"Type" "1"
+		"SubType" "10"
+		"Rarity" "1"
+		"Level" "25"
+		"EquipData"
+		{
+			"SpellPower" "125"
+		}
+		"MiscData"
+		{
+			"SellValue" "175"
+			"CanTrade" "1"
+		}
+    }
+    "230"
+    {
+		"Name" "#INF_ITEM_230_TEXT"
+		"IconTexture" "icons/items/misc/potion06"
+		"ItemInfo1" "14"
+		"Type" "1"
+		"SubType" "9"
+		"Rarity" "1"
+		"Level" "25"
+		"EquipData"
+		{
+			"RangedAttackPower" "200"
+		}
+		"MiscData"
+		{
+			"SellValue" "175"
+			"CanTrade" "1"
+		}
+    }
+    "299"
+    {
+		"Name" "#INF_ITEM_299_TEXT"
+		"Description" "#INF_ITEM_299_DESC"
+		"IconTexture" "icons/items/misc/potion05"
+		"ItemInfo1" "14"
+		"Type" "1"
+		"SubType" "1"
+		"Rarity" "1"
+		"MiscData"
+		{
+			"ConsumeValue" "5000"
 		}
     }
 }

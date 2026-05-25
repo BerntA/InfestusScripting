@@ -21,8 +21,8 @@
 		}
 		"Spells"
 		{
-			"1" "2"
-			"1" "1"
+			"1" "52"
+			"1" "53"
 		}
 		"ModelData"
 		{
@@ -172,9 +172,10 @@
 		}
 		"Spells"
 		{
-			"1" "2"
 			"1" "20"
 			"0" "31"
+			"0" "42"
+			"1" "53"
 		}
 		"Loots"
 		{
@@ -344,8 +345,8 @@
 		}
 		"Spells"
 		{
-			"1" "2"
 			"0" "12"
+			"1" "53"
 		}
 		"Loots"
 		{
@@ -437,8 +438,8 @@
 		}
 		"Spells"
 		{
-			"1" "1"
-			"1" "2"
+			"1" "52"
+			"1" "53"
 		}
 		"Loots"
 		{
@@ -505,8 +506,8 @@
 		}
 		"Spells"
 		{
-			"1" "2"
-			"0" "1"
+			"0" "52"
+			"1" "53"
 		}
 		"Loots"
 		{
@@ -571,8 +572,8 @@
 		}
 		"Spells"
 		{
-			"1" "1"
-			"1" "2"
+			"1" "52"
+			"1" "53"
 		}
 		"Loots"
 		{
@@ -663,6 +664,56 @@
 			"angx" "0"
 			"angy" "175"
 			"angz" "0"
+		}
+    }
+    "51"
+    {
+		"Name" "#INF_NPC_51_NAME"
+		"Level" "25"
+		"Health" "2500"
+		"CollisionHeight" "103"
+		"IsBoss" "1"
+		"Soundscript" "Hulk"
+		"MoneyRewardMin" "200"
+		"RelationshipID" "2"
+		"ZoneLink" "2"
+		"Attributes"
+		{
+			"Armor" "2000"
+			"DamageMin" "107"
+			"DamageMax" "126"
+			"AttackRange" "93"
+			"DrainerRegenRate" "0.025"
+			"FireResistance" "25"
+			"WaterResistance" "25"
+			"ShadowResistance" "25"
+			"EarthResistance" "25"
+			"WindResistance" "25"
+		}
+		"Spells"
+		{
+			"0" "54"
+		}
+		"ModelData"
+		{
+			"models/characters/npc/hulk.mdl"
+			{
+			}
+		}
+		"CamData"
+		{
+			"xpos" "32"
+			"ypos" "0"
+			"zpos" "-69"
+			"angx" "0"
+			"angy" "182"
+			"angz" "0"
+		}
+		"Hitbox"
+		{
+			"xpos" "15"
+			"ypos" "15"
+			"zpos" "95"
 		}
     }
 }

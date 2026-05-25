@@ -11,7 +11,7 @@
 		"INF_MAP_COCATACOMBS_RESCUE_HELP1" "Please, show mercy! What have I done to deserve this?! Let me out, please!"
 		"INF_MAP_COCATACOMBS_RESCUE_HELP2" "I think the battle master holds the key to the cage. Please use it to get me out of here!"
 		"INF_MAP_COCATACOMBS_RESCUE1" "Free at last! Thank you, your bravery will not be forgotten! Please see me safely to the exit!"
-		"INF_MAP_COCATACOMBS_RESCUE2" "Your efforts are most appreciated. Rorin will hear of your bravery, young travellers!"
+		"INF_MAP_COCATACOMBS_RESCUE2" "Your efforts are most appreciated. Rorin will hear of your bravery, young travelers!"
 		"INF_MAP_COCATACOMBS_MOROES1" "Wake up you wretches! We have visitors! The dark priestess must not be disturbed! Make quick work of them!"
 		"INF_MAP_COCATACOMBS_MOROES2" "Puny humans, you will suffer a merciless death!"
 		"INF_MAP_COCATACOMBS_MOROES3" "The dark priestess never forgets!"
@@ -35,8 +35,52 @@
 		"INF_MAP_LIGHTFALL_CHICKEN2" "*Cluck* Thank You! *Cluck*"
 		"INF_MAP_LIGHTFALL_TENTFIRE" "The tent is on fire! Do something, slackers!"
 		
+		// SCORCHRIDGE
+		"INF_MAP_SCORCHRIDGE_SLAVER1" "Speed it up you maggots!"
+		"INF_MAP_SCORCHRIDGE_SLAVER2" "Lord Roschas expects you to work faster than this, speed it up, or else!"
+		"INF_MAP_SCORCHRIDGE_MINERS1" "Yes sire, we are doing our best!"
+		"INF_MAP_SCORCHRIDGE_MINERS2" "Please, mercy, please! We will do better!"
+		"INF_MAP_SCORCHRIDGE_SPY1" "My lord, I have yet another report for you."
+		"INF_MAP_SCORCHRIDGE_SPY2" "With pleasure, my lord!"
+		"INF_MAP_SCORCHRIDGE_ROSCHAS1" "Fruitful news, I hope? Let me take a look..."
+		"INF_MAP_SCORCHRIDGE_ROSCHAS2" "This is most interesting, we must be vigilant! Make haste, return to your post."
+		"INF_MAP_SCORCHRIDGE_DOKSFIR1" "Leave my chicken alone!"
+		"INF_MAP_SCORCHRIDGE_BONELORD1" "Who dare challenge the Bone Lord?!"
+		"INF_MAP_SCORCHRIDGE_GALADEN1" "Release me at once!"
+		"INF_MAP_SCORCHRIDGE_GALADEN2" "Lightfall shall have your head, dog!"
+		"INF_MAP_SCORCHRIDGE_SLAVER3" "Quit your bellyaching, scumbag!"
+		"INF_MAP_SCORCHRIDGE_GALADEN3" "Freedom at last! You have done Lightfall a great service, friend. I shall inform our king of your most honorable deed!"
+		"INF_MAP_SCORCHRIDGE_GALADEN4" "King's grace! I hope you can get me out of this, the Roschas will surely pick up a fight.."
+		"INF_MAP_SCORCHRIDGE_DENY_LEVEL_ARENA" "You need to complete the Bloodstone Initiation quest first."
+		"INF_MAP_SCORCHRIDGE_DENY_LEVEL_GRIMHOLD" "An arcane lock is preventing you from entering the sanctuary."
+		"INF_MAP_SCORCHRIDGE_NOBLE1" "Ughh.. My head... What happened?"
+		"INF_MAP_SCORCHRIDGE_NOBLE2" "I feel weak.. Ugh!"
+		"INF_MAP_SCORCHRIDGE_NOBLE3" "Oh dear..."
+		"INF_MAP_SCORCHRIDGE_VAEL1" "What a pity.. It was worth a shot, I suppose.."
+		
 		// Cavern of Torment
 		"INF_MAP_CAVERNTORMENT_SHADE_SIGHTED" "You should not have come here! Mol'Baragh will consume your soul!"
 		"INF_MAP_CAVERNTORMENT_SHADE_KILLED" "The barrier is down! What is the meaning of this?! Prepare yourselves!!"
+		
+		// Grimhold
+		"INF_MAP_GRIMHOLD_ESCAPE1" "I admire your bravery, Valoren shall hear of your valorous deeds."
+		"INF_MAP_GRIMHOLD_ESCAPE2" "My loyal brothers have been turned into wretched abominations! I will not leave them here, not like this! They shall be purged, by gods grace!"
+		"INF_MAP_GRIMHOLD_ESCAPE3" "Well fought, may they rest in peace... I suppose you seek passage to the inner sanctum? I can unlock the doors for you, but you'll be on your own!"
+		"INF_MAP_GRIMHOLD_ESCAPE4" "There we go, thank you so much for saving my skin.. I will see myself out, freedom at last..."
+		"INF_MAP_GRIMHOLD_HORIK_DEAD" "Nooo! You'll sorely regret that!"
+		"INF_MAP_GRIMHOLD_HUNTSMAN1" "Well well well... Human flesh is on the menu, don't be shy my dearies!"
+		"INF_MAP_GRIMHOLD_VIZARIEL1" "No! My mind is not my own... Flee while you still can!"
+		"INF_MAP_GRIMHOLD_VIZARIEL2" "I am... Free? Keldroth's grip has waned, I can finally find peace.. Thank you, stranger."
+		"INF_MAP_GRIMHOLD_CUSTODIAN1" "You seek my spoils?! You will not have my spoils!"
+		"INF_MAP_GRIMHOLD_PUZZLE_FAIL1" "Missing Tablet of Oppression"
+		"INF_MAP_GRIMHOLD_PUZZLE_FAIL2" "Missing Tablet of Wisdom"
+		"INF_MAP_GRIMHOLD_PUZZLE_FAIL3" "Missing Tablet of Power"
+		
+		// Bloodstone Arena
+		"INF_MAP_BLOODSTONE_ARENA_START" "Let the battles commence!"
+		"INF_MAP_BLOODSTONE_ARENA_END" "Bravo! You have done well, my clients are most pleased. Please do come back if you wish to challenge yourselves again!"
+		"INF_MAP_BLOODSTONE_ARENA_ENTER" "Who have we here? More challengers? I sure hope you have come prepared, I'm still picking up pieces of the previous lot.. Step forth to the center to begin, and remember, any fallen comrades will punish you severely - so keep each other alive!"
+		"INF_MAP_BLOODSTONE_ARENA_FINAL1" "You dare challenge me? Who put you up to this?! I shall feast on your bones, brace yourselves!"
+		"INF_MAP_BLOODSTONE_ARENA_FINAL2" "Impossible! My legacy... I.. I cannot die! Aaaargh!"
 	}
 }

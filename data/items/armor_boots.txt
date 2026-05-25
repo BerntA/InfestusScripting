@@ -65,4 +65,69 @@
 			"SellValue" "300"
 		}
     }
+    "273"
+    {
+		"Name" "#INF_ITEM_273_TEXT"
+		"IconTexture" "icons/items/armor/templar_boots"
+		"ItemInfo1" "6"
+		"ItemInfo2" "3"
+		"Type" "0"
+		"SubType" "5"
+		"Rarity" "3"
+		"Level" "25"
+		"IsUnique" "1"
+		"StatData"
+		{
+			"Armor" "150"
+			"Stamina" "16"
+			"Strength" "13"
+			"Intellect" "17"
+		}
+		"EquipData"
+		{
+			"SpellPower" "10"
+			"Focus" "10"
+		}
+		"ModelData"
+		{
+			"Model" "models/items/templar/boots.mdl"
+		}
+		"MiscData"
+		{
+			"SellValue" "750"
+			"CanTrade" "1"
+		}
+    }
+    "274"
+    {
+		"Name" "#INF_ITEM_274_TEXT"
+		"IconTexture" "icons/items/armor/sovereign_boots"
+		"ItemInfo1" "6"
+		"ItemInfo2" "1"
+		"Type" "0"
+		"SubType" "5"
+		"Rarity" "3"
+		"Level" "25"
+		"IsUnique" "1"
+		"StatData"
+		{
+			"Armor" "32"
+			"Stamina" "29"
+			"Intellect" "51"
+		}
+		"EquipData"
+		{
+			"SpellPower" "20"
+			"Focus" "25"
+		}
+		"ModelData"
+		{
+			"Model" "models/items/sovereign/boots.mdl"
+		}
+		"MiscData"
+		{
+			"SellValue" "850"
+			"CanTrade" "1"
+		}
+    }
 }

@@ -120,4 +120,35 @@
 			"SellValue" "350"
 		}
     }
+    "278"
+    {
+		"Name" "#INF_ITEM_278_TEXT"
+		"IconTexture" "icons/items/armor/cloak03"
+		"ItemInfo1" "3"
+		"Type" "0"
+		"SubType" "2"
+		"Rarity" "3"
+		"Level" "28"
+		"IsUnique" "1"
+		"StatData"
+		{
+			"Stamina" "37"
+			"Agility" "51"
+			"Intellect" "15"
+		}
+		"EquipData"
+		{
+			"RangedAttackPower" "50"
+			"Focus" "25"
+		}
+		"ModelData"
+		{
+			"Model" "models/items/cloaks/cloak02.mdl"
+		}
+		"MiscData"
+		{
+			"SellValue" "800"
+			"CanTrade" "1"
+		}
+    }
 }

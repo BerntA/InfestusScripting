@@ -64,4 +64,69 @@
 			"SellValue" "350"
 		}
     }
+    "272"
+    {
+		"Name" "#INF_ITEM_272_TEXT"
+		"IconTexture" "icons/items/armor/templar_legs"
+		"ItemInfo1" "5"
+		"ItemInfo2" "3"
+		"Type" "0"
+		"SubType" "4"
+		"Rarity" "3"
+		"Level" "25"
+		"IsUnique" "1"
+		"StatData"
+		{
+			"Armor" "225"
+			"Stamina" "19"
+			"Strength" "27"
+			"Intellect" "16"
+		}
+		"EquipData"
+		{
+			"SpellPower" "10"
+			"Focus" "15"
+		}
+		"ModelData"
+		{
+			"Model" "models/items/templar/legs.mdl"
+		}
+		"MiscData"
+		{
+			"SellValue" "1000"
+			"CanTrade" "1"
+		}
+    }
+    "275"
+    {
+		"Name" "#INF_ITEM_275_TEXT"
+		"IconTexture" "icons/items/armor/sovereign_legs"
+		"ItemInfo1" "5"
+		"ItemInfo2" "1"
+		"Type" "0"
+		"SubType" "4"
+		"Rarity" "3"
+		"Level" "25"
+		"IsUnique" "1"
+		"StatData"
+		{
+			"Armor" "50"
+			"Stamina" "39"
+			"Intellect" "71"
+		}
+		"EquipData"
+		{
+			"SpellPower" "50"
+			"Focus" "25"
+		}
+		"ModelData"
+		{
+			"Model" "models/items/sovereign/legs.mdl"
+		}
+		"MiscData"
+		{
+			"SellValue" "1000"
+			"CanTrade" "1"
+		}
+    }
 }

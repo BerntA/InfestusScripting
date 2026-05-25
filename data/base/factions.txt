@@ -20,4 +20,24 @@
 		"Name" "#INF_REP_4_NAME"
 		"Description" "#INF_REP_4_DESC"
     }
+    "5"
+    {
+		"Name" "#INF_REP_5_NAME"
+		"Description" "#INF_REP_5_DESC"
+    }
+    "6"
+    {
+		"Name" "#INF_REP_6_NAME"
+		"Description" "#INF_REP_6_DESC"
+    }
+    "7"
+    {
+		"Name" "#INF_REP_7_NAME"
+		"Description" "#INF_REP_7_DESC"
+    }
+    "8"
+    {
+		"Name" "#INF_REP_8_NAME"
+		"Description" "#INF_REP_8_DESC"
+    }
 }

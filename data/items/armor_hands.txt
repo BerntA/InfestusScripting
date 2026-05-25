@@ -154,4 +154,37 @@
 			"CanTrade" "1"
 		}
     }
+    "270"
+    {
+		"Name" "#INF_ITEM_270_TEXT"
+		"IconTexture" "icons/items/armor/templar_gloves"
+		"ItemInfo1" "4"
+		"ItemInfo2" "3"
+		"Type" "0"
+		"SubType" "3"
+		"Rarity" "3"
+		"Level" "25"
+		"IsUnique" "1"
+		"StatData"
+		{
+			"Armor" "125"
+			"Stamina" "23"
+			"Strength" "15"
+			"Intellect" "13"
+		}
+		"EquipData"
+		{
+			"SpellPower" "10"
+			"Focus" "10"
+		}
+		"ModelData"
+		{
+			"Model" "models/items/templar/gloves.mdl"
+		}
+		"MiscData"
+		{
+			"SellValue" "750"
+			"CanTrade" "1"
+		}
+    }
 }

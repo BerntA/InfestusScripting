@@ -1,0 +1,19 @@
+"Items"
+{
+    "281"
+    {
+		"Name" "#INF_ITEM_281_TEXT"
+		"IconTexture" "icons/items/misc/snout01"
+		"ItemInfo1" "22"
+		"Type" "2"
+		"SubType" "4"
+		"Rarity" "3"
+		"Level" "25"
+		"IsUnique" "1"
+		"MiscData"
+		{
+			"ConsumeValue" "172"
+			"SellValue" "500"
+		}
+    }
+}

@@ -1,0 +1,26 @@
+"Morphs"
+{
+	"1"
+	{
+		"Model" "models/characters/npc/mercenary03.mdl"
+		"Duration" "600"
+		"ZoneLink" "6"
+		"Relationships"
+		{
+			"LIKE" "150"
+			"LIKE" "155"
+			"LIKE" "156"
+			"LIKE" "157"
+			"LIKE" "158"
+			"LIKE" "159"
+			"LIKE" "163"
+			"LIKE" "164"
+		}
+	}
+	"2"
+	{
+		"Model" "models/characters/npc/chicken01.mdl"
+		"Duration" "60"
+		"Flags" "1"
+	}
+}

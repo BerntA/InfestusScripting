@@ -113,7 +113,7 @@
 		"INF_PLR_DISCONNECTED" "Player %s1 has left the game!"
 		
 		"INF_VOTEMAP_FAILED" "Vote failed, too many naysayers!"
-		"INF_VOTEMAP_SUCCESS" "Travelling to %s1!"
+		"INF_VOTEMAP_SUCCESS" "Traveling to %s1!"
 		"INF_VOTEMAP_START" "A vote to travel to %s1 has been initiated."
 		"INF_VOTEMAP_COOLDOWN" "Please wait at least %s1 seconds until starting another vote!"
 		"INF_VOTEMAP_NOTICE" "Travel to %s1?"
@@ -152,12 +152,14 @@
 		"INF_WARN_LOOT_CHEST" "This chest is empty!"
 		"INF_WARN_DIALOGUE1" "Unable to interact with NPC!"
 		"INF_WARN_BUY1" "You don't have enough money!"
+		"INF_WARN_BUY2" "You don't have the items required!"
 		"INF_WARN_INCOMBAT" "You can't do this while in combat!"
 		"INF_WARN_SELLITEM" "You can't sell this item!"
 		"INF_WARN_CANTMOUNT" "Unable to mount in this area or zone."
 		"INF_WARN_ALREADYMOUNTED" "You're already mounted!"
 		"INF_WARN_BANK_MONEY" "You cannot deposit more money to the bank!"
 		"INF_WARN_HAS_COMPANION" "You already have an active summoned companion!"
+		"INF_WARN_MORPH_ZONE" "This item cannot be used in this zone!"
 		
 		"INF_WARN_GRP_NOT_LEADER" "You're not the leader of this group!"
 		"INF_WARN_GRP_ALREADY_INCURRGROUP" "This user is already in your group!"
@@ -170,7 +172,7 @@
 		
 		"INF_WARN_GUILD_CREATE_COOP" "You cannot create a guild in co-op mode!"
 		"INF_WARN_GUILD_CREATE_LVL" "You must be at least level %s1 to create a guild."
-		"INF_WARN_GUILD_CREATE_COST" "You need at least %s1 coins to create a guild."
+		"INF_WARN_GUILD_CREATE_COST" "You need at least %s1 gold to create a guild."
 		"INF_WARN_GUILD_HASGUILD" "Player %s1 is already in a guild!"
 		"INF_WARN_GUILD_RANK" "A higher rank is required to perform that action!"
 		"INF_WARN_GUILD_RANK_KICK" "You can only kick members with lower rank than yourself!"
@@ -201,9 +203,10 @@
 		"INF_WARN_TRADE1" "Unable to trade with %s1 at this time!"
 		"INF_WARN_TRADE2" "You can't give more money than you have!"
 		"INF_WARN_TRADE3" "Failed to trade with %s1!"
-		"INF_WARN_TRADE4" "You can't trade away more than %s1 coins at a time!"
+		"INF_WARN_TRADE4" "You can't trade away more than %s1 gold at a time!"
 		
 		"INF_WARN_PLAYERBLOCK_TELE" "You're no longer meeting the requirements to stay in or pass through this area, and have therefore been teleported out."
+		"INF_WARN_ITEM_EXISTS" "You already carry this item!"
 		
 		"INF_REP_STANDING_ALLY" "Ally"
 		"INF_REP_STANDING_FRIENDLY" "Friendly"
@@ -257,12 +260,12 @@
 		"INF_NOTIFY_LOOT4" "You've auto-looted item, '%s1'!"
 		"INF_NOTIFY_LOOT5" "Unable to auto-loot!"
 		
-		"INF_NOTIFY_BANK_DEPOSIT" "You've deposited %s1 coins to your bank."
-		"INF_NOTIFY_BANK_WITHDRAW" "You've withdrawn %s1 coins from your bank."
+		"INF_NOTIFY_BANK_DEPOSIT" "You've deposited %s1 gold to your bank."
+		"INF_NOTIFY_BANK_WITHDRAW" "You've withdrawn %s1 gold from your bank."
 		
 		"INF_NOTIFY_REP" "You're now affiliated with %s2"
 		"INF_REWARD_EXPERIENCE" "You've gained %s1 experience!"
-		"INF_REWARD_MONEY" "You've received %s1 coins."
+		"INF_REWARD_MONEY" "You've received %s1 gold."
 		"INF_REWARD_ADD_REP" "You've gained %s1 rep with %s2."
 		"INF_REWARD_REM_REP" "You've lost %s1 rep with %s2."
 		
@@ -313,7 +316,7 @@
 		
 		"INF_COMBAT_BLOCK" "Block Attack"
 		
-		"INF_MOUNT_DISMOUNT" "Dismount or Show Mount Selection Menu"
+		"INF_MOUNT_DISMOUNT" "Dismount, remove disguise or Show Mount Selection Menu"
 		"INF_TOGGLE_AUTORUN" "Toggle Autorun"
 		
 		"INF_ITEM_INFO_WEAPON_ONEHAND" "One Hand"
@@ -324,10 +327,14 @@
 		"INF_ITEM_INFO_CONSUMABLE_POTION" "Potion"
 		"INF_ITEM_INFO_CONSUMABLE_FOOD" "Food"
 		"INF_ITEM_INFO_MISC_JOURNAL" "Journal"
+		"INF_ITEM_INFO_MISC_LETTER" "Missive"
 		"INF_ITEM_INFO_MISC_QUEST" "Quest Item"
 		"INF_ITEM_INFO_MISC_JUNK" "Junk"
+		"INF_ITEM_INFO_MISC_KEY" "Key"
 		"INF_ITEM_INFO_MISC_MOUNT" "Mount"
 		"INF_ITEM_INFO_MISC_COMPANION" "Companion"
+		"INF_ITEM_INFO_MISC_CRAFTING" "Crafting Material"
+		"INF_ITEM_INFO_MISC_CURRENCY" "Currency"
 		
 		"INF_ITEM_INFO_ARMOR_CLOTH" "Light Armor"
 		"INF_ITEM_INFO_ARMOR_LEATHER" "Light Armor"
@@ -464,8 +471,8 @@
 		"INF_ITEM_STAT_TOME_LEARNED" "Already learned!"
 		"INF_ITEM_STAT_CANNOT_TRADE" "Cannot be traded!"
 		
-		"INF_ITEM_MERCHANT_PRICE" "Price: %s1"
-		"INF_ITEM_MERCHANT_QUANTITY" "Quantity: %s1"
+		"INF_ITEM_MERCHANT_PRICE" "%s1"
+		"INF_ITEM_MERCHANT_QUANTITY" "%s1"
 		
 		"INF_SPELL_STAT_CASTTIME" "Cast time: %s1 sec"
 		"INF_SPELL_STAT_COOLDOWN" "Cooldown: %s1 sec"
@@ -482,11 +489,18 @@
 		"INF_QUEST_OBJ_EXPLORE" "%s1/%s2 %s3 explored"
 		"INF_QUEST_OBJ_CUSTOM" "%s1/%s2 %s3"
 		"INF_QUEST_OBJ_INTERACT" "%s1/%s2 speak with %s3"
-		"INF_QUEST_REWARD_MONEY" "You will receive: %s1 coins"
+		"INF_QUEST_OBJ_HANDIN" "Speak with %s1"
+		"INF_QUEST_REWARD_MONEY" "You will receive: %s1 gold"
 		"INF_QUEST_REWARD_INFO1" "You will receive these items:"
 		"INF_QUEST_REWARD_INFO2" "You will be able to choose one of these rewards:"
 		"INF_QUEST_REWARD_INFO3" "Select the reward you wish to receive:"
 		"INF_QUEST_TITLE_RANGE" "%s3 [%s1-%s2]"
+		"INF_QUEST_UNAVAILABLE" "Unfortunately there is no work for you at the moment."
+		
+		"INF_QUEST_INTERACT_KILL" "- Slay%s2%s3"
+		"INF_QUEST_INTERACT_ITEM" "- Obtain%s2%s3"
+		"INF_QUEST_INTERACT_CUSTOM" "- %s3"
+		"INF_QUEST_INTERACT_DIALOGUE" "- Speak with %s3"
 		
 		"INF_DENY_ITEM_EQUIP" "You're not high enough level to equip this item!"
 		"INF_DENY_ITEM_USE" "You're not high enough level to use this item!"
@@ -501,8 +515,8 @@
 		"INF_DENY_BANK_NOACCESS" "You don't have any bank access yet!"
 		"INF_DENY_BANK_HASACCESS" "You already have bank access!"
 		"INF_DENY_BANK_LEVEL" "You must be at least level %s1 to buy bank access!"
-		"INF_DENY_BANK_MONEY" "You don't have enough money. You need at least %s1 coins!"
-		"INF_NOTIFY_BANK_ACCESS" "Congratulations on bank access! You can now store up to 100 items in your bank, and up to 100000 coins!"
+		"INF_DENY_BANK_MONEY" "You don't have enough money. You need at least %s1 gold!"
+		"INF_NOTIFY_BANK_ACCESS" "Congratulations on bank access! You can now store up to 100 items in your bank, and up to 100000 gold!"
 		
 		"INF_ADV_OPT_MPDECALS" "Multiplayer decal limit"
 		"INF_ADV_OPT_DECALLIM" "Decal limit"
@@ -558,8 +572,9 @@
 		"INF_HINT_QUEST_SELECT_REWARD" "You must select a quest reward, some quests may give you multiple items as rewards. In this case you can only receive one out of X rewards. Choose wisely!"
 		"INF_HINT_COMBAT_BLOCK" "You may block an enemy attack with any melee weapon, or with a shield. Blocking an attack with a shield is twice as efficient. The block efficiency value given by your strength stat decides how much base damage can be blocked. Keep in mind that some attacks may only be blocked by a shield, for example projectiles."
 		"INF_HINT_WORLDMAP" "In the worldmap you can zoom in and out by scrolling, and you may move around by pressing and holding down the left mouse button. Moving the cursor over any markers will print detailed information about that marker, in the options you can set whether or not markers should only show for tracked quests, any active quest or none at all."
-		"INF_HINT_DEATH" "Oh no, you have died! When you die you will be revived at a nearby graveyard, and if you carry more than 500 coins you will have to sacrifice some of it, even more so if you died in a dungeon."
+		"INF_HINT_DEATH" "Oh no, you have died! When you die you will be revived at a nearby graveyard, and if you carry more than 500 gold you will have to sacrifice some of it, even more so if you died in a dungeon."
 		"INF_HINT_LOADOUT_MENU" "You can use this menu to load / save action presets, press %s1 to load a preset and %s2 to save the current action bar choices to the selected preset slot."
+		"INF_HINT_SHAPESHIFT_ACTIVE" "You have activated a disguise or shapeshifted into something, to revert to your normal form press %s1."
 		
 		// Loading Tips
 		"INF_LOADING_TIP_1" "You cannot use your items while in combat, except for potions." 
@@ -610,7 +625,7 @@
 		
 		// Combat
 		"INF_WATER_BREATH" "BREATH"
-		"INF_COMBATLOG_DEATH" "Your death have cost you %s1 coins!"
+		"INF_COMBATLOG_DEATH" "Your death have cost you %s1 gold!"
 		"INF_COMBATLOG_HEAL1" "%s1 healed %s2 for %s3!"
 		"INF_COMBATLOG_HEAL2" "%s2's %s1 healed you for %s3!"
 		"INF_COMBATLOG_HEAL3" "%s1 healed you for %s3!"

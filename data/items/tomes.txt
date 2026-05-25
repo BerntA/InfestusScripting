@@ -39,7 +39,7 @@
 		"ItemInfo1" "13"
 		"Type" "1"
 		"SubType" "0"
-		"Rarity" "2"
+		"Rarity" "1"
 		"Level" "5"
 		"MiscData"
 		{
@@ -55,7 +55,7 @@
 		"ItemInfo1" "13"
 		"Type" "1"
 		"SubType" "0"
-		"Rarity" "2"
+		"Rarity" "1"
 		"Level" "8"
 		"MiscData"
 		{
@@ -71,7 +71,7 @@
 		"ItemInfo1" "13"
 		"Type" "1"
 		"SubType" "0"
-		"Rarity" "2"
+		"Rarity" "1"
 		"Level" "10"
 		"MiscData"
 		{
@@ -136,7 +136,7 @@
 		"ItemInfo1" "13"
 		"Type" "1"
 		"SubType" "0"
-		"Rarity" "2"
+		"Rarity" "1"
 		"Level" "10"
 		"MiscData"
 		{
@@ -153,7 +153,7 @@
 		"ItemInfo1" "13"
 		"Type" "1"
 		"SubType" "0"
-		"Rarity" "2"
+		"Rarity" "1"
 		"Level" "8"
 		"MiscData"
 		{
@@ -169,7 +169,7 @@
 		"ItemInfo1" "13"
 		"Type" "1"
 		"SubType" "0"
-		"Rarity" "2"
+		"Rarity" "1"
 		"Level" "8"
 		"MiscData"
 		{
@@ -202,7 +202,7 @@
 		"ItemInfo1" "13"
 		"Type" "1"
 		"SubType" "0"
-		"Rarity" "2"
+		"Rarity" "1"
 		"Level" "5"
 		"MiscData"
 		{
@@ -218,7 +218,7 @@
 		"ItemInfo1" "13"
 		"Type" "1"
 		"SubType" "0"
-		"Rarity" "2"
+		"Rarity" "1"
 		"Level" "10"
 		"MiscData"
 		{
@@ -249,7 +249,7 @@
 		"ItemInfo1" "13"
 		"Type" "1"
 		"SubType" "0"
-		"Rarity" "2"
+		"Rarity" "1"
 		"Level" "10"
 		"MiscData"
 		{
@@ -283,7 +283,7 @@
 		"ItemInfo1" "13"
 		"Type" "1"
 		"SubType" "0"
-		"Rarity" "2"
+		"Rarity" "1"
 		"Level" "14"
 		"MiscData"
 		{
@@ -299,7 +299,7 @@
 		"ItemInfo1" "13"
 		"Type" "1"
 		"SubType" "0"
-		"Rarity" "2"
+		"Rarity" "1"
 		"Level" "14"
 		"MiscData"
 		{
@@ -315,7 +315,7 @@
 		"ItemInfo1" "13"
 		"Type" "1"
 		"SubType" "0"
-		"Rarity" "2"
+		"Rarity" "1"
 		"Level" "16"
 		"MiscData"
 		{
@@ -379,7 +379,7 @@
 		"ItemInfo1" "13"
 		"Type" "1"
 		"SubType" "0"
-		"Rarity" "2"
+		"Rarity" "1"
 		"Level" "15"
 		"MiscData"
 		{
@@ -401,6 +401,271 @@
 		{
 			"ConsumeValue" "33"
 			"SellValue" "150"
+			"CanTrade" "1"
+		}
+    }
+    "282"
+    {
+		"Name" "#INF_ITEM_282_TEXT"
+		"IconTexture" "icons/items/misc/scroll01"
+		"ItemInfo1" "13"
+		"Type" "1"
+		"SubType" "0"
+		"Rarity" "2"
+		"Level" "25"
+		"MiscData"
+		{
+			"ConsumeValue" "38"
+			"SellValue" "500"
+			"CanTrade" "1"
+		}
+    }
+    "283"
+    {
+		"Name" "#INF_ITEM_283_TEXT"
+		"IconTexture" "icons/items/misc/scroll01"
+		"ItemInfo1" "13"
+		"Type" "1"
+		"SubType" "0"
+		"Rarity" "2"
+		"Level" "20"
+		"MiscData"
+		{
+			"ConsumeValue" "39"
+			"SellValue" "250"
+			"CanTrade" "1"
+		}
+    }
+    "284"
+    {
+		"Name" "#INF_ITEM_284_TEXT"
+		"IconTexture" "icons/items/misc/scroll01"
+		"ItemInfo1" "13"
+		"Type" "1"
+		"SubType" "0"
+		"Rarity" "2"
+		"Level" "25"
+		"MiscData"
+		{
+			"ConsumeValue" "41"
+			"SellValue" "350"
+			"CanTrade" "1"
+		}
+    }
+    "285"
+    {
+		"Name" "#INF_ITEM_285_TEXT"
+		"IconTexture" "icons/items/misc/scroll01"
+		"ItemInfo1" "13"
+		"Type" "1"
+		"SubType" "0"
+		"Rarity" "2"
+		"Level" "25"
+		"MiscData"
+		{
+			"ConsumeValue" "40"
+			"SellValue" "350"
+		}
+    }
+    "286"
+    {
+		"Name" "#INF_ITEM_286_TEXT"
+		"IconTexture" "icons/items/misc/scroll01"
+		"ItemInfo1" "13"
+		"Type" "1"
+		"SubType" "0"
+		"Rarity" "1"
+		"Level" "20"
+		"MiscData"
+		{
+			"ConsumeValue" "46"
+			"SellValue" "100"
+			"CanTrade" "1"
+		}
+    }
+    "313"
+    {
+		"Name" "#INF_ITEM_313_TEXT"
+		"IconTexture" "icons/items/misc/scroll01"
+		"ItemInfo1" "13"
+		"Type" "1"
+		"SubType" "0"
+		"Rarity" "1"
+		"Level" "20"
+		"MiscData"
+		{
+			"ConsumeValue" "1"
+			"MiscValue" "2"
+			"SellValue" "150"
+			"CanTrade" "1"
+		}
+    }
+    "314"
+    {
+		"Name" "#INF_ITEM_314_TEXT"
+		"IconTexture" "icons/items/misc/scroll01"
+		"ItemInfo1" "13"
+		"Type" "1"
+		"SubType" "0"
+		"Rarity" "1"
+		"Level" "20"
+		"MiscData"
+		{
+			"ConsumeValue" "2"
+			"MiscValue" "2"
+			"SellValue" "150"
+			"CanTrade" "1"
+		}
+    }
+    "315"
+    {
+		"Name" "#INF_ITEM_315_TEXT"
+		"IconTexture" "icons/items/misc/scroll01"
+		"ItemInfo1" "13"
+		"Type" "1"
+		"SubType" "0"
+		"Rarity" "2"
+		"Level" "20"
+		"MiscData"
+		{
+			"ConsumeValue" "8"
+			"MiscValue" "2"
+			"SellValue" "250"
+			"CanTrade" "1"
+		}
+    }
+    "316"
+    {
+		"Name" "#INF_ITEM_316_TEXT"
+		"IconTexture" "icons/items/misc/scroll01"
+		"ItemInfo1" "13"
+		"Type" "1"
+		"SubType" "0"
+		"Rarity" "1"
+		"Level" "20"
+		"MiscData"
+		{
+			"ConsumeValue" "4"
+			"MiscValue" "2"
+			"SellValue" "125"
+			"CanTrade" "1"
+		}
+    }
+    "317"
+    {
+		"Name" "#INF_ITEM_317_TEXT"
+		"IconTexture" "icons/items/misc/scroll01"
+		"ItemInfo1" "13"
+		"Type" "1"
+		"SubType" "0"
+		"Rarity" "1"
+		"Level" "20"
+		"MiscData"
+		{
+			"ConsumeValue" "3"
+			"MiscValue" "2"
+			"SellValue" "150"
+			"CanTrade" "1"
+		}
+    }
+    "318"
+    {
+		"Name" "#INF_ITEM_318_TEXT"
+		"IconTexture" "icons/items/misc/scroll01"
+		"ItemInfo1" "13"
+		"Type" "1"
+		"SubType" "0"
+		"Rarity" "1"
+		"Level" "20"
+		"MiscData"
+		{
+			"ConsumeValue" "16"
+			"MiscValue" "1"
+			"SellValue" "175"
+			"CanTrade" "1"
+		}
+    }
+    "319"
+    {
+		"Name" "#INF_ITEM_319_TEXT"
+		"IconTexture" "icons/items/misc/scroll01"
+		"ItemInfo1" "13"
+		"Type" "1"
+		"SubType" "0"
+		"Rarity" "1"
+		"Level" "20"
+		"MiscData"
+		{
+			"ConsumeValue" "19"
+			"MiscValue" "1"
+			"SellValue" "215"
+			"CanTrade" "1"
+		}
+    }
+    "320"
+    {
+		"Name" "#INF_ITEM_320_TEXT"
+		"IconTexture" "icons/items/misc/scroll01"
+		"ItemInfo1" "13"
+		"Type" "1"
+		"SubType" "0"
+		"Rarity" "1"
+		"Level" "20"
+		"MiscData"
+		{
+			"ConsumeValue" "11"
+			"MiscValue" "1"
+			"SellValue" "125"
+			"CanTrade" "1"
+		}
+    }
+    "321"
+    {
+		"Name" "#INF_ITEM_321_TEXT"
+		"IconTexture" "icons/items/misc/scroll01"
+		"ItemInfo1" "13"
+		"Type" "1"
+		"SubType" "0"
+		"Rarity" "1"
+		"Level" "20"
+		"MiscData"
+		{
+			"ConsumeValue" "5"
+			"MiscValue" "1"
+			"SellValue" "250"
+			"CanTrade" "1"
+		}
+    }
+    "322"
+    {
+		"Name" "#INF_ITEM_322_TEXT"
+		"IconTexture" "icons/items/misc/scroll01"
+		"ItemInfo1" "13"
+		"Type" "1"
+		"SubType" "0"
+		"Rarity" "1"
+		"Level" "20"
+		"MiscData"
+		{
+			"ConsumeValue" "14"
+			"MiscValue" "1"
+			"SellValue" "125"
+			"CanTrade" "1"
+		}
+    }
+    "323"
+    {
+		"Name" "#INF_ITEM_323_TEXT"
+		"IconTexture" "icons/items/misc/scroll01"
+		"ItemInfo1" "13"
+		"Type" "1"
+		"SubType" "0"
+		"Rarity" "2"
+		"Level" "25"
+		"MiscData"
+		{
+			"ConsumeValue" "59"
+			"SellValue" "325"
 			"CanTrade" "1"
 		}
     }

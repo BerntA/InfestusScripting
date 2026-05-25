@@ -117,4 +117,134 @@
 			"CanTrade" "1"
 		}
     }
+    "195"
+    {
+		"Name" "#INF_ITEM_195_TEXT"
+		"IconTexture" "icons/items/misc/entrails01"
+		"ItemInfo1" "20"
+		"Type" "2"
+		"SubType" "2"
+		"MiscData"
+		{
+			"SellValue" "1"
+			"CanTrade" "1"
+		}
+    }
+    "196"
+    {
+		"Name" "#INF_ITEM_196_TEXT"
+		"IconTexture" "icons/items/misc/entrails01"
+		"ItemInfo1" "20"
+		"Type" "2"
+		"SubType" "2"
+		"MiscData"
+		{
+			"SellValue" "1"
+			"CanTrade" "1"
+		}
+    }
+    "197"
+    {
+		"Name" "#INF_ITEM_197_TEXT"
+		"IconTexture" "icons/items/misc/brain"
+		"ItemInfo1" "20"
+		"Type" "2"
+		"SubType" "2"
+		"MiscData"
+		{
+			"SellValue" "1"
+			"CanTrade" "1"
+		}
+    }
+    "198"
+    {
+		"Name" "#INF_ITEM_198_TEXT"
+		"IconTexture" "icons/items/misc/hoof"
+		"ItemInfo1" "20"
+		"Type" "2"
+		"SubType" "2"
+		"MiscData"
+		{
+			"SellValue" "1"
+			"CanTrade" "1"
+		}
+    }
+    "202"
+    {
+		"Name" "#INF_ITEM_202_TEXT"
+		"IconTexture" "icons/items/misc/ichor01"
+		"ItemInfo1" "20"
+		"Type" "2"
+		"SubType" "2"
+		"MiscData"
+		{
+			"SellValue" "1"
+			"CanTrade" "1"
+		}
+    }
+    "203"
+    {
+		"Name" "#INF_ITEM_203_TEXT"
+		"IconTexture" "icons/items/misc/ichor02"
+		"ItemInfo1" "20"
+		"Type" "2"
+		"SubType" "2"
+		"MiscData"
+		{
+			"SellValue" "1"
+			"CanTrade" "1"
+		}
+    }
+    "204"
+    {
+		"Name" "#INF_ITEM_204_TEXT"
+		"IconTexture" "icons/items/misc/ribcage01"
+		"ItemInfo1" "20"
+		"Type" "2"
+		"SubType" "2"
+		"MiscData"
+		{
+			"SellValue" "1"
+			"CanTrade" "1"
+		}
+    }
+    "205"
+    {
+		"Name" "#INF_ITEM_205_TEXT"
+		"IconTexture" "icons/items/misc/gore01"
+		"ItemInfo1" "20"
+		"Type" "2"
+		"SubType" "2"
+		"MiscData"
+		{
+			"SellValue" "1"
+			"CanTrade" "1"
+		}
+    }
+    "206"
+    {
+		"Name" "#INF_ITEM_206_TEXT"
+		"IconTexture" "icons/items/misc/gianttoe"
+		"ItemInfo1" "20"
+		"Type" "2"
+		"SubType" "2"
+		"MiscData"
+		{
+			"SellValue" "1"
+			"CanTrade" "1"
+		}
+    }
+    "212"
+    {
+		"Name" "#INF_ITEM_212_TEXT"
+		"IconTexture" "icons/items/misc/husk02"
+		"ItemInfo1" "20"
+		"Type" "2"
+		"SubType" "2"
+		"MiscData"
+		{
+			"SellValue" "1"
+			"CanTrade" "1"
+		}
+    }
 }

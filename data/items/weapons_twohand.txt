@@ -206,7 +206,7 @@
 		"ItemInfo2" "5"
 		"Type" "0"
 		"SubType" "9"
-		"Rarity" "2"
+		"Rarity" "1"
 		"Level" "14"
 		"IsUnique" "1"
 		"StatData"
@@ -401,6 +401,288 @@
 		{
 			"SellValue" "525"
 			"CanTrade" "1"
+		}
+    }
+    "267"
+    {
+		"Name" "#INF_ITEM_267_TEXT"
+		"IconTexture" "icons/items/weapon/sword15_01"
+		"ItemInfo1" "11"
+		"ItemInfo2" "5"
+		"Type" "0"
+		"SubType" "9"
+		"Rarity" "2"
+		"Level" "25"
+		"IsUnique" "1"
+		"StatData"
+		{
+			"Stamina" "27"
+			"Strength" "65"
+			"Intellect" "15"
+		}
+		"EquipData"
+		{
+			"MeleeAttackPower" "75"
+			"Focus" "15"
+			"DamageMin" "115"
+			"DamageMax" "135"
+		}
+		"ModelData"
+		{
+			"Model" "models/items/swords/sword15.mdl"
+		}
+		"MiscData"
+		{
+			"SellValue" "700"
+			"CanTrade" "1"
+		}
+    }
+    "268"
+    {
+		"Name" "#INF_ITEM_268_TEXT"
+		"IconTexture" "icons/items/weapon/staff01"
+		"ItemInfo1" "11"
+		"ItemInfo2" "9"
+		"Type" "0"
+		"SubType" "9"
+		"Rarity" "2"
+		"Level" "24"
+		"IsUnique" "1"
+		"StatData"
+		{
+			"Stamina" "19"
+			"Intellect" "41"
+		}
+		"EquipData"
+		{
+			"SpellPower" "125"
+			"Focus" "25"
+			"DamageMin" "61"
+			"DamageMax" "79"
+		}
+		"ResistanceData"
+		{
+			"Fire" "15"
+		}
+		"ChanceOnHit"
+		{
+			"Type" "1"
+			"ValueMin" "125"
+			"ValueMax" "165"
+			"School" "1"
+			"Probability" "0.15"
+		}
+		"ModelData"
+		{
+			"Model" "models/items/staves/staff01.mdl"
+		}
+		"MiscData"
+		{
+			"SellValue" "500"
+			"ItemFlags" "32"
+			"CanTrade" "1"
+		}
+    }
+    "292"
+    {
+		"Name" "#INF_ITEM_292_TEXT"
+		"IconTexture" "icons/items/weapon/sword09_01"
+		"ItemInfo1" "11"
+		"ItemInfo2" "5"
+		"Type" "0"
+		"SubType" "9"
+		"Rarity" "3"
+		"Level" "25"
+		"IsUnique" "1"
+		"StatData"
+		{
+			"Stamina" "27"
+			"Strength" "50"
+		}
+		"EquipData"
+		{
+			"MeleeAttackPower" "35"
+			"DamageMin" "82"
+			"DamageMax" "105"
+			"AttackSpeed" "1.1"
+		}
+		"ModelData"
+		{
+			"Model" "models/items/swords/sword09.mdl"
+		}
+		"MiscData"
+		{
+			"SellValue" "750"
+		}
+    }
+    "293"
+    {
+		"Name" "#INF_ITEM_293_TEXT"
+		"IconTexture" "icons/items/weapon/sword11"
+		"ItemInfo1" "11"
+		"ItemInfo2" "5"
+		"Type" "0"
+		"SubType" "9"
+		"Rarity" "3"
+		"Level" "25"
+		"IsUnique" "1"
+		"StatData"
+		{
+			"Stamina" "13"
+			"Strength" "57"
+			"Agility" "25"
+		}
+		"EquipData"
+		{
+			"MeleeAttackPower" "25"
+			"RangedAttackPower" "40"
+			"Focus" "10"
+			"DamageMin" "71"
+			"DamageMax" "91"
+		}
+		"ResistanceData"
+		{
+			"Shadow" "15"
+		}
+		"ChanceOnHit"
+		{
+			"Type" "4"
+			"ValueMin" "150"
+			"ValueMax" "300"
+			"School" "3"
+			"ID" "2"
+			"Duration" "7.5"
+			"Probability" "0.15"
+		}
+		"ModelData"
+		{
+			"Model" "models/items/swords/sword11.mdl"
+		}
+		"MiscData"
+		{
+			"SellValue" "750"
+		}
+    }
+    "294"
+    {
+		"Name" "#INF_ITEM_294_TEXT"
+		"IconTexture" "icons/items/weapon/axe02"
+		"ItemInfo1" "11"
+		"ItemInfo2" "6"
+		"Type" "0"
+		"SubType" "9"
+		"Rarity" "3"
+		"Level" "28"
+		"IsUnique" "1"
+		"StatData"
+		{
+			"Stamina" "27"
+			"Strength" "71"
+		}
+		"EquipData"
+		{
+			"MeleeAttackPower" "75"
+			"DamageMin" "115"
+			"DamageMax" "135"
+			"AttackSpeed" "1.15"
+		}
+		"ChanceOnHit"
+		{
+			"Type" "4"
+			"ValueMin" "100"
+			"ValueMax" "200"
+			"ID" "1"
+			"Duration" "5"
+			"Probability" "0.15"
+		}
+		"ModelData"
+		{
+			"Model" "models/items/axes/axe02.mdl"
+		}
+		"MiscData"
+		{
+			"SellValue" "900"
+			"ItemFlags" "4"
+		}
+    }
+    "295"
+    {
+		"Name" "#INF_ITEM_295_TEXT"
+		"IconTexture" "icons/items/weapon/staff03"
+		"ItemInfo1" "11"
+		"ItemInfo2" "9"
+		"Type" "0"
+		"SubType" "9"
+		"Rarity" "3"
+		"Level" "28"
+		"IsUnique" "1"
+		"StatData"
+		{
+			"Stamina" "35"
+			"Intellect" "81"
+		}
+		"EquipData"
+		{
+			"SpellPower" "150"
+			"Focus" "35"
+			"DamageMin" "37"
+			"DamageMax" "57"
+			"AttackSpeed" "1.15"
+		}
+		"ResistanceData"
+		{
+			"Earth" "25"
+		}
+		"ModelData"
+		{
+			"Model" "models/items/staves/staff03.mdl"
+		}
+		"MiscData"
+		{
+			"SellValue" "1000"
+			"ItemFlags" "32"
+		}
+    }
+    "308"
+    {
+		"Name" "#INF_ITEM_308_TEXT"
+		"IconTexture" "icons/items/weapon/sword15_02"
+		"ItemInfo1" "11"
+		"ItemInfo2" "5"
+		"Type" "0"
+		"SubType" "9"
+		"Rarity" "3"
+		"Level" "25"
+		"IsUnique" "1"
+		"StatData"
+		{
+			"Stamina" "35"
+			"Strength" "77"
+			"Intellect" "20"
+		}
+		"EquipData"
+		{
+			"MeleeAttackPower" "100"
+			"Focus" "15"
+			"DamageMin" "127"
+			"DamageMax" "149"
+		}
+		"ChanceOnHit"
+		{
+			"Type" "1"
+			"ValueMin" "135"
+			"ValueMax" "175"
+			"School" "1"
+			"Probability" "0.15"
+		}
+		"ModelData"
+		{
+			"Model" "models/items/swords/sword15.mdl"
+			"Skin" "1"
+		}
+		"MiscData"
+		{
+			"SellValue" "1000"
 		}
     }
 }

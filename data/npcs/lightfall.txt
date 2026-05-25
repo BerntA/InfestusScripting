@@ -24,8 +24,8 @@
 		}
 		"Spells"
 		{
-			"1" "2"
-			"1" "1"
+			"1" "52"
+			"1" "53"
 		}
 		"Reputation"
 		{
@@ -115,9 +115,9 @@
 		}
 		"Spells"
 		{
-			"1" "2"
-			"1" "1"
-			"0" "13"
+			"0" "54"
+			"1" "52"
+			"1" "53"
 		}
 		"Reputation"
 		{
@@ -168,9 +168,9 @@
 		}
 		"Spells"
 		{
-			"1" "2"
-			"0" "13"
-			"1" "1"
+			"0" "54"
+			"1" "52"
+			"1" "53"
 		}
 		"Loots"
 		{
@@ -243,8 +243,8 @@
 		}
 		"Spells"
 		{
-			"0" "1"
-			"1" "2"
+			"0" "52"
+			"1" "53"
 		}
 		"Loots"
 		{
@@ -308,7 +308,7 @@
 		}
 		"Spells"
 		{
-			"0" "14"
+			"0" "47"
 		}
 		"Loots"
 		{
@@ -381,8 +381,8 @@
 		}
 		"Spells"
 		{
-			"1" "1"
-			"1" "2"
+			"1" "52"
+			"1" "53"
 		}
 		"Loots"
 		{
@@ -549,56 +549,6 @@
 			"zpos" "60"
 		}
     }
-    "51"
-    {
-		"Name" "#INF_NPC_51_NAME"
-		"Level" "25"
-		"Health" "2500"
-		"CollisionHeight" "103"
-		"IsBoss" "1"
-		"Soundscript" "Hulk"
-		"MoneyRewardMin" "200"
-		"RelationshipID" "2"
-		"ZoneLink" "2"
-		"Attributes"
-		{
-			"Armor" "2000"
-			"DamageMin" "107"
-			"DamageMax" "126"
-			"AttackRange" "93"
-			"DrainerRegenRate" "0.025"
-			"FireResistance" "25"
-			"WaterResistance" "25"
-			"ShadowResistance" "25"
-			"EarthResistance" "25"
-			"WindResistance" "25"
-		}
-		"Spells"
-		{
-			"0" "13"
-		}
-		"ModelData"
-		{
-			"models/characters/npc/hulk.mdl"
-			{
-			}
-		}
-		"CamData"
-		{
-			"xpos" "32"
-			"ypos" "0"
-			"zpos" "-69"
-			"angx" "0"
-			"angy" "182"
-			"angz" "0"
-		}
-		"Hitbox"
-		{
-			"xpos" "15"
-			"ypos" "15"
-			"zpos" "95"
-		}
-    }
     "52"
     {
 		"Name" "#INF_NPC_52_NAME"
@@ -740,10 +690,10 @@
 		}
 		"Spells"
 		{
-			"1" "2"
-			"1" "1"
 			"0" "6"
-			"0" "13"
+			"0" "54"
+			"1" "52"
+			"1" "53"
 		}
 		"Reputation"
 		{
@@ -770,26 +720,6 @@
 			"angz" "0"
 		}
     }
-    "55"
-    {
-		"Name" "#INF_NPC_55_NAME"
-		"Description" "#INF_NPC_55_DESC"
-		"GreetingsText" "#INF_NPC_55_GREETINGS"
-		"Type" "2"
-		"ZoneLink" "3"
-		"Flags" "6"
-		"ModelData"
-		{
-			"models/characters/npc/mage02.mdl"
-			{
-			}
-		}
-		"Dialogue"
-		{
-			"#INF_NPC_55_Q_1" "#INF_NPC_55_A_1"
-			"#INF_NPC_55_Q_2" "#INF_NPC_55_A_2"
-		}
-    }
     "56"
     {
 		"Name" "#INF_NPC_56_NAME"
@@ -799,7 +729,7 @@
 		"DialogueFinishedQuest" "#INF_NPC_56_DIA_FIN"
 		"Type" "3"
 		"ZoneLink" "3"
-		"Flags" "8"
+		"Flags" "72"
 		"ModelData"
 		{
 			"models/characters/npc/mage01.mdl"
@@ -824,6 +754,7 @@
 		"Type" "2"
 		"CollisionHeight" "26"
 		"CollisionHeightCorpse" "26"
+		"NoMorphs" "1"
 		"Soundscript" "Chicken"
 		"RelationshipID" "1"
 		"ZoneLink" "3"
@@ -919,7 +850,7 @@
 		"GreetingsText" "#INF_NPC_61_GREETINGS"
 		"Type" "2"
 		"ZoneLink" "3"
-		"Flags" "6"
+		"Flags" "70"
 		"ModelData"
 		{
 			"models/characters/npc/merchant01.mdl"
@@ -942,7 +873,7 @@
 		"DialogueFinishedQuest" "#INF_NPC_62_DIA_FIN"
 		"Type" "3"
 		"ZoneLink" "3"
-		"Flags" "8"
+		"Flags" "72"
 		"ModelData"
 		{
 			"models/characters/npc/slave01.mdl"
@@ -1043,7 +974,7 @@
 		"DialogueFinishedQuest" "#INF_NPC_65_DIA_FIN"
 		"Type" "3"
 		"ZoneLink" "3"
-		"Flags" "8"
+		"Flags" "72"
 		"ModelData"
 		{
 			"models/characters/npc/guard02.mdl"
@@ -1071,6 +1002,7 @@
 			"7" "51"
 			"8" "52"
 			"9" "53"
+			"10" "54"
 		}
     }
     "66"
@@ -1090,7 +1022,7 @@
 		"RequiredType" "2"
 		"RequiredValue" "1"
 		"ZoneLink" "3"
-		"Flags" "10"
+		"Flags" "74"
 		"Attributes"
 		{
 			"Armor" "2000"
@@ -1107,10 +1039,10 @@
 		}
 		"Spells"
 		{
-			"1" "2"
-			"1" "1"
 			"0" "6"
-			"0" "13"
+			"0" "54"
+			"1" "52"
+			"1" "53"
 		}
 		"Reputation"
 		{
@@ -1142,6 +1074,8 @@
 			"2" "28"
 			"3" "33"
 			"4" "45"
+			"5" "54"
+			"6" "55"
 		}
     }
     "67"
@@ -1151,7 +1085,7 @@
 		"GreetingsText" "#INF_NPC_67_GREETINGS"
 		"Type" "2"
 		"ZoneLink" "3"
-		"Flags" "6"
+		"Flags" "70"
 		"ModelData"
 		{
 			"models/characters/npc/merchant01.mdl"
@@ -1175,7 +1109,7 @@
 		"DialogueFinishedQuest" "#INF_NPC_68_DIA_FIN"
 		"Type" "3"
 		"ZoneLink" "3"
-		"Flags" "8"
+		"Flags" "72"
 		"ModelData"
 		{
 			"models/characters/npc/merchant01.mdl"
@@ -1289,13 +1223,25 @@
 		}
 		"ItemsForSale"
 		{
+			"150"
+			{
+				"Price" "200"
+			}
 			"149"
 			{
 				"Price" "80"
 			}
-			"150"
+			"313"
 			{
-				"Price" "200"
+				"Price" "175"
+			}
+			"53"
+			{
+				"Price" "80"
+			}
+			"314"
+			{
+				"Price" "175"
 			}
 		}
     }
@@ -1319,6 +1265,10 @@
 			"83"
 			{
 				"Price" "100"
+			}
+			"322"
+			{
+				"Price" "150"
 			}
 			"157"
 			{
@@ -1351,21 +1301,49 @@
 			{
 				"Price" "150"
 			}
-			"121"
+			"317"
 			{
 				"Price" "200"
-			}
-			"132"
-			{
-				"Price" "125"
 			}
 			"158"
 			{
 				"Price" "215"
 			}
+			"319"
+			{
+				"Price" "250"
+			}
+			"121"
+			{
+				"Price" "200"
+			}
+			"318"
+			{
+				"Price" "235"
+			}
+			"132"
+			{
+				"Price" "125"
+			}
+			"316"
+			{
+				"Price" "165"
+			}
+			"320"
+			{
+				"Price" "150"
+			}
+			"321"
+			{
+				"Price" "300"
+			}
 			"167"
 			{
 				"Price" "50"
+			}
+			"286"
+			{
+				"Price" "275"
 			}
 		}
     }
@@ -1376,7 +1354,7 @@
 		"GreetingsText" "#INF_NPC_74_GREETINGS"
 		"Type" "5"
 		"ZoneLink" "3"
-		"Flags" "36"
+		"Flags" "100"
 		"ModelData"
 		{
 			"models/characters/npc/merchant01.mdl"
@@ -1525,6 +1503,7 @@
 		"Name" "#INF_NPC_79_NAME"
 		"CollisionHeight" "26"
 		"CollisionHeightCorpse" "26"
+		"NoMorphs" "1"
 		"Soundscript" "Chicken"
 		"ZoneLink" "3"
 		"Attributes"
@@ -1564,7 +1543,7 @@
 		"DialogueFinishedQuest" "#INF_NPC_80_DIA_FIN"
 		"Type" "3"
 		"ZoneLink" "3"
-		"Flags" "8"
+		"Flags" "72"
 		"ModelData"
 		{
 			"models/characters/npc/smuggler02.mdl"
@@ -1601,9 +1580,9 @@
 		}
 		"Spells"
 		{
-			"1" "2"
-			"1" "1"
-			"0" "13"
+			"0" "54"
+			"1" "52"
+			"1" "53"
 		}
 		"Reputation"
 		{
@@ -1666,7 +1645,7 @@
 		"DialogueFinishedQuest" "#INF_NPC_83_DIA_FIN"
 		"Type" "3"
 		"ZoneLink" "3"
-		"Flags" "8"
+		"Flags" "72"
 		"ModelData"
 		{
 			"models/characters/npc/guard03.mdl"
@@ -1740,7 +1719,7 @@
 		"GreetingsText" "#INF_NPC_85_GREETINGS"
 		"Type" "2"
 		"ZoneLink" "3"
-		"Flags" "6"
+		"Flags" "70"
 		"ModelData"
 		{
 			"models/characters/npc/slave01.mdl"
@@ -1795,7 +1774,7 @@
 		"GreetingsText" "#INF_NPC_87_GREETINGS"
 		"Type" "2"
 		"ZoneLink" "3"
-		"Flags" "6"
+		"Flags" "70"
 		"ModelData"
 		{
 			"models/characters/npc/merchant01.mdl"
@@ -1819,7 +1798,7 @@
 		"CollisionHeight" "45"
 		"CollisionHeightCorpse" "35"
 		"ZoneLink" "3"
-		"Flags" "2"
+		"Flags" "66"
 		"ModelData"
 		{
 			"models/characters/npc/rat01.mdl"
@@ -1899,7 +1878,7 @@
 		"GreetingsText" "#INF_NPC_90_GREETINGS"
 		"Type" "2"
 		"ZoneLink" "3"
-		"Flags" "6"
+		"Flags" "70"
 		"ModelData"
 		{
 			"models/characters/npc/merchant01.mdl"
@@ -1939,7 +1918,7 @@
 		}
 		"Spells"
 		{
-			"0" "13"
+			"0" "54"
 			"0" "12"
 		}
 		"ModelData"
@@ -1982,8 +1961,8 @@
 		}
 		"Spells"
 		{
-			"0" "14"
-			"0" "18"
+			"0" "47"
+			"0" "48"
 		}
 		"Reputation"
 		{
@@ -2031,9 +2010,9 @@
 		}
 		"Spells"
 		{
-			"1" "2"
-			"1" "1"
-			"0" "13"
+			"0" "54"
+			"1" "52"
+			"1" "53"
 		}
 		"Reputation"
 		{

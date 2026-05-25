@@ -1,0 +1,45 @@
+"NPCs"
+{
+    "172"
+    {
+		"Name" "#INF_NPC_172_NAME"
+		"Level" "25"
+		"Health" "2000"
+		"CollisionHeight" "50"
+		"Soundscript" "Boar"
+		"Attributes"
+		{
+			"DamageMin" "50"
+			"DamageMax" "75"
+			"AttackRange" "80"
+			"WalkSpeed" "65"
+			"RunSpeed" "235"
+			"FireResistance" "-25"
+			"WaterResistance" "-25"
+			"ShadowResistance" "-25"
+			"EarthResistance" "-25"
+			"WindResistance" "-25"
+		}
+		"ModelData"
+		{
+			"models/characters/npc/boar01.mdl"
+			{
+			}
+		}
+		"CamData"
+		{
+			"xpos" "50"
+			"ypos" "0"
+			"zpos" "-25"
+			"angx" "0"
+			"angy" "190"
+			"angz" "0"
+		}
+		"Hitbox"
+		{
+			"xpos" "25"
+			"ypos" "20"
+			"zpos" "70"
+		}
+    }
+}

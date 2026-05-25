@@ -7,7 +7,7 @@
 		"GreetingsText" "#INF_NPC_1_GREETINGS"
 		"Type" "3"
 		"ZoneLink" "1"
-		"Flags" "8"
+		"Flags" "72"
 		"ModelData"
 		{
 			"models/characters/npc/merchant01.mdl"
@@ -26,7 +26,7 @@
 		"GreetingsText" "#INF_NPC_2_GREETINGS"
 		"Type" "2"
 		"ZoneLink" "1"
-		"Flags" "6"
+		"Flags" "70"
 		"ModelData"
 		{
 			"models/characters/npc/merchant01.mdl"
@@ -49,7 +49,7 @@
 		"DialogueFinishedQuest" "#INF_NPC_3_DIA_FIN"
 		"Type" "3"
 		"ZoneLink" "1"
-		"Flags" "8"
+		"Flags" "72"
 		"ModelData"
 		{
 			"models/characters/npc/crusader01.mdl"
@@ -85,7 +85,7 @@
 		"DialogueFinishedQuest" "#INF_NPC_4_DIA_FIN"
 		"Type" "3"
 		"ZoneLink" "1"
-		"Flags" "8"
+		"Flags" "72"
 		"ModelData"
 		{
 			"models/characters/npc/merchant01.mdl"
@@ -108,7 +108,7 @@
 		"GreetingsText" "#INF_NPC_5_GREETINGS"
 		"Type" "4"
 		"ZoneLink" "1"
-		"Flags" "16"
+		"Flags" "80"
 		"ModelData"
 		{
 			"models/characters/npc/merchant01.mdl"
@@ -201,7 +201,7 @@
 		"DialogueFinishedQuest" "#INF_NPC_7_DIA_FIN"
 		"Type" "3"
 		"ZoneLink" "1"
-		"Flags" "8"
+		"Flags" "72"
 		"ModelData"
 		{
 			"models/characters/npc/guard02.mdl"
@@ -228,7 +228,7 @@
 		"DialogueFinishedQuest" "#INF_NPC_8_DIA_FIN"
 		"Type" "3"
 		"ZoneLink" "1"
-		"Flags" "8"
+		"Flags" "72"
 		"ModelData"
 		{
 			"models/characters/npc/merchant01.mdl"
@@ -252,7 +252,7 @@
 		"DialogueFinishedQuest" "#INF_NPC_9_DIA_FIN"
 		"Type" "3"
 		"ZoneLink" "1"
-		"Flags" "8"
+		"Flags" "72"
 		"ModelData"
 		{
 			"models/characters/npc/merchant01.mdl"
@@ -278,7 +278,7 @@
 		"DialogueFinishedQuest" "#INF_NPC_10_DIA_FIN"
 		"Type" "3"
 		"ZoneLink" "1"
-		"Flags" "8"
+		"Flags" "72"
 		"ModelData"
 		{
 			"models/characters/npc/merchant01.mdl"
@@ -334,7 +334,7 @@
 		"GreetingsText" "#INF_NPC_12_GREETINGS"
 		"Type" "4"
 		"ZoneLink" "1"
-		"Flags" "16"
+		"Flags" "80"
 		"ModelData"
 		{
 			"models/characters/npc/merchant01.mdl"
@@ -372,7 +372,7 @@
 		"DialogueFinishedQuest" "#INF_NPC_13_DIA_FIN"
 		"Type" "3"
 		"ZoneLink" "1"
-		"Flags" "8"
+		"Flags" "72"
 		"ModelData"
 		{
 			"models/characters/npc/merchant01.mdl"
@@ -427,7 +427,7 @@
 		"DialogueFinishedQuest" "#INF_NPC_15_DIA_FIN"
 		"Type" "3"
 		"ZoneLink" "1"
-		"Flags" "8"
+		"Flags" "72"
 		"ModelData"
 		{
 			"models/characters/npc/merchant01.mdl"
@@ -452,7 +452,7 @@
 		"DialogueFinishedQuest" "#INF_NPC_16_DIA_FIN"
 		"Type" "3"
 		"ZoneLink" "1"
-		"Flags" "8"
+		"Flags" "72"
 		"ModelData"
 		{
 			"models/characters/npc/merchant01.mdl"
@@ -471,7 +471,7 @@
 		"GreetingsText" "#INF_NPC_17_GREETINGS"
 		"Type" "2"
 		"ZoneLink" "1"
-		"Flags" "6"
+		"Flags" "70"
 		"ModelData"
 		{
 			"models/characters/npc/merchant01.mdl"
@@ -494,7 +494,7 @@
 		"GreetingsText" "#INF_NPC_18_GREETINGS"
 		"Type" "2"
 		"ZoneLink" "1"
-		"Flags" "6"
+		"Flags" "70"
 		"ModelData"
 		{
 			"models/characters/npc/merchant01.mdl"
@@ -519,7 +519,7 @@
 		"RequiredType" "1"
 		"RequiredValue" "0"
 		"ZoneLink" "1"
-		"Flags" "6"
+		"Flags" "70"
 		"ModelData"
 		{
 			"models/characters/npc/slave01.mdl"
@@ -553,7 +553,7 @@
 		}
 		"Spells"
 		{
-			"0" "1"
+			"0" "52"
 		}
 		"Loots"
 		{
@@ -604,7 +604,7 @@
 		}
 		"Spells"
 		{
-			"0" "2"
+			"0" "53"
 		}
 		"Loots"
 		{
@@ -836,8 +836,8 @@
 		}
 		"Spells"
 		{
-			"1" "1"
-			"1" "2"
+			"1" "52"
+			"1" "53"
 		}
 		"Reputation"
 		{
@@ -874,7 +874,7 @@
 		}
 		"Spells"
 		{
-			"0" "1"
+			"0" "52"
 		}
 		"Loots"
 		{
@@ -925,7 +925,7 @@
 		}
 		"Spells"
 		{
-			"0" "2"
+			"0" "53"
 		}
 		"Loots"
 		{
@@ -964,7 +964,7 @@
 		"GreetingsText" "#INF_NPC_28_GREETINGS"
 		"Type" "2"
 		"ZoneLink" "1"
-		"Flags" "6"
+		"Flags" "70"
 		"ModelData"
 		{
 			"models/characters/npc/merchant01.mdl"
@@ -1006,8 +1006,8 @@
 		}
 		"Spells"
 		{
-			"1" "1"
-			"1" "2"
+			"1" "52"
+			"1" "53"
 		}
 		"Loots"
 		{
@@ -1037,7 +1037,7 @@
 		"GreetingsText" "#INF_NPC_30_GREETINGS"
 		"Type" "2"
 		"ZoneLink" "1"
-		"Flags" "6"
+		"Flags" "70"
 		"ModelData"
 		{
 			"models/characters/npc/guard02.mdl"
@@ -1058,7 +1058,7 @@
 		"GreetingsText" "#INF_NPC_41_GREETINGS"
 		"Type" "2"
 		"ZoneLink" "3"
-		"Flags" "6"
+		"Flags" "70"
 		"ModelData"
 		{
 			"models/characters/npc/merchant01.mdl"
@@ -1137,7 +1137,7 @@
 		"RequiredType" "1"
 		"RequiredValue" "1"
 		"ZoneLink" "1"
-		"Flags" "6"
+		"Flags" "70"
 		"ModelData"
 		{
 			"models/characters/npc/merchant01.mdl"

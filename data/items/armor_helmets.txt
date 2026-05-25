@@ -300,7 +300,7 @@
 		"ItemInfo2" "4"
 		"Type" "0"
 		"SubType" "0"
-		"Rarity" "2"
+		"Rarity" "1"
 		"Level" "12"
 		"IsUnique" "1"
 		"StatData"
@@ -578,6 +578,134 @@
 		"MiscData"
 		{
 			"SellValue" "625"
+		}
+    }
+    "261"
+    {
+		"Name" "#INF_ITEM_261_TEXT"
+		"IconTexture" "icons/items/armor/helm12"
+		"ItemInfo1" "1"
+		"ItemInfo2" "3"
+		"Type" "0"
+		"SubType" "0"
+		"Rarity" "1"
+		"Level" "20"
+		"IsUnique" "1"
+		"StatData"
+		{
+			"Armor" "100"
+			"Stamina" "11"
+			"Strength" "15"
+			"Agility" "11"
+		}
+		"EquipData"
+		{
+			"MeleeAttackPower" "15"
+			"RangedAttackPower" "25"
+		}
+		"ModelData"
+		{
+			"Model" "models/items/helmets/helm12.mdl"
+		}
+		"MiscData"
+		{
+			"SellValue" "175"
+			"CanTrade" "1"
+		}
+    }
+    "271"
+    {
+		"Name" "#INF_ITEM_271_TEXT"
+		"IconTexture" "icons/items/armor/templar_helm"
+		"ItemInfo1" "1"
+		"ItemInfo2" "3"
+		"Type" "0"
+		"SubType" "0"
+		"Rarity" "3"
+		"Level" "25"
+		"IsUnique" "1"
+		"StatData"
+		{
+			"Armor" "200"
+			"Stamina" "27"
+			"Strength" "24"
+			"Intellect" "15"
+		}
+		"EquipData"
+		{
+			"SpellPower" "15"
+			"Focus" "10"
+		}
+		"ModelData"
+		{
+			"Model" "models/items/templar/helm.mdl"
+		}
+		"MiscData"
+		{
+			"SellValue" "1000"
+			"CanTrade" "1"
+		}
+    }
+    "297"
+    {
+		"Name" "#INF_ITEM_297_TEXT"
+		"IconTexture" "icons/items/armor/helm10_02"
+		"ItemInfo1" "1"
+		"ItemInfo2" "3"
+		"Type" "0"
+		"SubType" "0"
+		"Rarity" "3"
+		"Level" "28"
+		"IsUnique" "1"
+		"StatData"
+		{
+			"Armor" "215"
+			"Stamina" "31"
+			"Strength" "17"
+			"Agility" "15"
+		}
+		"EquipData"
+		{
+			"MeleeAttackPower" "20"
+			"RangedAttackPower" "35"
+			"Focus" "10"
+		}
+		"ModelData"
+		{
+			"Model" "models/items/helmets/helm10.mdl"
+			"Skin" "1"
+		}
+		"MiscData"
+		{
+			"SellValue" "1250"
+		}
+    }
+    "301"
+    {
+		"Name" "#INF_ITEM_301_TEXT"
+		"IconTexture" "icons/items/armor/magic01"
+		"ItemInfo1" "1"
+		"Type" "0"
+		"SubType" "0"
+		"Rarity" "3"
+		"IsUnique" "1"
+		"StatData"
+		{
+			"Stamina" "37"
+			"Intellect" "91"
+		}
+		"EquipData"
+		{
+			"SpellPower" "85"
+			"Focus" "50"
+		}
+		"ModelData"
+		{
+			"Model" "models/items/helmets/magic01.mdl"
+		}
+		"MiscData"
+		{
+			"SellValue" "1500"
 		}
     }
 }

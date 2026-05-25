@@ -4,7 +4,7 @@
     {
 		"Name" "#INF_ITEM_74_TEXT"
 		"Description" "#INF_ITEM_74_DESC"
-		"IconTexture" "icons/items/misc/token01"
+		"IconTexture" "icons/items/misc/token02"
 		"ItemInfo1" "9"
 		"Type" "0"
 		"SubType" "8"

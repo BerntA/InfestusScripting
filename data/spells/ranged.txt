@@ -20,6 +20,7 @@
 		"Ranks"
 		{
 			"15" "25"
+			"35" "50"
 		}
     }
     "18"
@@ -107,6 +108,24 @@
 		"Ranks"
 		{
 			"31" "55"
+		}
+    }
+    "59"
+    {
+		"Type" "1"
+		"SubType" "0"
+		"Category" "5"
+		"Title" "#INF_SPELL_59_TEXT"
+		"Description" "#INF_SPELL_59_DESC"
+		"IconTexture" "icons/items/spell/ranged_multishot"
+		"Knockback" "500"
+		"DrainValue" "30"
+		"CastTime" "1"
+		"CooldownTime" "5"
+		"Range" "1000"
+		"Ranks"
+		{
+			"65" "85"
 		}
     }
 }

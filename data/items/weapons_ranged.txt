@@ -76,7 +76,7 @@
 		"ItemInfo2" "13"
 		"Type" "0"
 		"SubType" "11"
-		"Rarity" "2"
+		"Rarity" "1"
 		"Level" "10"
 		"IsUnique" "1"
 		"StatData"
@@ -155,7 +155,7 @@
 		"ItemInfo2" "12"
 		"Type" "0"
 		"SubType" "11"
-		"Rarity" "2"
+		"Rarity" "1"
 		"Level" "15"
 		"IsUnique" "1"
 		"StatData"
@@ -180,6 +180,157 @@
 		{
 			"SellValue" "275"
 			"CanTrade" "1"
+		}
+    }
+    "262"
+    {
+		"Name" "#INF_ITEM_262_TEXT"
+		"IconTexture" "icons/items/weapon/crossbow03"
+		"ItemInfo1" "12"
+		"ItemInfo2" "13"
+		"Type" "0"
+		"SubType" "11"
+		"Rarity" "2"
+		"IsUnique" "1"
+		"StatData"
+		{
+			"Stamina" "11"
+			"Strength" "8"
+			"Agility" "18"
+		}
+		"EquipData"
+		{
+			"RangedAttackPower" "30"
+			"DamageMin" "47"
+			"DamageMax" "61"
+		}
+		"ChanceOnHit"
+		{
+			"Type" "1"
+			"ValueMin" "75"
+			"ValueMax" "125"
+			"School" "1"
+			"ID" "16"
+			"Probability" "0.15"
+		}
+		"ModelData"
+		{
+			"Model" "models/items/crossbows/crossbow03.mdl"
+		}
+		"MiscData"
+		{
+			"MiscValue" "2"
+			"SellValue" "300"
+			"ItemFlags" "64"
+		}
+    }
+    "263"
+    {
+		"Name" "#INF_ITEM_263_TEXT"
+		"IconTexture" "icons/items/weapon/bow03"
+		"ItemInfo1" "12"
+		"ItemInfo2" "12"
+		"Type" "0"
+		"SubType" "11"
+		"Rarity" "3"
+		"Level" "25"
+		"IsUnique" "1"
+		"StatData"
+		{
+			"Stamina" "31"
+			"Agility" "41"
+		}
+		"EquipData"
+		{
+			"RangedAttackPower" "50"
+			"Focus" "25"
+			"DamageMin" "61"
+			"DamageMax" "75"
+			"AttackSpeed" "0.8"
+		}
+		"ChanceOnHit"
+		{
+			"Type" "2"
+			"ValueMin" "25"
+			"ValueMax" "50"
+			"Probability" "0.15"
+		}
+		"ModelData"
+		{
+			"Model" "models/items/bows/bow03.mdl"
+		}
+		"MiscData"
+		{
+			"SellValue" "850"
+			"CanTrade" "1"
+		}
+    }
+    "296"
+    {
+		"Name" "#INF_ITEM_296_TEXT"
+		"IconTexture" "icons/items/weapon/crossbow02"
+		"ItemInfo1" "12"
+		"ItemInfo2" "13"
+		"Type" "0"
+		"SubType" "11"
+		"Rarity" "3"
+		"Level" "28"
+		"IsUnique" "1"
+		"StatData"
+		{
+			"Stamina" "25"
+			"Agility" "53"
+		}
+		"EquipData"
+		{
+			"RangedAttackPower" "75"
+			"Focus" "15"
+			"DamageMin" "71"
+			"DamageMax" "95"
+			"AttackSpeed" "2"
+		}
+		"ModelData"
+		{
+			"Model" "models/items/crossbows/crossbow02.mdl"
+		}
+		"MiscData"
+		{
+			"MiscValue" "7"
+			"SellValue" "1000"
+			"ItemFlags" "64"
+		}
+    }
+    "305"
+    {
+		"Name" "#INF_ITEM_305_TEXT"
+		"IconTexture" "icons/items/weapon/bow02"
+		"ItemInfo1" "12"
+		"ItemInfo2" "12"
+		"Type" "0"
+		"SubType" "11"
+		"Rarity" "3"
+		"IsUnique" "1"
+		"StatData"
+		{
+			"Stamina" "23"
+			"Strength" "13"
+			"Agility" "29"
+			"Intellect" "8"
+		}
+		"EquipData"
+		{
+			"RangedAttackPower" "35"
+			"DamageMin" "41"
+			"DamageMax" "55"
+			"AttackSpeed" "0.9"
+		}
+		"ModelData"
+		{
+			"Model" "models/items/bows/bow02.mdl"
+		}
+		"MiscData"
+		{
+			"SellValue" "400"
 		}
     }
 }

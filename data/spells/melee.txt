@@ -17,6 +17,7 @@
 		{
 			"13" "25"
 			"71" "95"
+			"100" "135"
 		}
     }
     "2"
@@ -39,6 +40,7 @@
 		{
 			"23" "34"
 			"44" "65"
+			"71" "91"
 		}
     }
     "7"
@@ -84,6 +86,7 @@
 		{
 			"35" "45"
 			"45" "60"
+			"60" "90"
 		}
     }
     "13"
@@ -105,6 +108,53 @@
 		"Ranks"
 		{
 			"1" "1"
+		}
+    }
+    "40"
+    {
+		"Type" "0"
+		"SubType" "0"
+		"ExtraEffectType" "8"
+		"Category" "3"
+		"Title" "#INF_SPELL_40_TEXT"
+		"Description" "#INF_SPELL_40_DESC"
+		"IconTexture" "icons/items/spell/melee_thunderstrike"
+		"NoSpellCastBar" "1"
+		"MagicSchool" "4"
+		"DrainValue" "50"
+		"CastTime" "0"
+		"CooldownTime" "10"
+		"Range" "85"
+		"BuffDebuffID" "4"
+		"BuffDebuffDuration" "3.5"
+		"BuffDebuffPercentage" "1"
+		"Ranks"
+		{
+			"85" "125"
+		}
+    }
+    "41"
+    {
+		"Type" "0"
+		"SubType" "0"
+		"ExtraEffectType" "5"
+		"Category" "3"
+		"Title" "#INF_SPELL_41_TEXT"
+		"Description" "#INF_SPELL_41_DESC"
+		"IconTexture" "icons/items/spell/melee_savageblow"
+		"NoSpellCastBar" "1"
+		"Misc" "50"
+		"Knockback" "350"
+		"DrainValue" "50"
+		"CastTime" "0"
+		"CooldownTime" "10"
+		"Range" "85"
+		"BuffDebuffID" "4"
+		"BuffDebuffDuration" "3.5"
+		"BuffDebuffPercentage" "1"
+		"Ranks"
+		{
+			"75" "115"
 		}
     }
 }

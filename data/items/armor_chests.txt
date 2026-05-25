@@ -36,7 +36,7 @@
 		"ItemInfo2" "4"
 		"Type" "0"
 		"SubType" "1"
-		"Rarity" "2"
+		"Rarity" "1"
 		"Level" "10"
 		"IsUnique" "1"
 		"StatData"
@@ -139,7 +139,7 @@
 		"ItemInfo2" "3"
 		"Type" "0"
 		"SubType" "1"
-		"Rarity" "2"
+		"Rarity" "1"
 		"Level" "14"
 		"IsUnique" "1"
 		"StatData"
@@ -237,6 +237,105 @@
 		"MiscData"
 		{
 			"SellValue" "750"
+		}
+    }
+    "258"
+    {
+		"Name" "#INF_ITEM_258_TEXT"
+		"IconTexture" "icons/items/armor/chest01"
+		"ItemInfo1" "2"
+		"ItemInfo2" "3"
+		"Type" "0"
+		"SubType" "1"
+		"Rarity" "1"
+		"Level" "20"
+		"IsUnique" "1"
+		"StatData"
+		{
+			"Armor" "165"
+			"Stamina" "17"
+			"Strength" "11"
+			"Agility" "15"
+		}
+		"EquipData"
+		{
+			"MeleeAttackPower" "30"
+			"RangedAttackPower" "50"
+		}
+		"ModelData"
+		{
+			"Model" "models/items/chests/chest01.mdl"
+		}
+		"MiscData"
+		{
+			"SellValue" "235"
+			"CanTrade" "1"
+		}
+    }
+    "269"
+    {
+		"Name" "#INF_ITEM_269_TEXT"
+		"IconTexture" "icons/items/armor/templar_chest"
+		"ItemInfo1" "2"
+		"ItemInfo2" "3"
+		"Type" "0"
+		"SubType" "1"
+		"Rarity" "3"
+		"Level" "25"
+		"IsUnique" "1"
+		"StatData"
+		{
+			"Armor" "270"
+			"Stamina" "31"
+			"Strength" "19"
+			"Intellect" "21"
+		}
+		"EquipData"
+		{
+			"SpellPower" "35"
+			"Focus" "25"
+		}
+		"ModelData"
+		{
+			"Model" "models/items/templar/chest.mdl"
+		}
+		"MiscData"
+		{
+			"SellValue" "1250"
+			"CanTrade" "1"
+		}
+    }
+    "298"
+    {
+		"Name" "#INF_ITEM_298_TEXT"
+		"IconTexture" "icons/items/armor/chest03"
+		"ItemInfo1" "2"
+		"ItemInfo2" "3"
+		"Type" "0"
+		"SubType" "1"
+		"Rarity" "3"
+		"Level" "28"
+		"IsUnique" "1"
+		"StatData"
+		{
+			"Armor" "300"
+			"Stamina" "41"
+			"Strength" "15"
+			"Agility" "21"
+		}
+		"EquipData"
+		{
+			"MeleeAttackPower" "35"
+			"RangedAttackPower" "50"
+			"Focus" "25"
+		}
+		"ModelData"
+		{
+			"Model" "models/items/chests/chest03.mdl"
+		}
+		"MiscData"
+		{
+			"SellValue" "1350"
 		}
     }
 }

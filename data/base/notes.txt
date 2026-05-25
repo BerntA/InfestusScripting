@@ -50,4 +50,19 @@
 		"Title" "#INF_NOTE_10_TEXT"
 		"Description" "#INF_NOTE_10_DESC"
     }
+    "11"
+    {
+		"Title" "#INF_NOTE_11_TEXT"
+		"Description" "#INF_NOTE_11_DESC"
+    }
+    "12"
+    {
+		"Title" "#INF_NOTE_12_TEXT"
+		"Description" "#INF_NOTE_12_DESC"
+    }
+    "13"
+    {
+		"Title" "#INF_NOTE_13_TEXT"
+		"Description" "#INF_NOTE_13_DESC"
+    }
 }
