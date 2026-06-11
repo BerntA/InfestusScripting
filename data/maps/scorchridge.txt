@@ -1485,11 +1485,11 @@
 		"131"
 		{
 			"type"		"4"
-			"posx"		"2643.010010"
-			"posy"		"-4522.009766"
+			"posx"		"2722.000000"
+			"posy"		"-4476.000000"
 			"posz"		"42.000000"
 			"angx"		"0.000000"
-			"angy"		"108.500000"
+			"angy"		"154.500000"
 			"angz"		"0.000000"
 		}
 		"138"
@@ -1810,16 +1810,6 @@
 			"posz"		"-354.000000"
 			"angx"		"0.000000"
 			"angy"		"50.000000"
-			"angz"		"0.000000"
-		}
-		"142"
-		{
-			"type"		"1"
-			"posx"		"7323.000000"
-			"posy"		"-10680.000000"
-			"posz"		"-362.000000"
-			"angx"		"0.000000"
-			"angy"		"359.500000"
 			"angz"		"0.000000"
 		}
 		"112"
@@ -5769,6 +5759,65 @@
 				"y"		"208.000000"
 				"z"		"228.000000"
 			}
+		}
+	}
+	"Labels"
+	{
+		"#INF_MAP_LABEL_SCORCHRIDGE_B"
+		{
+			"radius"		"1768.000000"
+			"posx"		"9216.000000"
+			"posy"		"-3024.000000"
+			"posz"		"168.000000"
+		}
+		"#INF_MAP_LABEL_SCORCHRIDGE_E"
+		{
+			"radius"		"500.000000"
+			"posx"		"9216.000000"
+			"posy"		"-2328.000000"
+			"posz"		"168.000000"
+		}
+		"#INF_MAP_LABEL_SCORCHRIDGE_A"
+		{
+			"radius"		"1700.000000"
+			"posx"		"11208.000000"
+			"posy"		"-13624.000000"
+			"posz"		"228.000000"
+		}
+		"#INF_MAP_LABEL_SCORCHRIDGE_C"
+		{
+			"radius"		"2000.000000"
+			"posx"		"2496.000000"
+			"posy"		"-4976.000000"
+			"posz"		"261.000000"
+		}
+		"#INF_MAP_LABEL_SCORCHRIDGE_G"
+		{
+			"radius"		"925.000000"
+			"posx"		"-4968.000000"
+			"posy"		"-5640.000000"
+			"posz"		"-1062.000000"
+		}
+		"#INF_MAP_LABEL_SCORCHRIDGE_F"
+		{
+			"radius"		"2000.000000"
+			"posx"		"14795.000000"
+			"posy"		"1351.140015"
+			"posz"		"-1149.000000"
+		}
+		"#INF_MAP_LABEL_SCORCHRIDGE_H"
+		{
+			"radius"		"1216.000000"
+			"posx"		"8772.000000"
+			"posy"		"-6229.000000"
+			"posz"		"-629.000000"
+		}
+		"#INF_MAP_LABEL_SCORCHRIDGE_D"
+		{
+			"radius"		"1000.000000"
+			"posx"		"2824.000000"
+			"posy"		"-13352.000000"
+			"posz"		"-813.000000"
 		}
 	}
 	"DefaultSoundscape"		"scorchridge.outside"

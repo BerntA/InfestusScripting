@@ -1991,37 +1991,25 @@
 					"input"		"PrintDialogueParty"
 					"value"		"#INF_MAP_GRIMHOLD_ESCAPE4"
 					"delay"		"0"
-					"refire"		"-1"
-				}
-				"door02"
-				{
-					"input"		"Open"
-					"delay"		"1"
-					"refire"		"-1"
-				}
-				"door03"
-				{
-					"input"		"Open"
-					"delay"		"1"
-					"refire"		"-1"
+					"refire"		"1"
 				}
 				"maleki"
 				{
 					"input"		"KillFade"
 					"delay"		"3.5"
-					"refire"		"-1"
+					"refire"		"1"
 				}
 				"quest_prison_escape"
 				{
 					"input"		"ProgressAll"
 					"delay"		"2"
-					"refire"		"-1"
+					"refire"		"1"
 				}
-				"group02"
+				"sanctuary_relay"
 				{
-					"input"		"ForceSpawn"
-					"delay"		"0.1"
-					"refire"		"-1"
+					"input"		"Trigger"
+					"delay"		"0"
+					"refire"		"1"
 				}
 			}
 		}

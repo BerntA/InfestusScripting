@@ -12,22 +12,22 @@
 		"IsUnique" "1"
 		"EquipData"
 		{
-			"DamageMin" "135"
-			"DamageMax" "175"
-			"AttackSpeed" "0.5"
+			"DamageMin" "75"
+			"DamageMax" "95"
+			"AttackSpeed" "0.75"
 		}
 		"ChanceOnHit"
 		{
 			"Type" "4"
-			"ValueMin" "150"
-			"ValueMax" "300"
+			"ValueMin" "100"
+			"ValueMax" "200"
 			"ID" "1"
 			"Duration" "15"
 			"Probability" "0.1"
 		}
 		"ModelData"
 		{
-			"Model" "models/items/maces/mace09.mdl"
+			"Model" "models/items/maces/mace09-ogre.mdl"
 		}
 		"MiscData"
 		{
@@ -46,17 +46,17 @@
 		"IsUnique" "1"
 		"EquipData"
 		{
-			"DamageMin" "89"
-			"DamageMax" "103"
+			"DamageMin" "60"
+			"DamageMax" "80"
 		}
 		"ChanceOnHit"
 		{
 			"Type" "4"
-			"ValueMin" "100"
-			"ValueMax" "150"
+			"ValueMin" "50"
+			"ValueMax" "100"
 			"ID" "1"
 			"Duration" "15"
-			"Probability" "0.15"
+			"Probability" "0.1"
 		}
 		"ModelData"
 		{
@@ -79,17 +79,17 @@
 		"IsUnique" "1"
 		"EquipData"
 		{
-			"DamageMin" "78"
-			"DamageMax" "97"
+			"DamageMin" "57"
+			"DamageMax" "71"
 		}
 		"ChanceOnHit"
 		{
 			"Type" "4"
-			"ValueMin" "125"
-			"ValueMax" "150"
+			"ValueMin" "50"
+			"ValueMax" "100"
 			"ID" "1"
 			"Duration" "15"
-			"Probability" "0.15"
+			"Probability" "0.1"
 		}
 		"ModelData"
 		{

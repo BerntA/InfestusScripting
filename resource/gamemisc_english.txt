@@ -46,6 +46,7 @@
 		"INF_MAP_SCORCHRIDGE_ROSCHAS2" "This is most interesting, we must be vigilant! Make haste, return to your post."
 		"INF_MAP_SCORCHRIDGE_DOKSFIR1" "Leave my chicken alone!"
 		"INF_MAP_SCORCHRIDGE_BONELORD1" "Who dare challenge the Bone Lord?!"
+		"INF_MAP_SCORCHRIDGE_BONELORD2" "You imbeciles were supposed to keep the arcane lock in-tact! Lord Keldroth shall have your heads!"
 		"INF_MAP_SCORCHRIDGE_GALADEN1" "Release me at once!"
 		"INF_MAP_SCORCHRIDGE_GALADEN2" "Lightfall shall have your head, dog!"
 		"INF_MAP_SCORCHRIDGE_SLAVER3" "Quit your bellyaching, scumbag!"
@@ -67,10 +68,14 @@
 		"INF_MAP_GRIMHOLD_ESCAPE2" "My loyal brothers have been turned into wretched abominations! I will not leave them here, not like this! They shall be purged, by gods grace!"
 		"INF_MAP_GRIMHOLD_ESCAPE3" "Well fought, may they rest in peace... I suppose you seek passage to the inner sanctum? I can unlock the doors for you, but you'll be on your own!"
 		"INF_MAP_GRIMHOLD_ESCAPE4" "There we go, thank you so much for saving my skin.. I will see myself out, freedom at last..."
+		"INF_MAP_GRIMHOLD_TRYM1" "Horik, charge!"
 		"INF_MAP_GRIMHOLD_HORIK_DEAD" "Nooo! You'll sorely regret that!"
 		"INF_MAP_GRIMHOLD_HUNTSMAN1" "Well well well... Human flesh is on the menu, don't be shy my dearies!"
+		"INF_MAP_GRIMHOLD_HUNTSMAN2" "Why don't you relax, I shall tend to your betters!"
 		"INF_MAP_GRIMHOLD_VIZARIEL1" "No! My mind is not my own... Flee while you still can!"
 		"INF_MAP_GRIMHOLD_VIZARIEL2" "I am... Free? Keldroth's grip has waned, I can finally find peace.. Thank you, stranger."
+		"INF_MAP_GRIMHOLD_VIZARIEL3" "Lord Keldroth, grant me your strength!"
+		"INF_MAP_GRIMHOLD_VIZARIEL4" "You shall burn, maggot!"
 		"INF_MAP_GRIMHOLD_CUSTODIAN1" "You seek my spoils?! You will not have my spoils!"
 		"INF_MAP_GRIMHOLD_PUZZLE_FAIL1" "Missing Tablet of Oppression"
 		"INF_MAP_GRIMHOLD_PUZZLE_FAIL2" "Missing Tablet of Wisdom"
@@ -82,5 +87,20 @@
 		"INF_MAP_BLOODSTONE_ARENA_ENTER" "Who have we here? More challengers? I sure hope you have come prepared, I'm still picking up pieces of the previous lot.. Step forth to the center to begin, and remember, any fallen comrades will punish you severely - so keep each other alive!"
 		"INF_MAP_BLOODSTONE_ARENA_FINAL1" "You dare challenge me? Who put you up to this?! I shall feast on your bones, brace yourselves!"
 		"INF_MAP_BLOODSTONE_ARENA_FINAL2" "Impossible! My legacy... I.. I cannot die! Aaaargh!"
+		
+		// World Map Labels
+		"INF_MAP_LABEL_SCORCHRIDGE_A" "Tyrant's Refuge"
+		"INF_MAP_LABEL_SCORCHRIDGE_B" "Bloodstone Keep"
+		"INF_MAP_LABEL_SCORCHRIDGE_C" "Ragefire Fortress"
+		"INF_MAP_LABEL_SCORCHRIDGE_D" "Grimhold Sanctuary"
+		"INF_MAP_LABEL_SCORCHRIDGE_E" "Bloodstone Arena"
+		"INF_MAP_LABEL_SCORCHRIDGE_F" "Dreadwood Pass"
+		"INF_MAP_LABEL_SCORCHRIDGE_G" "Scorched Gate"
+		"INF_MAP_LABEL_SCORCHRIDGE_H" "Roschas Mine"
+		
+		"INF_MAP_LABEL_LIGHTFALL_A" "Lightfall City"
+		"INF_MAP_LABEL_LIGHTFALL_B" "Smuggler's Cove"
+		"INF_MAP_LABEL_LIGHTFALL_C" "Blaine's Retreat"
+		"INF_MAP_LABEL_LIGHTFALL_D" "Scorchridge Pass"
 	}
 }

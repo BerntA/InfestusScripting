@@ -229,6 +229,14 @@
 		{
 			"Fire" "25"
 		}
+		"ChanceOnHit"
+		{
+			"Type" "1"
+			"ValueMin" "15"
+			"ValueMax" "30"
+			"School" "1"
+			"Probability" "0.15"
+		}
 		"ModelData"
 		{
 			"Model" "models/items/chests/chest04.mdl"
@@ -294,6 +302,13 @@
 		{
 			"SpellPower" "35"
 			"Focus" "25"
+		}
+		"ChanceOnHit"
+		{
+			"Type" "5"
+			"ValueMin" "5"
+			"ValueMax" "10"
+			"Probability" "0.055"
 		}
 		"ModelData"
 		{

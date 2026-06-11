@@ -20,7 +20,7 @@
 	"2"
 	{
 		"Model" "models/characters/npc/chicken01.mdl"
-		"Duration" "60"
+		"Duration" "35"
 		"Flags" "1"
 	}
 }

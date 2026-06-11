@@ -4,11 +4,13 @@
     {
 		"Name" "#INF_REP_1_NAME"
 		"Description" "#INF_REP_1_DESC"
+		"SteamAchievementId" "42"
     }
     "2"
     {
 		"Name" "#INF_REP_2_NAME"
 		"Description" "#INF_REP_2_DESC"
+		"SteamAchievementId" "44"
     }
     "3"
     {
@@ -19,16 +21,19 @@
     {
 		"Name" "#INF_REP_4_NAME"
 		"Description" "#INF_REP_4_DESC"
+		"SteamAchievementId" "43"
     }
     "5"
     {
 		"Name" "#INF_REP_5_NAME"
 		"Description" "#INF_REP_5_DESC"
+		"SteamAchievementId" "47"
     }
     "6"
     {
 		"Name" "#INF_REP_6_NAME"
 		"Description" "#INF_REP_6_DESC"
+		"SteamAchievementId" "45"
     }
     "7"
     {
@@ -39,5 +44,6 @@
     {
 		"Name" "#INF_REP_8_NAME"
 		"Description" "#INF_REP_8_DESC"
+		"SteamAchievementId" "46"
     }
 }

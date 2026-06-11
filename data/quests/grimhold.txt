@@ -35,6 +35,7 @@
 		"Title" "#INF_QUEST_67_TITLE"
 		"ShortDescription" "#INF_QUEST_67_DESC_SHORT"
 		"LongDescription" "#INF_QUEST_67_DESC_LONG"
+		"DialogueFinishedQuest" "#INF_QUEST_67_DIALOGUE_FINISHED"
 		"LevelMin" "24"
 		"LevelMax" "32"
 		"Experience" "1500"
@@ -350,13 +351,11 @@
 			}
 			"221"
 			{
-				"Quantity" "5"
-				"MustChoose" "1"
+				"Quantity" "3"
 			}
 			"222"
 			{
-				"Quantity" "5"
-				"MustChoose" "1"
+				"Quantity" "3"
 			}
 		}
 		"Reputation"

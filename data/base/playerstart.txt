@@ -50,14 +50,6 @@
 		"trinket" "0"
 		"primary_weapon" "8"
 		"secondary_weapon" "0"
-		"misc_weapon" "0"			
-		"spell1" "0"
-		"spell2" "0"
-		"spell3" "0"
-		"spell4" "0"
-		"spell5" "0"
-		"spell6" "0"
-		"spell7" "0"
-		"spell8" "0"
+		"misc_weapon" "0"
 	} 
 }

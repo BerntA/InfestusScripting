@@ -263,7 +263,7 @@
 		"IconTexture" "icons/items/spell/magic_polymorph_chicken"
 		"Misc" "2"
 		"DrainValue" "50"
-		"CastTime" "5"
+		"CastTime" "4"
 		"CooldownTime" "2.5"
 		"Range" "350"
 		"Ranks"

@@ -114,14 +114,16 @@
     {
 		"Type" "1"
 		"SubType" "0"
+		"ExtraEffectType" "11"
 		"Category" "5"
 		"Title" "#INF_SPELL_59_TEXT"
 		"Description" "#INF_SPELL_59_DESC"
 		"IconTexture" "icons/items/spell/ranged_multishot"
+		"Misc" "3"
 		"Knockback" "500"
 		"DrainValue" "30"
 		"CastTime" "1"
-		"CooldownTime" "5"
+		"CooldownTime" "6"
 		"Range" "1000"
 		"Ranks"
 		{

@@ -297,6 +297,8 @@
 		"INF_EQUIP_SLOT6" "Slot 6"
 		"INF_EQUIP_SLOT7" "Slot 7"
 		"INF_EQUIP_SLOT8" "Slot 8"
+		"INF_EQUIP_SLOT9" "Slot 9"
+		"INF_EQUIP_SLOT10" "Slot 10"
 		
 		"INF_COMBATLOG_SCROLLUP" "Combat Log Scroll Up"
 		"INF_COMBATLOG_SCROLLDOWN" "Combat Log Scroll Down"
@@ -543,8 +545,13 @@
 		"INF_ADV_OPT_QUEST_MARKERS" "Show Quest Objective Markers"
 		"INF_ADV_OPT_GUILDNOTIFICATIONS" "Enable guild notifications for when guildies go online or offline."
 		"INF_ADV_OPT_ENABLE_HINTS" "Enable Gameplay Hints"
-		"INF_ADV_OPT_PLRCACHE" "Enable Local Player Cache"
 		"INF_ADV_OPT_DETAIL_DIST" "Detail Prop Draw Dist"
+		"INF_ADV_OPT_FLAG_HIDE_HELM" "Hide Helm"
+		"INF_ADV_OPT_FLAG_HIDE_CLOAK" "Hide Cloak"
+		"INF_ADV_OPT_FLAG_HIDE_ADMIN" "Hide Admin Tag"
+		"INF_ADV_OPT_OVERVIEW_LABELS" "Draw World Map Labels"
+		"INF_ADV_OPT_ILLUMINATION_RADIUS" "Illumination Effect Radius"
+		"INF_ADV_OPT_AUTORUN_MODE" "Cancel auto-run on move inputs"
 		
 		// Trading
 		"INF_TRADE_ACCEPT" "Accept"
@@ -659,7 +666,12 @@
 		"INF_COMBATLOG_DAMAGE_SELF_SHADOW" "You took %s3 shadow damage!"
 		"INF_COMBATLOG_DAMAGE_SELF_EARTH" "You took %s3 nature damage!"
 		"INF_COMBATLOG_DAMAGE_SELF_WIND" "You took %s3 air damage!"
-		"INF_COMBATLOG_DAMAGE_SELF" "You took %s3 damage!"		
+		"INF_COMBATLOG_DAMAGE_SELF" "You took %s3 damage!"
+		
+		"INF_COMBATLOG_IMMUNE" "IMMUNE"
+		"INF_COMBATLOG_IMMUNE_KNOCKDOWN" "%s1 is immune to knockdown!"
+		"INF_COMBATLOG_IMMUNE_STUN" "%s1 is immune to stuns!"
+		"INF_COMBATLOG_IMMUNE_MORPH" "%s1 is immune to polymorph!"
 		
 		"INF_WEAPON_CHARGE" "CHARGING"
 		

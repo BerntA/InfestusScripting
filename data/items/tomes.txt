@@ -87,7 +87,7 @@
 		"ItemInfo1" "13"
 		"Type" "1"
 		"SubType" "0"
-		"Rarity" "2"
+		"Rarity" "1"
 		"Level" "8"
 		"MiscData"
 		{

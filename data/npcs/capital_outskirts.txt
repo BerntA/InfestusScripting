@@ -538,10 +538,11 @@
 		"Level" "3"
 		"Health" "130"
 		"Soundscript" "Smuggler"
-		"Experience" "135"
+		"Experience" "150"
 		"MaxRareRewards" "1"
 		"RelationshipID" "2"
 		"ZoneLink" "1"
+		"SteamStatId" "1"
 		"Attributes"
 		{
 			"Armor" "250"
@@ -596,6 +597,7 @@
 		"MaxRareRewards" "1"
 		"RelationshipID" "2"
 		"ZoneLink" "1"
+		"SteamStatId" "1"
 		"Attributes"
 		{
 			"Armor" "700"
@@ -643,9 +645,10 @@
 		"Health" "80"
 		"CollisionHeight" "52"
 		"Soundscript" "Wolf"
-		"Experience" "115"
+		"Experience" "150"
 		"RelationshipID" "2"
 		"ZoneLink" "1"
+		"SteamStatId" "2"
 		"Attributes"
 		{
 			"DamageMin" "4"
@@ -701,6 +704,7 @@
 		"Experience" "175"
 		"RelationshipID" "2"
 		"ZoneLink" "1"
+		"SteamStatId" "2"
 		"Attributes"
 		{
 			"Armor" "300"
@@ -756,9 +760,10 @@
 		"CollisionHeight" "64"
 		"Soundscript" "Wolf"
 		"MoneyRewardMin" "5"
-		"Experience" "250"
+		"Experience" "350"
 		"RelationshipID" "2"
 		"ZoneLink" "1"
+		"SteamStatId" "2"
 		"Attributes"
 		{
 			"Armor" "1000"
@@ -866,6 +871,7 @@
 		"MaxRareRewards" "1"
 		"RelationshipID" "2"
 		"ZoneLink" "1"
+		"SteamStatId" "1"
 		"Attributes"
 		{
 			"Armor" "700"
@@ -917,6 +923,7 @@
 		"MaxRareRewards" "1"
 		"RelationshipID" "2"
 		"ZoneLink" "1"
+		"SteamStatId" "1"
 		"Attributes"
 		{
 			"Armor" "700"
@@ -991,6 +998,7 @@
 		"Experience" "500"
 		"RelationshipID" "2"
 		"ZoneLink" "1"
+		"SteamStatId" "1"
 		"Attributes"
 		{
 			"Armor" "1000"

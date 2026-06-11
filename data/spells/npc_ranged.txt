@@ -114,10 +114,12 @@
     {
 		"Type" "1"
 		"SubType" "0"
+		"ExtraEffectType" "11"
 		"Category" "5"
 		"Title" "#INF_SPELL_58_TEXT"
 		"Description" "#INF_SPELL_58_DESC"
 		"IconTexture" ""
+		"Misc" "3"
 		"Knockback" "500"
 		"DrainValue" "10"
 		"CastTime" "1"

@@ -3669,5 +3669,36 @@
 			}
 		}
 	}
+	"Labels"
+	{
+		"#INF_MAP_LABEL_LIGHTFALL_A"
+		{
+			"radius"		"2000.000000"
+			"posx"		"5055.000000"
+			"posy"		"-2852.000000"
+			"posz"		"227.000000"
+		}
+		"#INF_MAP_LABEL_LIGHTFALL_B"
+		{
+			"radius"		"2000.000000"
+			"posx"		"1176.000000"
+			"posy"		"-8952.000000"
+			"posz"		"-567.000000"
+		}
+		"#INF_MAP_LABEL_LIGHTFALL_C"
+		{
+			"radius"		"1706.000000"
+			"posx"		"13240.000000"
+			"posy"		"-10327.000000"
+			"posz"		"183.000000"
+		}
+		"#INF_MAP_LABEL_LIGHTFALL_D"
+		{
+			"radius"		"938.000000"
+			"posx"		"12224.000000"
+			"posy"		"-15485.000000"
+			"posz"		"10.000000"
+		}
+	}
 	"DefaultSoundscape"		"lightfall.outside"
 }

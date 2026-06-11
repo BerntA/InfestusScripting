@@ -173,7 +173,7 @@
 		"DrainValue" "10"
 		"CastTime" "2"
 		"CooldownTime" "20"
-		"Range" "575"
+		"Range" "600"
 		"BuffDebuffID" "4"
 		"BuffDebuffDuration" "3.5"
 		"BuffDebuffPercentage" "1"
@@ -197,11 +197,11 @@
 		"CooldownTime" "25"
 		"Range" "125"
 		"BuffDebuffID" "2"
-		"BuffDebuffDuration" "10"
-		"BuffDebuffPercentage" "2.5"
+		"BuffDebuffDuration" "7.5"
+		"BuffDebuffPercentage" "0.5"
 		"Ranks"
 		{
-			"150" "200"
+			"100" "125"
 		}
     }
     "37"
@@ -265,7 +265,7 @@
 		"Range" "1000"
 		"Ranks"
 		{
-			"175" "225"
+			"150" "200"
 		}
     }
     "45"
@@ -279,7 +279,7 @@
 		"IconTexture" ""
 		"DamageBits" "8"
 		"MagicSchool" "1"
-		"Knockback" "2500"
+		"Knockback" "3500"
 		"DrainValue" "10"
 		"CastTime" "7.5"
 		"CooldownTime" "35"
@@ -289,7 +289,7 @@
 		"BuffDebuffPercentage" "0.5"
 		"Ranks"
 		{
-			"400" "500"
+			"750" "1250"
 		}
     }
 }

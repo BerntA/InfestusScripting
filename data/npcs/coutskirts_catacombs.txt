@@ -100,9 +100,11 @@
 		"Experience" "300"
 		"RelationshipID" "2"
 		"ZoneLink" "2"
+		"SteamStatId" "3"
 		"Attributes"
 		{
 			"Armor" "300"
+			"AttackSpeed" "1.25"
 			"AttackRange" "100"
 			"RangedDMGFactor" "1.5"
 			"FireResistance" "-15"
@@ -156,6 +158,7 @@
 		"MaxRareRewards" "1"
 		"RelationshipID" "2"
 		"ZoneLink" "2"
+		"SteamAchievementId" "48"
 		"Attributes"
 		{
 			"Armor" "1200"
@@ -329,6 +332,7 @@
 		"Soundscript" "Skeleton"
 		"MoneyRewardMin" "50"
 		"Experience" "500"
+		"MaxRareRewards" "2"
 		"RelationshipID" "2"
 		"ZoneLink" "2"
 		"Attributes"
@@ -361,10 +365,6 @@
 			"71"
 			{
 				"Percentage" "100"
-			}
-			"53"
-			{
-				"Percentage" "75"
 			}
 			"64"
 			{
@@ -423,6 +423,7 @@
 		"MaxRareRewards" "1"
 		"RelationshipID" "2"
 		"ZoneLink" "2"
+		"SteamStatId" "3"
 		"Attributes"
 		{
 			"Armor" "1000"
@@ -494,6 +495,7 @@
 		"Experience" "400"
 		"RelationshipID" "2"
 		"ZoneLink" "2"
+		"SteamStatId" "3"
 		"Attributes"
 		{
 			"Armor" "1500"
@@ -559,6 +561,7 @@
 		"Experience" "500"
 		"RelationshipID" "2"
 		"ZoneLink" "2"
+		"SteamStatId" "3"
 		"Attributes"
 		{
 			"Armor" "2000"
@@ -624,6 +627,7 @@
 		"Experience" "100"
 		"RelationshipID" "2"
 		"ZoneLink" "2"
+		"SteamStatId" "3"
 		"Attributes"
 		{
 			"Armor" "150"
